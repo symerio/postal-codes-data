@@ -1,0 +1,8 @@
+SJ	9170	Longyearbyen	Svalbard	21	Spitsbergen	2111			78.2233	15.6469	4
+SJ	9171	Longyearbyen	Svalbard	21	Spitsbergen	2111			78.2233	15.6469	4
+SJ	9173	Ny-Ålesund	Svalbard	21	Spitsbergen	2111			78.9237	11.925	4
+SJ	9175	Sveagruva	Svalbard	21	Spitsbergen	2111			77.9003	16.7201	4
+SJ	9178	Barentsburg	Svalbard	21	Spitsbergen	2111			78.0644	14.1859	4
+SJ	9176	Bjørnøya	Svalbard	21	Bjørnøya	2121			74.4435	19.0063	
+SJ	9174	Hopen	Svalbard	21	Hopen	2131			76.5756	25.1971	
+SJ	8099	Jan Mayen	Jan Mayen	22	Jan Mayen	2211			70.9498	-8.638	4
