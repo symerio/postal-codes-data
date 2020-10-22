@@ -60,7 +60,7 @@ def main():
         with ZipFile(BytesIO(r.content)) as zf:
             key = Path(name).with_suffix(".txt")
             with zf.open(str(key), "r") as fh_in:
-                with open(f"./data/{key}", "wb") as fh_out:
+                with open(f"./data/geonames/{key}", "wb") as fh_out:
                     shutil.copyfileobj(fh_in, fh_out)
 
         logger.info(f"  .. {idx+1:02}/{len(datasets)}: {name}")
