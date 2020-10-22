@@ -308,6 +308,7 @@ CA	V7E	Richmond Southwest	British Columbia	BC	Richmond				49.1323	-123.1705	6
 CA	V8A	Powell River	British Columbia	BC					50.0163	-124.3226	4
 CA	V8B	Squamish	British Columbia	BC					49.7002	-123.156	4
 CA	V8C	Kitimat	British Columbia	BC					54.0524	-128.6534	4
+CA	V8E	Whistler	British Columbia	BC					50.1182	-122.954	5
 CA	V8G	Terrace	British Columbia	BC					54.5163	-128.6035	4
 CA	V8J	Prince Rupert	British Columbia	BC					54.3161	-130.3201	4
 CA	V8K	Saltspring Island	British Columbia	BC					48.8138	-123.4973	1
@@ -343,6 +344,7 @@ CA	V9W	Campbell River Central	British Columbia	BC	Campbell River 				50.0769	-12
 CA	V9X	Cedar	British Columbia	BC					49.0419	-123.979	1
 CA	V9Y	Port Alberni	British Columbia	BC					49.2413	-124.8028	4
 CA	V9Z	Sooke	British Columbia	BC					48.3746	-123.7276	4
+CA	R5K	Lorette	Manitoba	MB	Taché	6160992			49.7392	-96.8723	4
 CA	R0A	Southeastern Manitoba (Lorette)	Manitoba	MB					49.2911	-96.2985	6
 CA	R0B	Northern Manitoba (Norway House)	Manitoba	MB					56.2701	-96.9118	6
 CA	R0C	North Interlake (Stonewall)	Manitoba	MB					51.4132	-97.8525	6
@@ -931,10 +933,10 @@ CA	L9S	Innisfil	Ontario	ON					44.3001	-79.6496	4
 CA	L9T	Milton	Ontario	ON					43.5148	-79.884	1
 CA	L9V	Orangeville North	Ontario	ON	Orangeville				43.9597	-80.1079	4
 CA	L9W	Orangeville South	Ontario	ON	Orangeville				43.9702	-80.016	5
-CA	L9X	Springwater	Ontario	ON					44.4954	-79.8503	4
+CA	L9X	Midhurst	Ontario	ON					44.4438	-79.7318	4
 CA	L9X	Minesing	Ontario	ON					44.4334	-79.833	4
 CA	L9X	Barrie	Ontario	ON					44.4001	-79.6663	4
-CA	L9X	Midhurst	Ontario	ON					44.4438	-79.7318	4
+CA	L9X	Springwater	Ontario	ON					44.4954	-79.8503	4
 CA	L9Y	Collingwood	Ontario	ON					44.4834	-80.2164	4
 CA	L9Z	Wasaga Beach	Ontario	ON					44.5168	-80.0164	4
 CA	M1B	Scarborough (Malvern / Rouge River)	Ontario	ON	Scarborough				43.8113	-79.193	6
@@ -1170,8 +1172,8 @@ CA	P8T	Sioux Lookout	Ontario	ON					50.0668	-91.9836	4
 CA	P9A	Fort Frances	Ontario	ON					48.6393	-93.4469	5
 CA	P9N	Kenora	Ontario	ON					49.7573	-94.3427	1
 CA	C0B	Prince County (Portage)	Prince Edward Island	PE	Prince County	1103			46.6023	-63.9583	1
-CA	C0A	Montague	Prince Edward Island	PE					46.1668	-62.6487	4
 CA	C0A	Kings and Queens counties (Elmira)	Prince Edward Island	PE					46.1668	-62.6487	3
+CA	C0A	Montague	Prince Edward Island	PE					46.1668	-62.6487	4
 CA	C1A	Charlottetown Southeast Prince Edward Island Provincial Government	Prince Edward Island	PE	Charlottetown				46.2716	-63.0165	1
 CA	C1B	Stratford	Prince Edward Island	PE					46.2179	-63.0795	4
 CA	C1C	Charlottetown North	Prince Edward Island	PE	Charlottetown				46.2645	-63.0842	5
@@ -1214,6 +1216,7 @@ CA	G3C	Stoneham-et-Tewkesbury	Quebec	QC	Capitale-Nationale	03	Stoneham-et-Tewkes
 CA	G3H	Pont-Rouge	Quebec	QC	Capitale-Nationale	03	Pont-Rouge	34017	46.7547	-71.6957	4
 CA	G3M	Donnacona	Quebec	QC	Capitale-Nationale	03	Donnacona	34025	46.6804	-71.7239	4
 CA	G3N	Sainte-Catherine-de-la-Jacques-Cartier	Quebec	QC	Capitale-Nationale	03	Sainte-Catherine-de-la-Jacques-Cartier	22005	46.8524	-71.6206	4
+CA	G3S	Shannon	Quebec	QC	Capitale-Nationale	03	Shannon	22020	46.8803	-71.5146	1
 CA	G3Z	Baie-Saint-Paul	Quebec	QC	Capitale-Nationale	03	Baie-Saint-Paul	16013	47.4411	-70.4986	4
 CA	G4A	Clermont	Quebec	QC	Capitale-Nationale	03	Clermont	15035	47.7184	-70.2276	1
 CA	G5A	La Malbaie	Quebec	QC	Capitale-Nationale	03	La Malbaie	15013	47.6575	-70.1559	4

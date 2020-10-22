@@ -124,150 +124,150 @@ PH	1095	Manila CPO-PO Box# 5500 to 5599							12.2667	122.05	1
 PH	1096	Manila CPO-PO Box# 5600 to 5699							12.2667	122.05	1
 PH	1099	Alcantara							12.2667	122.05	4
 PH	1100	Piñahan							15.6333	121.05	4
+PH	1100	Quezon City CPO							15.1462	121.0447	3
 PH	1100	Project 6							14.6591	121.0395	4
 PH	1100	Central							15.1462	121.0447	3
-PH	1100	Quezon City CPO							15.1462	121.0447	3
 PH	1101	Malaya							14.3983	121.3397	4
-PH	1101	Botocan							14.15	121.5	4
-PH	1101	Sikatuna Village							15.2681	121.4227	3
+PH	1101	Krus na Ligas							14.6428	121.0658	4
 PH	1101	Teachers Village							14.6411	121.0551	4
-PH	1101	University of the Philippines Village							15.2681	121.4227	3
+PH	1101	Sikatuna Village							15.2681	121.4227	3
+PH	1101	Botocan							14.15	121.5	4
 PH	1101	San Vicente							18.5083	122.1528	4
 PH	1101	University of the Philippines							15.2681	121.4227	3
-PH	1101	Krus na Ligas							14.6428	121.0658	4
 PH	1101	Old Capitol Site							15.2681	121.4227	3
-PH	1102	Kamias							14.4121	121.2233	3
+PH	1101	University of the Philippines Village							15.2681	121.4227	3
 PH	1102	Silangan							13.5636	121.8578	4
+PH	1102	Duyan-Duyan							14.6228	121.0699	4
 PH	1102	Claro							14.6255	121.0668	4
 PH	1102	Quirino District (Project 2 &amp; 3)							14.4121	121.2233	3
 PH	1102	Amihan							14.6274	121.0675	4
 PH	1102	E. Rodriguez							14.6213	121.0543	4
-PH	1102	Duyan-Duyan							14.6228	121.0699	4
-PH	1103	Sacred Heart							14.6308	121.0383	4
-PH	1103	Paligsahan							14.63	121.0203	4
+PH	1102	Kamias							14.4121	121.2233	3
+PH	1103	South Triangle							14.6359	121.0369	4
 PH	1103	Kamuning							14.6274	121.0402	4
+PH	1103	Sacred Heart							14.6308	121.0383	4
+PH	1103	Laging Handa							14.6306	121.0294	4
 PH	1103	Roxas District							14.6304	121.0328	3
 PH	1103	Obrero							14.6276	121.0315	4
-PH	1103	Laging Handa							14.6306	121.0294	4
-PH	1103	South Triangle							14.6359	121.0369	4
-PH	1104	West Triangle							14.6422	121.0316	4
-PH	1104	Santa Cruz							14.2786	121.4156	4
-PH	1104	Mariblo							14.6347	121.016	4
-PH	1104	Damayan							11.4839	122.5194	4
-PH	1104	Talayan							14.6327	121.0124	4
-PH	1104	Nayon Kaunlaran							13.7327	121.5584	3
-PH	1104	Phil-Am							14.6474	121.0318	4
-PH	1104	Diliman							14.6589	121.0736	4
+PH	1103	Paligsahan							14.63	121.0203	4
 PH	1104	Paraiso							10.8833	123.3667	4
-PH	1105	Veterans Village							14.6532	121.0257	4
-PH	1105	R. Magsaysay							14.5779	121.4317	3
-PH	1105	Del Monte							14.6418	121.0177	4
-PH	1105	Bungad							13.6667	123.0833	4
-PH	1105	Katipunan							14.5779	121.4317	3
+PH	1104	Nayon Kaunlaran							13.7327	121.5584	3
+PH	1104	Santa Cruz							14.2786	121.4156	4
+PH	1104	Damayan							11.4839	122.5194	4
+PH	1104	Phil-Am							14.6474	121.0318	4
+PH	1104	Mariblo							14.6347	121.016	4
+PH	1104	Diliman							14.6589	121.0736	4
+PH	1104	West Triangle							14.6422	121.0316	4
+PH	1104	Talayan							14.6327	121.0124	4
 PH	1105	Santo Cristo							15.35	120.6	4
-PH	1105	Project 7							14.5779	121.4317	3
-PH	1105	Bagong Pag-Asa							14.5182	121.1988	1
+PH	1105	Veterans Village							14.6532	121.0257	4
+PH	1105	Del Monte							14.6418	121.0177	4
 PH	1105	San Antonio, Quezon City							14.5779	121.4317	3
-PH	1105	Alicia							14.5779	121.4317	3
+PH	1105	Bungad							13.6667	123.0833	4
+PH	1105	Bagong Pag-Asa							14.5182	121.1988	1
+PH	1105	Project 7							14.5779	121.4317	3
+PH	1105	R. Magsaysay							14.5779	121.4317	3
 PH	1105	Paltok							14.5779	121.4317	3
-PH	1106	Balumbato							14.6682	121.0023	4
+PH	1105	Katipunan							14.5779	121.4317	3
+PH	1105	Alicia							14.5779	121.4317	3
+PH	1106	Balintawak							14.65	121	4
 PH	1106	Apolonio Samson							14.6483	121.0078	4
+PH	1106	Baesa							14.6724	121.0113	4
+PH	1106	Balumbato							14.6682	121.0023	4
 PH	1106	Unang Sigaw							14.6626	121.0112	3
 PH	1106	Bahay Toro							14.6741	121.0345	4
-PH	1106	Balintawak							14.65	121	4
 PH	1106	Project 8							14.6626	121.0112	3
-PH	1106	Baesa							14.6724	121.0113	4
-PH	1107	New Era							14.6624	121.0557	4
 PH	1107	Pasong Tamo							14.6809	121.0673	4
-PH	1108	Loyola Heights							14.629	121.0726	4
+PH	1107	New Era							14.6624	121.0557	4
 PH	1108	Pansol							13.8867	121.2433	4
-PH	1109	Milagrosa							14.3089	121.0511	4
-PH	1109	Bagong Buhay							14.5182	121.1988	1
-PH	1109	Dioquino Zobel							14.5533	120.9758	3
-PH	1109	Marilag							14.6211	121.0703	4
-PH	1109	Project 4							14.5533	120.9758	3
-PH	1109	Mangga							15.2453	120.9083	4
-PH	1109	Escopa							14.5533	120.9758	3
-PH	1109	Bayanihan							14.6073	121.071	4
-PH	1109	Villa Maria Clara							14.6089	121.0699	4
-PH	1109	Blue Ridge							14.6115	121.0766	4
-PH	1109	Socorro							13.0583	121.4117	4
-PH	1109	Cubao							14.6167	121.05	4
+PH	1108	Loyola Heights							14.629	121.0726	4
 PH	1109	Tagumpay							14.6224	121.0629	4
+PH	1109	Socorro							13.0583	121.4117	4
+PH	1109	Marilag							14.6211	121.0703	4
+PH	1109	Villa Maria Clara							14.6089	121.0699	4
+PH	1109	Milagrosa							14.3089	121.0511	4
+PH	1109	Escopa							14.5533	120.9758	3
+PH	1109	Blue Ridge							14.6115	121.0766	4
+PH	1109	Cubao							14.6167	121.05	4
 PH	1109	San Roque							14.9028	120.5286	4
+PH	1109	Bagong Buhay							14.5182	121.1988	1
 PH	1109	Masagana							14.8833	120.4333	4
-PH	1110	Camp Aguinaldo							14.8405	121.0568	3
-PH	1110	Libis							14.608	121.0807	4
-PH	1110	Bagong Bayan							15.8	120.9833	4
-PH	1110	Ugong Norte							14.5925	121.0712	4
-PH	1110	St. Ignatius							14.8405	121.0568	3
-PH	1110	Talampas							14.6056	121.0781	4
+PH	1109	Mangga							15.2453	120.9083	4
+PH	1109	Dioquino Zobel							14.5533	120.9758	3
+PH	1109	Bayanihan							14.6073	121.071	4
+PH	1109	Project 4							14.5533	120.9758	3
 PH	1110	White Plains							14.5965	121.0707	4
+PH	1110	Talampas							14.6056	121.0781	4
+PH	1110	Libis							14.608	121.0807	4
+PH	1110	Ugong Norte							14.5925	121.0712	4
+PH	1110	Camp Aguinaldo							14.8405	121.0568	3
+PH	1110	Bagong Bayan							15.8	120.9833	4
+PH	1110	St. Ignatius							14.8405	121.0568	3
+PH	1111	Bagong Lipunan							14.8626	121.0457	1
 PH	1111	Pinagkaisahan							14.623	121.0457	4
 PH	1111	Immaculate Concepcion							14.619	121.0461	4
-PH	1111	Kaunlaran							14.621	121.0459	3
-PH	1111	Bagong Lipunan							14.8626	121.0457	1
 PH	1111	Crame							14.621	121.0459	3
+PH	1111	Kaunlaran							14.621	121.0459	3
 PH	1111	St. Martin de Porres							14.621	121.0459	3
-PH	1112	Horseshoe							14.6095	121.0454	4
-PH	1112	Mariana							14.6172	121.0361	4
-PH	1112	Kristong Hari							14.6243	121.0336	4
 PH	1112	Kalusugan							14.6227	121.0253	4
+PH	1112	Kristong Hari							14.6243	121.0336	4
+PH	1112	Mariana							14.6172	121.0361	4
+PH	1112	Horseshoe							14.6095	121.0454	4
 PH	1112	Damayan Lagi							14.6184	121.0351	3
 PH	1112	Valencia							14.6184	121.0351	3
+PH	1113	Don Manuel							14.6146	121.0034	4
 PH	1113	Doña Josefa							14.6193	121.0065	4
-PH	1113	Tatalon							14.6236	121.0135	4
-PH	1113	Santo Niño							17.8883	121.5714	4
+PH	1113	Doña Imelda							14.6162	121.0192	4
 PH	1113	Santol							15.1622	120.5675	4
 PH	1113	Doña Aurora							14.6156	121.0096	4
-PH	1113	Don Manuel							14.6146	121.0034	4
-PH	1113	Doña Imelda							14.6162	121.0192	4
+PH	1113	Santo Niño							17.8883	121.5714	4
+PH	1113	Tatalon							14.6236	121.0135	4
 PH	1113	San Isidro							15.05	120.75	4
-PH	1114	Lourdes							14.9667	120.6833	4
-PH	1114	Salvacion							15.8417	120.9181	4
-PH	1114	San Isidro Labrador							16.0339	120.1392	4
-PH	1114	Matalahib							14.8626	121.0457	1
-PH	1114	Sienna							14.6331	121.0055	4
-PH	1114	La Loma							14.6228	121.0039	4
-PH	1114	Gintong Silahis							15.5503	120.9554	3
 PH	1114	Santa Teresita							18.25	121.8833	4
-PH	1114	Maharlika							14.5038	121.0546	4
+PH	1114	Gintong Silahis							15.5503	120.9554	3
+PH	1114	Salvacion							15.8417	120.9181	4
 PH	1114	St. Peter							15.5503	120.9554	3
+PH	1114	Lourdes							14.9667	120.6833	4
+PH	1114	Matalahib							14.8626	121.0457	1
 PH	1114	Paang Bundok							15.5503	120.9554	3
+PH	1114	La Loma							14.6228	121.0039	4
+PH	1114	Maharlika							14.5038	121.0546	4
+PH	1114	San Isidro Labrador							16.0339	120.1392	4
+PH	1114	Sienna							14.6331	121.0055	4
 PH	1115	Masambong							14.6409	121.0107	4
-PH	1115	San Jose							11.1808	122.9125	4
-PH	1115	Balingasa							13.4873	121.6424	3
 PH	1115	Manresa							14.6402	121.0039	4
+PH	1115	San Jose							11.1808	122.9125	4
 PH	1115	Pag-Ibig sa Nayon							13.4873	121.6424	3
 PH	1115	Damar							13.4873	121.6424	3
-PH	1116	Sangandaan							14.6736	121.0229	4
-PH	1116	Sauyo							14.6853	121.0362	4
-PH	1116	Talipapa							14.6857	121.0269	4
+PH	1115	Balingasa							13.4873	121.6424	3
 PH	1116	San Bartolome							14.9833	120.7	4
-PH	1116	Bagbag							16.4667	120.35	4
 PH	1116	Tandang Sora							14.6785	121.0424	4
-PH	1117	Santa Lucia							15.5	120.7833	4
-PH	1117	Santa Monica							14.4617	121.0831	3
-PH	1117	Capri							14.719	121.0288	4
+PH	1116	Sauyo							14.6853	121.0362	4
+PH	1116	Sangandaan							14.6736	121.0229	4
+PH	1116	Talipapa							14.6857	121.0269	4
+PH	1116	Bagbag							16.4667	120.35	4
 PH	1117	Gulod							14.3492	121.2172	4
+PH	1117	Santa Monica							14.4617	121.0831	3
 PH	1117	San Agustin							13.2786	121.3031	4
+PH	1117	Capri							14.719	121.0288	4
+PH	1117	Santa Lucia							15.5	120.7833	4
 PH	1118	Fairview							14.7036	121.069	4
 PH	1118	Pasong Putik							14.738	121.0691	4
-PH	1119	Matandang Balara							14.6655	121.0863	4
-PH	1119	Payatas							14.7007	121.0974	4
 PH	1119	Bagong Silangan							14.7064	121.104	4
-PH	1120	Violago Homes							14.6881	121.0786	3
+PH	1119	Payatas							14.7007	121.0974	4
+PH	1119	Matandang Balara							14.6655	121.0863	4
 PH	1120	BF Homes							14.6881	121.0786	4
+PH	1120	Violago Homes							14.6881	121.0786	3
 PH	1121	Commonwealth							14.7004	121.081	4
 PH	1121	Fairview [North]							14.7004	121.081	3
 PH	1122	Fairview [South]							14.697	121.057	1
 PH	1123	Damong Maliit							14.7178	121.0367	3
 PH	1123	Novaliches Proper							14.7178	121.0367	4
 PH	1124	Kaligayahan							14.7335	121.0444	4
-PH	1125	Doña Faustina Subdivision							14.7258	121.0275	3
 PH	1125	Nagkaisang Nayon							14.7258	121.0275	4
-PH	1126	Capitol Hills/Park							14.6819	121.0944	3
+PH	1125	Doña Faustina Subdivision							14.7258	121.0275	3
 PH	1126	Batasan Hills							14.6819	121.0944	4
+PH	1126	Capitol Hills/Park							14.6819	121.0944	3
 PH	1127	Holy Spirit							14.697	121.057	1
 PH	1128	Culiat							14.6697	121.0494	4
 PH	1128	Vasra							14.659	121.0443	4
@@ -425,11 +425,11 @@ PH	1409	Kaunlaran Village (shared with Caloocan City and Navotas)							13.8025	
 PH	1409	Kaunlaran Village							13.8025	121.4867	1
 PH	1409	Kaunlaran Village (shared with Malabon City and Navotas)							13.8025	121.4867	1
 PH	1410	Maypajo							14.6333	120.9667	4
-PH	1411	Fish Market (shared with Navotas)							14.6333	120.9667	1
 PH	1411	Fish Market							14.6333	120.9667	1
+PH	1411	Fish Market (shared with Navotas)							14.6333	120.9667	1
 PH	1412	Isla de Cocomo							14.6333	120.9667	1
-PH	1413	Kapitbahayan [East]							14.6333	120.9667	1
 PH	1413	Kapitbayahan							14.6333	120.9667	1
+PH	1413	Kapitbahayan [East]							14.6333	120.9667	1
 PH	1420	Kaybiga/Deparo							14.5945	121.0667	1
 PH	1421	Bagumbong/Pag-asa							14.5945	121.0667	1
 PH	1422	Novaliches North							14.5945	121.0667	1
@@ -442,16 +442,16 @@ PH	1427	Tala Leprosarium and Victory Heights							14.5945	121.0667	1
 PH	1428	Bagong Silang							14.5945	121.0667	1
 PH	1440	Valenzuela Central Post Office - Malinta							14.3637	121.2414	1
 PH	1441	Karuhatan							14.6914	120.9686	4
-PH	1442	General T. de Leon							14.7078	120.9861	3
 PH	1442	Paso de Blas							14.7078	120.9861	4
+PH	1442	General T. de Leon							14.7078	120.9861	3
 PH	1442	Fortune Village							14.7078	120.9861	3
 PH	1443	Dalandanan - West Canumay							14.3637	121.2414	1
-PH	1444	Rincon							14.7	120.95	4
-PH	1444	Mabolo							12.3908	122.4806	4
-PH	1444	Pasolo							14.6944	120.9519	4
-PH	1444	Polo							13.5036	122.0903	4
-PH	1444	Arkong Bato							13.9871	121.5135	3
 PH	1444	Malanday							14.6464	121.0947	4
+PH	1444	Pasolo							14.6944	120.9519	4
+PH	1444	Mabolo							12.3908	122.4806	4
+PH	1444	Arkong Bato							13.9871	121.5135	3
+PH	1444	Rincon							14.7	120.95	4
+PH	1444	Polo							13.5036	122.0903	4
 PH	1445	Balangkas - Caloong							14.7	120.95	4
 PH	1446	Lingunan							14.7192	120.975	4
 PH	1447	East Canumay - Lawang Bato Punturin							14.3637	121.2414	1
@@ -577,14 +577,14 @@ PH	1710	Executive Heights Subdivision							14.4998	121.0422	1
 PH	1711	Better Living Subdivision							14.4998	121.0422	1
 PH	1712	Miramar Subdivision							14.4998	121.0422	1
 PH	1713	United Parañaque Subdivision							14.4998	121.0422	4
-PH	1714	Ireneville Subdivision II							14.4998	121.0422	1
 PH	1714	Aeropark Subdivision							14.4998	121.0422	1
+PH	1714	Ireneville Subdivision II							14.4998	121.0422	1
 PH	1715	San Antonio Valley 1							14.4998	121.0422	1
 PH	1716	Maywood Village II							14.4998	121.0422	1
 PH	1717	Manila Memorial Park							14.4998	121.0422	1
 PH	1718	BF Homes 2							14.4998	121.0422	1
-PH	1719	Ireneville Subdivision I &amp; III							14.4998	121.0422	1
 PH	1719	Maywood Village I							14.4998	121.0422	1
+PH	1719	Ireneville Subdivision I &amp; III							14.4998	121.0422	1
 PH	1720	BF Homes 1							14.8961	121.4761	1
 PH	1740	Las Piñas Central Post Office							14.8961	121.4761	1
 PH	1741	Greymarville Subdivision							14.8961	121.4761	1
@@ -1053,8 +1053,8 @@ PH	3709	Solano							16.5244	121.1922	4
 PH	3710	Villa Verde (Ibung)							16.1296	121.1683	1
 PH	3711	Bagabag							16.5	121.1833	4
 PH	3712	Diadi							16.6636	121.3681	4
-PH	3714	Alfonso Castañeda							15.8036	121.3061	4
 PH	3714	Quezon							15.5511	120.8156	4
+PH	3714	Alfonso Castañeda							15.8036	121.3061	4
 PH	3800	Tabuk City							17.5351	121.2858	1
 PH	3801	Balbalan							17.4414	121.2019	4
 PH	3802	Lubuagan							17.3567	121.1767	4
@@ -1516,8 +1516,8 @@ PH	6006	Catmon							10.7167	124	4
 PH	6007	Sogod							12.38	122.6836	4
 PH	6008	Borbon							10.8372	124.0267	4
 PH	6009	Tabogon							14.0814	122.3775	4
-PH	6010	Bogo City							10.5672	123.7161	3
 PH	6010	Asturias							10.5672	123.7161	4
+PH	6010	Bogo City							10.5672	123.7161	3
 PH	6011	Badian							9.8647	123.3964	4
 PH	6011	San Remigio							10.8333	122.1	4
 PH	6012	Medellin							11.1289	123.9608	4
@@ -1591,12 +1591,12 @@ PH	6130	La Carlota City							10.4233	122.9208	4
 PH	6131	La Castillana							10.3468	122.9994	1
 PH	6132	Moises Padilla							10.2703	123.0781	4
 PH	6201	Sibulan							9.3597	123.285	4
-PH	6202	San Jose							11.1808	122.9125	4
 PH	6202	Loay							9.6	124.0167	4
+PH	6202	San Jose							11.1808	122.9125	4
 PH	6203	Amlan							9.4636	123.2267	4
 PH	6204	Tanjay City							9.7804	123.2184	1
-PH	6205	Salvaña City							9.4711	123.115	3
 PH	6205	Pamplona							9.4711	123.115	4
+PH	6205	Salvaña City							9.4711	123.115	3
 PH	6207	Mabinay							9.7272	122.9017	4
 PH	6208	Manjuyod							9.6803	123.1472	4
 PH	6209	Bindoy							9.7606	123.1425	4
@@ -1607,8 +1607,8 @@ PH	6213	La Libertad							10.0269	123.2331	4
 PH	6214	Guihulngan							10.1203	123.2711	4
 PH	6215	Valencia							7.9064	125.0942	4
 PH	6216	Bacong							9.9369	123.945	4
-PH	6217	ais City							9.1911	123.2656	3
 PH	6217	Dauin							9.1911	123.2656	4
+PH	6217	ais City							9.1911	123.2656	3
 PH	6219	Siaton							9.0636	123.0339	4
 PH	6220	Sta. Catalina							9.526	123.4913	1
 PH	6221	Bayawan City							9.526	123.4913	1

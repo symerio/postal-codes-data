@@ -40,8 +40,8 @@ EE	76617	Tutermaa	Harju maakond	01	Harku vald	0198	Tutermaa küla	8442	59.3244	2
 EE	76704	Adra	Harju maakond	01	Harku vald	0198	Adra küla	1084	59.377	24.3525	6
 EE	76706	Türisalu	Harju maakond	01	Harku vald	0198	Türisalu küla	8599	59.3996	24.3132	6
 EE	76707	Humala	Harju maakond	01	Harku vald	0198	Humala küla	1903	59.362	24.4097	6
-EE	76901	Tabasalu	Harju maakond	01	Harku vald	0198	Tabasalu alevik	8009	59.4274	24.5471	6
 EE	76901	Laabi	Harju maakond	01	Harku vald	0198	Laabi küla	4002	59.4081	24.5502	6
+EE	76901	Tabasalu	Harju maakond	01	Harku vald	0198	Tabasalu alevik	8009	59.4274	24.5471	6
 EE	76902	Harku	Harju maakond	01	Harku vald	0198	Harku alevik	1774	59.3866	24.5797	6
 EE	76902	Laabi	Harju maakond	01	Harku vald	0198	Laabi küla	4002	59.403	24.5696	6
 EE	76903	Vääna	Harju maakond	01	Harku vald	0198	Vääna küla	9683	59.3904	24.4091	6
@@ -52,8 +52,8 @@ EE	76907	Suurupi	Harju maakond	01	Harku vald	0198	Suurupi küla	7870	59.4637	24.
 EE	76908	Sõrve	Harju maakond	01	Harku vald	0198	Sõrve küla	7905	59.425	24.4623	6
 EE	76909	Vääna-Jõesuu	Harju maakond	01	Harku vald	0198	Vääna-Jõesuu küla	9685	59.4343	24.3718	6
 EE	76910	Viti	Harju maakond	01	Harku vald	0198	Viti küla	9434	59.4358	24.3863	6
-EE	76912	Tiskre	Harju maakond	01	Harku vald	0198	Tiskre küla	8257	59.4179	24.5779	6
 EE	76912	Harkujärve	Harju maakond	01	Harku vald	0198	Harkujärve küla	1776	59.4148	24.6017	6
+EE	76912	Tiskre	Harju maakond	01	Harku vald	0198	Tiskre küla	8257	59.4179	24.5779	6
 EE	76916	Tiskre	Harju maakond	01	Harku vald	0198	Tiskre küla	8257	59.4222	24.5844	6
 EE	76917	Vaila	Harju maakond	01	Harku vald	0198	Vaila küla	8877	59.406	24.3981	6
 EE	76918	Vahi	Harju maakond	01	Harku vald	0198	Vahi küla	8848	59.3807	24.4504	6
@@ -64,9 +64,9 @@ EE	76922	Laabi	Harju maakond	01	Harku vald	0198	Laabi küla	4002	59.4074	24.5743
 EE	76923	Harkujärve	Harju maakond	01	Harku vald	0198	Harkujärve küla	1776	59.43	24.6021	6
 EE	76924	Tiskre	Harju maakond	01	Harku vald	0198	Tiskre küla	8257	59.4352	24.5684	6
 EE	76925	Meriküla	Harju maakond	01	Harku vald	0198	Meriküla	4880	59.4561	24.4776	6
-EE	74114	Kallavere	Harju maakond	01	Jõelähtme vald	0245	Kallavere küla	2601	59.4888	25.0329	6
-EE	74114	Liivamäe	Harju maakond	01	Jõelähtme vald	0245	Liivamäe küla	4359	59.4465	24.9711	6
 EE	74114	Uusküla	Harju maakond	01	Jõelähtme vald	0245	Uusküla	8783	59.4923	25.0077	6
+EE	74114	Liivamäe	Harju maakond	01	Jõelähtme vald	0245	Liivamäe küla	4359	59.4465	24.9711	6
+EE	74114	Kallavere	Harju maakond	01	Jõelähtme vald	0245	Kallavere küla	2601	59.4888	25.0329	6
 EE	74115	Kallavere	Harju maakond	01	Jõelähtme vald	0245	Kallavere küla	2601	59.4981	25.0235	6
 EE	74120	Uusküla	Harju maakond	01	Jõelähtme vald	0245	Uusküla	8783	59.4818	24.9961	6
 EE	74121	Kallavere	Harju maakond	01	Jõelähtme vald	0245	Kallavere küla	2601	59.4832	25.0415	6
@@ -158,8 +158,8 @@ EE	75035	Alansi	Harju maakond	01	Kose vald	0338	Alansi küla	1174	59.1212	25.147
 EE	75036	Kirivalla	Harju maakond	01	Kose vald	0338	Kirivalla küla	3140	59.1277	25.1041	6
 EE	75037	Uueveski	Harju maakond	01	Kose vald	0338	Uueveski küla	8773	59.1385	25.1901	6
 EE	75038	Äksi	Harju maakond	01	Kose vald	0338	Äksi küla	9749	59.1156	25.1705	6
-EE	75101	Ravila	Harju maakond	01	Kose vald	0338	Ravila alevik	6875	59.185	25.2212	6
 EE	75101	Kose	Harju maakond	01	Kose vald	0338	Kose alevik	3460	59.1825	25.1676	6
+EE	75101	Ravila	Harju maakond	01	Kose vald	0338	Ravila alevik	6875	59.185	25.2212	6
 EE	75102	Kose-Uuemõisa	Harju maakond	01	Kose vald	0338	Kose-Uuemõisa alevik	3464	59.2022	25.1023	6
 EE	75103	Oru	Harju maakond	01	Kose vald	0338	Oru küla	5738	59.1898	24.983	6
 EE	75104	Krei	Harju maakond	01	Kose vald	0338	Krei küla	3492	59.2	25.124	6
@@ -471,8 +471,8 @@ EE	10125	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4362
 EE	10126	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4354	24.777	6
 EE	10127	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4454	24.803	6
 EE	10128	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4328	24.7718	6
-EE	10129	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4243	24.7273	6
 EE	10129	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4255	24.7351	6
+EE	10129	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4243	24.7273	6
 EE	10130	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4365	24.7406	6
 EE	10131	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4238	24.7391	6
 EE	10132	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4269	24.7656	6
@@ -493,8 +493,8 @@ EE	10145	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4323
 EE	10146	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4361	24.745	6
 EE	10147	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4338	24.7748	6
 EE	10148	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4363	24.7502	6
-EE	10149	Põhja-Tallinna	Harju maakond	01	Tallinn	0784	Põhja-Tallinna linnaosa	0614	59.4357	24.7291	6
 EE	10149	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4341	24.7292	6
+EE	10149	Põhja-Tallinna	Harju maakond	01	Tallinn	0784	Põhja-Tallinna linnaosa	0614	59.4357	24.7291	6
 EE	10150	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4378	24.7804	6
 EE	10151	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4394	24.7636	6
 EE	10152	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4386	24.7752	6
@@ -517,29 +517,29 @@ EE	10320	Põhja-Tallinna	Harju maakond	01	Tallinn	0784	Põhja-Tallinna linnaosa	
 EE	10321	Põhja-Tallinna	Harju maakond	01	Tallinn	0784	Põhja-Tallinna linnaosa	0614	59.4417	24.7025	6
 EE	10323	Põhja-Tallinna	Harju maakond	01	Tallinn	0784	Põhja-Tallinna linnaosa	0614	59.4485	24.7017	6
 EE	10411	Põhja-Tallinna	Harju maakond	01	Tallinn	0784	Põhja-Tallinna linnaosa	0614	59.4447	24.7289	6
-EE	10412	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4421	24.7487	6
 EE	10412	Põhja-Tallinna	Harju maakond	01	Tallinn	0784	Põhja-Tallinna linnaosa	0614	59.4446	24.7267	6
+EE	10412	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4421	24.7487	6
 EE	10413	Põhja-Tallinna	Harju maakond	01	Tallinn	0784	Põhja-Tallinna linnaosa	0614	59.4459	24.7313	6
 EE	10414	Põhja-Tallinna	Harju maakond	01	Tallinn	0784	Põhja-Tallinna linnaosa	0614	59.4449	24.7389	6
 EE	10415	Põhja-Tallinna	Harju maakond	01	Tallinn	0784	Põhja-Tallinna linnaosa	0614	59.4478	24.7394	6
 EE	10416	Põhja-Tallinna	Harju maakond	01	Tallinn	0784	Põhja-Tallinna linnaosa	0614	59.4517	24.7139	6
 EE	10611	Põhja-Tallinna	Harju maakond	01	Tallinn	0784	Põhja-Tallinna linnaosa	0614	59.4372	24.7209	6
-EE	10612	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4326	24.7196	6
 EE	10612	Põhja-Tallinna	Harju maakond	01	Tallinn	0784	Põhja-Tallinna linnaosa	0614	59.4358	24.7217	6
+EE	10612	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4326	24.7196	6
 EE	10613	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4295	24.7169	6
-EE	10614	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4298	24.7106	6
 EE	10614	Põhja-Tallinna	Harju maakond	01	Tallinn	0784	Põhja-Tallinna linnaosa	0614	59.4358	24.7077	6
+EE	10614	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4298	24.7106	6
 EE	10615	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4255	24.7164	6
 EE	10616	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4241	24.7041	6
-EE	10617	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.424	24.6878	6
-EE	10617	Haabersti	Harju maakond	01	Tallinn	0784	Haabersti linnaosa	0176	59.4291	24.6917	6
 EE	10617	Põhja-Tallinna	Harju maakond	01	Tallinn	0784	Põhja-Tallinna linnaosa	0614	59.4309	24.6929	6
+EE	10617	Haabersti	Harju maakond	01	Tallinn	0784	Haabersti linnaosa	0176	59.4291	24.6917	6
+EE	10617	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.424	24.6878	6
 EE	10618	Haabersti	Harju maakond	01	Tallinn	0784	Haabersti linnaosa	0176	59.4252	24.6748	6
 EE	10619	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4207	24.7029	6
 EE	10620	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4167	24.7009	6
+EE	10621	Haabersti	Harju maakond	01	Tallinn	0784	Haabersti linnaosa	0176	59.418	24.6696	6
 EE	10621	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4211	24.6852	6
 EE	10621	Mustamäe	Harju maakond	01	Tallinn	0784	Mustamäe linnaosa	0482	59.4151	24.6831	6
-EE	10621	Haabersti	Harju maakond	01	Tallinn	0784	Haabersti linnaosa	0176	59.418	24.6696	6
 EE	10911	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3681	24.6597	6
 EE	10912	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3686	24.6266	6
 EE	10913	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3734	24.6336	6
@@ -562,17 +562,17 @@ EE	11216	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3732	24.72
 EE	11217	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3753	24.7427	6
 EE	11218	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3653	24.7613	6
 EE	11311	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4147	24.7229	6
-EE	11312	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4156	24.729	6
 EE	11312	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4168	24.7396	6
+EE	11312	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4156	24.729	6
 EE	11313	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4135	24.7433	6
-EE	11314	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4018	24.7233	6
 EE	11314	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4111	24.7391	6
+EE	11314	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4018	24.7233	6
 EE	11315	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4202	24.7264	6
-EE	11316	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4027	24.7186	6
 EE	11316	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3933	24.7107	6
 EE	11316	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4129	24.7356	6
-EE	11317	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4085	24.7184	6
+EE	11316	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4027	24.7186	6
 EE	11317	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4087	24.7351	6
+EE	11317	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4085	24.7184	6
 EE	11318	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.4045	24.7327	6
 EE	11411	Lasnamäe	Harju maakond	01	Tallinn	0784	Lasnamäe linnaosa	0387	59.4269	24.7948	6
 EE	11412	Lasnamäe	Harju maakond	01	Tallinn	0784	Lasnamäe linnaosa	0387	59.4277	24.7886	6
@@ -586,8 +586,8 @@ EE	11417	Lasnamäe	Harju maakond	01	Tallinn	0784	Lasnamäe linnaosa	0387	59.4337
 EE	11611	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3875	24.6704	6
 EE	11612	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3847	24.6681	6
 EE	11613	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3728	24.6715	6
-EE	11614	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.3937	24.7024	6
 EE	11614	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.389	24.693	6
+EE	11614	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.3937	24.7024	6
 EE	11615	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3849	24.6947	6
 EE	11616	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3799	24.6905	6
 EE	11617	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3791	24.688	6
@@ -598,9 +598,9 @@ EE	11621	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3836	24.69
 EE	11622	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3868	24.6988	6
 EE	11623	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3875	24.7085	6
 EE	11624	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3909	24.7148	6
-EE	11625	Mustamäe	Harju maakond	01	Tallinn	0784	Mustamäe linnaosa	0482	59.3946	24.6425	6
 EE	11625	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3864	24.6379	6
 EE	11625	Haabersti	Harju maakond	01	Tallinn	0784	Haabersti linnaosa	0176	59.3942	24.6129	6
+EE	11625	Mustamäe	Harju maakond	01	Tallinn	0784	Mustamäe linnaosa	0482	59.3946	24.6425	6
 EE	11711	Põhja-Tallinna	Harju maakond	01	Tallinn	0784	Põhja-Tallinna linnaosa	0614	59.4574	24.6836	6
 EE	11712	Põhja-Tallinna	Harju maakond	01	Tallinn	0784	Põhja-Tallinna linnaosa	0614	59.4604	24.6706	6
 EE	11713	Põhja-Tallinna	Harju maakond	01	Tallinn	0784	Põhja-Tallinna linnaosa	0614	59.4539	24.6777	6
@@ -621,14 +621,14 @@ EE	12611	Mustamäe	Harju maakond	01	Tallinn	0784	Mustamäe linnaosa	0482	59.3972
 EE	12612	Mustamäe	Harju maakond	01	Tallinn	0784	Mustamäe linnaosa	0482	59.4011	24.669	6
 EE	12613	Mustamäe	Harju maakond	01	Tallinn	0784	Mustamäe linnaosa	0482	59.4009	24.6637	6
 EE	12614	Mustamäe	Harju maakond	01	Tallinn	0784	Mustamäe linnaosa	0482	59.4029	24.6609	6
-EE	12615	Mustamäe	Harju maakond	01	Tallinn	0784	Mustamäe linnaosa	0482	59.4038	24.6564	6
 EE	12615	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3947	24.6383	6
-EE	12616	Mustamäe	Harju maakond	01	Tallinn	0784	Mustamäe linnaosa	0482	59.396	24.6635	6
+EE	12615	Mustamäe	Harju maakond	01	Tallinn	0784	Mustamäe linnaosa	0482	59.4038	24.6564	6
 EE	12616	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3914	24.6607	6
+EE	12616	Mustamäe	Harju maakond	01	Tallinn	0784	Mustamäe linnaosa	0482	59.396	24.6635	6
 EE	12617	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3905	24.6509	6
-EE	12618	Mustamäe	Harju maakond	01	Tallinn	0784	Mustamäe linnaosa	0482	59.4018	24.6529	6
 EE	12618	Nõmme	Harju maakond	01	Tallinn	0784	Nõmme linnaosa	0524	59.3911	24.6539	6
 EE	12618	Haabersti	Harju maakond	01	Tallinn	0784	Haabersti linnaosa	0176	59.4024	24.645	6
+EE	12618	Mustamäe	Harju maakond	01	Tallinn	0784	Mustamäe linnaosa	0482	59.4018	24.6529	6
 EE	12619	Mustamäe	Harju maakond	01	Tallinn	0784	Mustamäe linnaosa	0482	59.3953	24.6521	6
 EE	12620	Haabersti	Harju maakond	01	Tallinn	0784	Haabersti linnaosa	0176	59.3969	24.6392	6
 EE	12911	Mustamäe	Harju maakond	01	Tallinn	0784	Mustamäe linnaosa	0482	59.4027	24.6752	6
@@ -657,8 +657,8 @@ EE	13420	Mustamäe	Harju maakond	01	Tallinn	0784	Mustamäe linnaosa	0482	59.3967
 EE	13421	Mustamäe	Harju maakond	01	Tallinn	0784	Mustamäe linnaosa	0482	59.4025	24.691	6
 EE	13422	Mustamäe	Harju maakond	01	Tallinn	0784	Mustamäe linnaosa	0482	59.4044	24.7023	6
 EE	13423	Mustamäe	Harju maakond	01	Tallinn	0784	Mustamäe linnaosa	0482	59.4078	24.6995	6
-EE	13424	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4144	24.7052	6
 EE	13424	Mustamäe	Harju maakond	01	Tallinn	0784	Mustamäe linnaosa	0482	59.4099	24.7023	6
+EE	13424	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4144	24.7052	6
 EE	13425	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.417	24.7174	6
 EE	13426	Kristiine	Harju maakond	01	Tallinn	0784	Kristiine linnaosa	0339	59.4225	24.7207	6
 EE	13511	Haabersti	Harju maakond	01	Tallinn	0784	Haabersti linnaosa	0176	59.4155	24.6515	6
@@ -683,8 +683,8 @@ EE	13615	Lasnamäe	Harju maakond	01	Tallinn	0784	Lasnamäe linnaosa	0387	59.4382
 EE	13616	Lasnamäe	Harju maakond	01	Tallinn	0784	Lasnamäe linnaosa	0387	59.4389	24.8425	6
 EE	13617	Lasnamäe	Harju maakond	01	Tallinn	0784	Lasnamäe linnaosa	0387	59.4423	24.8464	6
 EE	13618	Lasnamäe	Harju maakond	01	Tallinn	0784	Lasnamäe linnaosa	0387	59.4399	24.8178	6
-EE	13619	Lasnamäe	Harju maakond	01	Tallinn	0784	Lasnamäe linnaosa	0387	59.4417	24.8276	6
 EE	13619	Kesklinna	Harju maakond	01	Tallinn	0784	Kesklinna linnaosa	0298	59.432	24.7866	6
+EE	13619	Lasnamäe	Harju maakond	01	Tallinn	0784	Lasnamäe linnaosa	0387	59.4417	24.8276	6
 EE	13620	Lasnamäe	Harju maakond	01	Tallinn	0784	Lasnamäe linnaosa	0387	59.4339	24.8171	6
 EE	13621	Lasnamäe	Harju maakond	01	Tallinn	0784	Lasnamäe linnaosa	0387	59.4367	24.8176	6
 EE	13622	Lasnamäe	Harju maakond	01	Tallinn	0784	Lasnamäe linnaosa	0387	59.442	24.8393	6
@@ -1150,8 +1150,8 @@ EE	29021	Narva-Jõesuu	Ida-Viru maakond	03	Narva-Jõesuu linn	0514	Narva-Jõesuu
 EE	29022	Narva-Jõesuu	Ida-Viru maakond	03	Narva-Jõesuu linn	0514	Narva-Jõesuu linn	5356	59.4562	28.0533	6
 EE	29023	Narva-Jõesuu	Ida-Viru maakond	03	Narva-Jõesuu linn	0514	Narva-Jõesuu linn	5356	59.454	28.0322	6
 EE	29024	Kudruküla	Ida-Viru maakond	03	Narva-Jõesuu linn	0514	Kudruküla	3520	59.443	28.0905	6
-EE	29025	Narva-Jõesuu	Ida-Viru maakond	03	Narva-Jõesuu linn	0514	Narva-Jõesuu linn	5356	59.4185	27.9785	6
 EE	29025	Meriküla	Ida-Viru maakond	03	Narva-Jõesuu linn	0514	Meriküla	4884	59.405	27.9585	6
+EE	29025	Narva-Jõesuu	Ida-Viru maakond	03	Narva-Jõesuu linn	0514	Narva-Jõesuu linn	5356	59.4185	27.9785	6
 EE	29026	Narva-Jõesuu	Ida-Viru maakond	03	Narva-Jõesuu linn	0514	Narva-Jõesuu linn	5356	59.4196	27.9792	6
 EE	40101	Sinimäe	Ida-Viru maakond	03	Narva-Jõesuu linn	0514	Sinimäe alevik	7619	59.3744	27.8741	6
 EE	40102	Vaivara	Ida-Viru maakond	03	Narva-Jõesuu linn	0514	Vaivara küla	8895	59.3723	27.78	6
@@ -1208,8 +1208,8 @@ EE	72402	Eistvere	Järva maakond	04	Järva vald	0255	Eistvere küla	1567	58.6953
 EE	72403	Jalametsa	Järva maakond	04	Järva vald	0255	Jalametsa küla	2159	58.7834	25.7853	6
 EE	72404	Järavere	Järva maakond	04	Järva vald	0255	Järavere küla	2321	58.7501	25.7482	6
 EE	72405	Kiigevere	Järva maakond	04	Järva vald	0255	Kiigevere küla	3032	58.7455	25.8158	6
-EE	72406	Käsukonna	Järva maakond	04	Järva vald	0255	Käsukonna küla	3937	58.7944	25.7553	6
 EE	72406	Hermani	Järva maakond	04	Järva vald	0255	Hermani küla	1825	58.8093	25.7623	6
+EE	72406	Käsukonna	Järva maakond	04	Järva vald	0255	Käsukonna küla	3937	58.7944	25.7553	6
 EE	72407	Puiatu	Järva maakond	04	Järva vald	0255	Puiatu küla	6402	58.7171	25.791	6
 EE	72408	Taadikvere	Järva maakond	04	Järva vald	0255	Taadikvere küla	7991	58.7169	25.7287	6
 EE	72409	Võrevere	Järva maakond	04	Järva vald	0255	Võrevere küla	9575	58.7628	25.8445	6
@@ -1301,8 +1301,8 @@ EE	73416	Vetepere	Järva maakond	04	Järva vald	0255	Vetepere küla	9243	59.1367
 EE	73501	Aravete	Järva maakond	04	Järva vald	0255	Aravete alevik	1326	59.138	25.7454	6
 EE	73502	Jõgisoo	Järva maakond	04	Järva vald	0255	Jõgisoo küla	2268	59.184	25.8596	6
 EE	73502	Ambla	Järva maakond	04	Järva vald	0255	Ambla alevik	1250	59.193	25.8421	6
-EE	73503	Raka	Järva maakond	04	Järva vald	0255	Raka küla	6771	59.1988	25.8015	6
 EE	73503	Käravete	Järva maakond	04	Järva vald	0255	Käravete alevik	3886	59.1893	25.7702	6
+EE	73503	Raka	Järva maakond	04	Järva vald	0255	Raka küla	6771	59.1988	25.8015	6
 EE	73504	Jõgisoo	Järva maakond	04	Järva vald	0255	Jõgisoo küla	2268	59.1654	25.8658	6
 EE	73505	Raka	Järva maakond	04	Järva vald	0255	Raka küla	6771	59.1805	25.821	6
 EE	73506	Rava	Järva maakond	04	Järva vald	0255	Rava küla	6870	59.1264	25.8473	6
@@ -1339,8 +1339,8 @@ EE	72717	Paide	Järva maakond	04	Paide linn	0567	Paide linn	5860	58.8836	25.5708
 EE	72718	Paide	Järva maakond	04	Paide linn	0567	Paide linn	5860	58.8815	25.5458	6
 EE	72719	Paide	Järva maakond	04	Paide linn	0567	Paide linn	5860	58.8808	25.5663	6
 EE	72720	Paide	Järva maakond	04	Paide linn	0567	Paide linn	5860	58.8853	25.54	6
-EE	72751	Paide	Järva maakond	04	Paide linn	0567	Paide linn	5860	58.9031	25.5751	6
 EE	72751	Mäo	Järva maakond	04	Paide linn	0567	Mäo küla	5275	58.9099	25.6164	6
+EE	72751	Paide	Järva maakond	04	Paide linn	0567	Paide linn	5860	58.9031	25.5751	6
 EE	72752	Kriilevälja	Järva maakond	04	Paide linn	0567	Kriilevälja küla	3497	58.8801	25.5859	6
 EE	72753	Korba	Järva maakond	04	Paide linn	0567	Korba küla	3442	58.9675	25.6131	6
 EE	72754	Viraksaare	Järva maakond	04	Paide linn	0567	Viraksaare küla	9379	58.9137	25.5263	6
@@ -1389,8 +1389,8 @@ EE	72214	Türi	Järva maakond	04	Türi vald	0834	Türi linn	8595	58.8134	25.4068
 EE	72215	Türi	Järva maakond	04	Türi vald	0834	Türi linn	8595	58.8113	25.4149	6
 EE	72230	Tori	Järva maakond	04	Türi vald	0834	Tori küla	8325	58.8032	25.4709	6
 EE	72231	Kirna	Järva maakond	04	Türi vald	0834	Kirna küla	3148	58.8481	25.4736	6
-EE	72232	Türi-Alliku	Järva maakond	04	Türi vald	0834	Türi-Alliku küla	8596	58.8256	25.4509	6
 EE	72232	Türi	Järva maakond	04	Türi vald	0834	Türi linn	8595	58.8169	25.4389	6
+EE	72232	Türi-Alliku	Järva maakond	04	Türi vald	0834	Türi-Alliku küla	8596	58.8256	25.4509	6
 EE	72233	Poaka	Järva maakond	04	Türi vald	0834	Poaka küla	6300	58.8469	25.4956	6
 EE	72234	Pala	Järva maakond	04	Türi vald	0834	Pala küla	5906	58.8561	25.416	6
 EE	72240	Lokuta	Järva maakond	04	Türi vald	0834	Lokuta küla	4475	58.8161	25.3867	6
@@ -1720,8 +1720,8 @@ EE	90459	Tammiku	Lääne maakond	07	Haapsalu linn	0184	Tammiku küla	8116	58.931
 EE	90460	Võnnu	Lääne maakond	07	Haapsalu linn	0184	Võnnu küla	9568	58.906	23.6992	6
 EE	90461	Üsse	Lääne maakond	07	Haapsalu linn	0184	Üsse küla	9853	58.9252	23.6791	6
 EE	90463	Herjava	Lääne maakond	07	Haapsalu linn	0184	Herjava küla	1824	58.9493	23.6436	6
-EE	90480	Haapsalu	Lääne maakond	07	Haapsalu linn	0184	Haapsalu linn	1692	58.9083	23.5642	6
 EE	90480	Valgevälja	Lääne maakond	07	Haapsalu linn	0184	Valgevälja küla	8929	58.9043	23.5586	6
+EE	90480	Haapsalu	Lääne maakond	07	Haapsalu linn	0184	Haapsalu linn	1692	58.9083	23.5642	6
 EE	90481	Vätse	Lääne maakond	07	Haapsalu linn	0184	Vätse küla	9673	58.8418	23.6697	6
 EE	90501	Haapsalu	Lääne maakond	07	Haapsalu linn	0184	Haapsalu linn	1692	58.9413	23.5431	6
 EE	90502	Haapsalu	Lääne maakond	07	Haapsalu linn	0184	Haapsalu linn	1692	58.95	23.5357	6
@@ -1788,8 +1788,8 @@ EE	90718	Silla	Lääne maakond	07	Lääne-Nigula vald	0441	Silla küla	7589	58.8
 EE	90719	Ubasalu	Lääne maakond	07	Lääne-Nigula vald	0441	Ubasalu küla	8607	58.8858	23.9878	6
 EE	90720	Üdruma	Lääne maakond	07	Lääne-Nigula vald	0441	Üdruma küla	9812	58.8118	24.0517	6
 EE	90801	Taebla	Lääne maakond	07	Lääne-Nigula vald	0441	Taebla alevik	8025	58.9535	23.7399	6
-EE	90802	Vidruka	Lääne maakond	07	Lääne-Nigula vald	0441	Vidruka küla	9254	59.0011	23.8614	6
 EE	90802	Palivere	Lääne maakond	07	Lääne-Nigula vald	0441	Palivere alevik	5926	58.965	23.8924	6
+EE	90802	Vidruka	Lääne maakond	07	Lääne-Nigula vald	0441	Vidruka küla	9254	59.0011	23.8614	6
 EE	90804	Kadarpiku	Lääne maakond	07	Lääne-Nigula vald	0441	Kadarpiku küla	2479	58.956	23.7159	6
 EE	90805	Kirimäe	Lääne maakond	07	Lääne-Nigula vald	0441	Kirimäe küla	3135	58.9276	23.7571	6
 EE	90806	Koela	Lääne maakond	07	Lääne-Nigula vald	0441	Koela küla	3247	58.9764	23.7498	6
@@ -1929,9 +1929,9 @@ EE	45451	Rutja	Lääne-Viru maakond	08	Haljala vald	0191	Rutja küla	7138	59.542
 EE	45501	Võsu	Lääne-Viru maakond	08	Haljala vald	0191	Võsu alevik	9592	59.5752	25.9611	6
 EE	45601	Käsmu	Lääne-Viru maakond	08	Haljala vald	0191	Käsmu küla	3934	59.6023	25.9155	6
 EE	45101	Tokolopi	Lääne-Viru maakond	08	Kadrina vald	0272	Tokolopi küla	8278	59.3115	26.0301	6
-EE	45201	Kadrina	Lääne-Viru maakond	08	Kadrina vald	0272	Kadrina alevik	2490	59.342	26.137	6
 EE	45201	Tokolopi	Lääne-Viru maakond	08	Kadrina vald	0272	Tokolopi küla	8278	59.3108	26.0439	6
 EE	45201	Tirbiku	Lääne-Viru maakond	08	Kadrina vald	0272	Tirbiku küla	8254	59.354	26.1881	6
+EE	45201	Kadrina	Lääne-Viru maakond	08	Kadrina vald	0272	Kadrina alevik	2490	59.342	26.137	6
 EE	45202	Viitna	Lääne-Viru maakond	08	Kadrina vald	0272	Viitna küla	9311	59.4608	26.0184	6
 EE	45203	Hulja	Lääne-Viru maakond	08	Kadrina vald	0272	Hulja alevik	1897	59.3526	26.2194	6
 EE	45204	Vohnja	Lääne-Viru maakond	08	Kadrina vald	0272	Vohnja küla	9449	59.3757	26.0498	6
@@ -2075,8 +2075,8 @@ EE	46105	Sääse	Lääne-Viru maakond	08	Tapa vald	0792	Sääse alevik	7956	59.1
 EE	46106	Tamsalu	Lääne-Viru maakond	08	Tapa vald	0792	Tamsalu linn	8130	59.1647	26.1145	6
 EE	46107	Tamsalu	Lääne-Viru maakond	08	Tapa vald	0792	Tamsalu linn	8130	59.1639	26.1089	6
 EE	46108	Tamsalu	Lääne-Viru maakond	08	Tapa vald	0792	Tamsalu linn	8130	59.1596	26.1112	6
-EE	73601	Kuru	Lääne-Viru maakond	08	Tapa vald	0792	Kuru küla	3702	59.2279	25.8878	6
 EE	73601	Lehtse	Lääne-Viru maakond	08	Tapa vald	0792	Lehtse alevik	4217	59.2525	25.8265	6
+EE	73601	Kuru	Lääne-Viru maakond	08	Tapa vald	0792	Kuru küla	3702	59.2279	25.8878	6
 EE	73602	Jäneda	Lääne-Viru maakond	08	Tapa vald	0792	Jäneda küla	2318	59.2476	25.6836	6
 EE	73603	Jootme	Lääne-Viru maakond	08	Tapa vald	0792	Jootme küla	2199	59.2229	25.9038	6
 EE	73604	Kuru	Lääne-Viru maakond	08	Tapa vald	0792	Kuru küla	3702	59.2405	25.8954	6
@@ -2521,8 +2521,8 @@ EE	80047	Pärnu	Pärnu maakond	11	Pärnu linn	0624	Pärnu linn	6619	58.3874	24.5
 EE	80098	Pärnu	Pärnu maakond	11	Pärnu linn	0624	Pärnu linn	6619	58.3823	24.5102	6
 EE	85009	Pärnu	Pärnu maakond	11	Pärnu linn	0624	Pärnu linn	6619	58.3788	24.5797	6
 EE	86601	Seljametsa	Pärnu maakond	11	Pärnu linn	0624	Seljametsa küla	7536	58.3619	24.6605	6
-EE	86602	Pärnu	Pärnu maakond	11	Pärnu linn	0624	Pärnu linn	6619	58.3627	24.5901	6
 EE	86602	Paikuse	Pärnu maakond	11	Pärnu linn	0624	Paikuse alev	5864	58.3712	24.618	6
+EE	86602	Pärnu	Pärnu maakond	11	Pärnu linn	0624	Pärnu linn	6619	58.3627	24.5901	6
 EE	86603	Põlendmaa	Pärnu maakond	11	Pärnu linn	0624	Põlendmaa küla	6518	58.3738	24.797	6
 EE	86604	Silla	Pärnu maakond	11	Pärnu linn	0624	Silla küla	7591	58.3329	24.6206	6
 EE	86605	Tammuru	Pärnu maakond	11	Pärnu linn	0624	Tammuru küla	8131	58.3435	24.7168	6
@@ -2832,8 +2832,8 @@ EE	63216	Orajõe	Põlva maakond	12	Põlva vald	0622	Orajõe küla	5705	58.073	27
 EE	63217	Partsi	Põlva maakond	12	Põlva vald	0622	Partsi küla	6025	58.0174	27.1715	6
 EE	63218	Peri	Põlva maakond	12	Põlva vald	0622	Peri küla	6120	58.016	27.0905	6
 EE	63219	Puskaru	Põlva maakond	12	Põlva vald	0622	Puskaru küla	6461	58.0057	26.9349	6
-EE	63220	Põlva	Põlva maakond	12	Põlva vald	0622	Põlva linn	6536	58.049	27.0464	6
 EE	63220	Puuri	Põlva maakond	12	Põlva vald	0622	Puuri küla	6477	58.0504	27.0289	6
+EE	63220	Põlva	Põlva maakond	12	Põlva vald	0622	Põlva linn	6536	58.049	27.0464	6
 EE	63221	Rosma	Põlva maakond	12	Põlva vald	0622	Rosma küla	7098	58.0416	27.0772	6
 EE	63222	Soesaare	Põlva maakond	12	Põlva vald	0622	Soesaare küla	7660	58.0571	27.1087	6
 EE	63223	Tromsi	Põlva maakond	12	Põlva vald	0622	Tromsi küla	8353	58.0019	27.1405	6
@@ -3033,12 +3033,12 @@ EE	79739	Aespa	Rapla maakond	13	Kohila vald	0317	Aespa alevik	1094	59.2129	24.66
 EE	79741	Angerja	Rapla maakond	13	Kohila vald	0317	Angerja küla	1270	59.188	24.833	6
 EE	79742	Pahkla	Rapla maakond	13	Kohila vald	0317	Pahkla küla	5854	59.1877	24.8736	6
 EE	79743	Urge	Rapla maakond	13	Kohila vald	0317	Urge küla	8721	59.18	24.7816	6
-EE	79744	Vilivere	Rapla maakond	13	Kohila vald	0317	Vilivere küla	9341	59.2047	24.7184	6
 EE	79744	Aespa	Rapla maakond	13	Kohila vald	0317	Aespa alevik	1094	59.2128	24.6805	6
+EE	79744	Vilivere	Rapla maakond	13	Kohila vald	0317	Vilivere küla	9341	59.2047	24.7184	6
 EE	79745	Salutaguse	Rapla maakond	13	Kohila vald	0317	Salutaguse küla	7402	59.1658	24.8147	6
 EE	79748	Vana-Aespa	Rapla maakond	13	Kohila vald	0317	Vana-Aespa küla	8976	59.1906	24.6456	6
-EE	79801	Vilivere	Rapla maakond	13	Kohila vald	0317	Vilivere küla	9341	59.2179	24.717	6
 EE	79801	Kohila	Rapla maakond	13	Kohila vald	0317	Kohila alev	3268	59.1679	24.7671	6
+EE	79801	Vilivere	Rapla maakond	13	Kohila vald	0317	Vilivere küla	9341	59.2179	24.717	6
 EE	79804	Kohila	Rapla maakond	13	Kohila vald	0317	Kohila alev	3268	59.1668	24.7583	6
 EE	79805	Kohila	Rapla maakond	13	Kohila vald	0317	Kohila alev	3268	59.1634	24.7545	6
 EE	79806	Kohila	Rapla maakond	13	Kohila vald	0317	Kohila alev	3268	59.1724	24.7506	6
@@ -4288,8 +4288,8 @@ EE	67208	Plika	Valga maakond	19	Otepää vald	0557	Plika küla	6296	58.054	26.19
 EE	67209	Prange	Valga maakond	19	Otepää vald	0557	Prange küla	6352	58.0398	26.199	6
 EE	67210	Põru	Valga maakond	19	Otepää vald	0557	Põru küla	6549	58.0406	26.1593	6
 EE	67211	Ruuna	Valga maakond	19	Otepää vald	0557	Ruuna küla	7148	58.0435	26.227	6
-EE	67217	Kolli	Valga maakond	19	Otepää vald	0557	Kolli küla	3353	58.0599	26.2318	6
 EE	67217	Kibena	Valga maakond	19	Otepää vald	0557	Kibena küla	2998	58.0528	26.247	6
+EE	67217	Kolli	Valga maakond	19	Otepää vald	0557	Kolli küla	3353	58.0599	26.2318	6
 EE	67217	Puka	Valga maakond	19	Otepää vald	0557	Puka alevik	6417	58.0532	26.2321	6
 EE	67301	Sihva	Valga maakond	19	Otepää vald	0557	Sihva küla	7565	58.0158	26.4271	6
 EE	67302	Truuta	Valga maakond	19	Otepää vald	0557	Truuta küla	8356	57.9904	26.5568	6
@@ -4306,8 +4306,8 @@ EE	67403	Otepää	Valga maakond	19	Otepää vald	0557	Otepää linn	5755	58.0557
 EE	67404	Otepää	Valga maakond	19	Otepää vald	0557	Otepää linn	5755	58.0596	26.4885	6
 EE	67405	Otepää	Valga maakond	19	Otepää vald	0557	Otepää linn	5755	58.0517	26.481	6
 EE	67407	Otepää	Valga maakond	19	Otepää vald	0557	Otepää linn	5755	58.0653	26.468	6
-EE	67408	Nüpli	Valga maakond	19	Otepää vald	0557	Nüpli küla	5567	58.0301	26.4958	6
 EE	67408	Otepää	Valga maakond	19	Otepää vald	0557	Otepää linn	5755	58.0457	26.4759	6
+EE	67408	Nüpli	Valga maakond	19	Otepää vald	0557	Nüpli küla	5567	58.0301	26.4958	6
 EE	67409	Mäha	Valga maakond	19	Otepää vald	0557	Mäha küla	5232	58.0516	26.4114	6
 EE	67410	Kastolatsi	Valga maakond	19	Otepää vald	0557	Kastolatsi küla	2837	58.0866	26.4864	6
 EE	67411	Arula	Valga maakond	19	Otepää vald	0557	Arula küla	1376	58.0357	26.3582	6
@@ -4315,8 +4315,8 @@ EE	67412	Otepää	Valga maakond	19	Otepää vald	0557	Otepää linn	5755	58.0629
 EE	67414	Pühajärve	Valga maakond	19	Otepää vald	0557	Pühajärve küla	6659	58.0495	26.4498	6
 EE	67415	Raudsepa	Valga maakond	19	Otepää vald	0557	Raudsepa küla	6857	57.9965	26.4543	6
 EE	67416	Pilkuse	Valga maakond	19	Otepää vald	0557	Pilkuse küla	6252	58.0388	26.5512	6
-EE	67417	Otepää	Valga maakond	19	Otepää vald	0557	Otepää linn	5755	58.0611	26.4726	6
 EE	67417	Pedajamäe	Valga maakond	19	Otepää vald	0557	Pedajamäe küla	6060	58.0734	26.4471	6
+EE	67417	Otepää	Valga maakond	19	Otepää vald	0557	Otepää linn	5755	58.0611	26.4726	6
 EE	67418	Otepää	Valga maakond	19	Otepää vald	0557	Otepää linn	5755	58.065	26.5041	6
 EE	67418	Vana-Otepää	Valga maakond	19	Otepää vald	0557	Vana-Otepää küla	8999	58.0807	26.5379	6
 EE	67501	Nõuni	Valga maakond	19	Otepää vald	0557	Nõuni küla	5540	58.125	26.5159	6

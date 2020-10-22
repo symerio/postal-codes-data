@@ -1,7 +1,7 @@
 LU	L-4906	Dippach	Capellen	CA	Dippach	03			49.5877	5.9782	4
 LU	L-4968	Schouweiler	Capellen	CA	Dippach	03			49.5789	5.9571	6
-LU	L-4970	Bettange-sur-Mess	Capellen	CA	Dippach	03			49.5765	5.9949	6
 LU	L-4970	Sprinkange	Capellen	CA	Dippach	03			49.5853	5.9728	6
+LU	L-4970	Bettange-sur-Mess	Capellen	CA	Dippach	03			49.5765	5.9949	6
 LU	L-4971	Bettange-sur-Mess	Capellen	CA	Dippach	03			49.5709	5.995	6
 LU	L-4972	Dippach	Capellen	CA	Dippach	03			49.5877	5.9782	6
 LU	L-4973	Dippach	Capellen	CA	Dippach	03			49.5881	5.9896	6
@@ -9,8 +9,8 @@ LU	L-4974	Dippach	Capellen	CA	Dippach	03			49.5881	5.9862	6
 LU	L-4975	Bettange-sur-Mess	Capellen	CA	Dippach	03			49.5746	5.987	6
 LU	L-4976	Bettange-sur-Mess	Capellen	CA	Dippach	03			49.5743	5.9811	6
 LU	L-4977	Bettange-sur-Mess	Capellen	CA	Dippach	03			49.5762	5.9869	6
-LU	L-4994	Schouweiler	Capellen	CA	Dippach	03			49.5823	5.9589	6
 LU	L-4994	Sprinkange	Capellen	CA	Dippach	03			49.5849	5.9658	6
+LU	L-4994	Schouweiler	Capellen	CA	Dippach	03			49.5823	5.9589	6
 LU	L-4995	Schouweiler	Capellen	CA	Dippach	03			49.5793	5.9505	6
 LU	L-4996	Schouweiler	Capellen	CA	Dippach	03			49.5811	5.9546	6
 LU	L-4997	Schouweiler	Capellen	CA	Dippach	03			49.5859	5.9553	6
@@ -259,10 +259,10 @@ LU	L-8336	Capellen	Capellen	CA	Mamer	09			49.6443	5.9892	6
 LU	L-8337	Capellen	Capellen	CA	Mamer	09			49.6451	5.9987	6
 LU	L-8345	Capellen	Capellen	CA	Mamer	09			49.6409	5.9829	6
 LU	L-8348	Capellen	Capellen	CA	Mamer	09			49.6447	5.9825	6
-LU	L-8363	Greisch	Capellen	CA	Septfontaines	10			49.71	5.9875	6
-LU	L-8363	Simmerfarm	Capellen	CA	Septfontaines	10			49.6962	5.9872	6
 LU	L-8363	Simmerschmelz	Capellen	CA	Septfontaines	10			49.6942	5.9852	6
+LU	L-8363	Greisch	Capellen	CA	Septfontaines	10			49.71	5.9875	6
 LU	L-8363	Leesbach	Capellen	CA	Septfontaines	10			49.7051	5.9821	6
+LU	L-8363	Simmerfarm	Capellen	CA	Septfontaines	10			49.6962	5.9872	6
 LU	L-8383	Septfontaines	Capellen	CA	Septfontaines	10			49.6851	5.9421	6
 LU	L-8395	Septfontaines	Capellen	CA	Septfontaines	10			49.7005	5.9642	6
 LU	L-8396	Septfontaines	Capellen	CA	Septfontaines	10			49.6999	5.9666	6
@@ -439,9 +439,9 @@ LU	L-9758	Tintesmühle	Clervaux	CL	Clervaux	03			50.0938	6.1259	6
 LU	L-9759	Kirelshof	Clervaux	CL	Clervaux	03			50.0288	5.9728	6
 LU	L-9763	Marnach	Clervaux	CL	Clervaux	03			50.049	6.0737	6
 LU	L-9764	Marnach	Clervaux	CL	Clervaux	03			50.0557	6.0649	6
-LU	L-9765	Mecher	Clervaux	CL	Clervaux	03			50.0415	6.0168	6
 LU	L-9765	Wirtgensmühle	Clervaux	CL	Clervaux	03			50.0335	6.0086	6
 LU	L-9765	Kaaspelterhof	Clervaux	CL	Clervaux	03			50.029	6.0001	6
+LU	L-9765	Mecher	Clervaux	CL	Clervaux	03			50.0415	6.0168	6
 LU	L-9766	Munshausen	Clervaux	CL	Clervaux	03			50.0337	6.0373	6
 LU	L-9768	Reuler	Clervaux	CL	Clervaux	03			50.0566	6.0358	6
 LU	L-9769	Roder	Clervaux	CL	Clervaux	03			50.0553	6.0823	6
@@ -476,8 +476,8 @@ LU	L-9946	Binsfeld	Clervaux	CL	Weiswampach	10			50.119	6.0377	6
 LU	L-9950	Breidfeld	Clervaux	CL	Weiswampach	10			50.1232	6.0622	6
 LU	L-9962	Holler	Clervaux	CL	Weiswampach	10			50.1233	6.0474	6
 LU	L-9966	Kaesfurt	Clervaux	CL	Weiswampach	10			50.1559	6.079	6
-LU	L-9968	Kleemühle	Clervaux	CL	Weiswampach	10			50.1069	6.0427	
 LU	L-9968	Hollermühle	Clervaux	CL	Weiswampach	10			50.1168	6.0519	6
+LU	L-9968	Kleemühle	Clervaux	CL	Weiswampach	10			50.1069	6.0427	
 LU	L-9968	Rossmühle	Clervaux	CL	Weiswampach	10			50.1106	6.046	6
 LU	L-9970	Leithum	Clervaux	CL	Weiswampach	10			50.1601	6.1078	6
 LU	L-9990	Weiswampach	Clervaux	CL	Weiswampach	10			50.1363	6.0743	6
@@ -529,8 +529,8 @@ LU	L-9140	Bourscheid	Diekirch	DI	Bourscheid	03			49.9097	6.0645	6
 LU	L-9153	Goebelsmühle	Diekirch	DI	Bourscheid	03			49.921	6.0549	6
 LU	L-9153	Dirbach	Diekirch	DI	Bourscheid	03			49.9182	6.0352	6
 LU	L-9163	Kehmen	Diekirch	DI	Bourscheid	03			49.8997	6.0367	6
-LU	L-9164	Lipperscheid	Diekirch	DI	Bourscheid	03			49.9182	6.0861	6
 LU	L-9164	Bourscheid-Moulin	Diekirch	DI	Bourscheid	03			49.9101	6.0861	6
+LU	L-9164	Lipperscheid	Diekirch	DI	Bourscheid	03			49.9182	6.0861	6
 LU	L-9164	Bourscheid-Plage	Diekirch	DI	Bourscheid	03			49.909	6.0792	6
 LU	L-9171	Michelau	Diekirch	DI	Bourscheid	03			49.8992	6.0908	6
 LU	L-9172	Michelau	Diekirch	DI	Bourscheid	03			49.895	6.0965	6
@@ -539,9 +539,9 @@ LU	L-9183	Schlindermanderscheid	Diekirch	DI	Bourscheid	03			49.9321	6.0609	6
 LU	L-9183	Friedbusch	Diekirch	DI	Bourscheid	03			49.9503	6.0558	6
 LU	L-9191	Welscheid	Diekirch	DI	Bourscheid	03			49.8868	6.0647	6
 LU	L-9340	Flebour	Diekirch	DI	Bourscheid	03			49.9052	6.1158	4
-LU	L-9378	Flebour	Diekirch	DI	Bourscheid	03			49.9101	6.1077	6
 LU	L-9378	Enteschbach	Diekirch	DI	Bourscheid	03			49.912	6.1141	6
 LU	L-9378	Lipperscheid	Diekirch	DI	Bourscheid	03			49.926	6.0899	6
+LU	L-9378	Flebour	Diekirch	DI	Bourscheid	03			49.9101	6.1077	6
 LU	L-9378	Closdelt	Diekirch	DI	Bourscheid	03			49.9017	6.1225	6
 LU	L-9201	Diekirch	Diekirch	DI	Diekirch	04			49.8629	6.1571	4
 LU	L-9202	Diekirch	Diekirch	DI	Diekirch	04			49.8629	6.1571	4
@@ -758,9 +758,9 @@ LU	L-9135	Schieren	Diekirch	DI	Schieren	13			49.8268	6.0979	6
 LU	L-9136	Schieren	Diekirch	DI	Schieren	13			49.8291	6.0976	6
 LU	L-9137	Schieren	Diekirch	DI	Schieren	13			49.826	6.0997	6
 LU	L-9184	Schieren	Diekirch	DI	Schieren	13			49.8197	6.1206	6
-LU	L-6380	Medernach	Diekirch	DI	Vallée de l'Ernz	8641526			49.8183	6.2629	
 LU	L-6380	Savelborn	Diekirch	DI	Vallée de l'Ernz	8641526			49.8117	6.2531	6
 LU	L-6380	Ermsdorf	Diekirch	DI	Vallée de l'Ernz	8641526			49.8241	6.2446	4
+LU	L-6380	Medernach	Diekirch	DI	Vallée de l'Ernz	8641526			49.8183	6.2629	
 LU	L-7622	Medernach	Diekirch	DI	Vallée de l'Ernz	8641526			49.7901	6.2181	6
 LU	L-7633	Medernach	Diekirch	DI	Vallée de l'Ernz	8641526			49.8003	6.1983	6
 LU	L-7634	Medernach	Diekirch	DI	Vallée de l'Ernz	8641526			49.805	6.2382	6
@@ -784,9 +784,9 @@ LU	L-6315	Beaufort	Echternach	EC	Beaufort	01			49.8333	6.2951	6
 LU	L-6316	Beaufort	Echternach	EC	Beaufort	01			49.8451	6.2713	6
 LU	L-6350	Dillingen	Echternach	EC	Beaufort	01			49.8499	6.3185	6
 LU	L-6360	Grundhof	Echternach	EC	Beaufort	01			49.8337	6.3272	6
+LU	L-6225	Kobenbour	Echternach	EC	Bech	02			49.756	6.3055	6
 LU	L-6225	Hersberg	Echternach	EC	Bech	02			49.7555	6.328	6
 LU	L-6225	Altrier	Echternach	EC	Bech	02			49.75	6.3255	6
-LU	L-6225	Kobenbour	Echternach	EC	Bech	02			49.756	6.3055	6
 LU	L-6230	Bech	Echternach	EC	Bech	02			49.7523	6.3598	6
 LU	L-6231	Bech	Echternach	EC	Bech	02			49.7527	6.3659	6
 LU	L-6243	Hemstal	Echternach	EC	Bech	02			49.7408	6.3349	6
@@ -814,8 +814,8 @@ LU	L-6215	Consdorf	Echternach	EC	Consdorf	04			49.7774	6.338	6
 LU	L-6238	Breidweiler	Echternach	EC	Consdorf	04			49.7777	6.3059	6
 LU	L-6239	Colbette	Echternach	EC	Consdorf	04			49.7686	6.3027	6
 LU	L-6239	Marscherwald	Echternach	EC	Consdorf	04			49.7633	6.2844	6
-LU	L-6250	Scheidgen	Echternach	EC	Consdorf	04			49.7854	6.3653	6
 LU	L-6250	Consdorf	Echternach	EC	Consdorf	04			49.787	6.3567	6
+LU	L-6250	Scheidgen	Echternach	EC	Consdorf	04			49.7854	6.3653	6
 LU	L-6251	Scheidgen	Echternach	EC	Consdorf	04			49.7784	6.3635	6
 LU	L-6252	Wolper	Echternach	EC	Consdorf	04			49.7637	6.3521	6
 LU	L-6401	Echternach	Echternach	EC	Echternach	05			49.8198	6.3978	4
@@ -1960,8 +1960,8 @@ LU	L-1896	Kockelscheuer	Esch-sur-Alzette	ES	Roeser	11			49.5569	6.096	4
 LU	L-1897	Kockelscheuer	Esch-sur-Alzette	ES	Roeser	11			49.5569	6.096	4
 LU	L-1898	Kockelscheuer	Esch-sur-Alzette	ES	Roeser	11			49.5599	6.1116	6
 LU	L-1899	Kockelscheuer	Esch-sur-Alzette	ES	Roeser	11			49.5563	6.1042	6
-LU	L-3320	Bivange	Esch-sur-Alzette	ES	Roeser	11			49.5421	6.1369	6
 LU	L-3320	Berchem	Esch-sur-Alzette	ES	Roeser	11			49.5395	6.1332	6
+LU	L-3320	Bivange	Esch-sur-Alzette	ES	Roeser	11			49.5421	6.1369	6
 LU	L-3321	Berchem	Esch-sur-Alzette	ES	Roeser	11			49.5406	6.1286	6
 LU	L-3322	Bivange	Esch-sur-Alzette	ES	Roeser	11			49.5427	6.1356	6
 LU	L-3323	Bivange	Esch-sur-Alzette	ES	Roeser	11			49.5455	6.1328	6
@@ -2228,8 +2228,8 @@ LU	L-6951	Olingen	Grevenmacher	GR	Betzdorf	01			49.6806	6.3178	6
 LU	L-6833	Biwer	Grevenmacher	GR	Biwer	02			49.703	6.3747	6
 LU	L-6834	Biwerbach	Grevenmacher	GR	Biwer	02			49.7117	6.3657	6
 LU	L-6834	Biwer	Grevenmacher	GR	Biwer	02			49.708	6.374	6
-LU	L-6835	Boudler	Grevenmacher	GR	Biwer	02			49.7225	6.3534	6
 LU	L-6835	Boudlerbach	Grevenmacher	GR	Biwer	02			49.7178	6.3514	6
+LU	L-6835	Boudler	Grevenmacher	GR	Biwer	02			49.7225	6.3534	6
 LU	L-6836	Breinert	Grevenmacher	GR	Biwer	02			49.7122	6.3386	6
 LU	L-6837	Brouch (Wecker)	Grevenmacher	GR	Biwer	02			49.7286	6.3402	6
 LU	L-6838	Hagelsdorf	Grevenmacher	GR	Biwer	02			49.6924	6.3634	6
@@ -2604,8 +2604,8 @@ LU	L-5826	Hesperange	Luxembourg	LU	Hesperange	03			49.5717	6.1483	4
 LU	L-5826	Fentange	Luxembourg	LU	Hesperange	03			49.5714	6.1458	6
 LU	L-5828	Fentange	Luxembourg	LU	Hesperange	03			49.5693	6.1529	6
 LU	L-5829	Alzingen	Luxembourg	LU	Hesperange	03			49.5653	6.1633	6
-LU	L-5830	Alzingen	Luxembourg	LU	Hesperange	03			49.5712	6.1639	6
 LU	L-5830	Hesperange	Luxembourg	LU	Hesperange	03			49.573	6.162	6
+LU	L-5830	Alzingen	Luxembourg	LU	Hesperange	03			49.5712	6.1639	6
 LU	L-5831	Hesperange	Luxembourg	LU	Hesperange	03			49.5767	6.1606	6
 LU	L-5832	Fentange	Luxembourg	LU	Hesperange	03			49.5709	6.1404	6
 LU	L-5833	Alzingen	Luxembourg	LU	Hesperange	03			49.5727	6.1651	6
@@ -2632,8 +2632,8 @@ LU	L-5860	Hesperange	Luxembourg	LU	Hesperange	03			49.5725	6.1616	6
 LU	L-5861	Fentange	Luxembourg	LU	Hesperange	03			49.5686	6.1545	6
 LU	L-5862	Hesperange	Luxembourg	LU	Hesperange	03			49.5712	6.1498	6
 LU	L-5862	Fentange	Luxembourg	LU	Hesperange	03			49.5711	6.1467	6
-LU	L-5863	Alzingen	Luxembourg	LU	Hesperange	03			49.5739	6.1635	6
 LU	L-5863	Hesperange	Luxembourg	LU	Hesperange	03			49.5733	6.1613	6
+LU	L-5863	Alzingen	Luxembourg	LU	Hesperange	03			49.5739	6.1635	6
 LU	L-5864	Fentange	Luxembourg	LU	Hesperange	03			49.5636	6.1484	6
 LU	L-5865	Alzingen	Luxembourg	LU	Hesperange	03			49.5619	6.1626	6
 LU	L-5866	Hesperange	Luxembourg	LU	Hesperange	03			49.58	6.1511	6
@@ -2649,14 +2649,14 @@ LU	L-5875	Alzingen	Luxembourg	LU	Hesperange	03			49.5693	6.1675	6
 LU	L-5876	Hesperange	Luxembourg	LU	Hesperange	03			49.5727	6.1496	6
 LU	L-5878	Hesperange	Luxembourg	LU	Hesperange	03			49.5727	6.1519	6
 LU	L-5880	Hesperange	Luxembourg	LU	Hesperange	03			49.573	6.1488	4
-LU	L-5884	Howald	Luxembourg	LU	Hesperange	03			49.582	6.1482	6
 LU	L-5884	Hesperange	Luxembourg	LU	Hesperange	03			49.5762	6.1535	4
-LU	L-5885	Howald	Luxembourg	LU	Hesperange	03			49.5852	6.1453	6
+LU	L-5884	Howald	Luxembourg	LU	Hesperange	03			49.582	6.1482	6
 LU	L-5885	Hesperange	Luxembourg	LU	Hesperange	03			49.576	6.154	6
-LU	L-5886	Alzingen	Luxembourg	LU	Hesperange	03			49.569	6.1606	4
+LU	L-5885	Howald	Luxembourg	LU	Hesperange	03			49.5852	6.1453	6
 LU	L-5886	Hesperange	Luxembourg	LU	Hesperange	03			49.5727	6.1578	6
-LU	L-5887	Alzingen	Luxembourg	LU	Hesperange	03			49.5668	6.1623	4
+LU	L-5886	Alzingen	Luxembourg	LU	Hesperange	03			49.569	6.1606	4
 LU	L-5887	Hesperange	Luxembourg	LU	Hesperange	03			49.573	6.1589	4
+LU	L-5887	Alzingen	Luxembourg	LU	Hesperange	03			49.5668	6.1623	4
 LU	L-5888	Alzingen	Luxembourg	LU	Hesperange	03			49.5611	6.1647	6
 LU	L-5889	Fentange	Luxembourg	LU	Hesperange	03			49.5665	6.1546	6
 LU	L-5890	Hesperange	Luxembourg	LU	Hesperange	03			49.5719	6.1614	6
@@ -2732,8 +2732,8 @@ LU	L-6960	Senningen	Luxembourg	LU	Niederanven	04			49.6492	6.2432	6
 LU	L-6961	Senningen	Luxembourg	LU	Niederanven	04			49.6466	6.2394	6
 LU	L-6962	Senningen	Luxembourg	LU	Niederanven	04			49.6465	6.2421	6
 LU	L-6969	Oberanven	Luxembourg	LU	Niederanven	04			49.6605	6.251	6
-LU	L-6970	Oberanven	Luxembourg	LU	Niederanven	04			49.6578	6.2416	6
 LU	L-6970	Hostert	Luxembourg	LU	Niederanven	04			49.6566	6.2332	6
+LU	L-6970	Oberanven	Luxembourg	LU	Niederanven	04			49.6578	6.2416	6
 LU	L-6971	Hostert	Luxembourg	LU	Niederanven	04			49.6608	6.237	6
 LU	L-6972	Rameldange	Luxembourg	LU	Niederanven	04			49.6639	6.2311	6
 LU	L-6973	Rameldange	Luxembourg	LU	Niederanven	04			49.6698	6.2357	6
@@ -2756,8 +2756,8 @@ LU	L-6990	Rameldange	Luxembourg	LU	Niederanven	04			49.6642	6.2316	4
 LU	L-6991	Rameldange	Luxembourg	LU	Niederanven	04			49.6644	6.2295	6
 LU	L-6992	Oberanven	Luxembourg	LU	Niederanven	04			49.6583	6.2498	6
 LU	L-6995	Rameldange	Luxembourg	LU	Niederanven	04			49.6618	6.2353	6
-LU	L-6996	Hostert	Luxembourg	LU	Niederanven	04			49.661	6.2348	6
 LU	L-6996	Oberanven	Luxembourg	LU	Niederanven	04			49.6593	6.2376	4
+LU	L-6996	Hostert	Luxembourg	LU	Niederanven	04			49.661	6.2348	6
 LU	L-6996	Rameldange	Luxembourg	LU	Niederanven	04			49.6614	6.2357	4
 LU	L-6997	Oberanven	Luxembourg	LU	Niederanven	04			49.6591	6.2384	6
 LU	L-6998	Hostert	Luxembourg	LU	Niederanven	04			49.6564	6.2306	6
@@ -2820,8 +2820,8 @@ LU	L-5368	Schuttrange	Luxembourg	LU	Schuttrange	06			49.6198	6.2694	6
 LU	L-5369	Schuttrange	Luxembourg	LU	Schuttrange	06			49.6198	6.2737	6
 LU	L-5370	Schuttrange	Luxembourg	LU	Schuttrange	06			49.6217	6.274	6
 LU	L-5371	Schuttrange	Luxembourg	LU	Schuttrange	06			49.6211	6.2624	6
-LU	L-5372	Schuttrange	Luxembourg	LU	Schuttrange	06			49.6248	6.2665	6
 LU	L-5372	Munsbach	Luxembourg	LU	Schuttrange	06			49.6271	6.2666	6
+LU	L-5372	Schuttrange	Luxembourg	LU	Schuttrange	06			49.6248	6.2665	6
 LU	L-5373	Schuttrange	Luxembourg	LU	Schuttrange	06			49.6182	6.2632	6
 LU	L-5374	Munsbach	Luxembourg	LU	Schuttrange	06			49.6321	6.2624	6
 LU	L-5375	Schuttrange	Luxembourg	LU	Schuttrange	06			49.6232	6.2662	6
@@ -3873,15 +3873,15 @@ LU	L-7415	Brouch	Mersch	ME	Boevange-sur-Attert	03			49.7375	6.0271	6
 LU	L-7416	Brouch	Mersch	ME	Boevange-sur-Attert	03			49.7372	6.0198	6
 LU	L-7417	Brouch	Mersch	ME	Boevange-sur-Attert	03			49.741	6.017	6
 LU	L-7418	Buschdorf	Mersch	ME	Boevange-sur-Attert	03			49.7501	6.0066	6
-LU	L-7425	Openthalt	Mersch	ME	Boevange-sur-Attert	03			49.7522	6.0356	6
 LU	L-7425	Finsterthal	Mersch	ME	Boevange-sur-Attert	03			49.7584	6.0396	6
+LU	L-7425	Openthalt	Mersch	ME	Boevange-sur-Attert	03			49.7522	6.0356	6
 LU	L-7425	Bill	Mersch	ME	Boevange-sur-Attert	03			49.7639	6.0399	6
 LU	L-7433	Grevenknapp	Mersch	ME	Boevange-sur-Attert	03			49.7631	6.0321	6
 LU	L-8710	Boevange-sur-Attert	Mersch	ME	Boevange-sur-Attert	03			49.7737	6.0134	6
 LU	L-8711	Boevange-sur-Attert	Mersch	ME	Boevange-sur-Attert	03			49.7715	6.0199	6
-LU	L-6155	Stuppicht	Mersch	ME	Fischbach	04			49.7256	6.188	6
 LU	L-6155	Weyer	Mersch	ME	Fischbach	04			49.725	6.1994	6
 LU	L-6155	Koedange	Mersch	ME	Fischbach	04			49.7348	6.2085	6
+LU	L-6155	Stuppicht	Mersch	ME	Fischbach	04			49.7256	6.188	6
 LU	L-6175	Schiltzberg	Mersch	ME	Fischbach	04			49.7385	6.2214	6
 LU	L-7410	Angelsberg	Mersch	ME	Fischbach	04			49.7639	6.1598	6
 LU	L-7430	Fischbach	Mersch	ME	Fischbach	04			49.7463	6.1894	6
@@ -3957,8 +3957,8 @@ LU	L-7371	Helmdange	Mersch	ME	Lorentzweiler	08			49.693	6.1444	6
 LU	L-7372	Lorentzweiler	Mersch	ME	Lorentzweiler	08			49.704	6.139	6
 LU	L-7373	Helmdange	Mersch	ME	Lorentzweiler	08			49.6951	6.1408	6
 LU	L-7373	Lorentzweiler	Mersch	ME	Lorentzweiler	08			49.6997	6.141	6
-LU	L-7374	Bofferdange	Mersch	ME	Lorentzweiler	08			49.687	6.1397	6
 LU	L-7374	Helmdange	Mersch	ME	Lorentzweiler	08			49.693	6.141	6
+LU	L-7374	Bofferdange	Mersch	ME	Lorentzweiler	08			49.687	6.1397	6
 LU	L-7375	Lorentzweiler	Mersch	ME	Lorentzweiler	08			49.7011	6.1431	6
 LU	L-7376	Bofferdange	Mersch	ME	Lorentzweiler	08			49.6863	6.1433	4
 LU	L-7377	Lorentzweiler	Mersch	ME	Lorentzweiler	08			49.7053	6.1414	6
@@ -3971,9 +3971,9 @@ LU	L-7383	Lorentzweiler	Mersch	ME	Lorentzweiler	08			49.7019	6.1503	6
 LU	L-7384	Lorentzweiler	Mersch	ME	Lorentzweiler	08			49.7014	6.15	4
 LU	L-7390	Blaschette	Mersch	ME	Lorentzweiler	08			49.7015	6.1666	6
 LU	L-7391	Blaschette	Mersch	ME	Lorentzweiler	08			49.704	6.1691	6
-LU	L-7392	Klingelscheuer	Mersch	ME	Lorentzweiler	08			49.693	6.1683	6
 LU	L-7392	Asselscheuer	Mersch	ME	Lorentzweiler	08			49.6906	6.173	6
 LU	L-7392	Blaschette	Mersch	ME	Lorentzweiler	08			49.6977	6.1673	6
+LU	L-7392	Klingelscheuer	Mersch	ME	Lorentzweiler	08			49.693	6.1683	6
 LU	L-7395	Hunsdorf	Mersch	ME	Lorentzweiler	08			49.6974	6.1312	4
 LU	L-7396	Hunsdorf	Mersch	ME	Lorentzweiler	08			49.6975	6.1286	4
 LU	L-7397	Hunsdorf	Mersch	ME	Lorentzweiler	08			49.6969	6.1314	6
@@ -4018,8 +4018,8 @@ LU	L-7539	Rollingen	Mersch	ME	Mersch	09			49.7427	6.1122	6
 LU	L-7540	Rollingen	Mersch	ME	Mersch	09			49.7401	6.1148	4
 LU	L-7541	Mersch	Mersch	ME	Mersch	09			49.7501	6.1089	6
 LU	L-7542	Mersch	Mersch	ME	Mersch	09			49.7447	6.097	6
-LU	L-7543	Mersch	Mersch	ME	Mersch	09			49.7417	6.0972	4
 LU	L-7543	Rollingen	Mersch	ME	Mersch	09			49.7479	6.1127	6
+LU	L-7543	Mersch	Mersch	ME	Mersch	09			49.7417	6.0972	4
 LU	L-7544	Mersch	Mersch	ME	Mersch	09			49.7475	6.0995	6
 LU	L-7545	Mersch	Mersch	ME	Mersch	09			49.7501	6.1161	6
 LU	L-7546	Rollingen	Mersch	ME	Mersch	09			49.7415	6.1168	6
@@ -4063,8 +4063,8 @@ LU	L-7431	Oberglabach	Mersch	ME	Nommern	10			49.785	6.1497	6
 LU	L-7431	Niederglabach	Mersch	ME	Nommern	10			49.7923	6.1542	6
 LU	L-7465	Nommern	Mersch	ME	Nommern	10			49.7946	6.1748	6
 LU	L-9184	Schrondweiler	Mersch	ME	Nommern	10			49.8058	6.1551	6
-LU	L-7411	Marienthal	Mersch	ME	Tuntange	11			49.7077	6.0668	6
 LU	L-7411	Ansembourg	Mersch	ME	Tuntange	11			49.7017	6.0414	6
+LU	L-7411	Marienthal	Mersch	ME	Tuntange	11			49.7077	6.0668	6
 LU	L-7412	Bour	Mersch	ME	Tuntange	11			49.6999	6.016	6
 LU	L-7435	Hollenfels	Mersch	ME	Tuntange	11			49.7132	6.0487	6
 LU	L-7480	Tuntange	Mersch	ME	Tuntange	11			49.7163	6.0082	6
@@ -4098,15 +4098,15 @@ LU	L-8806	Rambrouch	Redange	RD	Rambrouch	06			49.8308	5.8513	6
 LU	L-8808	Arsdorf	Redange	RD	Rambrouch	06			49.86	5.8451	6
 LU	L-8809	Arsdorf	Redange	RD	Rambrouch	06			49.86	5.8412	6
 LU	L-8811	Bilsdorf	Redange	RD	Rambrouch	06			49.8566	5.8241	6
-LU	L-8812	Bigonville	Redange	RD	Rambrouch	06			49.8459	5.7915	6
 LU	L-8812	Bigonville-Poteau	Redange	RD	Rambrouch	06			49.8383	5.7832	6
+LU	L-8812	Bigonville	Redange	RD	Rambrouch	06			49.8459	5.7915	6
 LU	L-8812	Flatzbour	Redange	RD	Rambrouch	06			49.8355	5.7876	6
 LU	L-8813	Bigonville	Redange	RD	Rambrouch	06			49.8512	5.7935	6
 LU	L-8814	Bigonville	Redange	RD	Rambrouch	06			49.8506	5.7905	6
 LU	L-8817	Eschette	Redange	RD	Rambrouch	06			49.8231	5.8871	6
 LU	L-8820	Holtz	Redange	RD	Rambrouch	06			49.8066	5.7927	6
-LU	L-8821	Koetschette	Redange	RD	Rambrouch	06			49.8382	5.8391	6
 LU	L-8821	Riesenhof	Redange	RD	Rambrouch	06			49.8397	5.8147	6
+LU	L-8821	Koetschette	Redange	RD	Rambrouch	06			49.8382	5.8391	6
 LU	L-8823	Haut-Martelange	Redange	RD	Rambrouch	06			49.8237	5.7488	6
 LU	L-8824	Perlé	Redange	RD	Rambrouch	06			49.8128	5.764	6
 LU	L-8825	Perlé	Redange	RD	Rambrouch	06			49.81	5.7581	6
@@ -4146,8 +4146,8 @@ LU	L-8707	Useldange	Redange	RD	Useldange	11			49.7709	5.98	6
 LU	L-8708	Useldange	Redange	RD	Useldange	11			49.7724	5.9821	6
 LU	L-8715	Everlange	Redange	RD	Useldange	11			49.7756	5.9529	6
 LU	L-8720	Rippweiler	Redange	RD	Useldange	11			49.7508	5.9551	6
-LU	L-9173	Vichten	Redange	RD	Vichten	12			49.8128	6.0041	4
 LU	L-9173	Michelbouch	Redange	RD	Vichten	12			49.8193	6.019	6
+LU	L-9173	Vichten	Redange	RD	Vichten	12			49.8128	6.0041	4
 LU	L-9188	Vichten	Redange	RD	Vichten	12			49.8015	5.9991	6
 LU	L-9189	Vichten	Redange	RD	Vichten	12			49.8035	6.0012	6
 LU	L-9190	Vichten	Redange	RD	Vichten	12			49.8022	6.0021	6
@@ -4328,8 +4328,8 @@ LU	L-9452	Bettel	Vianden	VD	Tandel	01			49.9142	6.225	6
 LU	L-9454	Fouhren	Vianden	VD	Tandel	01			49.9124	6.1967	6
 LU	L-9455	Fouhren	Vianden	VD	Tandel	01			49.9147	6.1926	6
 LU	L-9457	Landscheid	Vianden	VD	Tandel	01			49.9243	6.1279	6
-LU	L-9458	Brandenbourg	Vianden	VD	Tandel	01			49.9332	6.1571	6
 LU	L-9458	Hoscheidterhof	Vianden	VD	Tandel	01			49.9361	6.1564	6
+LU	L-9458	Brandenbourg	Vianden	VD	Tandel	01			49.9332	6.1571	6
 LU	L-9458	Landscheid	Vianden	VD	Tandel	01			49.9342	6.1463	6
 LU	L-9459	Longsdorf	Vianden	VD	Tandel	01			49.8984	6.2064	6
 LU	L-9465	Walsdorf	Vianden	VD	Tandel	01			49.9252	6.1721	6
@@ -4364,8 +4364,8 @@ LU	L-9424	Vianden	Vianden	VD	Vianden	03			49.9331	6.2078	6
 LU	L-9425	Vianden	Vianden	VD	Vianden	03			49.9355	6.2073	6
 LU	L-9426	Vianden	Vianden	VD	Vianden	03			49.9304	6.2127	6
 LU	L-9440	Vianden	Vianden	VD	Vianden	03			49.9408	6.2149	6
-LU	L-9633	Boulaide	Wiltz	WI	Boulaide	01			49.8954	5.813	4
 LU	L-9633	Baschleiden	Wiltz	WI	Boulaide	01			49.8979	5.818	6
+LU	L-9633	Boulaide	Wiltz	WI	Boulaide	01			49.8954	5.813	4
 LU	L-9639	Boulaide	Wiltz	WI	Boulaide	01			49.8892	5.8159	6
 LU	L-9640	Boulaide	Wiltz	WI	Boulaide	01			49.8863	5.8114	6
 LU	L-9687	Surré	Wiltz	WI	Boulaide	01			49.9023	5.7785	6
@@ -4468,10 +4468,10 @@ LU	L-9696	Wiltz	Wiltz	WI	Wiltz	11			49.9639	5.9044	6
 LU	L-9759	Knaphoscheid	Wiltz	WI	Wiltz	11			50.0161	5.9655	6
 LU	L-9636	Berlé	Wiltz	WI	Winseler	13			49.9522	5.8567	6
 LU	L-9638	Pommerloch	Wiltz	WI	Winseler	13			49.9603	5.8597	6
-LU	L-9647	Sonlez	Wiltz	WI	Winseler	13			49.9643	5.8238	6
 LU	L-9647	Doncols	Wiltz	WI	Winseler	13			49.9717	5.8397	6
-LU	L-9654	Gruemelscheid	Wiltz	WI	Winseler	13			49.9847	5.8723	6
+LU	L-9647	Sonlez	Wiltz	WI	Winseler	13			49.9643	5.8238	6
 LU	L-9654	Schleif	Wiltz	WI	Winseler	13			49.9893	5.8569	6
+LU	L-9654	Gruemelscheid	Wiltz	WI	Winseler	13			49.9847	5.8723	6
 LU	L-9676	Noertrange	Wiltz	WI	Winseler	13			49.9798	5.9077	6
 LU	L-9696	Winseler	Wiltz	WI	Winseler	13			49.9674	5.8889	6
 LU	L-9632	Alscheid	Wiltz	WI	Kiischpelt	8641289			49.9696	6.0079	6

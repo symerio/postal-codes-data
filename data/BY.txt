@@ -315,7 +315,7 @@ BY	211478	Горбачево	Vitebsk		Rossony				55.9584	29.0513	4
 BY	211480	Ушачи	Vitebsk		Ouchatchi				55.179	28.6158	4
 BY	211481	Лесные Озера	Vitebsk		Ouchatchi				55.1307	28.4734	1
 BY	211482	Жары	Vitebsk		Ouchatchi				55.078	28.6608	4
-BY	211483	Ильюшино	Vitebsk		Ouchatci				55.1307	28.4734	1
+BY	211483	Ильюшино	Vitebsk		Ouchatchi				55.1307	28.4734	1
 BY	211484	Большие Дольцы	Vitebsk		Ouchatchi				55.1307	28.4734	1
 BY	211485	Малые Дольцы	Vitebsk		Ouchatchi				54.9867	28.386	4
 BY	211486	Косари	Vitebsk		Ouchatchi				55.0241	28.3124	4
@@ -403,8 +403,8 @@ BY	211653	Экимань	Vitebsk		Polotsk				55.4865	28.723	4
 BY	211654	Фариново	Vitebsk		Polotsk				55.4283	28.5847	4
 BY	211655	Заскорки	Vitebsk		Polotsk				55.3789	28.647	4
 BY	211656	Вороничи	Vitebsk		Polotsk				55.3267	28.6443	4
-BY	211657	Гомель	Gomel		Gomel				55.2987	28.7739	4
 BY	211657	Гомель	Vitebsk		Polotsk				55.2987	28.7739	4
+BY	211657	Гомель	Gomel		Gomel				55.2987	28.7739	4
 BY	211658	Туровля	Vitebsk		Polotsk				55.3655	28.9402	4
 BY	211660	Новая Полота	Vitebsk		Polotsk				55.6045	29.0367	4
 BY	211661	Юровичи	Vitebsk		Polotsk				55.6045	29.0367	1
@@ -548,15 +548,15 @@ BY	211959	Ист	Vitebsk		Miory				55.4345	28.2252	4
 BY	211960	Друя	Vitebsk		Braslav				55.7906	27.4505	4
 BY	211962	Оплиса	Vitebsk		Braslav				55.6835	27.294	4
 BY	211965	Подрушка	Vitebsk		Braslav				55.737	27.3723	1
-BY	211970	Браслав	Vitebsk		Braslov				55.6413	27.0418	4
+BY	211970	Браслав	Vitebsk		Braslav				55.6413	27.0418	4
 BY	211971	Иказнь	Vitebsk		Braslav				55.6222	27.2586	4
 BY	211972	Ахремовцы	Vitebsk		Braslav				55.5817	27.1153	4
 BY	211973	Замошье	Vitebsk		Braslav				55.4955	27.0839	4
-BY	211974	Тетерки	Vitebk		Braslav				55.5454	27.2552	4
+BY	211974	Тетерки	Vitebsk		Braslav				55.5454	27.2552	4
 BY	211975	Мильки	Vitebsk		Braslav				55.5159	27.3191	4
 BY	211977	Слободка	Vitebsk		Braslav				55.688	27.1838	4
 BY	211978	Друйск	Vitebsk		Braslav				55.7281	27.2801	4
-BY	211979	Литовщина	Vitebsk		Braslov				55.6411	27.1622	4
+BY	211979	Литовщина	Vitebsk		Braslav				55.6411	27.1622	4
 BY	211980	Урбаны	Vitebsk		Braslav				55.695	26.8985	4
 BY	211981	Зарачье	Vitebsk		Braslav				55.7154	26.9213	1
 BY	211982	Межаны	Vitebsk		Braslav				55.6492	26.7708	4
@@ -660,7 +660,7 @@ BY	213184	Комсеничи	Moghilev		Krougloe				54.1503	29.8794	4
 BY	213186	Тетерин	Moghilev		Krougloe				54.1554	29.7602	4
 BY	213187	Запрудье	Moghilev		Krougloe				54.1732	29.9331	4
 BY	213189	Радча	Moghilev		Krougloe				54.2954	29.778	4
-BY	213190	Гробино	Moghilev		Krougliany				54.23	29.6569	1
+BY	213190	Гробино	Moghilev		Krougloe				54.23	29.6569	1
 BY	213191	Филатово	Moghilev		Krougloe				54.3046	29.6273	4
 BY	213192	Ельковщина	Moghilev		Krougloe				54.2599	29.9158	4
 BY	213193	Павловичи	Moghilev		Krougloe				54.2156	29.6371	4
@@ -814,7 +814,7 @@ BY	213577	Сидоровка	Moghilev		Krasnopolie				53.3386	31.3635	4
 BY	213578	Городецкая	Moghilev		Krasnopolie				53.337	31.271	4
 BY	213600	Климовичи	Moghilev		Klimovitchi				53.6079	31.9586	4
 BY	213601	Лобжа	Moghilev		Klimovitchi				53.5975	31.78	4
-BY	213602	Борисовичи	Mogholev		Klimovitchi				53.6005	31.6794	4
+BY	213602	Борисовичи	Moghilev		Klimovitchi				53.6005	31.6794	4
 BY	213603	Тимоново	Moghilev		Klimovitchi				53.5785	31.8916	4
 BY	213604	Красавичи	Moghilev		Klimovitchi				53.4797	31.868	4
 BY	213606	Гусарка	Moghilev		Klimovitchi				53.6615	32.0112	4
@@ -862,7 +862,7 @@ BY	213681	Бороньки	Moghilev		Kostukovitchi				53.1441	32.1373	4
 BY	213682	Мошевое	Moghilev		Kostukovitchi				53.1349	32.0291	4
 BY	213683	Большая Крапивня	Moghilev		Kostukovitchi				53.2617	32.2399	4
 BY	213684	Липовка	Moghilev		Kostukovitchi				53.2947	32.0777	4
-BY	213684	Новые Самотевичи	Moghilev		Kostioukovitchi				53.2947	32.0777	3
+BY	213684	Новые Самотевичи	Moghilev		Kostukovitchi				53.2947	32.0777	3
 BY	213686	Гавриленка	Moghilev		Kostukovitchi				53.1116	32.1203	4
 BY	213690	Селецкое	Moghilev		Kostukovitchi				53.1891	32.3165	1
 BY	213691	Смольки	Moghilev		Kostukovitchi				53.1413	32.2252	4
@@ -931,7 +931,7 @@ BY	213872	Городок	Moghilev		Glousk				53.0486	28.7699	4
 BY	213873	Заволочицы	Moghilev		Glousk				52.981	28.7722	1
 BY	213875	Бабирово	Moghilev		Glousk				53.0314	28.5525	4
 BY	213876	Дикое	Moghilev		Glousk				52.981	28.7722	1
-BY	213877	Старое Село	Moghilev		Gloussk				52.9653	28.8948	4
+BY	213877	Старое Село	Moghilev		Glousk				52.9653	28.8948	4
 BY	213878	Чикили	Moghilev		Glousk				52.9367	28.9392	4
 BY	213880	Клетное	Moghilev		Glousk				52.8201	28.6342	4
 BY	213881	Славковичи	Moghilev		Glousk				52.7218	28.5022	4
@@ -1081,7 +1081,7 @@ BY	222011	Худовцы	Minsk		Kroupki				54.4497	29.2829	1
 BY	222012	Смородинка	Minsk		Kroupki				54.4359	29.3611	4
 BY	222013	Прошика	Minsk		Kroupki				54.4875	29.1478	4
 BY	222014	Обчуга	Minsk		Kroupki				54.5004	29.3695	4
-BY	222017	Яновщина	Minsk		Kpoupki				54.4497	29.2829	1
+BY	222017	Яновщина	Minsk		Kroupki				54.4497	29.2829	1
 BY	222018	Замки	Minsk		Kroupki				54.3824	29.2893	4
 BY	222019	Косеничи	Minsk		Kroupki				54.5894	29.4557	4
 BY	222020	Крупский	Minsk		Kroupki				54.5175	28.9565	4
@@ -1389,8 +1389,8 @@ BY	222828	Ветеревичи - Вторые	Minsk		Poukhovitchi				53.533	27.8
 BY	222829	Энергия	Minsk		Poukhovitchi				53.632	28.0065	4
 BY	222831	Блонь	Minsk		Poukhovitchi				53.5269	28.1732	4
 BY	222832	Пуховичи	Minsk		Poukhovitchi				53.5297	28.2467	4
-BY	222834	Красный Октябрь	Minsk		Poukhovitchi				53.5514	28.1201	1
 BY	222834	Уречье 2	Minsk		Luban				53.5514	28.1201	1
+BY	222834	Красный Октябрь	Minsk		Poukhovitchi				53.5514	28.1201	1
 BY	222836	Турин	Minsk		Poukhovitchi				53.5862	28.239	4
 BY	222837	Ситники	Minsk		Poukhovitchi				53.6206	28.1415	4
 BY	222838	Новоселки	Minsk		Poukhovitchi				53.5202	28.0896	4
@@ -1807,32 +1807,32 @@ BY	225178	Белоусовщина	Brest		Proujany				52.594	24.4852	4
 BY	225179	Клепачи	Brest		Proujany				52.8018	24.8501	4
 BY	225181	Засимовичи	Brest		Proujany				52.5996	24.3998	4
 BY	225182	Кобыловка	Brest		Proujany				52.6747	24.6654	4
-BY	225205	Белоозерск 1	Brest		Bereza				52.6315	25.3031	1
-BY	225209	Береза Рупс	Brest		Bereza				52.6315	25.3031	1
-BY	225210	Береза	Brest		Bereza				52.5314	24.9786	4
-BY	225211	Стригинь	Brest		Bereza				52.505	25.031	4
-BY	225212	Соколово	Brest		Bereza				52.5408	25.0748	4
-BY	225213	Бронная Гора	Brest		Bereza				52.6115	25.0983	4
-BY	225214	Пески	Brest		Bereza				52.522	25.1974	4
-BY	225215	Белоозерск	Brest		Bereza				52.4731	25.1784	4
-BY	225216	Здитово	Brest		Bereza				52.4804	25.0037	4
-BY	225218	Спорово	Brest		Bereza				52.4236	25.3186	4
-BY	225221	Междулесье	Brest		Bereza				52.4547	25.0035	1
-BY	225222	Судиловичи	Brest		Bereza				52.3529	25.0462	4
-BY	225223	Сигневичи	Brest		Bereza				52.4347	24.8942	4
-BY	225224	Ревятичи	Brest		Bereza				52.4373	24.8408	4
-BY	225225	Борки	Brest		Bereza				52.7835	25.3952	4
-BY	225226	Земледелец	Brest		Bereza				52.4547	25.0035	1
-BY	225227	Ястребель	Brest		Bereza				52.3936	24.9244	4
-BY	225228	Большие Лесковичи	Brest		Bereza				52.326	24.92	4
-BY	225230	Первомайская	Brest		Bereza				52.5274	24.8857	4
-BY	225240	Самойловичи	Brest		Bereza				52.5567	24.9549	4
-BY	225242	Селец	Brest		Bereza				52.5872	24.868	4
-BY	225243	Нарутовичи	Brest		Bereza				52.5535	24.7732	4
-BY	225245	Малеч	Brest		Bereza				52.4837	24.704	4
-BY	225246	Кабаки	Brest		Bereza				52.5026	24.7706	4
-BY	225247	Подкраичи	Brest		Bereza				52.4343	24.7158	4
-BY	225250	Ивацевичи	Brest		Ivatsevichi				52.709	25.3401	4
+BY	225205	Белоозерск 1	Brest		Brest				52.6315	25.3031	1
+BY	225209	Береза Рупс	Brest		Brest				52.6315	25.3031	1
+BY	225210	Береза	Brest		Brest				52.5314	24.9786	4
+BY	225211	Стригинь	Brest		Brest				52.505	25.031	4
+BY	225212	Соколово	Brest		Brest				52.5408	25.0748	4
+BY	225213	Бронная Гора	Brest		Brest				52.6115	25.0983	4
+BY	225214	Пески	Brest		Brest				52.522	25.1974	4
+BY	225215	Белоозерск	Brest		Brest				52.4731	25.1784	4
+BY	225216	Здитово	Brest		Brest				52.4804	25.0037	4
+BY	225218	Спорово	Brest		Brest				52.4236	25.3186	4
+BY	225221	Междулесье	Brest		Brest				52.4547	25.0035	1
+BY	225222	Судиловичи	Brest		Brest				52.3529	25.0462	4
+BY	225223	Сигневичи	Brest		Brest				52.4347	24.8942	4
+BY	225224	Ревятичи	Brest		Brest				52.4373	24.8408	4
+BY	225225	Борки	Brest		Brest				52.7835	25.3952	4
+BY	225226	Земледелец	Brest		Brest				52.4547	25.0035	1
+BY	225227	Ястребель	Brest		Brest				52.3936	24.9244	4
+BY	225228	Большие Лесковичи	Brest		Brest				52.326	24.92	4
+BY	225230	Первомайская	Brest		Brest				52.5274	24.8857	4
+BY	225240	Самойловичи	Brest		Brest				52.5567	24.9549	4
+BY	225242	Селец	Brest		Brest				52.5872	24.868	4
+BY	225243	Нарутовичи	Brest		Brest				52.5535	24.7732	4
+BY	225245	Малеч	Brest		Brest				52.4837	24.704	4
+BY	225246	Кабаки	Brest		Brest				52.5026	24.7706	4
+BY	225247	Подкраичи	Brest		Brest				52.4343	24.7158	4
+BY	225250	Ивацевичи	Brest		Ivatsevitchi				52.709	25.3401	4
 BY	225251	Подстаринь	Brest		Ivatsevitchi				52.6894	25.3136	1
 BY	225252	Кушнеры	Brest		Ivatsevitchi				52.7539	25.3	4
 BY	225253	Стайки	Brest		Ivatsevitchi				52.7065	25.2894	4
@@ -1943,14 +1943,14 @@ BY	225392	Совейки	Brest		Liakhovitchi				52.92	26.4044	4
 BY	225393	Куршиновичи	Brest		Liakhovitchi				52.8851	26.3237	4
 BY	225394	Гончары	Brest		Liakhovitchi				52.9613	26.3053	4
 BY	225395	Миничи	Brest		Liakhovitchi				52.9436	26.2423	4
-BY	225396	Русиновичи	Brest		Liakhovichi				52.9816	26.3116	4
+BY	225396	Русиновичи	Brest		Liakhovitchi				52.9816	26.3116	4
 BY	225397	Тальминовичи	Brest		Liakhovitchi				52.9455	26.3592	4
 BY	225430	Люсино	Brest		Gantsevitchi				52.628	26.5131	4
 BY	225438	Задубье	Brest		Gantsevitchi				52.5293	26.451	4
 BY	225439	Мальковичи	Brest		Gantsevitchi				52.5322	26.5986	4
 BY	225440	Ганцевичи	Brest		Gantsevitchi				52.758	26.43	4
 BY	225441	Хотыничи	Brest		Gantsevitchi				52.6274	26.3084	4
-BY	225442	Локтыши	Brest		Gantsevichi				52.8306	26.7222	4
+BY	225442	Локтыши	Brest		Gantsevitchi				52.8306	26.7222	4
 BY	225443	Борки	Brest		Gantsevitchi				52.7332	26.3422	4
 BY	225444	Раздяловичи	Brest		Gantsevitchi				52.631	26.1473	4
 BY	225445	Липск	Brest		Gantsevitchi				52.8345	26.0935	4
@@ -2240,7 +2240,7 @@ BY	231033	Солы	Grodno		Smorgon				54.513	26.1938	4
 BY	231034	Снигяны	Grodno		Smorgon				54.5719	26.2032	4
 BY	231035	Белковщина	Grodno		Smorgon				53.4036	26.7787	4
 BY	231036	Стрипуны	Grodno		Smorgon				54.3983	26.1821	4
-BY	231037	Валейковичи	Grodno		Smorghon				54.2667	26.3129	1
+BY	231037	Валейковичи	Grodno		Smorgon				54.2667	26.3129	1
 BY	231100	Ошмяны	Grodno		Ochmiany				54.421	25.936	4
 BY	231101	Ошмяны Станция	Grodno		Ochmiany				54.4156	25.9528	1
 BY	231102	Жупраны	Grodno		Ochmiany				54.4704	26.0891	4
@@ -2416,7 +2416,7 @@ BY	231508	Орля	Grodno		Chtchoutchin				53.5094	24.9817	4
 BY	231509	Липично	Grodno		Chtchoutchin				53.539	24.9782	1
 BY	231510	Щучин	Grodno		Chtchoutchin				53.6014	24.7465	4
 BY	231521	Гурнофиль	Grodno		Chtchoutchin				53.9729	25.3601	1
-BY	231522	Василишки	Grodno		Chtcoutchin				53.7807	24.8489	4
+BY	231522	Василишки	Grodno		Chtchoutchin				53.7807	24.8489	4
 BY	231524	Головичполье	Grodno		Chtchoutchin				53.9729	25.3601	1
 BY	231525	Лычковцы	Grodno		Chtchoutchin				54.165	25.8714	4
 BY	231530	Лещанка	Grodno		Chtchoutchin				53.7649	25.7702	4
@@ -2424,13 +2424,13 @@ BY	231531	Лядск	Grodno		Chtchoutchin				53.6372	24.6135	4
 BY	231535	Нароши	Grodno		Chtchoutchin				53.8005	24.4917	4
 BY	231536	Острына	Grodno		Chtchoutchin				53.7322	24.5305	4
 BY	231540	Новый Двор	Grodno		Chtchoutchin				53.8074	24.9005	1
-BY	231542	Прудяны	Grodno		Ctchoutchin				53.834	24.6375	4
+BY	231542	Прудяны	Grodno		Chtchoutchin				53.834	24.6375	4
 BY	231543	Ходилони	Grodno		Chtchoutchin				53.8729	24.7204	4
 BY	231544	Первомайская	Grodno		Chtchoutchin				53.5496	26.3287	4
 BY	231545	Бакшты	Grodno		Chtchoutchin				53.7967	24.6828	4
 BY	231546	Мотыли	Grodno		Chtchoutchin				53.9335	24.6389	4
 BY	231547	Бершты	Grodno		Chtchoutchin				53.8576	24.3944	4
-BY	231550	Раковичи	Grodno		Htchoutchin				53.5134	24.8372	4
+BY	231550	Раковичи	Grodno		Chtchoutchin				53.5134	24.8372	4
 BY	231551	Баличи	Grodno		Chtchoutchin				53.5097	24.7691	4
 BY	231552	Рожанка	Grodno		Chtchoutchin				53.536	24.7365	4
 BY	231553	Руткевичи	Grodno		Chtchoutchin				53.5726	24.7329	4
@@ -2516,7 +2516,7 @@ BY	231803	Мелькановичи	Grodno		Slonim				53.1384	25.2482	1
 BY	231804	Мижевичи	Grodno		Slonim				52.9753	25.0858	4
 BY	231805	Острово	Grodno		Slonim				53.2639	25.0386	4
 BY	231806	Селявичи	Grodno		Slonim				53.2976	25.942	4
-BY	231807	Озерница	Grosno		Slonim				53.074	25.0044	4
+BY	231807	Озерница	Grodno		Slonim				53.074	25.0044	4
 BY	231808	Сеньковщина	Grodno		Slonim				53.1384	25.2482	1
 BY	231809	Костровичи	Grodno		Slonim				53.2026	25.1446	4
 BY	231811	Павлово	Grodno		Slonim				53.2616	25.2868	4
@@ -2537,21 +2537,21 @@ BY	231902	Мстибово	Grodno		Volkovyssk				53.1121	24.2577	4
 BY	231904	Шиловичи	Grodno		Volkovyssk				53.1703	24.2428	4
 BY	231905	Верейки	Grodno		Volkovyssk				53.265	24.22	4
 BY	231906	Красный Груд	Grodno		Volkovyssk				53.2439	24.2493	4
-BY	231907	Субочи	Grodno		Volkovysk				53.171	24.3507	4
+BY	231907	Субочи	Grodno		Volkovyssk				53.171	24.3507	4
 BY	231908	Волпа	Grodno		Volkovyssk				53.3669	24.3647	4
-BY	231909	Родники	Grodno		Volkovysk				53.1356	24.2026	4
-BY	231910	Теолин	Grodno		Volkovysk				53.2201	24.4306	4
+BY	231909	Родники	Grodno		Volkovyssk				53.1356	24.2026	4
+BY	231910	Теолин	Grodno		Volkovyssk				53.2201	24.4306	4
 BY	231911	Красносельский	Grodno		Volkovyssk				53.2645	24.4301	4
-BY	231912	Россь	Grodno		Volkovysk				53.2858	24.4128	4
+BY	231912	Россь	Grodno		Volkovyssk				53.2858	24.4128	4
 BY	231913	Дубовцы	Grodno		Volkovyssk				53.253	24.4019	1
-BY	231915	Репля	Grodno		Volkovysk				53.253	24.4019	1
+BY	231915	Репля	Grodno		Volkovyssk				53.253	24.4019	1
 BY	231916	Вехотница	Grodno		Volkovyssk				53.2415	24.3341	4
 BY	231917	Мачулино	Grodno		Volkovyssk				53.253	24.4019	1
 BY	231920	Моисеевичи	Grodno		Volkovyssk				53.2721	24.5889	4
 BY	231921	Войтковичи	Grodno		Volkovyssk				53.1611	24.5902	4
-BY	231922	Изабелин	Grodno		Volkovysk				53.0922	24.5547	4
+BY	231922	Изабелин	Grodno		Volkovyssk				53.0922	24.5547	4
 BY	231923	Подороск	Grodno		Volkovyssk				52.9798	24.6223	4
-BY	231924	Мотвеевцы	Grodno		Volkovysk				53.1825	24.5168	1
+BY	231924	Мотвеевцы	Grodno		Volkovyssk				53.1825	24.5168	1
 BY	231926	Лапеница	Grodno		Volkovyssk				53.0267	24.4928	4
 BY	231927	Рупейки	Grodno		Volkovyssk				53.0949	24.4908	4
 BY	231928	Конюхи	Grodno		Volkovyssk				53.6506	24.2778	4
@@ -2624,7 +2624,7 @@ BY	247033	Рудня - Маримонова	Gomel		Gomel				52.161	30.7108	4
 BY	247034	Кореневка	Gomel		Gomel				51.9592	29.7129	4
 BY	247035	Бобовичи	Gomel		Gomel				52.3389	30.9182	4
 BY	247036	Старые Дятловичи	Gomel		Gomel				52.1656	30.6115	1
-BY	247037	Шарпиловка	Gomel		Omel				52.1195	30.9313	4
+BY	247037	Шарпиловка	Gomel		Gomel				52.1195	30.9313	4
 BY	247040	Климовка	Gomel		Gomel				52.291	31.0888	4
 BY	247042	Зябровка 1	Gomel		Gomel				52.2879	31.0795	1
 BY	247043	Грабовка	Gomel		Gomel				52.184	31.1413	4
@@ -2693,7 +2693,7 @@ BY	247140	Светиловичи	Gomel		Vetka				52.7936	31.3209	4
 BY	247142	Великие Немки	Gomel		Vetka				52.7936	31.3209	1
 BY	247150	Чечерск	Gomel		Tchetchersk				52.9164	30.9179	4
 BY	247151	Вознесенский	Gomel		Tchetchersk				52.9239	30.7719	1
-BY	247154	Ровковичи	Gomel		Tchechersk				52.8466	30.7736	4
+BY	247154	Ровковичи	Gomel		Tchetchersk				52.8466	30.7736	4
 BY	247155	Ботвиново	Gomel		Tchetchersk				52.949	30.6547	4
 BY	247157	Мотневичи	Gomel		Tchetchersk				52.8945	30.7667	4
 BY	247158	Меркуловичи	Gomel		Tchetchersk				52.9747	30.6051	4
@@ -2813,12 +2813,12 @@ BY	247310	Протасы	Gomel		Oktiabrski				52.7793	29.0813	4
 BY	247311	Рассвет	Gomel		Oktiabrski				52.7793	29.174	4
 BY	247312	Моисеевка	Gomel		Oktiabrski				52.6944	29.1303	4
 BY	247313	Буда	Gomel		Oktiabrski				52.565	28.679	4
-BY	247314	Хороицы	Gomel		Oktiabrsk				52.5733	28.9122	1
+BY	247314	Хороицы	Gomel		Oktiabrski				52.5733	28.9122	1
 BY	247315	Лясковичи	Gomel		Oktiabrski				52.1176	28.1551	4
 BY	247316	Углы	Gomel		Oktiabrski				52.3818	29.1622	4
-BY	247317	Шкава	Gomel		Oktiabrsk				52.696	29.0032	4
+BY	247317	Шкава	Gomel		Oktiabrski				52.696	29.0032	4
 BY	247320	Ратмировичи	Gomel		Oktiabrski				52.7951	28.9921	4
-BY	247321	Червонная Слобода	Gomel		Oktiabrsk				52.5494	28.5717	4
+BY	247321	Червонная Слобода	Gomel		Oktiabrski				52.5494	28.5717	4
 BY	247350	Буда - Кошелево	Gomel		Bouda-Kochelevo				52.7179	30.5701	4
 BY	247352	Потаповка	Gomel		Bouda-Kochelevo				52.7434	30.4907	4
 BY	247354	Буда - Люшевская	Gomel		Bouda-Kochelevo				52.7619	30.5367	1
@@ -2899,8 +2899,8 @@ BY	247525	Сведское	Gomel		Retchitsa				52.543	30.0228	4
 BY	247526	Заречье	Gomel		Retchitsa				52.5399	28.5838	4
 BY	247530	Солтаново	Gomel		Retchitsa				52.3524	30.2367	4
 BY	247533	Лиски	Gomel		Retchitsa				52.3112	30.1011	4
-BY	247534	Бабичи - Пункт Почтовой Связи	Gomel		Retchitsa				52.2895	30.002	3
 BY	247534	Бабичи	Gomel		Retchitsa				52.2895	30.002	4
+BY	247534	Бабичи - Пункт Почтовой Связи	Gomel		Retchitsa				52.2895	30.002	3
 BY	247535	Красная Дуброва	Gomel		Retchitsa				52.2762	30.0826	4
 BY	247537	Васильков	Gomel		Retchitsa				52.3073	30.1056	1
 BY	247540	Пересвятое	Gomel		Retchitsa				52.232	30.1094	1
@@ -3096,7 +3096,7 @@ BY	247947	Бринев	Gomel		Petrikov				52.1888	28.1826	4
 BY	247948	Селютичи	Gomel		Petrikov				52.2994	28.1919	4
 BY	247949	Голубица	Gomel		Petrikov				52.1449	28.3498	1
 BY	247950	Копцевичи	Gomel		Petrikov				52.2454	28.289	4
-BY	247960	Житковичи	Gomel		Jitkovichi				52.2168	27.8561	4
+BY	247960	Житковичи	Gomel		Jitkovitchi				52.2168	27.8561	4
 BY	247961	Рудня	Gomel		Jitkovitchi				52.1821	27.9503	4
 BY	247961	Гребеневский	Gomel		Jitkovitchi				52.1821	27.9503	3
 BY	247962	Белев	Gomel		Jitkovitchi				52.2972	28.0298	4
@@ -3106,7 +3106,7 @@ BY	247965	Ветчин	Gomel		Jitkovitchi				52.4465	28.1629	4
 BY	247966	Дяковичи	Gomel		Jitkovitchi				52.449	28.0274	4
 BY	247967	Дуброва	Gomel		Jitkovitchi				52.3474	28.0308	4
 BY	247968	Березняки	Gomel		Jitkovitchi				52.1872	28.3805	4
-BY	247969	Семенча	Gomel		Jidkovitchi				52.3459	27.8768	4
+BY	247969	Семенча	Gomel		Jitkovitchi				52.3459	27.8768	4
 BY	247970	Люденевичи	Gomel		Jitkovitchi				52.2096	27.6982	4
 BY	247971	Бронислав	Gomel		Jitkovitchi				52.2101	27.5916	4
 BY	247972	Гряда	Gomel		Jitkovitchi				52.3368	27.5406	1

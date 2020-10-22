@@ -235,7 +235,7 @@ FI	04340	Tuusula	Uusimaa	01	Helsinki	011	Tuusula	858	60.4076	25.0736	6
 FI	04350	Nahkela	Uusimaa	01	Helsinki	011	Tuusula	858	60.4025	24.9235	6
 FI	04360	Tuusula	Uusimaa	01	Helsinki	011	Tuusula	858	60.354	24.9794	6
 FI	04370	Rusutjärvi	Uusimaa	01	Helsinki	011	Tuusula	858	60.4354	24.9562	6
-FI	04380	Tuusula	Uusimaa	01	Helsinki	011	Tuusula	858	60.4586	25.0542	
+FI	04380	Tuusula	Uusimaa	01	Helsinki	011	Tuusula	858	60.4586	25.0542	4
 FI	04390	Jäniksenlinna	Uusimaa	01	Helsinki	011	Tuusula	858	60.4892	24.981	6
 FI	04400	Järvenpää	Uusimaa	01	Helsinki	011	Järvenpää	186	60.4704	25.0776	6
 FI	04410	Järvenpää	Uusimaa	01	Helsinki	011	Järvenpää	186	60.4885	25.0949	6
@@ -253,7 +253,7 @@ FI	04660	Numminen	Uusimaa	01	Helsinki	011	Mäntsälä	505	60.5658	25.278	6
 FI	04680	Hirvihaara	Uusimaa	01	Helsinki	011	Mäntsälä	505	60.6258	25.2213	6
 FI	04740	Sälinkää	Uusimaa	01	Helsinki	011	Mäntsälä	505	60.6986	25.2247	6
 FI	04770	Sahakylä	Uusimaa	01	Helsinki	011	Mäntsälä	505	60.762	25.2064	6
-FI	04820	Kaukalampi	Uusimaa	01	Helsinki	011	Mäntsälä	505	60.7025	25.3763	
+FI	04820	Kaukalampi	Uusimaa	01	Helsinki	011	Mäntsälä	505	60.7025	25.3763	4
 FI	04840	Hautjärvi	Uusimaa	01	Helsinki	011	Mäntsälä	505	60.7222	25.4739	6
 FI	04920	Saarentaus	Uusimaa	01	Helsinki	011	Mäntsälä	505	60.7322	25.3936	6
 FI	04940	Levanto	Uusimaa	01	Helsinki	011	Mäntsälä	505	60.7644	25.4393	6
@@ -270,7 +270,7 @@ FI	05470	Hyvinkää	Uusimaa	01	Helsinki	011	Hyvinkää	106	60.5894	24.9351	6
 FI	05510	Hyvinkää	Uusimaa	01	Helsinki	011	Hyvinkää	106	60.5943	25.0247	6
 FI	05620	Hyvinkää	Uusimaa	01	Helsinki	011	Nurmijärvi	543	60.5682	24.7684	6
 FI	05720	Hyvinkää	Uusimaa	01	Helsinki	011	Hyvinkää	106	60.6003	24.6427	6
-FI	05800	Hyvinkää	Uusimaa	01	Helsinki	011	Hyvinkää	106	60.6333	24.8506	
+FI	05800	Hyvinkää	Uusimaa	01	Helsinki	011	Hyvinkää	106	60.6333	24.8506	4
 FI	05810	Hyvinkää	Uusimaa	01	Helsinki	011	Hyvinkää	106	60.6229	24.893	6
 FI	05820	Hyvinkää	Uusimaa	01	Helsinki	011	Hyvinkää	106	60.6421	24.8905	6
 FI	05830	Hyvinkää	Uusimaa	01	Helsinki	011	Hyvinkää	106	60.6152	24.8439	6
@@ -284,7 +284,7 @@ FI	06880	Kärrby                        	Uusimaa	01	Helsinki	011	Sipoo	753	60.25
 FI	07150	Laukkoski	Uusimaa	01	Helsinki	011	Pornainen	611	60.4364	25.39	6
 FI	07170	Pornainen	Uusimaa	01	Helsinki	011	Pornainen	611	60.4782	25.3689	6
 FI	07171	Pornainen	Uusimaa	01	Helsinki	011	Pornainen	611	60.4665	25.3891	
-FI	07190	Halkia	Uusimaa	01	Helsinki	011	Pornainen	611	60.5186	25.291	
+FI	07190	Halkia	Uusimaa	01	Helsinki	011	Pornainen	611	60.5186	25.291	4
 FI	08100	Lohja                         	Uusimaa	01	Helsinki	011	Lohja	444	60.2568	24.0146	6
 FI	08150	Lohja                         	Uusimaa	01	Helsinki	011	Lohja	444	60.2414	24.0832	6
 FI	08200	Lohja                         	Uusimaa	01	Helsinki	011	Lohja	444	60.2296	24.0261	6
@@ -518,7 +518,7 @@ FI	21140	Rymättylä	Southwest Finland	02	Turku	023	Naantali	529	60.372	21.908	6
 FI	21150	Röölä	Southwest Finland	02	Turku	023	Naantali	529	60.331	21.9011	6
 FI	21160	Merimasku	Southwest Finland	02	Turku	023	Naantali	529	60.4618	21.8549	6
 FI	21180	Livonsaari	Southwest Finland	02	Turku	023	Naantali	529	60.514	21.7451	6
-FI	21195	Velkua	Southwest Finland	02	Turku	023	Naantali	529	60.4435	21.666	
+FI	21195	Velkua	Southwest Finland	02	Turku	023	Naantali	529	60.4435	21.666	4
 FI	21200	Raisio	Southwest Finland	02	Turku	023	Raisio	680	60.4852	22.1538	6
 FI	21201	Raisio	Southwest Finland	02	Turku	023	Raisio	680	60.4851	22.1318	6
 FI	21210	Raisio	Southwest Finland	02	Turku	023	Raisio	680	60.4901	22.097	6
@@ -561,12 +561,12 @@ FI	23310	Taivassalo	Southwest Finland	02	Vakka-Suomi	024	Taivassalo	833	60.5566	
 FI	23360	Kustavi	Southwest Finland	02	Vakka-Suomi	024	Kustavi	304	60.5599	21.3331	6
 FI	23450	Lokalahti	Southwest Finland	02	Vakka-Suomi	024	Uusikaupunki	895	60.6849	21.4259	6
 FI	23500	Uusikaupunki	Southwest Finland	02	Vakka-Suomi	024	Uusikaupunki	895	60.8153	21.3828	6
-FI	23501	Uusikaupunki	Southwest Finland	02	Vakka-Suomi	024	Uusikaupunki	895	60.7978	21.3726	
+FI	23501	Uusikaupunki	Southwest Finland	02	Vakka-Suomi	024	Uusikaupunki	895	60.7978	21.3726	4
 FI	23600	Kalanti	Southwest Finland	02	Vakka-Suomi	024	Uusikaupunki	895	60.8095	21.5835	6
 FI	23660	Kalanti As	Southwest Finland	02	Vakka-Suomi	024	Uusikaupunki	895	60.7652	21.5461	6
 FI	23800	Laitila	Southwest Finland	02	Vakka-Suomi	024	Laitila	400	60.8855	21.7204	6
-FI	23840	Soukainen	Southwest Finland	02	Vakka-Suomi	024	Laitila	400	60.9232	21.6898	
-FI	23880	Suontaka	Southwest Finland	02	Vakka-Suomi	024	Laitila	400	60.9438	21.8156	
+FI	23840	Soukainen	Southwest Finland	02	Vakka-Suomi	024	Laitila	400	60.9232	21.6898	4
+FI	23880	Suontaka	Southwest Finland	02	Vakka-Suomi	024	Laitila	400	60.9438	21.8156	4
 FI	23930	Pyhämaa	Southwest Finland	02	Vakka-Suomi	024	Uusikaupunki	895	60.9155	21.2784	6
 FI	23950	Pyhäranta	Southwest Finland	02	Vakka-Suomi	024	Pyhäranta	631	60.9382	21.453	6
 FI	23960	Santtio	Southwest Finland	02	Vakka-Suomi	024	Pyhäranta	631	60.9805	21.4018	6
@@ -591,7 +591,7 @@ FI	31500	Koski Tl	Southwest Finland	02	Loimaa	025	Koski Tl	284	60.6571	23.1342	6
 FI	31960	Orisuo	Southwest Finland	02	Loimaa	025	Loimaa	430	61.0143	23.1198	6
 FI	32200	Loimaa	Southwest Finland	02	Loimaa	025	Loimaa	430	60.846	23.0571	6
 FI	32210	Loimaa	Southwest Finland	02	Loimaa	025	Loimaa	430	60.8776	22.978	6
-FI	32250	Kojonkulma	Southwest Finland	02	Loimaa	025	Loimaa	430	60.9376	22.9912	
+FI	32250	Kojonkulma	Southwest Finland	02	Loimaa	025	Loimaa	430	60.9376	22.9912	4
 FI	32260	Kojonperä	Southwest Finland	02	Loimaa	025	Loimaa	430	60.9828	23.037	6
 FI	32270	Metsämaa	Southwest Finland	02	Loimaa	025	Loimaa	430	60.9468	23.1678	6
 FI	32280	Metsäkorpi	Southwest Finland	02	Loimaa	025	Loimaa	430	60.9264	23.241	6
@@ -619,7 +619,7 @@ FI	26950	Voiluoto	Satakunta	04	Rauma	041	Rauma	684	61.068	21.437	6
 FI	27100	Eurajoki	Satakunta	04	Rauma	041	Eurajoki	051	61.2108	21.7032	6
 FI	27110	Eurajoki	Satakunta	04	Rauma	041	Eurajoki	051	61.2501	21.7867	6
 FI	27130	Eurajoki	Satakunta	04	Rauma	041	Eurajoki	051	61.1998	21.8542	6
-FI	27150	Eurajoki	Satakunta	04	Rauma	041	Eurajoki	051	61.195	21.608	
+FI	27150	Eurajoki	Satakunta	04	Rauma	041	Eurajoki	051	61.195	21.608	4
 FI	27160	Eurajoki	Satakunta	04	Rauma	041	Eurajoki	051	61.2373	21.4547	6
 FI	27170	Eurajoki	Satakunta	04	Rauma	041	Eurajoki	051	61.2815	21.5467	6
 FI	27220	Lappi	Satakunta	04	Rauma	041	Rauma	684	61.0901	21.7754	6
@@ -647,11 +647,11 @@ FI	27820	Säkylä	Satakunta	04	Rauma	041	Säkylä	783	61.0823	22.2513	6
 FI	27840	Köyliö	Satakunta	04	Rauma	041	Säkylä	783	61.0834	22.3908	6
 FI	27860	Köyliö	Satakunta	04	Rauma	041	Säkylä	783	61.0641	22.5255	6
 FI	27910	Säkylä	Satakunta	04	Rauma	041	Säkylä	783	61.04	22.4297	6
-FI	27920	Säkylä	Satakunta	04	Rauma	041	Säkylä	783	60.9991	22.3922	
+FI	27920	Säkylä	Satakunta	04	Rauma	041	Säkylä	783	60.9991	22.3922	4
 FI	29100	Luvia	Satakunta	04	Rauma	041	Eurajoki	051	61.3678	21.5718	6
 FI	29180	Peränkylä	Satakunta	04	Rauma	041	Eurajoki	051	61.3281	21.6552	6
-FI	28100	Pori	Satakunta	04	Pori	043	Pori	609	61.513	21.7643	
-FI	28101	Pori	Satakunta	04	Pori	043	Pori	609	61.4811	21.8129	
+FI	28100	Pori	Satakunta	04	Pori	043	Pori	609	61.513	21.7643	4
+FI	28101	Pori	Satakunta	04	Pori	043	Pori	609	61.4811	21.8129	4
 FI	28120	Pori	Satakunta	04	Pori	043	Pori	609	61.4829	21.7693	6
 FI	28130	Pori	Satakunta	04	Pori	043	Pori	609	61.4708	21.811	6
 FI	28190	Pori	Satakunta	04	Pori	043	Pori	609	61.5597	21.7064	6
@@ -717,7 +717,7 @@ FI	38650	Yli-Putto	Satakunta	04	Pori	043	Pori	609	61.652	22.4675	6
 FI	38670	Kalliala	Satakunta	04	Pori	043	Pori	609	61.6047	22.4138	6
 FI	38680	Tuunajärvi	Satakunta	04	Pori	043	Pomarkku	608	61.7205	22.2639	6
 FI	29810	Siikainen	Satakunta	04	Pohjois-Satakunta	044	Siikainen	747	61.8831	21.858	6
-FI	29830	Sammi	Satakunta	04	Pohjois-Satakunta	044	Siikainen	747	61.8852	22.0656	
+FI	29830	Sammi	Satakunta	04	Pohjois-Satakunta	044	Siikainen	747	61.8852	22.0656	4
 FI	29860	Otamo	Satakunta	04	Pohjois-Satakunta	044	Siikainen	747	61.8259	21.772	6
 FI	29880	Leväsjoki	Satakunta	04	Pohjois-Satakunta	044	Siikainen	747	61.7825	21.8214	6
 FI	38700	Kankaanpää	Satakunta	04	Pohjois-Satakunta	044	Kankaanpää	214	61.7975	22.4063	6
@@ -751,7 +751,7 @@ FI	13101	Hämeenlinna	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	60.984	24
 FI	13110	Hämeenlinna	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	60.9862	24.4863	6
 FI	13111	Hämeenlinna	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	60.9824	24.4992	6
 FI	13130	Hämeenlinna	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	60.9993	24.4287	6
-FI	13200	Hämeenlinna	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	60.9993	24.4854	
+FI	13200	Hämeenlinna	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	60.9993	24.4854	4
 FI	13210	Hämeenlinna	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	61.0117	24.5055	6
 FI	13220	Hämeenlinna	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	61.0136	24.4687	6
 FI	13250	Hämeenlinna	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	60.9843	24.513	6
@@ -764,18 +764,18 @@ FI	13530	Hämeenlinna	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	60.9882	2
 FI	13600	Hämeenlinna	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	61.0137	24.431	6
 FI	13700	Parolannummi	Kanta-Häme	05	Hämeenlinna	051	Hattula	082	61.0335	24.3447	6
 FI	13720	Parola	Kanta-Häme	05	Hämeenlinna	051	Hattula	082	61.0602	24.3487	6
-FI	13800	Katinala	Kanta-Häme	05	Hämeenlinna	051	Hattula	082	61.1104	24.3773	
+FI	13800	Katinala	Kanta-Häme	05	Hämeenlinna	051	Hattula	082	61.1104	24.3773	4
 FI	13880	Hattula	Kanta-Häme	05	Hämeenlinna	051	Hattula	082	61.0819	24.402	6
 FI	13900	Pekola	Kanta-Häme	05	Hämeenlinna	051	Hattula	082	61.0537	24.4491	6
 FI	14140	Jokimaa	Kanta-Häme	05	Hämeenlinna	051	Janakkala	165	60.8802	24.8923	6
 FI	14200	Turenki	Kanta-Häme	05	Hämeenlinna	051	Janakkala	165	60.925	24.6993	6
 FI	14240	Janakkala	Kanta-Häme	05	Hämeenlinna	051	Janakkala	165	60.8909	24.5671	6
 FI	14300	Renko	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	60.8628	24.2805	6
-FI	14330	Kaloinen	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	60.8376	24.3964	
-FI	14370	Lukana	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	60.8438	24.1927	
+FI	14330	Kaloinen	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	60.8376	24.3964	4
+FI	14370	Lukana	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	60.8438	24.1927	4
 FI	14430	Vuohiniemi	Kanta-Häme	05	Hämeenlinna	051	Hattula	082	60.9433	24.1217	6
 FI	14450	Rimmilä	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	60.9882	24.0442	6
-FI	14500	Iittala	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	61.076	24.0959	
+FI	14500	Iittala	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	61.076	24.0959	4
 FI	14530	Leteensuo	Kanta-Häme	05	Hämeenlinna	051	Hattula	082	61.0528	24.2397	6
 FI	14610	Lepaa	Kanta-Häme	05	Hämeenlinna	051	Hattula	082	61.1177	24.3464	6
 FI	14620	Tyrväntö	Kanta-Häme	05	Hämeenlinna	051	Hattula	082	61.145	24.3383	6
@@ -792,7 +792,7 @@ FI	16900	Lammi	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	61.1172	24.9798	
 FI	16960	Iso-Evo	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	61.1714	25.0446	6
 FI	16970	Evo	Kanta-Häme	05	Hämeenlinna	051	Hämeenlinna	109	61.1913	25.1282	6
 FI	11100	Riihimäki	Kanta-Häme	05	Riihimäki	052	Riihimäki	694	60.7338	24.7614	6
-FI	11101	Riihimäki	Kanta-Häme	05	Riihimäki	052	Riihimäki	694	60.7505	24.7857	
+FI	11101	Riihimäki	Kanta-Häme	05	Riihimäki	052	Riihimäki	694	60.7505	24.7857	4
 FI	11111	Riihimäki	Kanta-Häme	05	Riihimäki	052	Riihimäki	694	60.7257	24.7812	6
 FI	11120	Riihimäki	Kanta-Häme	05	Riihimäki	052	Riihimäki	694	60.7517	24.7674	6
 FI	11130	Riihimäki	Kanta-Häme	05	Riihimäki	052	Riihimäki	694	60.7316	24.8083	6
@@ -801,7 +801,7 @@ FI	11311	Riihimäki	Kanta-Häme	05	Riihimäki	052	Riihimäki	694	60.7598	24.7899
 FI	11710	Riihimäki	Kanta-Häme	05	Riihimäki	052	Riihimäki	694	60.7035	24.727	6
 FI	11910	Riihimäki	Kanta-Häme	05	Riihimäki	052	Riihimäki	694	60.7378	24.7324	6
 FI	12100	Oitti	Kanta-Häme	05	Riihimäki	052	Hausjärvi	086	60.791	25.0217	6
-FI	12130	Mommila	Kanta-Häme	05	Riihimäki	052	Hausjärvi	086	60.8329	25.0558	
+FI	12130	Mommila	Kanta-Häme	05	Riihimäki	052	Hausjärvi	086	60.8329	25.0558	4
 FI	12170	Hietoinen	Kanta-Häme	05	Riihimäki	052	Hausjärvi	086	60.8916	25.0502	6
 FI	12210	Hausjärvi	Kanta-Häme	05	Riihimäki	052	Hausjärvi	086	60.7789	24.9344	6
 FI	12240	Hikiä	Kanta-Häme	05	Riihimäki	052	Hausjärvi	086	60.7434	24.9417	6
@@ -836,7 +836,7 @@ FI	31610	Vaulammi	Kanta-Häme	05	Forssa	053	Jokioinen	169	60.7838	23.4239	6
 FI	31620	Latovainio	Kanta-Häme	05	Forssa	053	Jokioinen	169	60.8885	23.5028	6
 FI	31630	Minkiö	Kanta-Häme	05	Forssa	053	Jokioinen	169	60.8547	23.432	6
 FI	31640	Humppila	Kanta-Häme	05	Forssa	053	Humppila	103	60.93	23.365	6
-FI	31650	Venäjänkangas	Kanta-Häme	05	Forssa	053	Humppila	103	60.9712	23.3217	
+FI	31650	Venäjänkangas	Kanta-Häme	05	Forssa	053	Humppila	103	60.9712	23.3217	4
 FI	32100	Ypäjä	Kanta-Häme	05	Forssa	053	Ypäjä	981	60.7891	23.2893	6
 FI	32140	Ypäjä As	Kanta-Häme	05	Forssa	053	Ypäjä	981	60.8627	23.213	6
 FI	39410	Luhalahti	Pirkanmaa	06	Luoteis-Pirkanmaa	061	Ikaalinen	143	61.7878	23.2775	6
@@ -857,7 +857,7 @@ FI	39780	Alaskylä	Pirkanmaa	06	Luoteis-Pirkanmaa	061	Parkano	581	61.9517	22.996
 FI	39810	Linnankylä	Pirkanmaa	06	Luoteis-Pirkanmaa	061	Kihniö	250	62.1414	23.1586	6
 FI	39820	Kihniö	Pirkanmaa	06	Luoteis-Pirkanmaa	061	Kihniö	250	62.2037	23.1819	6
 FI	39880	Kihniö As	Pirkanmaa	06	Luoteis-Pirkanmaa	061	Kihniö	250	62.1475	23.2759	
-FI	31140	Menonen	Pirkanmaa	06	Etelä-Pirkanmaa	063	Urjala	887	61.011	23.4898	
+FI	31140	Menonen	Pirkanmaa	06	Etelä-Pirkanmaa	063	Urjala	887	61.011	23.4898	4
 FI	31160	Nuutajärvi	Pirkanmaa	06	Etelä-Pirkanmaa	063	Urjala	887	61.0399	23.4059	6
 FI	31700	Urjala As	Pirkanmaa	06	Etelä-Pirkanmaa	063	Urjala	887	61.0393	23.6778	6
 FI	31720	Urjalankylä	Pirkanmaa	06	Etelä-Pirkanmaa	063	Urjala	887	61.0841	23.4235	6
@@ -950,7 +950,7 @@ FI	35260	Hoivamäki	Pirkanmaa	06	Tampere	064	Orivesi	562	61.6259	24.5891
 FI	35270	Västilä	Pirkanmaa	06	Tampere	064	Orivesi	562	61.6325	24.7009	6
 FI	35300	Orivesi	Pirkanmaa	06	Tampere	064	Orivesi	562	61.6699	24.3509	6
 FI	35301	Orivesi	Pirkanmaa	06	Tampere	064	Orivesi	562	61.6664	24.2872	6
-FI	35320	Hirsilä	Pirkanmaa	06	Tampere	064	Orivesi	562	61.7465	24.3026	
+FI	35320	Hirsilä	Pirkanmaa	06	Tampere	064	Orivesi	562	61.7465	24.3026	4
 FI	35420	Talviainen	Pirkanmaa	06	Tampere	064	Orivesi	562	61.7492	24.6597	6
 FI	35480	Längelmäki	Pirkanmaa	06	Tampere	064	Orivesi	562	61.6862	24.7035	6
 FI	36100	Kangasala As	Pirkanmaa	06	Tampere	064	Kangasala	211	61.493	24.0044	6
@@ -982,9 +982,9 @@ FI	37120	Nokia	Pirkanmaa	06	Tampere	064	Nokia	536	61.453	23.475	6
 FI	37130	Nokia	Pirkanmaa	06	Tampere	064	Nokia	536	61.4888	23.4803	6
 FI	37140	Nokia	Pirkanmaa	06	Tampere	064	Nokia	536	61.473	23.454	6
 FI	37150	Nokia	Pirkanmaa	06	Tampere	064	Nokia	536	61.4923	23.5363	6
-FI	37180	Sarkola	Pirkanmaa	06	Tampere	064	Nokia	536	61.4279	23.2489	
+FI	37180	Sarkola	Pirkanmaa	06	Tampere	064	Nokia	536	61.4279	23.2489	4
 FI	37200	Siuro	Pirkanmaa	06	Tampere	064	Nokia	536	61.484	23.3096	6
-FI	37210	Kulovesi	Pirkanmaa	06	Tampere	064	Nokia	536	61.4906	23.2493	
+FI	37210	Kulovesi	Pirkanmaa	06	Tampere	064	Nokia	536	61.4906	23.2493	4
 FI	37240	Linnavuori	Pirkanmaa	06	Tampere	064	Nokia	536	61.4919	23.3555	6
 FI	37310	Tottijärvi	Pirkanmaa	06	Tampere	064	Nokia	536	61.3926	23.3623	6
 FI	37350	Vesilahti	Pirkanmaa	06	Tampere	064	Vesilahti	922	61.331	23.2968	6
@@ -997,7 +997,7 @@ FI	37530	Lempäälä	Pirkanmaa	06	Tampere	064	Lempäälä	418	61.3673	23.5986	6
 FI	37550	Lempäälä	Pirkanmaa	06	Tampere	064	Lempäälä	418	61.3453	23.7618	6
 FI	37560	Lempäälä	Pirkanmaa	06	Tampere	064	Lempäälä	418	61.3864	23.7775	6
 FI	37570	Lempäälä	Pirkanmaa	06	Tampere	064	Lempäälä	418	61.3561	23.8261	6
-FI	38490	Haukijärvi	Pirkanmaa	06	Tampere	064	Hämeenkyrö	108	61.5612	23.0949	
+FI	38490	Haukijärvi	Pirkanmaa	06	Tampere	064	Hämeenkyrö	108	61.5612	23.0949	4
 FI	39100	Hämeenkyrö	Pirkanmaa	06	Tampere	064	Hämeenkyrö	108	61.6203	23.1936	6
 FI	39101	Hämeenkyrö	Pirkanmaa	06	Tampere	064	Hämeenkyrö	108	61.6396	23.1916	6
 FI	39110	Simuna	Pirkanmaa	06	Tampere	064	Hämeenkyrö	108	61.5941	23.2387	6
@@ -1017,7 +1017,7 @@ FI	39380	Lavajärvi	Pirkanmaa	06	Tampere	064	Hämeenkyrö	108	61.6544	23.4463	6
 FI	31810	Oriniemi	Pirkanmaa	06	Lounais-Pirkanmaa	068	Punkalaidun	619	61.1596	23.2011	6
 FI	31850	Koskioinen	Pirkanmaa	06	Lounais-Pirkanmaa	068	Punkalaidun	619	61.0908	23.2229	6
 FI	31900	Punkalaidun	Pirkanmaa	06	Lounais-Pirkanmaa	068	Punkalaidun	619	61.1083	23.1116	6
-FI	31930	Vanttila	Pirkanmaa	06	Lounais-Pirkanmaa	068	Punkalaidun	619	61.147	22.9667	
+FI	31930	Vanttila	Pirkanmaa	06	Lounais-Pirkanmaa	068	Punkalaidun	619	61.147	22.9667	4
 FI	31950	Sadonmaa	Pirkanmaa	06	Lounais-Pirkanmaa	068	Punkalaidun	619	61.04	23.2142	6
 FI	31970	Kanteenmaa	Pirkanmaa	06	Lounais-Pirkanmaa	068	Punkalaidun	619	61.052	23.0005	6
 FI	32730	Sastamala	Pirkanmaa	06	Lounais-Pirkanmaa	068	Sastamala	790	61.2602	22.7418	6
@@ -1041,7 +1041,7 @@ FI	38470	Sastamala	Pirkanmaa	06	Lounais-Pirkanmaa	068	Sastamala	790	61.5547	22.9
 FI	38510	Sastamala	Pirkanmaa	06	Lounais-Pirkanmaa	068	Sastamala	790	61.5703	22.7551	6
 FI	34410	Murole	Pirkanmaa	06	Ylä-Pirkanmaa	069	Ruovesi	702	61.8255	23.9547	6
 FI	34420	Muroleen Kanava	Pirkanmaa	06	Ylä-Pirkanmaa	069	Ruovesi	702	61.8625	23.9189	6
-FI	34430	Kekkonen	Pirkanmaa	06	Ylä-Pirkanmaa	069	Ruovesi	702	61.851	24.0089	
+FI	34430	Kekkonen	Pirkanmaa	06	Ylä-Pirkanmaa	069	Ruovesi	702	61.851	24.0089	4
 FI	34450	Jäminkipohja	Pirkanmaa	06	Ylä-Pirkanmaa	069	Ruovesi	702	61.8954	24.0842	6
 FI	34600	Ruovesi	Pirkanmaa	06	Ylä-Pirkanmaa	069	Ruovesi	702	61.968	24.0406	6
 FI	34640	Mustajärvi	Pirkanmaa	06	Ylä-Pirkanmaa	069	Ruovesi	702	62.051	24.0187	6
@@ -1071,7 +1071,7 @@ FI	42840	Kolkki	Pirkanmaa	06	Ylä-Pirkanmaa	069	Mänttä-Vilppula	508	62.1246	24
 FI	42850	Pohjaslahti	Pirkanmaa	06	Ylä-Pirkanmaa	069	Mänttä-Vilppula	508	62.1514	24.1197	6
 FI	42870	Kotala	Pirkanmaa	06	Ylä-Pirkanmaa	069	Virrat	936	62.2527	24.0267	6
 FI	15100	Lahti	Päijänne Tavastia	07	Lahti	071	Lahti	398	60.9742	25.6586	6
-FI	15101	Lahti	Päijänne Tavastia	07	Lahti	071	Lahti	398	60.9694	25.6321	
+FI	15101	Lahti	Päijänne Tavastia	07	Lahti	071	Lahti	398	60.9694	25.6321	4
 FI	15110	Lahti	Päijänne Tavastia	07	Lahti	071	Lahti	398	60.9845	25.6492	6
 FI	15140	Lahti	Päijänne Tavastia	07	Lahti	071	Lahti	398	60.9904	25.6608	6
 FI	15150	Lahti	Päijänne Tavastia	07	Lahti	071	Lahti	398	60.9748	25.7023	6
@@ -1148,11 +1148,11 @@ FI	17440	Vähimaa	Päijänne Tavastia	07	Lahti	071	Asikkala	016	61.2111	25.3803	
 FI	17450	Iso-Äiniö	Päijänne Tavastia	07	Lahti	071	Asikkala	016	61.2339	25.343	6
 FI	17470	Maakeski	Päijänne Tavastia	07	Lahti	071	Padasjoki	576	61.2951	25.3646	6
 FI	17500	Padasjoki	Päijänne Tavastia	07	Lahti	071	Padasjoki	576	61.3918	25.2711	6
-FI	17501	Padasjoki	Päijänne Tavastia	07	Lahti	071	Padasjoki	576	61.3525	25.3071	
+FI	17501	Padasjoki	Päijänne Tavastia	07	Lahti	071	Padasjoki	576	61.3525	25.3071	4
 FI	17510	Nyystölä	Päijänne Tavastia	07	Lahti	071	Padasjoki	576	61.3242	25.3308	6
 FI	17530	Arrakoski	Päijänne Tavastia	07	Lahti	071	Padasjoki	576	61.3946	25.1283	6
 FI	17610	Auttoinen	Päijänne Tavastia	07	Lahti	071	Padasjoki	576	61.3015	25.0738	6
-FI	17630	Vesijako	Päijänne Tavastia	07	Lahti	071	Padasjoki	576	61.3584	25.0018	
+FI	17630	Vesijako	Päijänne Tavastia	07	Lahti	071	Padasjoki	576	61.3584	25.0018	4
 FI	17710	Torittu	Päijänne Tavastia	07	Lahti	071	Padasjoki	576	61.4467	25.0921	6
 FI	17740	Kasiniemi	Päijänne Tavastia	07	Lahti	071	Padasjoki	576	61.4357	24.9219	6
 FI	18100	Heinola	Päijänne Tavastia	07	Lahti	071	Heinola	111	61.2039	26.031	6
@@ -1174,17 +1174,17 @@ FI	19370	Nuoramoinen	Päijänne Tavastia	07	Lahti	071	Sysmä	781	61.4116	25.8372
 FI	19510	Lepsala	Päijänne Tavastia	07	Lahti	071	Hartola	081	61.435	26.1832	6
 FI	19540	Koitti	Päijänne Tavastia	07	Lahti	071	Hartola	081	61.5196	26.2031	6
 FI	19600	Hartola	Päijänne Tavastia	07	Lahti	071	Hartola	081	61.6088	25.9998	6
-FI	19601	Hartola	Päijänne Tavastia	07	Lahti	071	Hartola	081	61.6204	26.0672	
+FI	19601	Hartola	Päijänne Tavastia	07	Lahti	071	Hartola	081	61.6204	26.0672	4
 FI	19610	Murakka	Päijänne Tavastia	07	Lahti	071	Hartola	081	61.5364	26.0909	6
 FI	19620	Pohela	Päijänne Tavastia	07	Lahti	071	Hartola	081	61.5031	25.9864	6
 FI	19630	Kalhonkylä	Päijänne Tavastia	07	Lahti	071	Hartola	081	61.4703	25.9407	6
 FI	19700	Sysmä	Päijänne Tavastia	07	Lahti	071	Sysmä	781	61.5237	25.6607	6
-FI	19730	Särkilampi	Päijänne Tavastia	07	Lahti	071	Sysmä	781	61.5927	25.6534	
-FI	19740	Liikola	Päijänne Tavastia	07	Lahti	071	Sysmä	781	61.627	25.7377	
+FI	19730	Särkilampi	Päijänne Tavastia	07	Lahti	071	Sysmä	781	61.5927	25.6534	4
+FI	19740	Liikola	Päijänne Tavastia	07	Lahti	071	Sysmä	781	61.627	25.7377	4
 FI	19770	Valittula	Päijänne Tavastia	07	Lahti	071	Sysmä	781	61.5328	25.8716	6
 FI	19850	Putkijärvi	Päijänne Tavastia	07	Lahti	071	Hartola	081	61.7228	25.8877	6
 FI	19160	Huutotöyry	Kymenlaakso	08	Kouvola	081	Iitti	142	61.0949	26.1768	6
-FI	45100	Kouvola	Kymenlaakso	08	Kouvola	081	Kouvola	286	60.8683	26.7354	
+FI	45100	Kouvola	Kymenlaakso	08	Kouvola	081	Kouvola	286	60.8683	26.7354	4
 FI	45120	Kouvola	Kymenlaakso	08	Kouvola	081	Kouvola	286	60.8599	26.7279	6
 FI	45130	Kouvola	Kymenlaakso	08	Kouvola	081	Kouvola	286	60.8669	26.6709	6
 FI	45150	Kouvola	Kymenlaakso	08	Kouvola	081	Kouvola	286	60.8507	26.7165	6
@@ -1200,7 +1200,7 @@ FI	45611	Koria	Kymenlaakso	08	Kouvola	081	Kouvola	286	60.8471	26.5963	6
 FI	45700	Kuusankoski	Kymenlaakso	08	Kouvola	081	Kouvola	286	60.9079	26.6269	6
 FI	45720	Kuusankoski	Kymenlaakso	08	Kouvola	081	Kouvola	286	60.8901	26.6563	6
 FI	45740	Kuusankoski	Kymenlaakso	08	Kouvola	081	Kouvola	286	60.8999	26.5948	6
-FI	45750	Sairaalamäki	Kymenlaakso	08	Kouvola	081	Kouvola	286	60.9	26.649	
+FI	45750	Sairaalamäki	Kymenlaakso	08	Kouvola	081	Kouvola	286	60.9	26.649	4
 FI	45810	Pilkanmaa	Kymenlaakso	08	Kouvola	081	Kouvola	286	60.9433	26.5761	6
 FI	45910	Voikkaa	Kymenlaakso	08	Kouvola	081	Kouvola	286	60.9548	26.6156	6
 FI	45940	Oravala	Kymenlaakso	08	Kouvola	081	Kouvola	286	60.9831	26.6024	6
@@ -1231,7 +1231,7 @@ FI	47400	Kausala	Kymenlaakso	08	Kouvola	081	Iitti	142	60.8893	26.3487	6
 FI	47440	Sääskjärvi	Kymenlaakso	08	Kouvola	081	Iitti	142	60.8322	26.2494	6
 FI	47450	Perheniemi	Kymenlaakso	08	Kouvola	081	Iitti	142	60.8453	26.1798	6
 FI	47460	Hiisiö	Kymenlaakso	08	Kouvola	081	Iitti	142	60.9117	26.1509	6
-FI	47490	Mankala	Kymenlaakso	08	Kouvola	081	Iitti	142	60.9548	26.2063	
+FI	47490	Mankala	Kymenlaakso	08	Kouvola	081	Iitti	142	60.9548	26.2063	4
 FI	47520	Iitti	Kymenlaakso	08	Kouvola	081	Iitti	142	60.9432	26.3934	6
 FI	47540	Lyöttilä	Kymenlaakso	08	Kouvola	081	Iitti	142	60.9643	26.4553	6
 FI	47610	Kymentaka	Kymenlaakso	08	Kouvola	081	Iitti	142	60.9805	26.3434	6
@@ -1280,7 +1280,7 @@ FI	49410	Poitsila	Kymenlaakso	08	Kotka-Hamina	082	Hamina	075	60.5708	27.1487	6
 FI	49420	Hamina	Kymenlaakso	08	Kotka-Hamina	082	Hamina	075	60.5579	27.1274	6
 FI	49460	Hamina	Kymenlaakso	08	Kotka-Hamina	082	Hamina	075	60.5472	27.1561	6
 FI	49461	Hamina	Kymenlaakso	08	Kotka-Hamina	082	Hamina	075	60.5209	27.1555	6
-FI	49480	Summa	Kymenlaakso	08	Kotka-Hamina	082	Hamina	075	60.5425	27.1186	
+FI	49480	Summa	Kymenlaakso	08	Kotka-Hamina	082	Hamina	075	60.5425	27.1186	4
 FI	49490	Neuvoton	Kymenlaakso	08	Kotka-Hamina	082	Hamina	075	60.5471	27.0529	6
 FI	49510	Husula	Kymenlaakso	08	Kotka-Hamina	082	Hamina	075	60.606	27.1677	6
 FI	49520	Reitkalli	Kymenlaakso	08	Kotka-Hamina	082	Hamina	075	60.6089	27.0948	6
@@ -1319,7 +1319,7 @@ FI	53830	Lappeenranta	South Karelia	09	Lappeenranta	091	Lappeenranta	405	61.0377
 FI	53850	Lappeenranta	South Karelia	09	Lappeenranta	091	Lappeenranta	405	61.0456	28.0763	6
 FI	53900	Lappeenranta	South Karelia	09	Lappeenranta	091	Lappeenranta	405	61.0645	28.176	6
 FI	53920	Lappeenranta	South Karelia	09	Lappeenranta	091	Lappeenranta	405	61.0766	28.1545	6
-FI	53950	Lappeenranta	South Karelia	09	Lappeenranta	091	Lappeenranta	405	61.099	28.1379	
+FI	53950	Lappeenranta	South Karelia	09	Lappeenranta	091	Lappeenranta	405	61.099	28.1379	4
 FI	54100	Joutseno	South Karelia	09	Lappeenranta	091	Lappeenranta	405	61.1175	28.5163	6
 FI	54101	Joutseno	South Karelia	09	Lappeenranta	091	Lappeenranta	405	61.1401	28.5537	6
 FI	54110	Lampikangas	South Karelia	09	Lappeenranta	091	Lappeenranta	405	61.107	28.4652	6
@@ -1397,7 +1397,7 @@ FI	59610	Tarnala	South Karelia	09	Imatra	093	Parikkala	580	61.7267	29.7565	6
 FI	59710	Uukuniemi	South Karelia	09	Imatra	093	Parikkala	580	61.7699	29.826	6
 FI	59720	Uukuniemi	South Karelia	09	Imatra	093	Parikkala	580	61.7479	29.8992	6
 FI	59730	Uukuniemi	South Karelia	09	Imatra	093	Parikkala	580	61.7922	30.0032	6
-FI	19410	Kuortti	Southern Savonia	10	Mikkeli	101	Pertunmaa	588	61.4145	26.4022	
+FI	19410	Kuortti	Southern Savonia	10	Mikkeli	101	Pertunmaa	588	61.4145	26.4022	4
 FI	19420	Mansikkamäki	Southern Savonia	10	Mikkeli	101	Pertunmaa	588	61.493	26.3525	6
 FI	19430	Pertunmaa	Southern Savonia	10	Mikkeli	101	Pertunmaa	588	61.5056	26.4802	6
 FI	19460	Ruorasmäki	Southern Savonia	10	Mikkeli	101	Pertunmaa	588	61.6042	26.3975	6
@@ -1405,7 +1405,7 @@ FI	19470	Lihavanpää	Southern Savonia	10	Mikkeli	101	Pertunmaa	588	61.5352	26.5
 FI	19480	Hartosenpää	Southern Savonia	10	Mikkeli	101	Pertunmaa	588	61.5205	26.6206	6
 FI	50100	Mikkeli	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.7037	27.2543	6
 FI	50120	Mikkeli	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.6925	27.2343	6
-FI	50130	Mikkeli	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.6782	27.2423	
+FI	50130	Mikkeli	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.6782	27.2423	4
 FI	50150	Mikkeli	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.698	27.2059	6
 FI	50160	Mikkeli	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.6689	27.266	6
 FI	50170	Mikkeli	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.7054	27.3032	6
@@ -1415,7 +1415,7 @@ FI	50200	Mikkeli	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.7438	27.1435	6
 FI	50300	Mikkeli	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.7816	27.3858	6
 FI	50350	Norola	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.6994	27.4062	6
 FI	50500	Mikkeli	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.6505	27.2573	6
-FI	50520	Mikkeli	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.6696	27.2442	
+FI	50520	Mikkeli	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.6696	27.2442	4
 FI	50600	Mikkeli	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.675	27.1754	6
 FI	50670	Otava	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.6448	27.0677	6
 FI	50700	Mikkeli	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.6229	27.2501	6
@@ -1426,7 +1426,7 @@ FI	51130	Vanhamäki	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.8353	26.9047	
 FI	51200	Kangasniemi	Southern Savonia	10	Mikkeli	101	Kangasniemi	213	61.9727	26.6476	6
 FI	51201	Kangasniemi	Southern Savonia	10	Mikkeli	101	Kangasniemi	213	61.8777	26.5906	6
 FI	51260	Tahkomäki	Southern Savonia	10	Mikkeli	101	Kangasniemi	213	62.2005	26.6194	6
-FI	51270	Kutemajärvi	Southern Savonia	10	Mikkeli	101	Kangasniemi	213	62.1134	26.7521	
+FI	51270	Kutemajärvi	Southern Savonia	10	Mikkeli	101	Kangasniemi	213	62.1134	26.7521	4
 FI	51310	Levä	Southern Savonia	10	Mikkeli	101	Kangasniemi	213	61.9018	26.4783	
 FI	51335	Kaihlamäki	Southern Savonia	10	Mikkeli	101	Kangasniemi	213	62	26.5169	6
 FI	51340	Hännilä	Southern Savonia	10	Mikkeli	101	Kangasniemi	213	61.9917	26.4285	6
@@ -1446,7 +1446,7 @@ FI	51720	Rahula	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.7178	27.4729	6
 FI	51740	Huuhanaho	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.7453	27.5316	6
 FI	52100	Anttola	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.5976	27.6708	6
 FI	52110	Majavesi	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.616	27.4662	6
-FI	52150	Hauhala	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.5315	27.7358	
+FI	52150	Hauhala	Southern Savonia	10	Mikkeli	101	Mikkeli	491	61.5315	27.7358	4
 FI	52200	Puumala	Southern Savonia	10	Mikkeli	101	Puumala	623	61.512	28.2032	6
 FI	52230	Hurissalo	Southern Savonia	10	Mikkeli	101	Puumala	623	61.445	27.8397	6
 FI	52270	Ryhälä	Southern Savonia	10	Mikkeli	101	Puumala	623	61.6653	28.2076	6
@@ -1476,8 +1476,8 @@ FI	52960	Nurmaa	Southern Savonia	10	Mikkeli	101	Mäntyharju	507	61.3268	26.666	6
 FI	52970	Pankalahti	Southern Savonia	10	Mikkeli	101	Mäntyharju	507	61.3236	26.5787	6
 FI	52980	Ahvenainen	Southern Savonia	10	Mikkeli	101	Mäntyharju	507	61.3304	26.4642	6
 FI	77380	Kantala	Southern Savonia	10	Mikkeli	101	Mikkeli	491	62.1307	27.1859	6
-FI	57100	Savonlinna	Southern Savonia	10	Savonlinna	103	Savonlinna	740	61.8316	28.8353	
-FI	57120	Savonlinna	Southern Savonia	10	Savonlinna	103	Savonlinna	740	61.8795	28.8699	
+FI	57100	Savonlinna	Southern Savonia	10	Savonlinna	103	Savonlinna	740	61.8316	28.8353	4
+FI	57120	Savonlinna	Southern Savonia	10	Savonlinna	103	Savonlinna	740	61.8795	28.8699	4
 FI	57130	Savonlinna	Southern Savonia	10	Savonlinna	103	Savonlinna	740	61.8762	28.8879	6
 FI	57170	Savonlinna	Southern Savonia	10	Savonlinna	103	Savonlinna	740	61.8762	28.8544	6
 FI	57200	Savonlinna	Southern Savonia	10	Savonlinna	103	Savonlinna	740	61.8677	28.9237	6
@@ -1530,11 +1530,11 @@ FI	58920	Kolkontaipale	Southern Savonia	10	Savonlinna	103	Rantasalmi	681	62.0402
 FI	58940	Tuusmäki	Southern Savonia	10	Savonlinna	103	Rantasalmi	681	62.002	28.0414	6
 FI	79700	Heinävesi	Southern Savonia	10	Savonlinna	103	Heinävesi	090	62.3984	28.5808	6
 FI	79810	Karvionkanava	Southern Savonia	10	Savonlinna	103	Heinävesi	090	62.5203	28.6319	6
-FI	79820	Varistaipale	Southern Savonia	10	Savonlinna	103	Heinävesi	090	62.5586	28.6714	
+FI	79820	Varistaipale	Southern Savonia	10	Savonlinna	103	Heinävesi	090	62.5586	28.6714	4
 FI	79830	Palokki	Southern Savonia	10	Savonlinna	103	Heinävesi	090	62.5826	28.6075	6
 FI	79850	Uusi-Valamo	Southern Savonia	10	Savonlinna	103	Heinävesi	090	62.5616	28.7893	6
 FI	79860	Suuraho	Southern Savonia	10	Savonlinna	103	Heinävesi	090	62.55	28.8658	6
-FI	79885	Etelä-Petruma	Southern Savonia	10	Savonlinna	103	Heinävesi	090	62.4651	28.8502	
+FI	79885	Etelä-Petruma	Southern Savonia	10	Savonlinna	103	Heinävesi	090	62.4651	28.8502	4
 FI	79895	Sarvikumpu	Southern Savonia	10	Savonlinna	103	Heinävesi	090	62.4567	29.0079	6
 FI	79910	Kerma	Southern Savonia	10	Savonlinna	103	Heinävesi	090	62.3614	28.8007	6
 FI	79940	Vihtari	Southern Savonia	10	Savonlinna	103	Heinävesi	090	62.3781	28.9851	6
@@ -1544,7 +1544,7 @@ FI	51780	Kuosmala	Southern Savonia	10	Pieksämäki	105	Juva	178	61.7346	27.7253	
 FI	51810	Maivala	Southern Savonia	10	Pieksämäki	105	Juva	178	61.8152	27.6964	6
 FI	51820	Hatsola	Southern Savonia	10	Pieksämäki	105	Juva	178	61.8219	27.8075	6
 FI	51850	Vuorenmaa	Southern Savonia	10	Pieksämäki	105	Juva	178	61.9878	27.503	6
-FI	51860	Narila	Southern Savonia	10	Pieksämäki	105	Juva	178	62.0186	27.581	
+FI	51860	Narila	Southern Savonia	10	Pieksämäki	105	Juva	178	62.0186	27.581	4
 FI	51880	Koikkala	Southern Savonia	10	Pieksämäki	105	Juva	178	61.7088	27.9087	6
 FI	51890	Risulahti	Southern Savonia	10	Pieksämäki	105	Juva	178	61.6313	27.9583	6
 FI	51900	Juva	Southern Savonia	10	Pieksämäki	105	Juva	178	61.8828	27.8547	6
@@ -1569,7 +1569,7 @@ FI	77240	Halkokumpu	Southern Savonia	10	Pieksämäki	105	Pieksämäki	593	62.167
 FI	77320	Hurskaala	Southern Savonia	10	Pieksämäki	105	Pieksämäki	593	62.1857	27.371	6
 FI	77330	Virtasalmi	Southern Savonia	10	Pieksämäki	105	Pieksämäki	593	62.1199	27.4649	6
 FI	77350	Montola	Southern Savonia	10	Pieksämäki	105	Pieksämäki	593	62.162	27.2913	6
-FI	77430	Siikamäki	Southern Savonia	10	Pieksämäki	105	Pieksämäki	593	62.2742	27.4067	
+FI	77430	Siikamäki	Southern Savonia	10	Pieksämäki	105	Pieksämäki	593	62.2742	27.4067	4
 FI	77460	Maavesi	Southern Savonia	10	Pieksämäki	105	Joroinen	171	62.2203	27.5869	6
 FI	77480	Savuniemi	Southern Savonia	10	Pieksämäki	105	Joroinen	171	62.1713	27.6453	
 FI	77520	Haapakoski	Southern Savonia	10	Pieksämäki	105	Pieksämäki	593	62.4503	27.1202	6
@@ -1580,7 +1580,7 @@ FI	79600	Joroinen	Southern Savonia	10	Pieksämäki	105	Joroinen	171	62.1742	27.8
 FI	79620	Huutokoski	Southern Savonia	10	Pieksämäki	105	Joroinen	171	62.2118	27.6922	6
 FI	79630	Kolma	Southern Savonia	10	Pieksämäki	105	Joroinen	171	62.2453	27.749	6
 FI	79660	Kerisalo	Southern Savonia	10	Pieksämäki	105	Joroinen	171	62.1142	27.963	6
-FI	79680	Lahnalahti	Southern Savonia	10	Pieksämäki	105	Joroinen	171	62.0992	27.7295	
+FI	79680	Lahnalahti	Southern Savonia	10	Pieksämäki	105	Joroinen	171	62.0992	27.7295	4
 FI	79690	Kaitainen	Southern Savonia	10	Pieksämäki	105	Joroinen	171	62.0507	27.7265	6
 FI	71910	Alapitkä	Northern Savo	11	Ylä-Savo	111	Lapinlahti	402	63.204	27.5003	6
 FI	71920	Pajujärvi	Northern Savo	11	Ylä-Savo	111	Lapinlahti	402	63.2596	27.4663	6
@@ -1616,7 +1616,7 @@ FI	74160	Iisalmi	Northern Savo	11	Ylä-Savo	111	Iisalmi	140	63.5941	27.1195	6
 FI	74170	Iisalmi	Northern Savo	11	Ylä-Savo	111	Iisalmi	140	63.6288	27.2148	6
 FI	74200	Vieremä	Northern Savo	11	Ylä-Savo	111	Vieremä	925	63.7523	27.03	6
 FI	74230	Salahmi	Northern Savo	11	Ylä-Savo	111	Vieremä	925	63.8201	26.9195	6
-FI	74240	Marttisenjärvi	Northern Savo	11	Ylä-Savo	111	Vieremä	925	63.899	26.9318	
+FI	74240	Marttisenjärvi	Northern Savo	11	Ylä-Savo	111	Vieremä	925	63.899	26.9318	4
 FI	74250	Nissilä	Northern Savo	11	Ylä-Savo	111	Vieremä	925	63.956	26.8346	6
 FI	74270	Kauppilanmäki	Northern Savo	11	Ylä-Savo	111	Vieremä	925	63.7462	27.2118	6
 FI	74300	Sonkajärvi	Northern Savo	11	Ylä-Savo	111	Sonkajärvi	762	63.6631	27.5413	6
@@ -1626,7 +1626,7 @@ FI	74360	Sonkakoski	Northern Savo	11	Ylä-Savo	111	Sonkajärvi	762	63.7546	27.48
 FI	74380	Jyrkkä	Northern Savo	11	Ylä-Savo	111	Sonkajärvi	762	63.7725	27.8396	6
 FI	74420	Hernejärvi	Northern Savo	11	Ylä-Savo	111	Sonkajärvi	762	63.5397	27.6721	6
 FI	74470	Paloinen	Northern Savo	11	Ylä-Savo	111	Lapinlahti	402	63.4941	27.8919	6
-FI	74490	Koirakoski	Northern Savo	11	Ylä-Savo	111	Sonkajärvi	762	63.594	27.8664	
+FI	74490	Koirakoski	Northern Savo	11	Ylä-Savo	111	Sonkajärvi	762	63.594	27.8664	4
 FI	74510	Iisalmi	Northern Savo	11	Ylä-Savo	111	Iisalmi	140	63.5156	27.2443	6
 FI	74520	Iisalmi	Northern Savo	11	Ylä-Savo	111	Iisalmi	140	63.4923	27.2809	6
 FI	74540	Kotikylä	Northern Savo	11	Ylä-Savo	111	Iisalmi	140	63.4432	27.1318	6
@@ -1634,7 +1634,7 @@ FI	74550	Pörsänmäki	Northern Savo	11	Ylä-Savo	111	Iisalmi	140	63.3879	27.066
 FI	74590	Kurenpolvi	Northern Savo	11	Ylä-Savo	111	Vieremä	925	63.6506	26.9415	6
 FI	74595	Runni	Northern Savo	11	Ylä-Savo	111	Iisalmi	140	63.5834	26.8904	6
 FI	74610	Honkaranta	Northern Savo	11	Ylä-Savo	111	Kiuruvesi	263	63.6276	26.758	6
-FI	74630	Heinäkylä	Northern Savo	11	Ylä-Savo	111	Kiuruvesi	263	63.5648	26.7299	
+FI	74630	Heinäkylä	Northern Savo	11	Ylä-Savo	111	Kiuruvesi	263	63.5648	26.7299	4
 FI	74640	Sulkavanjärvi	Northern Savo	11	Ylä-Savo	111	Kiuruvesi	263	63.4938	26.7001	6
 FI	74670	Rapakkojoki	Northern Savo	11	Ylä-Savo	111	Kiuruvesi	263	63.5719	26.536	6
 FI	74680	Myllyniemi	Northern Savo	11	Ylä-Savo	111	Kiuruvesi	263	63.5174	26.5765	6
@@ -1643,11 +1643,11 @@ FI	74720	Niemiskylä	Northern Savo	11	Ylä-Savo	111	Kiuruvesi	263	63.641	26.5095
 FI	74740	Aittojärvi	Northern Savo	11	Ylä-Savo	111	Kiuruvesi	263	63.6852	26.3644	6
 FI	74770	Kalliokylä	Northern Savo	11	Ylä-Savo	111	Kiuruvesi	263	63.5837	26.391	6
 FI	74840	Koppeloharju	Northern Savo	11	Ylä-Savo	111	Kiuruvesi	263	63.7369	26.7617	6
-FI	74940	Remeskylä	Northern Savo	11	Ylä-Savo	111	Kiuruvesi	263	63.8007	26.4152	
+FI	74940	Remeskylä	Northern Savo	11	Ylä-Savo	111	Kiuruvesi	263	63.8007	26.4152	4
 FI	74980	Tihilänkangas	Northern Savo	11	Ylä-Savo	111	Kiuruvesi	263	63.8786	26.4366	6
 FI	70006	Vastauslähetys                	Northern Savo	11	Kuopio	112	Kuopio	297	62.889	27.628	
 FI	70100	Kuopio	Northern Savo	11	Kuopio	112	Kuopio	297	62.8807	27.6928	6
-FI	70101	Kuopio	Northern Savo	11	Kuopio	112	Kuopio	297	62.9462	27.6826	
+FI	70101	Kuopio	Northern Savo	11	Kuopio	112	Kuopio	297	62.9462	27.6826	4
 FI	70110	Kuopio	Northern Savo	11	Kuopio	112	Kuopio	297	62.8931	27.6726	6
 FI	70150	Kuopio	Northern Savo	11	Kuopio	112	Kuopio	297	62.8869	27.6054	6
 FI	70200	Kuopio	Northern Savo	11	Kuopio	112	Kuopio	297	62.9045	27.6397	6
@@ -1664,7 +1664,7 @@ FI	70460	Kuopio	Northern Savo	11	Kuopio	112	Kuopio	297	62.9154	27.7041	6
 FI	70500	Kuopio	Northern Savo	11	Kuopio	112	Kuopio	297	62.9017	27.7083	6
 FI	70600	Kuopio	Northern Savo	11	Kuopio	112	Kuopio	297	62.8896	27.6526	6
 FI	70620	Kuopio	Northern Savo	11	Kuopio	112	Kuopio	297	62.8828	27.6635	6
-FI	70700	Kuopio	Northern Savo	11	Kuopio	112	Kuopio	297	62.8776	27.6231	
+FI	70700	Kuopio	Northern Savo	11	Kuopio	112	Kuopio	297	62.8776	27.6231	4
 FI	70780	Kuopio	Northern Savo	11	Kuopio	112	Kuopio	297	62.8526	27.6472	6
 FI	70800	Kuopio	Northern Savo	11	Kuopio	112	Kuopio	297	62.8454	27.54	6
 FI	70820	Kuopio	Northern Savo	11	Kuopio	112	Kuopio	297	62.8326	27.6669	6
@@ -1698,7 +1698,7 @@ FI	71750	Maaninka	Northern Savo	11	Kuopio	112	Kuopio	297	63.1658	27.2941	6
 FI	71760	Ahkionlahti	Northern Savo	11	Kuopio	112	Kuopio	297	63.2561	27.2326	6
 FI	71775	Tuovilanlahti	Northern Savo	11	Kuopio	112	Kuopio	297	63.2204	27.1284	6
 FI	71800	Siilinjärvi	Northern Savo	11	Kuopio	112	Siilinjärvi	749	63.0694	27.6542	6
-FI	71801	Siilinjärvi	Northern Savo	11	Kuopio	112	Siilinjärvi	749	63.1285	27.7271	
+FI	71801	Siilinjärvi	Northern Savo	11	Kuopio	112	Siilinjärvi	749	63.1285	27.7271	4
 FI	71820	Pöljä	Northern Savo	11	Kuopio	112	Siilinjärvi	749	63.146	27.6056	6
 FI	71840	Kuuslahti	Northern Savo	11	Kuopio	112	Siilinjärvi	749	63.1293	27.7878	6
 FI	71850	Leppäkaarre	Northern Savo	11	Kuopio	112	Siilinjärvi	749	63.0731	27.6932	6
@@ -1710,7 +1710,7 @@ FI	72101	Karttula	Northern Savo	11	Kuopio	112	Kuopio	297	62.8886	27.0184	6
 FI	72140	Itä-Karttula	Northern Savo	11	Kuopio	112	Kuopio	297	62.9338	27.1457	6
 FI	72490	Saarinen	Northern Savo	11	Kuopio	112	Kuopio	297	63.1503	27.0553	6
 FI	73300	Nilsiä	Northern Savo	11	Kuopio	112	Kuopio	297	63.2016	28.1091	6
-FI	73301	Nilsiä	Northern Savo	11	Kuopio	112	Kuopio	297	63.2466	28.0082	
+FI	73301	Nilsiä	Northern Savo	11	Kuopio	112	Kuopio	297	63.2466	28.0082	4
 FI	73310	Tahkovuori	Northern Savo	11	Kuopio	112	Kuopio	297	63.2833	28.0424	6
 FI	73320	Nilsiä	Northern Savo	11	Kuopio	112	Kuopio	297	63.1993	28.132	6
 FI	73350	Haluna	Northern Savo	11	Kuopio	112	Kuopio	297	63.1348	27.9935	6
@@ -1740,7 +1740,7 @@ FI	73860	Pykälikkö	Northern Savo	11	Koillis-Savo	113	Rautavaara	687	63.2814	28
 FI	73900	Rautavaara	Northern Savo	11	Koillis-Savo	113	Rautavaara	687	63.4801	28.3359	6
 FI	73901	Rautavaara	Northern Savo	11	Koillis-Savo	113	Rautavaara	687	63.5852	28.5719	6
 FI	73970	Riitasalo	Northern Savo	11	Koillis-Savo	113	Rautavaara	687	63.3546	28.3247	6
-FI	73990	Kangaslahti	Northern Savo	11	Koillis-Savo	113	Rautavaara	687	63.3974	28.163	
+FI	73990	Kangaslahti	Northern Savo	11	Koillis-Savo	113	Rautavaara	687	63.3974	28.163	4
 FI	75680	Ylä-Luosta	Northern Savo	11	Koillis-Savo	113	Rautavaara	687	63.3807	28.6188	6
 FI	71460	Paukarlahti	Northern Savo	11	Varkaus	114	Leppävirta	420	62.6472	27.6218	6
 FI	71470	Oravikoski	Northern Savo	11	Varkaus	114	Leppävirta	420	62.5875	27.617	6
@@ -1759,19 +1759,19 @@ FI	78850	Varkaus	Northern Savo	11	Varkaus	114	Varkaus	915	62.303	27.847	6
 FI	78870	Varkaus	Northern Savo	11	Varkaus	114	Varkaus	915	62.3175	27.832	6
 FI	78900	Varkaus	Northern Savo	11	Varkaus	114	Varkaus	915	62.3168	27.7924	6
 FI	79100	Leppävirta	Northern Savo	11	Varkaus	114	Leppävirta	420	62.4909	27.8569	6
-FI	79101	Leppävirta	Northern Savo	11	Varkaus	114	Leppävirta	420	62.4972	27.958	
+FI	79101	Leppävirta	Northern Savo	11	Varkaus	114	Leppävirta	420	62.4972	27.958	4
 FI	79130	Sorsakoski	Northern Savo	11	Varkaus	114	Leppävirta	420	62.4528	27.6616	6
 FI	79140	Kotalahti	Northern Savo	11	Varkaus	114	Leppävirta	420	62.5507	27.56	6
 FI	79150	Konnuslahti	Northern Savo	11	Varkaus	114	Leppävirta	420	62.5784	27.8292	6
 FI	79160	Saamaiskylä	Northern Savo	11	Varkaus	114	Leppävirta	420	62.6508	27.7943	6
-FI	79180	Tuppurinmäki	Northern Savo	11	Varkaus	114	Leppävirta	420	62.6251	27.9792	
+FI	79180	Tuppurinmäki	Northern Savo	11	Varkaus	114	Leppävirta	420	62.6251	27.9792	4
 FI	79190	Valkeamäki	Northern Savo	11	Varkaus	114	Leppävirta	420	62.6536	28.0483	6
 FI	79230	Moninmäki	Northern Savo	11	Varkaus	114	Leppävirta	420	62.4434	28.0363	6
 FI	79255	Kurjala	Northern Savo	11	Varkaus	114	Leppävirta	420	62.5468	28.1414	6
 FI	79265	Puponmäki	Northern Savo	11	Varkaus	114	Leppävirta	420	62.5963	28.087	6
 FI	79330	Näädänmaa	Northern Savo	11	Varkaus	114	Leppävirta	420	62.4928	28.2589	6
 FI	79350	Itä-Soisalo	Northern Savo	11	Varkaus	114	Leppävirta	420	62.5627	28.3224	6
-FI	79410	Niinimäki	Northern Savo	11	Varkaus	114	Leppävirta	420	62.3909	28.2011	
+FI	79410	Niinimäki	Northern Savo	11	Varkaus	114	Leppävirta	420	62.3909	28.2011	4
 FI	79480	Kangaslampi	Northern Savo	11	Varkaus	114	Varkaus	915	62.289	28.2727	6
 FI	79520	Viljolahti	Northern Savo	11	Varkaus	114	Varkaus	915	62.2291	28.5241	6
 FI	71640	Talluskylä	Northern Savo	11	Sisä-Savo	115	Tervo	844	63.0382	26.982	6
@@ -1791,7 +1791,7 @@ FI	77770	Myhinpää	Northern Savo	11	Sisä-Savo	115	Rautalampi	686	62.4994	26.66
 FI	77800	Iisvesi	Northern Savo	11	Sisä-Savo	115	Suonenjoki	778	62.6682	27.0124	6
 FI	77910	Vaajasalmi	Northern Savo	11	Sisä-Savo	115	Rautalampi	686	62.6995	26.8733	6
 FI	77930	Kerkonjoensuu	Northern Savo	11	Sisä-Savo	115	Rautalampi	686	62.7729	26.6402	6
-FI	77960	Pakarila	Northern Savo	11	Sisä-Savo	115	Rautalampi	686	62.696	26.5909	
+FI	77960	Pakarila	Northern Savo	11	Sisä-Savo	115	Rautalampi	686	62.696	26.5909	4
 FI	80100	Joensuu	North Karelia	12	Joensuu	122	Joensuu	167	62.6143	29.7768	6
 FI	80101	Joensuu	North Karelia	12	Joensuu	122	Joensuu	167	62.5947	29.8359	
 FI	80110	Joensuu	North Karelia	12	Joensuu	122	Joensuu	167	62.6001	29.738	6
@@ -1800,7 +1800,7 @@ FI	80140	Joensuu	North Karelia	12	Joensuu	122	Joensuu	167	62.6259	29.6873	6
 FI	80160	Joensuu	North Karelia	12	Joensuu	122	Joensuu	167	62.6192	29.8247	6
 FI	80170	Joensuu	North Karelia	12	Joensuu	122	Joensuu	167	62.6199	29.8564	6
 FI	80200	Joensuu	North Karelia	12	Joensuu	122	Joensuu	167	62.5931	29.788	6
-FI	80210	Joensuu	North Karelia	12	Joensuu	122	Joensuu	167	62.5915	29.7778	
+FI	80210	Joensuu	North Karelia	12	Joensuu	122	Joensuu	167	62.5915	29.7778	4
 FI	80220	Joensuu	North Karelia	12	Joensuu	122	Joensuu	167	62.5836	29.7686	6
 FI	80230	Joensuu	North Karelia	12	Joensuu	122	Joensuu	167	62.5772	29.8052	6
 FI	80260	Joensuu	North Karelia	12	Joensuu	122	Joensuu	167	62.599	29.8253	6
@@ -1827,8 +1827,8 @@ FI	81280	Uimaharju	North Karelia	12	Joensuu	122	Joensuu	167	62.9111	30.2712	6
 FI	81281	Uimaharju	North Karelia	12	Joensuu	122	Joensuu	167	62.913	30.2346	6
 FI	81290	Ukkola	North Karelia	12	Joensuu	122	Joensuu	167	62.9651	30.192	6
 FI	81295	Haapalahti	North Karelia	12	Joensuu	122	Joensuu	167	62.9918	30.1181	6
-FI	81320	Kuismavaara	North Karelia	12	Joensuu	122	Joensuu	167	62.7251	30.4537	
-FI	81330	Luhtapohja	North Karelia	12	Joensuu	122	Joensuu	167	62.7834	30.4581	
+FI	81320	Kuismavaara	North Karelia	12	Joensuu	122	Joensuu	167	62.7251	30.4537	4
+FI	81330	Luhtapohja	North Karelia	12	Joensuu	122	Joensuu	167	62.7834	30.4581	4
 FI	81350	Tokrajärvi	North Karelia	12	Joensuu	122	Ilomantsi	146	62.736	30.6114	6
 FI	81360	Sarvinki	North Karelia	12	Joensuu	122	Joensuu	167	62.6868	30.3246	6
 FI	81390	Revonkylä	North Karelia	12	Joensuu	122	Joensuu	167	62.6418	30.5049	6
@@ -1843,7 +1843,7 @@ FI	82140	Kiihtelysvaara	North Karelia	12	Joensuu	122	Joensuu	167	62.472	30.2706	
 FI	82160	Oskola	North Karelia	12	Joensuu	122	Joensuu	167	62.4472	30.4777	6
 FI	82170	Uskali	North Karelia	12	Joensuu	122	Joensuu	167	62.3767	30.46	6
 FI	82180	Huhtilampi	North Karelia	12	Joensuu	122	Joensuu	167	62.4214	30.379	6
-FI	82200	Hammaslahti	North Karelia	12	Joensuu	122	Joensuu	167	62.4365	29.9838	
+FI	82200	Hammaslahti	North Karelia	12	Joensuu	122	Joensuu	167	62.4365	29.9838	4
 FI	82210	Suhmura	North Karelia	12	Joensuu	122	Joensuu	167	62.4722	29.8974	6
 FI	82220	Niittylahti	North Karelia	12	Joensuu	122	Joensuu	167	62.5108	29.8783	6
 FI	82710	Kovero	North Karelia	12	Joensuu	122	Joensuu	167	62.556	30.5539	6
@@ -1883,7 +1883,7 @@ FI	83660	Varislahti	North Karelia	12	Joensuu	122	Outokumpu	309	62.7513	28.75	6
 FI	83700	Polvijärvi	North Karelia	12	Joensuu	122	Polvijärvi	607	62.8642	29.3765	6
 FI	83720	Kuorevaara	North Karelia	12	Joensuu	122	Polvijärvi	607	62.7884	29.4828	6
 FI	83750	Sotkuma	North Karelia	12	Joensuu	122	Polvijärvi	607	62.7335	29.4253	6
-FI	83760	Sola	North Karelia	12	Joensuu	122	Polvijärvi	607	62.7718	29.3336	
+FI	83760	Sola	North Karelia	12	Joensuu	122	Polvijärvi	607	62.7718	29.3336	4
 FI	83780	Horsmanaho	North Karelia	12	Joensuu	122	Polvijärvi	607	62.8261	29.2476	6
 FI	83825	Kinahmo	North Karelia	12	Joensuu	122	Polvijärvi	607	62.855	29.5567	6
 FI	83830	Hukkala	North Karelia	12	Joensuu	122	Polvijärvi	607	62.9086	29.1311	6
@@ -1895,10 +1895,10 @@ FI	83880	Kajoo	North Karelia	12	Joensuu	122	Juuka	176	63.0943	28.9582	6
 FI	83900	Juuka	North Karelia	12	Joensuu	122	Juuka	176	63.2559	29.1945	6
 FI	83901	Juuka	North Karelia	12	Joensuu	122	Juuka	176	63.2513	29.1251	6
 FI	83910	Paalasmaa	North Karelia	12	Joensuu	122	Juuka	176	63.2952	29.4718	6
-FI	83915	Vihtasuo	North Karelia	12	Joensuu	122	Juuka	176	63.3513	29.1597	
+FI	83915	Vihtasuo	North Karelia	12	Joensuu	122	Juuka	176	63.3513	29.1597	4
 FI	83940	Nunnanlahti	North Karelia	12	Joensuu	122	Juuka	176	63.1782	29.4777	6
 FI	83950	Ahmovaara	North Karelia	12	Joensuu	122	Juuka	176	63.0714	29.6128	6
-FI	83985	Tuopanjoki	North Karelia	12	Joensuu	122	Juuka	176	63.0426	29.5513	
+FI	83985	Tuopanjoki	North Karelia	12	Joensuu	122	Juuka	176	63.0426	29.5513	4
 FI	58350	Villala	North Karelia	12	Keski-Karjala	124	Kitee	260	62.0613	29.5659	6
 FI	59800	Kesälahti	North Karelia	12	Keski-Karjala	124	Kitee	260	61.8963	29.8407	6
 FI	59810	Suurikylä	North Karelia	12	Keski-Karjala	124	Kitee	260	61.8745	29.6987	6
@@ -1935,16 +1935,16 @@ FI	75770	Puukari	North Karelia	12	Pielisen Karjala	125	Valtimo	911	63.7464	28.64
 FI	75790	Rumo	North Karelia	12	Pielisen Karjala	125	Valtimo	911	63.8055	28.5799	6
 FI	75840	Ylä-Valtimo	North Karelia	12	Pielisen Karjala	125	Valtimo	911	63.7102	28.8738	6
 FI	75890	Saramo	North Karelia	12	Pielisen Karjala	125	Nurmes	541	63.7182	29.199	6
-FI	75930	Petäiskylä	North Karelia	12	Pielisen Karjala	125	Nurmes	541	63.7352	29.3565	
+FI	75930	Petäiskylä	North Karelia	12	Pielisen Karjala	125	Nurmes	541	63.7352	29.3565	4
 FI	75940	Mujejärvi	North Karelia	12	Pielisen Karjala	125	Nurmes	541	63.8297	29.4572	6
 FI	75970	Kohtavaara	North Karelia	12	Pielisen Karjala	125	Nurmes	541	63.4952	29.3114	
-FI	75990	Höljäkkä	North Karelia	12	Pielisen Karjala	125	Nurmes	541	63.4559	29.4563	
+FI	75990	Höljäkkä	North Karelia	12	Pielisen Karjala	125	Nurmes	541	63.4559	29.4563	4
 FI	81560	Vuonisjärvi	North Karelia	12	Pielisen Karjala	125	Lieksa	422	63.1453	30.0979	6
 FI	81570	Kelvä	North Karelia	12	Pielisen Karjala	125	Lieksa	422	63.0706	30.0772	6
 FI	81590	Vuonislahti	North Karelia	12	Pielisen Karjala	125	Lieksa	422	63.145	29.9885	6
 FI	81650	Hattuvaara	North Karelia	12	Pielisen Karjala	125	Lieksa	422	63.2587	30.6046	6
 FI	81660	Lehmikylä	North Karelia	12	Pielisen Karjala	125	Lieksa	422	63.3163	30.6335	
-FI	81700	Lieksa	North Karelia	12	Pielisen Karjala	125	Lieksa	422	63.3105	30.0446	
+FI	81700	Lieksa	North Karelia	12	Pielisen Karjala	125	Lieksa	422	63.3105	30.0446	4
 FI	81701	Lieksa	North Karelia	12	Pielisen Karjala	125	Lieksa	422	63.3156	30.0329	6
 FI	81720	Lieksa	North Karelia	12	Pielisen Karjala	125	Lieksa	422	63.2815	30.0408	6
 FI	81750	Pankakoski	North Karelia	12	Pielisen Karjala	125	Lieksa	422	63.3485	30.214	6
@@ -1988,7 +1988,7 @@ FI	41140	Kuikka	Central Finland Region	13	Jyväskylä	131	Jyväskylä	179	62.378
 FI	41160	Tikkakoski	Central Finland Region	13	Jyväskylä	131	Jyväskylä	179	62.3866	25.6557	6
 FI	41161	Tikkakoski	Central Finland Region	13	Jyväskylä	131	Jyväskylä	179	62.4047	25.6753	6
 FI	41180	Vehniä	Central Finland Region	13	Jyväskylä	131	Laukaa	410	62.4398	25.6772	6
-FI	41210	Jokihaara	Central Finland Region	13	Jyväskylä	131	Uurainen	892	62.4446	25.5135	
+FI	41210	Jokihaara	Central Finland Region	13	Jyväskylä	131	Uurainen	892	62.4446	25.5135	4
 FI	41220	Höytiä	Central Finland Region	13	Jyväskylä	131	Uurainen	892	62.4259	25.3682	6
 FI	41230	Uurainen	Central Finland Region	13	Jyväskylä	131	Uurainen	892	62.4893	25.4225	6
 FI	41240	Kyynämöinen	Central Finland Region	13	Jyväskylä	131	Uurainen	892	62.47	25.2821	6
@@ -2002,7 +2002,7 @@ FI	41360	Valkola	Central Finland Region	13	Jyväskylä	131	Laukaa	410	62.4707	25
 FI	41370	Kuusa	Central Finland Region	13	Jyväskylä	131	Laukaa	410	62.4528	26.0389	6
 FI	41390	Äijälä	Central Finland Region	13	Jyväskylä	131	Laukaa	410	62.5075	26.0625	6
 FI	41400	Lievestuore	Central Finland Region	13	Jyväskylä	131	Laukaa	410	62.2728	26.1688	6
-FI	41410	Kankainen	Central Finland Region	13	Jyväskylä	131	Toivakka	850	62.1729	26.2378	
+FI	41410	Kankainen	Central Finland Region	13	Jyväskylä	131	Toivakka	850	62.1729	26.2378	4
 FI	41440	Ruuhimäki	Central Finland Region	13	Jyväskylä	131	Toivakka	850	62.1999	26.1668	6
 FI	41450	Leppälahti	Central Finland Region	13	Jyväskylä	131	Jyväskylä	179	62.2284	25.9817	6
 FI	41490	Niemisjärvi	Central Finland Region	13	Jyväskylä	131	Hankasalmi	077	62.2814	26.3462	6
@@ -2038,38 +2038,38 @@ FI	41750	Havumäki	Central Finland Region	13	Joutsa	132	Joutsa	172	61.994	26.274
 FI	41770	Leivonmäki	Central Finland Region	13	Joutsa	132	Joutsa	172	61.9245	26.1149	6
 FI	41970	Huttula	Central Finland Region	13	Keuruu	133	Keuruu	249	62.2569	25.0167	6
 FI	42520	Asunta	Central Finland Region	13	Keuruu	133	Keuruu	249	62.2592	24.909	6
-FI	42560	Pohjoisjärvi	Central Finland Region	13	Keuruu	133	Keuruu	249	62.1794	24.797	
+FI	42560	Pohjoisjärvi	Central Finland Region	13	Keuruu	133	Keuruu	249	62.1794	24.797	4
 FI	42600	Multia	Central Finland Region	13	Keuruu	133	Multia	495	62.4215	24.8161	6
 FI	42660	Sahrajärvi	Central Finland Region	13	Keuruu	133	Multia	495	62.5114	25.1308	6
 FI	42700	Keuruu	Central Finland Region	13	Keuruu	133	Keuruu	249	62.2562	24.7053	6
-FI	42701	Keuruu	Central Finland Region	13	Keuruu	133	Keuruu	249	62.2353	24.7213	
+FI	42701	Keuruu	Central Finland Region	13	Keuruu	133	Keuruu	249	62.2353	24.7213	4
 FI	42720	Keuruu	Central Finland Region	13	Keuruu	133	Keuruu	249	62.2202	24.6671	6
 FI	42800	Haapamäki	Central Finland Region	13	Keuruu	133	Keuruu	249	62.2433	24.4289	6
-FI	42820	Riiho	Central Finland Region	13	Keuruu	133	Keuruu	249	62.2009	24.3673	
+FI	42820	Riiho	Central Finland Region	13	Keuruu	133	Keuruu	249	62.2009	24.3673	4
 FI	42910	Pihlajavesi	Central Finland Region	13	Keuruu	133	Keuruu	249	62.3712	24.3244	6
 FI	42930	Katajamäki	Central Finland Region	13	Keuruu	133	Keuruu	249	62.3155	24.1734	6
 FI	43430	Väätäiskylä	Central Finland Region	13	Keuruu	133	Multia	495	62.5944	24.6056	6
-FI	17780	Harmoinen	Central Finland Region	13	Jämsä	134	Kuhmoinen	291	61.4844	25.1195	
+FI	17780	Harmoinen	Central Finland Region	13	Jämsä	134	Kuhmoinen	291	61.4844	25.1195	4
 FI	17800	Kuhmoinen	Central Finland Region	13	Jämsä	134	Kuhmoinen	291	61.58	25.1581	6
 FI	17801	Kuhmoinen	Central Finland Region	13	Jämsä	134	Kuhmoinen	291	61.5633	25.1701	6
 FI	17840	Harjunsalmi	Central Finland Region	13	Jämsä	134	Kuhmoinen	291	61.6868	25.2721	6
 FI	17850	Pihlajakoski	Central Finland Region	13	Jämsä	134	Kuhmoinen	291	61.6848	25.3882	6
-FI	17870	Ruolahti	Central Finland Region	13	Jämsä	134	Kuhmoinen	291	61.5887	25.3911	
+FI	17870	Ruolahti	Central Finland Region	13	Jämsä	134	Kuhmoinen	291	61.5887	25.3911	4
 FI	17930	Päijälä	Central Finland Region	13	Jämsä	134	Kuhmoinen	291	61.6037	24.8941	6
 FI	17950	Kylämä	Central Finland Region	13	Jämsä	134	Kuhmoinen	291	61.6591	25.0603	6
 FI	17970	Puukkoinen	Central Finland Region	13	Jämsä	134	Kuhmoinen	291	61.709	25.12	6
-FI	35400	Längelmäki	Central Finland Region	13	Jämsä	134	Jämsä	182	61.7427	24.8378	
+FI	35400	Längelmäki	Central Finland Region	13	Jämsä	134	Jämsä	182	61.7427	24.8378	4
 FI	35600	Halli	Central Finland Region	13	Jämsä	134	Jämsä	182	61.868	24.8179	6
 FI	35601	Halli	Central Finland Region	13	Jämsä	134	Jämsä	182	61.9114	24.9157	6
 FI	35610	Pihlaisto	Central Finland Region	13	Jämsä	134	Jämsä	182	61.8894	24.6794	6
 FI	35630	Kuorevesi	Central Finland Region	13	Jämsä	134	Jämsä	182	61.9203	24.7748	6
 FI	35820	Mänttä	Central Finland Region	13	Jämsä	134	Jämsä	182	61.9817	24.7534	6
 FI	42100	Jämsä	Central Finland Region	13	Jämsä	134	Jämsä	182	61.8631	25.209	6
-FI	42140	Juokslahti	Central Finland Region	13	Jämsä	134	Jämsä	182	61.9592	25.3279	
+FI	42140	Juokslahti	Central Finland Region	13	Jämsä	134	Jämsä	182	61.9592	25.3279	4
 FI	42220	Kaipola	Central Finland Region	13	Jämsä	134	Jämsä	182	61.8192	25.2256	6
 FI	42300	Jämsänkoski	Central Finland Region	13	Jämsä	134	Jämsä	182	61.9289	25.1648	6
 FI	42301	Jämsänkoski	Central Finland Region	13	Jämsä	134	Jämsä	182	61.916	25.1652	6
-FI	42330	Haavisto	Central Finland Region	13	Jämsä	134	Jämsä	182	62.0028	25.1124	
+FI	42330	Haavisto	Central Finland Region	13	Jämsä	134	Jämsä	182	62.0028	25.1124	4
 FI	42440	Koskenpää	Central Finland Region	13	Jämsä	134	Jämsä	182	62.0972	25.108	6
 FI	44100	Äänekoski	Central Finland Region	13	Äänekoski	135	Enekoski	992	62.6057	25.7163	6
 FI	44101	Äänekoski	Central Finland Region	13	Äänekoski	135	Enekoski	992	62.6001	25.7373	
@@ -2145,7 +2145,7 @@ FI	44860	Alvajärvi	Central Finland Region	13	Saarijärvi-Viitasaari	138	Pihtipu
 FI	44880	Muurasjärvi	Central Finland Region	13	Saarijärvi-Viitasaari	138	Pihtipudas	601	63.5405	25.2809	6
 FI	44910	Elämäjärvi	Central Finland Region	13	Saarijärvi-Viitasaari	138	Pihtipudas	601	63.4832	25.6514	6
 FI	44920	Peninki	Central Finland Region	13	Saarijärvi-Viitasaari	138	Pihtipudas	601	63.4433	25.744	6
-FI	44950	Kärväsjärvi	Central Finland Region	13	Saarijärvi-Viitasaari	138	Pihtipudas	601	63.334	25.781	
+FI	44950	Kärväsjärvi	Central Finland Region	13	Saarijärvi-Viitasaari	138	Pihtipudas	601	63.334	25.781	4
 FI	44970	Korppinen	Central Finland Region	13	Saarijärvi-Viitasaari	138	Pihtipudas	601	63.3644	25.9587	6
 FI	61800	Kauhajoki	South Ostrobothnia Region	14	Suupohja	141	Kauhajoki	232	62.4167	22.1756	6
 FI	61810	Luomankylä	South Ostrobothnia Region	14	Suupohja	141	Kauhajoki	232	62.4701	22.129	6
@@ -2157,7 +2157,7 @@ FI	61880	Ikkeläjärvi	South Ostrobothnia Region	14	Suupohja	141	Kauhajoki	232	6
 FI	61910	Nummijärvi	South Ostrobothnia Region	14	Suupohja	141	Kauhajoki	232	62.2982	22.4545	6
 FI	61920	Nummikoski	South Ostrobothnia Region	14	Suupohja	141	Kauhajoki	232	62.2351	22.4981	6
 FI	61940	Hyyppä	South Ostrobothnia Region	14	Suupohja	141	Kauhajoki	232	62.3197	22.2573	6
-FI	61950	Juonikylä	South Ostrobothnia Region	14	Suupohja	141	Kauhajoki	232	62.2737	22.2733	
+FI	61950	Juonikylä	South Ostrobothnia Region	14	Suupohja	141	Kauhajoki	232	62.2737	22.2733	4
 FI	61960	Kyrönlatva	South Ostrobothnia Region	14	Suupohja	141	Kauhajoki	232	62.1749	22.2797	6
 FI	61980	Päntäne	South Ostrobothnia Region	14	Suupohja	141	Kauhajoki	232	62.338	22.0531	6
 FI	64350	Karijoki	South Ostrobothnia Region	14	Suupohja	141	Karijoki	218	62.301	21.7695	6
@@ -2170,7 +2170,7 @@ FI	64770	Äystö	South Ostrobothnia Region	14	Suupohja	141	Teuva	846	62.4808	21.
 FI	64810	Vanhakylä	South Ostrobothnia Region	14	Suupohja	141	Isojoki	151	62.191	21.7992	6
 FI	64820	Kärjenkoski	South Ostrobothnia Region	14	Suupohja	141	Isojoki	151	62.1108	21.7029	6
 FI	64830	Villamo	South Ostrobothnia Region	14	Suupohja	141	Isojoki	151	62.1633	21.8864	6
-FI	64840	Heikkilänjoki	South Ostrobothnia Region	14	Suupohja	141	Isojoki	151	62.1822	21.9193	
+FI	64840	Heikkilänjoki	South Ostrobothnia Region	14	Suupohja	141	Isojoki	151	62.1822	21.9193	4
 FI	64850	Möykky	South Ostrobothnia Region	14	Suupohja	141	Isojoki	151	62.182	22.0003	6
 FI	64900	Isojoki	South Ostrobothnia Region	14	Suupohja	141	Isojoki	151	62.1027	21.9406	6
 FI	64930	Kodesjärvi	South Ostrobothnia Region	14	Suupohja	141	Isojoki	151	62.0604	22.0636	6
@@ -2241,7 +2241,7 @@ FI	62185	Mäki-Paavola	South Ostrobothnia Region	14	Seinäjoki	142	Lapua	408	62.
 FI	62190	Ruha	South Ostrobothnia Region	14	Seinäjoki	142	Lapua	408	62.9074	22.9848	6
 FI	62200	Kauhava	South Ostrobothnia Region	14	Seinäjoki	142	Kauhava	233	63.105	23.0579	6
 FI	62201	Kauhava	South Ostrobothnia Region	14	Seinäjoki	142	Kauhava	233	63.1031	23.0423	
-FI	62220	Pernaa	South Ostrobothnia Region	14	Seinäjoki	142	Kauhava	233	63.0983	22.9478	
+FI	62220	Pernaa	South Ostrobothnia Region	14	Seinäjoki	142	Kauhava	233	63.0983	22.9478	4
 FI	62230	Jylhä	South Ostrobothnia Region	14	Seinäjoki	142	Kauhava	233	63.1197	23.1431	6
 FI	62240	Huhmarkoski	South Ostrobothnia Region	14	Seinäjoki	142	Kauhava	233	63.1212	23.263	
 FI	62260	Hirvijoki	South Ostrobothnia Region	14	Seinäjoki	142	Kauhava	233	63.0672	23.2323	6
@@ -2251,7 +2251,7 @@ FI	62295	Kauhajärvi	South Ostrobothnia Region	14	Seinäjoki	142	Lapua	408	63.02
 FI	62300	Härmä	South Ostrobothnia Region	14	Seinäjoki	142	Kauhava	233	63.2306	22.845	6
 FI	62310	Voltti	South Ostrobothnia Region	14	Seinäjoki	142	Kauhava	233	63.2899	22.7867	6
 FI	62340	Kuoppa	South Ostrobothnia Region	14	Seinäjoki	142	Kauhava	233	63.223	22.6597	6
-FI	62350	Ekola	South Ostrobothnia Region	14	Seinäjoki	142	Kauhava	233	63.3313	22.7584	
+FI	62350	Ekola	South Ostrobothnia Region	14	Seinäjoki	142	Kauhava	233	63.3313	22.7584	4
 FI	62370	Kangasto	South Ostrobothnia Region	14	Seinäjoki	142	Kauhava	233	63.1614	22.8274	6
 FI	62375	Ylihärmä	South Ostrobothnia Region	14	Seinäjoki	142	Kauhava	233	63.1392	22.7855	6
 FI	62380	Kosolankylä	South Ostrobothnia Region	14	Seinäjoki	142	Kauhava	233	63.0879	22.7667	6
@@ -2318,7 +2318,7 @@ FI	62640	Savonkylä	South Ostrobothnia Region	14	Järviseutu	146	Lappajärvi	403
 FI	62660	Itäkylä	South Ostrobothnia Region	14	Järviseutu	146	Lappajärvi	403	63.2338	23.7419	6
 FI	62710	Kurejoki	South Ostrobothnia Region	14	Järviseutu	146	Alajärvi	005	63.0224	23.6918	6
 FI	62720	Sissala	South Ostrobothnia Region	14	Järviseutu	146	Alajärvi	005	63.0171	23.6406	6
-FI	62730	Haukkala	South Ostrobothnia Region	14	Järviseutu	146	Alajärvi	005	63.0319	23.678	
+FI	62730	Haukkala	South Ostrobothnia Region	14	Järviseutu	146	Alajärvi	005	63.0319	23.678	4
 FI	62740	Koskenvarsi	South Ostrobothnia Region	14	Järviseutu	146	Alajärvi	005	62.9812	23.7637	6
 FI	62750	Saukonkylä	South Ostrobothnia Region	14	Järviseutu	146	Alajärvi	005	62.9403	23.7395	6
 FI	62760	Menkijärvi	South Ostrobothnia Region	14	Järviseutu	146	Alajärvi	005	62.9557	23.5399	6
@@ -2329,7 +2329,7 @@ FI	62840	Lakaniemi	South Ostrobothnia Region	14	Järviseutu	146	Vimpeli	934	63.1
 FI	62860	Sahi	South Ostrobothnia Region	14	Järviseutu	146	Vimpeli	934	63.1828	23.7779	
 FI	62870	Vinni	South Ostrobothnia Region	14	Järviseutu	146	Vimpeli	934	63.2107	23.9276	6
 FI	62880	Sääksvesi	South Ostrobothnia Region	14	Järviseutu	146	Vimpeli	934	63.2204	23.9807	6
-FI	62900	Alajärvi	South Ostrobothnia Region	14	Järviseutu	146	Alajärvi	005	63.0105	23.8689	
+FI	62900	Alajärvi	South Ostrobothnia Region	14	Järviseutu	146	Alajärvi	005	63.0105	23.8689	4
 FI	62920	Levijoki	South Ostrobothnia Region	14	Järviseutu	146	Alajärvi	005	62.9743	23.9468	6
 FI	62940	Hoisko	South Ostrobothnia Region	14	Järviseutu	146	Alajärvi	005	63.0281	23.8825	6
 FI	62950	Paalijärvi	South Ostrobothnia Region	14	Järviseutu	146	Alajärvi	005	63.0729	23.9352	6
@@ -2337,7 +2337,7 @@ FI	62990	Möksy	South Ostrobothnia Region	14	Järviseutu	146	Alajärvi	005	63.03
 FI	63500	Lehtimäki	South Ostrobothnia Region	14	Järviseutu	146	Alajärvi	005	62.8209	23.9725	6
 FI	63510	Lehtimäki Kk	South Ostrobothnia Region	14	Järviseutu	146	Alajärvi	005	62.7739	23.9541	6
 FI	63530	Länsikylä	South Ostrobothnia Region	14	Järviseutu	146	Alajärvi	005	62.8505	23.7953	6
-FI	63540	Hernesmaa	South Ostrobothnia Region	14	Järviseutu	146	Alajärvi	005	62.8413	23.9371	
+FI	63540	Hernesmaa	South Ostrobothnia Region	14	Järviseutu	146	Alajärvi	005	62.8413	23.9371	4
 FI	63800	Soini	South Ostrobothnia Region	14	Järviseutu	146	Soini	759	62.8592	24.2325	6
 FI	63830	Keisala	South Ostrobothnia Region	14	Järviseutu	146	Soini	759	62.9763	24.213	6
 FI	63880	Kukonkylä	South Ostrobothnia Region	14	Järviseutu	146	Soini	759	62.7797	24.1039	6
@@ -2468,7 +2468,7 @@ FI	68810	Ytteresse	Ostrobothnia Region	15	Jakobstadsregionen	154	Pedersöre	599	
 FI	68820	Ähtävä	Ostrobothnia Region	15	Jakobstadsregionen	154	Pedersöre	599	63.5925	23.0568	6
 FI	68830	Bäckby	Ostrobothnia Region	15	Jakobstadsregionen	154	Pedersöre	599	63.6253	23.1159	6
 FI	68840	Nederlappfors	Ostrobothnia Region	15	Jakobstadsregionen	154	Pedersöre	599	63.5152	23.2379	6
-FI	68870	Edsevö	Ostrobothnia Region	15	Jakobstadsregionen	154	Pedersöre	599	63.6343	22.8516	
+FI	68870	Edsevö	Ostrobothnia Region	15	Jakobstadsregionen	154	Pedersöre	599	63.6343	22.8516	4
 FI	68910	Pännäinen	Ostrobothnia Region	15	Jakobstadsregionen	154	Pedersöre	599	63.6057	22.7852	6
 FI	68920	Forsby	Ostrobothnia Region	15	Jakobstadsregionen	154	Pedersöre	599	63.5704	22.8666	6
 FI	68930	Purmo	Ostrobothnia Region	15	Jakobstadsregionen	154	Pedersöre	599	63.5217	22.9726	6
@@ -2480,23 +2480,23 @@ FI	69330	Määttälä	Central Ostrobothnia Region	16	Kaustinen	161	Toholampi	849
 FI	69340	Purontaka	Central Ostrobothnia Region	16	Kaustinen	161	Toholampi	849	63.6817	24.3477	6
 FI	69410	Sykäräinen	Central Ostrobothnia Region	16	Kaustinen	161	Toholampi	849	63.6203	24.3943	6
 FI	69420	Syri	Central Ostrobothnia Region	16	Kaustinen	161	Lestijärvi	421	63.5778	24.4801	6
-FI	69440	Lestijärvi	Central Ostrobothnia Region	16	Kaustinen	161	Lestijärvi	421	63.5281	24.7075	
+FI	69440	Lestijärvi	Central Ostrobothnia Region	16	Kaustinen	161	Lestijärvi	421	63.5281	24.7075	4
 FI	69450	Yli-Lesti	Central Ostrobothnia Region	16	Kaustinen	161	Lestijärvi	421	63.478	24.8027	6
 FI	69510	Halsua	Central Ostrobothnia Region	16	Kaustinen	161	Halsua	074	63.4668	24.1734	6
-FI	69550	Kanala	Central Ostrobothnia Region	16	Kaustinen	161	Halsua	074	63.4672	24.4154	
+FI	69550	Kanala	Central Ostrobothnia Region	16	Kaustinen	161	Halsua	074	63.4672	24.4154	4
 FI	69570	Karvonen	Central Ostrobothnia Region	16	Kaustinen	161	Halsua	074	63.4048	24.2061	6
 FI	69600	Kaustinen	Central Ostrobothnia Region	16	Kaustinen	161	Kaustinen	236	63.5693	23.6893	6
 FI	69660	Köyhäjoki	Central Ostrobothnia Region	16	Kaustinen	161	Kaustinen	236	63.5677	23.9347	6
 FI	69700	Veteli	Central Ostrobothnia Region	16	Kaustinen	161	Veteli	924	63.466	23.8011	6
 FI	69730	Tunkkari	Central Ostrobothnia Region	16	Kaustinen	161	Veteli	924	63.4965	23.7646	6
 FI	69750	Sillanpää	Central Ostrobothnia Region	16	Kaustinen	161	Veteli	924	63.4252	23.9729	6
-FI	69820	Räyrinki	Central Ostrobothnia Region	16	Kaustinen	161	Veteli	924	63.3803	23.8092	
+FI	69820	Räyrinki	Central Ostrobothnia Region	16	Kaustinen	161	Veteli	924	63.3803	23.8092	4
 FI	69830	Pulkkinen	Central Ostrobothnia Region	16	Kaustinen	161	Veteli	924	63.3497	23.995	6
 FI	69850	Patana	Central Ostrobothnia Region	16	Kaustinen	161	Veteli	924	63.3166	23.9048	6
 FI	69910	Kivikangas	Central Ostrobothnia Region	16	Kaustinen	161	Perho	584	63.31	24.1494	6
 FI	69920	Oksakoski	Central Ostrobothnia Region	16	Kaustinen	161	Perho	584	63.2484	24.263	6
 FI	69950	Perho	Central Ostrobothnia Region	16	Kaustinen	161	Perho	584	63.2246	24.4289	6
-FI	69970	Salamajärvi	Central Ostrobothnia Region	16	Kaustinen	161	Perho	584	63.3244	24.6287	
+FI	69970	Salamajärvi	Central Ostrobothnia Region	16	Kaustinen	161	Perho	584	63.3244	24.6287	4
 FI	69980	Möttönen	Central Ostrobothnia Region	16	Kaustinen	161	Perho	584	63.1871	24.5589	6
 FI	67100	Kokkola                       	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8388	23.133	6
 FI	67101	Kokkola                       	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8484	23.081	
@@ -2584,7 +2584,7 @@ FI	91510	Rova	North Ostrobothnia Region	17	Oulu	171	Muhos	494	64.8715	25.8567	6
 FI	91560	Kylmälänkylä	North Ostrobothnia Region	17	Oulu	171	Muhos	494	64.6287	26.1675	6
 FI	91670	Rokua	North Ostrobothnia Region	17	Oulu	171	Muhos	494	64.5966	26.4537	
 FI	91800	Tyrnävä	North Ostrobothnia Region	17	Oulu	171	Tyrnävä	859	64.7725	25.6829	6
-FI	91900	Liminka	North Ostrobothnia Region	17	Oulu	171	Liminka	425	64.7991	25.414	
+FI	91900	Liminka	North Ostrobothnia Region	17	Oulu	171	Liminka	425	64.7991	25.414	4
 FI	91910	Tupos	North Ostrobothnia Region	17	Oulu	171	Liminka	425	64.8602	25.4652	6
 FI	91930	Ala-Temmes	North Ostrobothnia Region	17	Oulu	171	Liminka	425	64.7717	25.5315	6
 FI	91950	Temmes	North Ostrobothnia Region	17	Oulu	171	Tyrnävä	859	64.6654	25.6123	6
@@ -2600,8 +2600,8 @@ FI	91630	Juorkuna	North Ostrobothnia Region	17	Oulunkaari	173	Utajärvi	889	64.9
 FI	91640	Särkijärvi	North Ostrobothnia Region	17	Oulunkaari	173	Utajärvi	889	64.9308	27.2034	6
 FI	91660	Ahmas	North Ostrobothnia Region	17	Oulunkaari	173	Utajärvi	889	64.6417	26.4787	6
 FI	93100	Pudasjärvi	North Ostrobothnia Region	17	Oulunkaari	173	Pudasjärvi	615	65.3459	27.06	6
-FI	93101	Pudasjärvi	North Ostrobothnia Region	17	Oulunkaari	173	Pudasjärvi	615	65.5073	27.3489	
-FI	93140	Kipinä	North Ostrobothnia Region	17	Oulunkaari	173	Pudasjärvi	615	65.297	26.5843	
+FI	93101	Pudasjärvi	North Ostrobothnia Region	17	Oulunkaari	173	Pudasjärvi	615	65.5073	27.3489	4
+FI	93140	Kipinä	North Ostrobothnia Region	17	Oulunkaari	173	Pudasjärvi	615	65.297	26.5843	4
 FI	93160	Hetejärvi	North Ostrobothnia Region	17	Oulunkaari	173	Pudasjärvi	615	65.1712	26.7735	6
 FI	93170	Pudasjärvi	North Ostrobothnia Region	17	Oulunkaari	173	Pudasjärvi	615	65.4167	26.697	6
 FI	93180	Ikosenniemi	North Ostrobothnia Region	17	Oulunkaari	173	Pudasjärvi	615	65.5273	26.5465	6
@@ -2656,12 +2656,12 @@ FI	92470	Tuomioja	North Ostrobothnia Region	17	Raahe	174	Siikajoki	748	64.6036	2
 FI	86480	Karhukangas	North Ostrobothnia Region	17	Haapavesi-Siikalatva	175	Haapavesi	071	64.3277	25.4085	6
 FI	86550	Mieluskylä	North Ostrobothnia Region	17	Haapavesi-Siikalatva	175	Haapavesi	071	64.1711	25.1589	6
 FI	86600	Haapavesi	North Ostrobothnia Region	17	Haapavesi-Siikalatva	175	Haapavesi	071	64.1431	25.3754	6
-FI	86601	Haapavesi	North Ostrobothnia Region	17	Haapavesi-Siikalatva	175	Haapavesi	071	64.1417	25.3688	
+FI	86601	Haapavesi	North Ostrobothnia Region	17	Haapavesi-Siikalatva	175	Haapavesi	071	64.1417	25.3688	4
 FI	86650	Kytökylä	North Ostrobothnia Region	17	Haapavesi-Siikalatva	175	Haapavesi	071	64.0956	25.5208	6
 FI	86680	Vatjusjärvi	North Ostrobothnia Region	17	Haapavesi-Siikalatva	175	Haapavesi	071	64.0795	25.3255	6
 FI	86690	Karsikas	North Ostrobothnia Region	17	Haapavesi-Siikalatva	175	Haapavesi	071	63.969	25.35	6
 FI	92500	Rantsila	North Ostrobothnia Region	17	Haapavesi-Siikalatva	175	Siikalatva	791	64.4944	25.6583	6
-FI	92520	Sipola	North Ostrobothnia Region	17	Haapavesi-Siikalatva	175	Siikalatva	791	64.4048	25.8555	
+FI	92520	Sipola	North Ostrobothnia Region	17	Haapavesi-Siikalatva	175	Siikalatva	791	64.4048	25.8555	4
 FI	92530	Mankila	North Ostrobothnia Region	17	Haapavesi-Siikalatva	175	Siikalatva	791	64.5899	25.5238	6
 FI	92600	Pulkkila	North Ostrobothnia Region	17	Haapavesi-Siikalatva	175	Siikalatva	791	64.2781	25.8254	6
 FI	92610	Vorna	North Ostrobothnia Region	17	Haapavesi-Siikalatva	175	Siikalatva	791	64.3502	25.9308	6
@@ -2673,11 +2673,11 @@ FI	92910	Tavastkenkä	North Ostrobothnia Region	17	Haapavesi-Siikalatva	175	Pyh�
 FI	92920	Ahokylä	North Ostrobothnia Region	17	Haapavesi-Siikalatva	175	Pyhäntä	630	64.0002	26.5602	6
 FI	92930	Pyhäntä	North Ostrobothnia Region	17	Haapavesi-Siikalatva	175	Pyhäntä	630	64.0738	26.3029	6
 FI	85500	Nivala	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Nivala	535	63.9234	24.9585	6
-FI	85501	Nivala	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Nivala	535	63.9347	24.8664	
+FI	85501	Nivala	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Nivala	535	63.9347	24.8664	4
 FI	85540	Nivala	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Nivala	535	63.9555	24.7763	6
 FI	85560	Nivala	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Nivala	535	63.8477	24.9985	6
 FI	85580	Nivala	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Nivala	535	63.8476	25.1396	6
-FI	85620	Nivala	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Nivala	535	64.0072	25.0749	
+FI	85620	Nivala	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Nivala	535	64.0072	25.0749	4
 FI	85630	Nivala	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Nivala	535	63.9339	25.0437	6
 FI	85640	Nivala	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Nivala	535	63.9536	25.1628	6
 FI	85660	Nivala	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Nivala	535	63.9511	25.2694	6
@@ -2693,14 +2693,14 @@ FI	85940	Räisälänmäki	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Re
 FI	85980	Köyhänperä	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Reisjärvi	691	63.6211	25.101	6
 FI	86301	Oulainen	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Haapajärvi	069	63.7587	25.3452	6
 FI	86710	Kärsämäki	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Kärsämäki	317	63.9709	25.8108	6
-FI	86790	Venetpalo	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Kärsämäki	317	63.8885	25.7979	
+FI	86790	Venetpalo	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Kärsämäki	317	63.8885	25.7979	4
 FI	86800	Pyhäsalmi	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Pyhäjärvi	626	63.6551	25.9714	6
-FI	86801	Pyhäsalmi	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Pyhäjärvi	626	63.643	25.9179	
+FI	86801	Pyhäsalmi	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Pyhäjärvi	626	63.643	25.9179	4
 FI	86810	Pyhäjärvi	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Pyhäjärvi	626	63.645	25.9667	6
 FI	86850	Hiidenniemi	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Pyhäjärvi	626	63.5509	25.7829	6
 FI	86870	Vesikoski	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Pyhäjärvi	626	63.7877	25.9362	6
 FI	86900	Pyhäkumpu	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Pyhäjärvi	626	63.669	26.0541	6
-FI	86980	Väliaho	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Pyhäjärvi	626	63.5085	26.0642	
+FI	86980	Väliaho	North Ostrobothnia Region	17	Nivala-Haapajärvi	176	Pyhäjärvi	626	63.5085	26.0642	4
 FI	68100	Himanka	North Ostrobothnia Region	17	Ylivieska	177	Kalajoki	208	64.0913	23.6763	6
 FI	68150	Hillilä	North Ostrobothnia Region	17	Ylivieska	177	Kalajoki	208	64.026	23.7247	6
 FI	69101	Kannus	North Ostrobothnia Region	17	Ylivieska	177	Kalajoki	208	64.0401	23.8826	6
@@ -2751,7 +2751,7 @@ FI	93900	Kuusamo	North Ostrobothnia Region	17	Koillismaa	178	Kuusamo	305	66.2889
 FI	88730	Ylä-Vieksi	Kainuu	18	Kehys-Kainuu	181	Kuhmo	290	64.313	29.0999	6
 FI	88740	Härmänkylä	Kainuu	18	Kehys-Kainuu	181	Kuhmo	290	64.4293	29.1053	6
 FI	88760	Iivantiira	Kainuu	18	Kehys-Kainuu	181	Kuhmo	290	64.4207	29.5042	6
-FI	88820	Katerma	Kainuu	18	Kehys-Kainuu	181	Kuhmo	290	64.1137	29.0052	
+FI	88820	Katerma	Kainuu	18	Kehys-Kainuu	181	Kuhmo	290	64.1137	29.0052	4
 FI	88900	Kuhmo	Kainuu	18	Kehys-Kainuu	181	Kuhmo	290	64.1308	29.5444	6
 FI	88930	Lentiira	Kainuu	18	Kehys-Kainuu	181	Kuhmo	290	64.4282	29.8201	6
 FI	88940	Kuumu	Kainuu	18	Kehys-Kainuu	181	Kuhmo	290	64.5733	29.6735	6
@@ -2767,7 +2767,7 @@ FI	89430	Hoikka	Kainuu	18	Kehys-Kainuu	181	Hyrynsalmi	105	64.7246	28.6267	6
 FI	89440	Sakara	Kainuu	18	Kehys-Kainuu	181	Suomussalmi	777	64.7796	28.7558	6
 FI	89540	Moisiovaara	Kainuu	18	Kehys-Kainuu	181	Hyrynsalmi	105	64.5793	29.1436	6
 FI	89560	Karhuvaara	Kainuu	18	Kehys-Kainuu	181	Hyrynsalmi	105	64.5097	29.0475	6
-FI	89600	Suomussalmi	Kainuu	18	Kehys-Kainuu	181	Suomussalmi	777	64.8916	28.936	
+FI	89600	Suomussalmi	Kainuu	18	Kehys-Kainuu	181	Suomussalmi	777	64.8916	28.936	4
 FI	89610	Jumaliskylä	Kainuu	18	Kehys-Kainuu	181	Suomussalmi	777	64.7161	29.2301	
 FI	89640	Pesiökylä	Kainuu	18	Kehys-Kainuu	181	Suomussalmi	777	64.9567	28.6075	6
 FI	89660	Takalo	Kainuu	18	Kehys-Kainuu	181	Suomussalmi	777	65.0642	28.5579	6
@@ -2779,12 +2779,12 @@ FI	89760	Piispajärvi	Kainuu	18	Kehys-Kainuu	181	Suomussalmi	777	65.2981	29.0062
 FI	89770	Peranka	Kainuu	18	Kehys-Kainuu	181	Suomussalmi	777	65.4008	29.0097	6
 FI	89780	Kaikkonen	Kainuu	18	Kehys-Kainuu	181	Suomussalmi	777	65.3506	28.7136	6
 FI	89800	Suomussalmi Kk	Kainuu	18	Kehys-Kainuu	181	Suomussalmi	777	64.9615	29.155	6
-FI	89830	Ala-Vuokki	Kainuu	18	Kehys-Kainuu	181	Suomussalmi	777	64.7347	29.4752	
+FI	89830	Ala-Vuokki	Kainuu	18	Kehys-Kainuu	181	Suomussalmi	777	64.7347	29.4752	4
 FI	89840	Yli-Vuokki	Kainuu	18	Kehys-Kainuu	181	Suomussalmi	777	64.7048	29.8863	6
 FI	89920	Ruhtinansalmi	Kainuu	18	Kehys-Kainuu	181	Suomussalmi	777	65.308	29.4506	6
 FI	74390	Laakajärvi	Kainuu	18	Kajaani	182	Sotkamo	765	63.7855	28.1086	6
-FI	87100	Kajaani	Kainuu	18	Kajaani	182	Kajaani	205	64.2176	27.6967	
-FI	87101	Kajaani	Kainuu	18	Kajaani	182	Paltamo	578	64.3592	28.1485	
+FI	87100	Kajaani	Kainuu	18	Kajaani	182	Kajaani	205	64.2176	27.6967	4
+FI	87101	Kajaani	Kainuu	18	Kajaani	182	Paltamo	578	64.3592	28.1485	4
 FI	87150	Kajaani	Kainuu	18	Kajaani	182	Kajaani	205	64.2244	27.702	6
 FI	87200	Kajaani	Kainuu	18	Kajaani	182	Kajaani	205	64.2346	27.7398	6
 FI	87250	Kajaani	Kainuu	18	Kajaani	182	Kajaani	205	64.2393	27.7757	6
@@ -2803,7 +2803,7 @@ FI	87970	Jormua	Kainuu	18	Kajaani	182	Kajaani	205	64.3131	27.956	6
 FI	88120	Tuhkakylä	Kainuu	18	Kajaani	182	Sotkamo	765	64.0143	28.1108	6
 FI	88200	Otanmäki	Kainuu	18	Kajaani	182	Kajaani	205	64.1088	27.1384	6
 FI	88270	Vuolijoki	Kainuu	18	Kajaani	182	Kajaani	205	64.2138	27.0251	6
-FI	88300	Paltamo	Kainuu	18	Kajaani	182	Paltamo	578	64.4146	27.6856	
+FI	88300	Paltamo	Kainuu	18	Kajaani	182	Paltamo	578	64.4146	27.6856	4
 FI	88310	Melalahti	Kainuu	18	Kajaani	182	Paltamo	578	64.4159	27.6353	6
 FI	88340	Manamansalo	Kainuu	18	Kajaani	182	Vaala	785	64.3736	27.1098	6
 FI	88350	Kivesjärvi	Kainuu	18	Kajaani	182	Paltamo	578	64.4609	27.3866	6
@@ -2831,19 +2831,19 @@ FI	91780	Neittävä	Kainuu	18	Kajaani	182	Vaala	785	64.5125	26.6541	6
 FI	91790	Nuojua	Kainuu	18	Kajaani	182	Vaala	785	64.577	26.6603	6
 FI	92810	Pelsonsuo	Kainuu	18	Kajaani	182	Vaala	785	64.511	26.4583	6
 FI	92830	Veneheitto	Kainuu	18	Kajaani	182	Vaala	785	64.446	26.5381	6
-FI	96100	Rovaniemi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.5317	25.6993	
+FI	96100	Rovaniemi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.5317	25.6993	4
 FI	96190	Rovaniemi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.5233	25.6765	6
 FI	96200	Rovaniemi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.5066	25.7304	6
 FI	96300	Rovaniemi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.4844	25.6894	6
 FI	96320	Rovaniemi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.4919	25.6662	6
-FI	96400	Rovaniemi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.4797	25.7347	
+FI	96400	Rovaniemi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.4797	25.7347	4
 FI	96440	Rovaniemi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.4838	25.8191	6
 FI	96460	Rovaniemi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.4734	25.7776	6
 FI	96500	Rovaniemi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.5118	25.655	6
 FI	96600	Rovaniemi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.5025	25.8555	6
 FI	96700	Rovaniemi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.4582	25.5929	6
 FI	96800	Rovaniemi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.538	25.6729	6
-FI	96900	Saarenkylä	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.5599	25.8264	
+FI	96900	Saarenkylä	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.5599	25.8264	4
 FI	96910	Rovaniemi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.5332	25.8015	6
 FI	96930	Napapiiri Rovaniemi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.5453	25.8521	6
 FI	96960	Rovaniemi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.5689	25.7917	6
@@ -2857,19 +2857,19 @@ FI	97220	Sinettä	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.636	25.4202	6
 FI	97240	Sonka	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.6385	25.2005	6
 FI	97280	Tapio	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.7176	25.4689	6
 FI	97290	Marraskoski	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.7935	25.3689	6
-FI	97310	Patokoski	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.8865	25.4385	
+FI	97310	Patokoski	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.8865	25.4385	4
 FI	97320	Marrasjärvi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.8837	25.1304	6
 FI	97340	Meltaus	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.982	25.3306	6
 FI	97510	Vikajärvi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.6156	26.2599	6
 FI	97520	Nampa	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.7421	26.2613	6
-FI	97530	Yli-Nampa	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.8014	26.2301	
+FI	97530	Yli-Nampa	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.8014	26.2301	4
 FI	97540	Tiainen	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.97	26.0881	6
 FI	97580	Misi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.6276	26.6233	6
 FI	97610	Oikarainen	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.4512	26.1054	6
 FI	97615	Tennirova	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.4047	26.4645	6
 FI	97620	Viiri	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.405	26.5697	6
 FI	97625	Vanttauskoski	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.4267	26.6856	6
-FI	97630	Pekkala	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.3665	26.8627	
+FI	97630	Pekkala	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.3665	26.8627	4
 FI	97635	Juuniemi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.344	27.1095	6
 FI	97650	Juotas	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.3105	26.9156	6
 FI	97655	Autti	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.2992	27.1279	6
@@ -2877,14 +2877,14 @@ FI	97665	Pohjasperä	Lapland	19	Rovaniemi	191	Ranua	683	66.215	26.866	6
 FI	97670	Kivitaipale	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.332	25.9213	6
 FI	97675	Narkaus	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.3144	26.2241	6
 FI	97680	Saari-Kämä	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.2313	26.3192	6
-FI	97685	Siika-Kämä	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.2328	26.4796	
+FI	97685	Siika-Kämä	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.2328	26.4796	4
 FI	97690	Sulaoja	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.2409	25.7635	6
 FI	97700	Ranua	Lapland	19	Rovaniemi	191	Ranua	683	65.972	26.6265	6
 FI	97715	Raiskio	Lapland	19	Rovaniemi	191	Ranua	683	65.9503	26.0097	6
 FI	97720	Yli-Simo	Lapland	19	Rovaniemi	191	Ranua	683	66.1041	26.3301	6
 FI	97760	Saariharju	Lapland	19	Rovaniemi	191	Ranua	683	65.9316	27.2017	6
 FI	97765	Impiö	Lapland	19	Rovaniemi	191	Ranua	683	65.9897	27.2247	6
-FI	97770	Petäjäjärvi	Lapland	19	Rovaniemi	191	Ranua	683	65.8414	26.7823	
+FI	97770	Petäjäjärvi	Lapland	19	Rovaniemi	191	Ranua	683	65.8414	26.7823	4
 FI	97780	Kuukasjärvi	Lapland	19	Rovaniemi	191	Ranua	683	65.8165	26.9008	6
 FI	97785	Kelankylä	Lapland	19	Rovaniemi	191	Ranua	683	65.7542	27.0186	6
 FI	97999	Rovaniemi	Lapland	19	Rovaniemi	191	Rovaniemi	698	66.6529	25.9803	6
@@ -2905,7 +2905,7 @@ FI	94900	Kemi	Lapland	19	Kemi-Tornio	192	Kemi	240	65.6722	24.5751	6
 FI	95200	Simo	Lapland	19	Kemi-Tornio	192	Simo	751	65.6962	25.1318	6
 FI	95210	Filpus	Lapland	19	Kemi-Tornio	192	Simo	751	65.6339	25.0012	6
 FI	95220	Simoniemi	Lapland	19	Kemi-Tornio	192	Simo	751	65.6557	24.9078	6
-FI	95225	Viantie	Lapland	19	Kemi-Tornio	192	Simo	751	65.7018	24.9338	
+FI	95225	Viantie	Lapland	19	Kemi-Tornio	192	Simo	751	65.7018	24.9338	4
 FI	95230	Maksniemi	Lapland	19	Kemi-Tornio	192	Simo	751	65.6667	24.762	6
 FI	95255	Alaniemi	Lapland	19	Kemi-Tornio	192	Simo	751	65.8467	25.3731	6
 FI	95260	Tainionjoki	Lapland	19	Kemi-Tornio	192	Simo	751	65.8795	25.5549	6
@@ -2914,20 +2914,20 @@ FI	95300	Tervola	Lapland	19	Kemi-Tornio	192	Tervola	845	66.102	24.9328	6
 FI	95310	Liedakkala	Lapland	19	Kemi-Tornio	192	Keminmaa	241	65.8606	24.5778	6
 FI	95315	Törmä	Lapland	19	Kemi-Tornio	192	Keminmaa	241	65.9077	24.6423	6
 FI	95325	Paakkola	Lapland	19	Kemi-Tornio	192	Tervola	845	66.0071	24.716	6
-FI	95330	Tervola	Lapland	19	Kemi-Tornio	192	Tervola	845	66.1155	24.7596	
+FI	95330	Tervola	Lapland	19	Kemi-Tornio	192	Tervola	845	66.1155	24.7596	4
 FI	95340	Loue	Lapland	19	Kemi-Tornio	192	Tervola	845	66.1465	24.9841	6
 FI	95350	Peura	Lapland	19	Kemi-Tornio	192	Tervola	845	66.1546	25.1121	
 FI	95355	Koivu	Lapland	19	Kemi-Tornio	192	Tervola	845	66.1664	25.3262	
 FI	95365	Maula	Lapland	19	Kemi-Tornio	192	Keminmaa	241	65.8941	24.6863	6
 FI	95370	Itäkoski	Lapland	19	Kemi-Tornio	192	Keminmaa	241	65.9356	24.709	6
 FI	95375	Yli-Paakkola	Lapland	19	Kemi-Tornio	192	Tervola	845	65.9943	24.7305	6
-FI	95400	Tornio	Lapland	19	Kemi-Tornio	192	Tornio	851	65.8555	24.1862	
+FI	95400	Tornio	Lapland	19	Kemi-Tornio	192	Tornio	851	65.8555	24.1862	4
 FI	95410	Tornio	Lapland	19	Kemi-Tornio	192	Tornio	851	65.8649	24.1768	6
 FI	95420	Tornio	Lapland	19	Kemi-Tornio	192	Tornio	851	65.8384	24.1862	6
 FI	95430	Tornio	Lapland	19	Kemi-Tornio	192	Tornio	851	65.8561	24.1484	6
 FI	95440	Tornio	Lapland	19	Kemi-Tornio	192	Tornio	851	65.8193	24.3115	6
 FI	95450	Tornio	Lapland	19	Kemi-Tornio	192	Tornio	851	65.8182	24.1773	6
-FI	95460	Tornio	Lapland	19	Kemi-Tornio	192	Tornio	851	65.8664	24.2526	
+FI	95460	Tornio	Lapland	19	Kemi-Tornio	192	Tornio	851	65.8664	24.2526	4
 FI	95470	Tornio	Lapland	19	Kemi-Tornio	192	Tornio	851	65.8096	24.2223	6
 FI	95490	Tornio	Lapland	19	Kemi-Tornio	192	Tornio	851	65.7665	24.1811	6
 FI	95500	Tornio	Lapland	19	Kemi-Tornio	192	Tornio	851	65.9303	24.1543	6
@@ -3012,7 +3012,7 @@ FI	98800	Savukoski	Lapland	19	Itä-Lappi	194	Savukoski	742	67.3343	28.1811	6
 FI	98810	Lunkkaus	Lapland	19	Itä-Lappi	194	Savukoski	742	67.2291	27.9338	6
 FI	98820	Värriö	Lapland	19	Itä-Lappi	194	Savukoski	742	67.4861	27.9677	6
 FI	98830	Martti	Lapland	19	Itä-Lappi	194	Savukoski	742	67.5703	28.5669	6
-FI	98840	Ruuvaoja	Lapland	19	Itä-Lappi	194	Savukoski	742	67.7294	28.8556	
+FI	98840	Ruuvaoja	Lapland	19	Itä-Lappi	194	Savukoski	742	67.7294	28.8556	4
 FI	98850	Kuosku	Lapland	19	Itä-Lappi	194	Savukoski	742	67.2368	28.4023	6
 FI	98900	Salla	Lapland	19	Itä-Lappi	194	Salla	732	66.8307	28.6635	6
 FI	98920	Kelloselkä	Lapland	19	Itä-Lappi	194	Salla	732	66.9337	28.9153	6
@@ -3032,19 +3032,19 @@ FI	95860	Pasmajärvi	Lapland	19	Tunturi-Lappi	196	Kolari	273	67.0982	24.3866	6
 FI	95900	Kolari	Lapland	19	Tunturi-Lappi	196	Kolari	273	67.3531	23.8773	6
 FI	95920	Saaripudas	Lapland	19	Tunturi-Lappi	196	Kolari	273	67.3981	23.7594	6
 FI	95930	Äkäsjoensuu	Lapland	19	Tunturi-Lappi	196	Kolari	273	67.4609	23.7164	6
-FI	95940	Tapojärvi	Lapland	19	Tunturi-Lappi	196	Muonio	498	67.5324	23.5934	
-FI	95950	Kihlanki	Lapland	19	Tunturi-Lappi	196	Muonio	498	67.603	23.5437	
+FI	95940	Tapojärvi	Lapland	19	Tunturi-Lappi	196	Muonio	498	67.5324	23.5934	4
+FI	95950	Kihlanki	Lapland	19	Tunturi-Lappi	196	Muonio	498	67.603	23.5437	4
 FI	95970	Äkäslompolo	Lapland	19	Tunturi-Lappi	196	Kolari	273	67.6031	24.1571	6
 FI	95980	Ylläsjärvi	Lapland	19	Tunturi-Lappi	196	Kolari	273	67.5353	24.2752	6
 FI	95990	Kurtakko	Lapland	19	Tunturi-Lappi	196	Kolari	273	67.411	24.1809	6
 FI	97420	Lohiniva	Lapland	19	Tunturi-Lappi	196	Kittilä	261	67.2417	25.0595	6
-FI	97430	Taapajärvi	Lapland	19	Tunturi-Lappi	196	Kolari	273	67.1096	24.6842	
+FI	97430	Taapajärvi	Lapland	19	Tunturi-Lappi	196	Kolari	273	67.1096	24.6842	4
 FI	97470	Alakylä	Lapland	19	Tunturi-Lappi	196	Kittilä	261	67.3374	24.8855	6
 FI	99100	Kittilä	Lapland	19	Tunturi-Lappi	196	Kittilä	261	67.6741	24.9113	6
 FI	99110	Kaukonen	Lapland	19	Tunturi-Lappi	196	Kittilä	261	67.4826	24.9058	6
-FI	99120	Kallo	Lapland	19	Tunturi-Lappi	196	Kittilä	261	67.4879	24.4651	
+FI	99120	Kallo	Lapland	19	Tunturi-Lappi	196	Kittilä	261	67.4879	24.4651	4
 FI	99130	Sirkka	Lapland	19	Tunturi-Lappi	196	Kittilä	261	67.8077	24.8253	6
-FI	99135	Rauhala	Lapland	19	Tunturi-Lappi	196	Kittilä	261	67.8997	24.2032	
+FI	99135	Rauhala	Lapland	19	Tunturi-Lappi	196	Kittilä	261	67.8997	24.2032	4
 FI	99140	Köngäs	Lapland	19	Tunturi-Lappi	196	Kittilä	261	67.8879	24.8815	6
 FI	99150	Tepasto	Lapland	19	Tunturi-Lappi	196	Kittilä	261	68.0291	24.6784	6
 FI	99160	Lompolo	Lapland	19	Tunturi-Lappi	196	Kittilä	261	68.1122	24.8346	6
@@ -3063,7 +3063,7 @@ FI	99310	Yli-Muonio	Lapland	19	Tunturi-Lappi	196	Muonio	498	68.0501	23.5571	6
 FI	99320	Kätkäsuvanto	Lapland	19	Tunturi-Lappi	196	Muonio	498	68.1205	23.3479	6
 FI	99330	Pallastunturi	Lapland	19	Tunturi-Lappi	196	Muonio	498	68.0453	24.0652	6
 FI	99340	Raattama	Lapland	19	Tunturi-Lappi	196	Enontekis	047	68.1815	24.116	6
-FI	99360	Kangosjärvi	Lapland	19	Tunturi-Lappi	196	Muonio	498	67.8042	23.6404	
+FI	99360	Kangosjärvi	Lapland	19	Tunturi-Lappi	196	Muonio	498	67.8042	23.6404	4
 FI	99400	Enontekiö	Lapland	19	Tunturi-Lappi	196	Enontekis	047	68.4095	23.5611	6
 FI	99401	Enontekiö	Lapland	19	Tunturi-Lappi	196	Enontekis	047	68.3555	23.4256	
 FI	99410	Vuontisjärvi	Lapland	19	Tunturi-Lappi	196	Enontekis	047	68.4255	23.9784	6
@@ -3084,7 +3084,7 @@ FI	99540	Torvinen	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	67.1991	26.638	6
 FI	99550	Aska	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	67.271	26.7282	6
 FI	99555	Luosto	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	67.1649	26.9246	6
 FI	99560	Orakylä	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	67.3458	26.8124	6
-FI	99600	Sodankylä	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	67.4843	26.6255	
+FI	99600	Sodankylä	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	67.4843	26.6255	4
 FI	99610	Siurunmaa	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	67.4527	26.8546	6
 FI	99620	Kelujärvi	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	67.4713	27.0454	6
 FI	99645	Lokka	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	67.8448	27.7478	6
@@ -3094,7 +3094,7 @@ FI	99660	Kersilö	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	67.5859	26.7451	6
 FI	99665	Moskuvaara	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	67.6162	27.0233	6
 FI	99670	Petkula	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	67.6911	26.7886	6
 FI	99690	Vuotso	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	68.1293	27.1706	6
-FI	99695	Tankavaara	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	68.2205	27.163	
+FI	99695	Tankavaara	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	68.2205	27.163	4
 FI	99710	Vaalajärvi	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	67.4217	26.1876	6
 FI	99720	Riipi	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	67.3343	26.0364	6
 FI	99740	Syväjärvi	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	67.2914	25.9137	6
@@ -3102,16 +3102,16 @@ FI	99750	Sassali	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	67.2611	25.8231	6
 FI	99760	Uimaniemi	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	67.1959	25.7164	6
 FI	99770	Jeesiö	Lapland	19	Pohjois-Lappi	197	Sodankylä	758	67.5136	26.0114	6
 FI	99800	Ivalo	Lapland	19	Pohjois-Lappi	197	Inari	148	68.7354	27.5968	6
-FI	99801	Ivalo	Lapland	19	Pohjois-Lappi	197	Inari	148	68.7661	27.5143	
+FI	99801	Ivalo	Lapland	19	Pohjois-Lappi	197	Inari	148	68.7661	27.5143	4
 FI	99830	Saariselkä	Lapland	19	Pohjois-Lappi	197	Inari	148	68.423	27.3965	6
 FI	99831	Saariselkä	Lapland	19	Pohjois-Lappi	197	Inari	148	68.4223	27.4194	6
-FI	99860	Nellim	Lapland	19	Pohjois-Lappi	197	Inari	148	68.8976	28.3076	
+FI	99860	Nellim	Lapland	19	Pohjois-Lappi	197	Inari	148	68.8976	28.3076	4
 FI	99870	Inari	Lapland	19	Pohjois-Lappi	197	Inari	148	68.9287	26.9896	6
 FI	99885	Lemmenjoki	Lapland	19	Pohjois-Lappi	197	Inari	148	68.735	26.0484	6
-FI	99910	Kaamanen	Lapland	19	Pohjois-Lappi	197	Inari	148	69.1389	27.2448	
-FI	99930	Sevettijärvi	Lapland	19	Pohjois-Lappi	197	Inari	148	69.4918	28.5786	
-FI	99940	Näätämö	Lapland	19	Pohjois-Lappi	197	Inari	148	69.5796	28.9037	
-FI	99950	Karigasniemi	Lapland	19	Pohjois-Lappi	197	Utsjoki	890	69.4729	25.9527	
-FI	99970	Nuvvus	Lapland	19	Pohjois-Lappi	197	Utsjoki	890	69.7894	26.255	
+FI	99910	Kaamanen	Lapland	19	Pohjois-Lappi	197	Inari	148	69.1389	27.2448	4
+FI	99930	Sevettijärvi	Lapland	19	Pohjois-Lappi	197	Inari	148	69.4918	28.5786	4
+FI	99940	Näätämö	Lapland	19	Pohjois-Lappi	197	Inari	148	69.5796	28.9037	4
+FI	99950	Karigasniemi	Lapland	19	Pohjois-Lappi	197	Utsjoki	890	69.4729	25.9527	4
+FI	99970	Nuvvus	Lapland	19	Pohjois-Lappi	197	Utsjoki	890	69.7894	26.255	4
 FI	99980	Utsjoki	Lapland	19	Pohjois-Lappi	197	Utsjoki	890	69.8467	26.8907	6
 FI	99990	Nuorgam	Lapland	19	Pohjois-Lappi	197	Utsjoki	890	70.0439	27.8268	6

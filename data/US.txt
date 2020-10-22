@@ -1113,7 +1113,7 @@ US	72658	Norfork	Arkansas	AR	Baxter	005			36.2066	-92.273	4
 US	72659	Norfork	Arkansas	AR	Baxter	005			36.2095	-92.2843	4
 US	72711	Avoca	Arkansas	AR	Benton	007			36.4047	-94.0713	4
 US	72712	Bentonville	Arkansas	AR	Benton	007			36.3577	-94.2224	4
-US	72713	Bentonville	Arkansas	AR	Benton	007			36.22	94.1248	4
+US	72713	Bentonville	Arkansas	AR	Benton	007			36.3115	-94.3503	4
 US	72714	Bella Vista	Arkansas	AR	Benton	007			36.4676	-94.2166	4
 US	72715	Bella Vista	Arkansas	AR	Benton	007			36.4677	-94.3209	4
 US	72716	Bentonville	Arkansas	AR	Benton	007			36.3729	-94.2088	4
@@ -7692,6 +7692,7 @@ US	34239	Sarasota	Florida	FL	Sarasota	115			27.3111	-82.5195	4
 US	34240	Sarasota	Florida	FL	Sarasota	115			27.339	-82.3473	4
 US	34241	Sarasota	Florida	FL	Sarasota	115			27.2822	-82.4181	4
 US	34242	Sarasota	Florida	FL	Sarasota	115			27.2566	-82.5398	4
+US	34249	Sarasota	Florida	FL	Sarasota	115			27.2664	-82.4841	4
 US	34272	Laurel	Florida	FL	Sarasota	115			27.147	-82.4255	4
 US	34274	Nokomis	Florida	FL	Sarasota	115			27.144	-82.4645	4
 US	34275	Nokomis	Florida	FL	Sarasota	115			27.1384	-82.4518	4
@@ -37270,7 +37271,7 @@ US	23250	Richmond	Virginia	VA	Henrico	087			37.5075	-77.3329	4
 US	23255	Henrico	Virginia	VA	Henrico	087			37.4638	-77.398	4
 US	23288	Henrico	Virginia	VA	Henrico	087			37.4638	-77.398	4
 US	23289	Richmond	Virginia	VA	Henrico	087			37.5313	-77.4161	4
-US	23294	Henrico	Virginia	VA	Henrico	087			37.4638	-77.398	4
+US	23294	Henrico	Virginia	VA	Henrico	087			37.631	-77.546	4
 US	24054	Axton	Virginia	VA	Henry	089			36.6596	-79.712	4
 US	24055	Bassett	Virginia	VA	Henry	089			36.7534	-80.0055	4
 US	24078	Collinsville	Virginia	VA	Henry	089			36.7238	-79.9142	4

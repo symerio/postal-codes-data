@@ -24,8 +24,8 @@ RE	97417	Saint-Denis	Réunion	RE	Réunion	974	Arrondissement de Saint-Denis	9741
 RE	97418	Le Tampon	Réunion	RE	Réunion	974	Arrondissement de Saint-Pierre	9742	-21.2831	55.518	5
 RE	97419	La Possession	Réunion	RE	Réunion	974	Arrondissement de Saint-Paul	9744	-20.9289	55.3351	5
 RE	97420	Le Port	Réunion	RE	Réunion	974	Arrondissement de Saint-Paul	9744	-20.9373	55.2919	5
-RE	97421	La Rivière	Réunion	RE	Réunion	974	Arrondissement de Saint-Pierre	9742	-21.2595	55.4405	5
 RE	97421	Saint-Louis	Réunion	RE	Réunion	974	Arrondissement de Saint-Pierre	9742	-21.2858	55.4112	5
+RE	97421	La Rivière	Réunion	RE	Réunion	974	Arrondissement de Saint-Pierre	9742	-21.2595	55.4405	5
 RE	97422	Saint-Paul	Réunion	RE	Réunion	974	Arrondissement de Saint-Paul	9744	-21.0096	55.2707	5
 RE	97423	Saint-Paul	Réunion	RE	Réunion	974	Arrondissement de Saint-Paul	9744	-21.0096	55.2707	5
 RE	97424	Saint-Leu	Réunion	RE	Réunion	974	Arrondissement de Saint-Paul	9744	-21.1706	55.2882	5
