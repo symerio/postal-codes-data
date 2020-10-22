@@ -1,0 +1,4 @@
+exclude:
+    - requirements.txt
+    - scripts/*
+    - .*.yaml
