@@ -46,8 +46,8 @@ MQ	97246 CEDEX	Fort-de-France	Martinique	MQ	Martinique	972	Arrondissement de For
 MQ	97247 CEDEX	Fort-de-France	Martinique	MQ	Martinique	972	Arrondissement de Fort-de-France	9721	14.6089	-61.0733	5
 MQ	97248 CEDEX	Fort-de-France	Martinique	MQ	Martinique	972	Arrondissement de Fort-de-France	9721	14.6089	-61.0733	5
 MQ	97249 CEDEX	Fort-de-France	Martinique	MQ	Martinique	972	Arrondissement de Fort-de-France	9721	14.6089	-61.0733	5
-MQ	97250	Saint-Pierre	Martinique	MQ	Martinique	972	Arrondissement de Saint-Pierre	9724	14.7438	-61.1753	5
 MQ	97250	Fonds-Saint-Denis	Martinique	MQ	Martinique	972	Arrondissement de Saint-Pierre	9724	14.7333	-61.1333	5
+MQ	97250	Saint-Pierre	Martinique	MQ	Martinique	972	Arrondissement de Saint-Pierre	9724	14.7438	-61.1753	5
 MQ	97250	Le Prêcheur	Martinique	MQ	Martinique	972	Arrondissement de Saint-Pierre	9724	14.8017	-61.2247	5
 MQ	97251 CEDEX	Fort-de-France	Martinique	MQ	Martinique	972	Arrondissement de Fort-de-France	9721	14.6089	-61.0733	5
 MQ	97252 CEDEX	Fort-de-France	Martinique	MQ	Martinique	972	Arrondissement de Fort-de-France	9721	14.6089	-61.0733	5

@@ -77,16 +77,16 @@ NL	7906	Hoogeveen	Drenthe	01	Hoogeveen	0118			52.7158	6.4852	6
 NL	7907	Hoogeveen	Drenthe	01	Hoogeveen	0118			52.7165	6.472	6
 NL	7908	Hoogeveen	Drenthe	01	Hoogeveen	0118			52.716	6.4488	6
 NL	7909	Hoogeveen	Drenthe	01	Hoogeveen	0118			52.7227	6.4526	4
-NL	7911	Noordscheschut	Drenthe	01	Hoogeveen	0118			52.7279	6.5453	6
 NL	7911	Nieuweroord	Drenthe	01	Hoogeveen	0118			52.7208	6.5696	6
+NL	7911	Noordscheschut	Drenthe	01	Hoogeveen	0118			52.7279	6.5453	6
 NL	7912	Nieuweroord	Drenthe	01	Hoogeveen	0118			52.7292	6.5647	6
-NL	7913	Nieuweroord	Drenthe	01	Hoogeveen	0118			52.7171	6.5717	6
-NL	7913	Hoogeveen	Drenthe	01	Hoogeveen	0118			52.7114	6.5175	6
 NL	7913	Hollandscheveld	Drenthe	01	Hoogeveen	0118			52.7029	6.5407	6
+NL	7913	Hoogeveen	Drenthe	01	Hoogeveen	0118			52.7114	6.5175	6
+NL	7913	Nieuweroord	Drenthe	01	Hoogeveen	0118			52.7171	6.5717	6
 NL	7914	Noordscheschut	Drenthe	01	Hoogeveen	0118			52.7242	6.5347	6
 NL	7915	Alteveer gem Hoogeveen	Drenthe	01	Hoogeveen	0118			52.6816	6.501	6
-NL	7916	Hollandscheveld	Drenthe	01	Hoogeveen	0118			52.6711	6.5921	6
 NL	7916	Elim	Drenthe	01	Hoogeveen	0118			52.6811	6.5772	6
+NL	7916	Hollandscheveld	Drenthe	01	Hoogeveen	0118			52.6711	6.5921	6
 NL	7918	Nieuwlande	Drenthe	01	Hoogeveen	0118			52.694	6.6126	6
 NL	7931	Fluitenberg	Drenthe	01	Hoogeveen	0118			52.7401	6.455	6
 NL	7933	Pesse	Drenthe	01	Hoogeveen	0118			52.7745	6.4562	6
@@ -96,8 +96,8 @@ NL	7941	Meppel	Drenthe	01	Meppel	0119			52.6962	6.191	6
 NL	7942	Meppel	Drenthe	01	Meppel	0119			52.705	6.1904	6
 NL	7943	Meppel	Drenthe	01	Meppel	0119			52.6962	6.2188	6
 NL	7944	Meppel	Drenthe	01	Meppel	0119			52.6848	6.1811	6
-NL	7948	Meppel	Drenthe	01	Meppel	0119			52.7189	6.1836	6
 NL	7948	Nijeveen	Drenthe	01	Meppel	0119			52.734	6.1664	6
+NL	7948	Meppel	Drenthe	01	Meppel	0119			52.7189	6.1836	6
 NL	7949	Rogat	Drenthe	01	Meppel	0119			52.6878	6.2674	6
 NL	7965	Broekhuizen	Drenthe	01	Meppel	0119			52.6974	6.2623	6
 NL	7966	De Schiphorst	Drenthe	01	Meppel	0119			52.6782	6.2582	6
@@ -573,8 +573,8 @@ NL	8746	Schraard	Friesland	02	Súdwest-Fryslân	1900			53.0802	5.4522	6
 NL	8747	Wons	Friesland	02	Súdwest-Fryslân	1900			53.0839	5.4228	6
 NL	8748	Witmarsum	Friesland	02	Súdwest-Fryslân	1900			53.1016	5.4687	6
 NL	8749	Pingjum	Friesland	02	Súdwest-Fryslân	1900			53.116	5.438	6
-NL	8751	Zurich	Friesland	02	Súdwest-Fryslân	1900			53.111	5.3942	6
 NL	8751	Pingjum	Friesland	02	Súdwest-Fryslân	1900			53.1266	5.4077	6
+NL	8751	Zurich	Friesland	02	Súdwest-Fryslân	1900			53.111	5.3942	6
 NL	8752	Kornwerderzand	Friesland	02	Súdwest-Fryslân	1900			53.0726	5.337	6
 NL	8753	Cornwerd	Friesland	02	Súdwest-Fryslân	1900			53.0833	5.3912	6
 NL	8754	Makkum	Friesland	02	Súdwest-Fryslân	1900			53.0557	5.4005	6
@@ -698,8 +698,8 @@ NL	9075	Westhoek	Friesland	02	Waadhoeke	1949			53.2785	5.576	6
 NL	9076	St.-Annaparochie	Friesland	02	Waadhoeke	1949			53.2773	5.659	6
 NL	9077	Vrouwenparochie	Friesland	02	Waadhoeke	1949			53.2783	5.7041	6
 NL	9078	Oudebildtzijl	Friesland	02	Waadhoeke	1949			53.3036	5.7139	6
-NL	9079	Westhoek	Friesland	02	Waadhoeke	1949			53.2729	5.5567	6
 NL	9079	St.-Jacobiparochie	Friesland	02	Waadhoeke	1949			53.2768	5.6087	6
+NL	9079	Westhoek	Friesland	02	Waadhoeke	1949			53.2729	5.5567	6
 NL	9073	Marrum	Friesland	02	Noardeast-Fryslân	1970			53.3232	5.8007	6
 NL	9074	Hallum	Friesland	02	Noardeast-Fryslân	1970			53.3051	5.7843	6
 NL	9101	Dokkum	Friesland	02	Noardeast-Fryslân	1970			53.325	6.0004	6
@@ -971,8 +971,8 @@ NL	3864	Nijkerkerveen	Gelderland	03	Nijkerk	0267			52.1954	5.4657	6
 NL	3871	Hoevelaken	Gelderland	03	Nijkerk	0267			52.1748	5.4604	6
 NL	6511	Nijmegen	Gelderland	03	Nijmegen	0268			51.8463	5.8626	6
 NL	6512	Nijmegen	Gelderland	03	Nijmegen	0268			51.8392	5.8558	6
-NL	6515	Lent	Gelderland	03	Nijmegen	0268			51.8792	5.8626	6
 NL	6515	Nijmegen	Gelderland	03	Nijmegen	0268			51.8792	5.8459	6
+NL	6515	Lent	Gelderland	03	Nijmegen	0268			51.8792	5.8626	6
 NL	6521	Nijmegen	Gelderland	03	Nijmegen	0268			51.839	5.874	6
 NL	6522	Nijmegen	Gelderland	03	Nijmegen	0268			51.8409	5.8816	6
 NL	6523	Nijmegen	Gelderland	03	Nijmegen	0268			51.8318	5.8835	6
@@ -1005,8 +1005,8 @@ NL	3882	Putten	Gelderland	03	Putten	0273			52.2548	5.5861	6
 NL	6861	Oosterbeek	Gelderland	03	Renkum	0274			51.9908	5.8393	6
 NL	6862	Oosterbeek	Gelderland	03	Renkum	0274			51.9833	5.846	6
 NL	6865	Doorwerth	Gelderland	03	Renkum	0274			51.9794	5.7951	6
-NL	6866	Heelsum	Gelderland	03	Renkum	0274			51.9814	5.7524	6
 NL	6866	Renkum	Gelderland	03	Renkum	0274			51.9775	5.7459	4
+NL	6866	Heelsum	Gelderland	03	Renkum	0274			51.9814	5.7524	6
 NL	6869	Heveadorp	Gelderland	03	Renkum	0274			51.9746	5.8111	6
 NL	6871	Renkum	Gelderland	03	Renkum	0274			51.9782	5.7351	6
 NL	6874	Wolfheze	Gelderland	03	Renkum	0274			52.0066	5.7923	6
@@ -1254,8 +1254,8 @@ NL	4171	Herwijnen	Gelderland	03	West Betuwe	1960			51.827	5.1317	6
 NL	4174	Hellouw	Gelderland	03	West Betuwe	1960			51.8277	5.177	6
 NL	4175	Haaften	Gelderland	03	West Betuwe	1960			51.8185	5.2115	6
 NL	4176	Tuil	Gelderland	03	West Betuwe	1960			51.8248	5.2405	6
-NL	4181	Waardenburg	Gelderland	03	West Betuwe	1960			51.8342	5.2552	6
 NL	4181	Neerijnen	Gelderland	03	West Betuwe	1960			51.8451	5.2707	6
+NL	4181	Waardenburg	Gelderland	03	West Betuwe	1960			51.8342	5.2552	6
 NL	4182	Neerijnen	Gelderland	03	West Betuwe	1960			51.841	5.2837	6
 NL	4184	Opijnen	Gelderland	03	West Betuwe	1960			51.8289	5.3008	6
 NL	4185	Est	Gelderland	03	West Betuwe	1960			51.8518	5.3153	6
@@ -1413,8 +1413,8 @@ NL	9616	Scharmer	Groningen	04	Midden-Groningen	1952			53.1982	6.7067	6
 NL	9617	Harkstede	Groningen	04	Midden-Groningen	1952			53.212	6.6987	6
 NL	9618	Woudbloem	Groningen	04	Midden-Groningen	1952			53.2191	6.7399	6
 NL	9619	Froombosch	Groningen	04	Midden-Groningen	1952			53.1933	6.7794	6
-NL	9621	Slochteren	Groningen	04	Midden-Groningen	1952			53.2161	6.7985	6
 NL	9621	Schildwolde	Groningen	04	Midden-Groningen	1952			53.2215	6.8052	6
+NL	9621	Slochteren	Groningen	04	Midden-Groningen	1952			53.2161	6.7985	6
 NL	9623	Lageland	Groningen	04	Midden-Groningen	1952			53.2395	6.7153	6
 NL	9624	Luddeweer	Groningen	04	Midden-Groningen	1952			53.2507	6.7386	6
 NL	9625	Overschild	Groningen	04	Midden-Groningen	1952			53.2764	6.7795	6
@@ -1946,8 +1946,8 @@ NL	5122	Rijen	Noord-Brabant	06	Gilze en Rijen	0784			51.5895	4.9293	6
 NL	5124	Molenschot	Noord-Brabant	06	Gilze en Rijen	0784			51.5695	4.8864	6
 NL	5125	Hulten	Noord-Brabant	06	Gilze en Rijen	0784			51.5749	4.9568	6
 NL	5126	Gilze	Noord-Brabant	06	Gilze en Rijen	0784			51.5435	4.9392	6
-NL	5051	Goirle	Noord-Brabant	06	Goirle	0785			51.5221	5.0639	6
 NL	5051	Riel	Noord-Brabant	06	Goirle	0785			51.5113	5.0214	4
+NL	5051	Goirle	Noord-Brabant	06	Goirle	0785			51.5221	5.0639	6
 NL	5052	Goirle	Noord-Brabant	06	Goirle	0785			51.527	5.0492	6
 NL	5053	Goirle	Noord-Brabant	06	Goirle	0785			51.5321	5.079	4
 NL	5133	Riel	Noord-Brabant	06	Goirle	0785			51.5247	5.0197	6
@@ -2072,8 +2072,8 @@ NL	5367	Macharen	Noord-Brabant	06	Oss	0828			51.8047	5.5436	6
 NL	5368	Haren	Noord-Brabant	06	Oss	0828			51.8016	5.5839	6
 NL	5371	Ravenstein	Noord-Brabant	06	Oss	0828			51.7937	5.6489	6
 NL	5373	Herpen	Noord-Brabant	06	Oss	0828			51.7704	5.6378	6
-NL	5386	Oss	Noord-Brabant	06	Oss	0828			51.7642	5.4649	6
 NL	5386	Geffen	Noord-Brabant	06	Oss	0828			51.7398	5.466	6
+NL	5386	Oss	Noord-Brabant	06	Oss	0828			51.7642	5.4649	6
 NL	5394	Oijen	Noord-Brabant	06	Oss	0828			51.8213	5.5044	6
 NL	5395	Teeffelen	Noord-Brabant	06	Oss	0828			51.7977	5.4943	6
 NL	5396	Lithoijen	Noord-Brabant	06	Oss	0828			51.7996	5.4636	6
@@ -2086,9 +2086,9 @@ NL	4721	Schijf	Noord-Brabant	06	Rucphen	0840			51.4978	4.5538	6
 NL	4722	Schijf	Noord-Brabant	06	Rucphen	0840			51.4979	4.5717	6
 NL	4735	Zegge	Noord-Brabant	06	Rucphen	0840			51.5569	4.5165	6
 NL	5258	Berlicum	Noord-Brabant	06	Sint-Michielsgestel	0845			51.677	5.4041	6
-NL	5271	Gemonde	Noord-Brabant	06	Sint-Michielsgestel	0845			51.6269	5.3685	6
-NL	5271	Den Dungen	Noord-Brabant	06	Sint-Michielsgestel	0845			51.6636	5.368	6
 NL	5271	Sint-Michielsgestel	Noord-Brabant	06	Sint-Michielsgestel	0845			51.6442	5.351	6
+NL	5271	Den Dungen	Noord-Brabant	06	Sint-Michielsgestel	0845			51.6636	5.368	6
+NL	5271	Gemonde	Noord-Brabant	06	Sint-Michielsgestel	0845			51.6269	5.3685	6
 NL	5272	Sint-Michielsgestel	Noord-Brabant	06	Sint-Michielsgestel	0845			51.6434	5.3597	4
 NL	5275	Den Dungen	Noord-Brabant	06	Sint-Michielsgestel	0845			51.6668	5.3736	6
 NL	5291	Gemonde	Noord-Brabant	06	Sint-Michielsgestel	0845			51.6155	5.3551	6
@@ -2222,11 +2222,11 @@ NL	4707	Roosendaal	Noord-Brabant	06	Roosendaal	1674			51.5191	4.4613	6
 NL	4708	Roosendaal	Noord-Brabant	06	Roosendaal	1674			51.5166	4.4366	6
 NL	4709	Nispen	Noord-Brabant	06	Roosendaal	1674			51.4837	4.4588	6
 NL	4715	Roosendaal	Noord-Brabant	06	Roosendaal	1674			51.542	4.5135	6
-NL	4724	Heerle	Noord-Brabant	06	Roosendaal	1674			51.517	4.3765	6
 NL	4724	Wouw	Noord-Brabant	06	Roosendaal	1674			51.5222	4.3901	6
+NL	4724	Heerle	Noord-Brabant	06	Roosendaal	1674			51.517	4.3765	6
 NL	4725	Wouwse Plantage	Noord-Brabant	06	Roosendaal	1674			51.4842	4.3942	6
-NL	4726	Heerle	Noord-Brabant	06	Roosendaal	1674			51.5179	4.3613	6
 NL	4726	Moerstraten	Noord-Brabant	06	Roosendaal	1674			51.5391	4.3686	6
+NL	4726	Heerle	Noord-Brabant	06	Roosendaal	1674			51.5179	4.3613	6
 NL	4727	Moerstraten	Noord-Brabant	06	Roosendaal	1674			51.5381	4.3433	6
 NL	4727	Heerle	Noord-Brabant	06	Roosendaal	1674			51.532	4.3603	6
 NL	5431	Cuijk	Noord-Brabant	06	Cuijk	1684			51.7277	5.8787	6
@@ -2471,8 +2471,8 @@ NL	1862	Bergen (NH)	Noord-Holland	07	Bergen (NH.)	0373			52.67	4.7136	6
 NL	1865	Bergen aan Zee	Noord-Holland	07	Bergen (NH.)	0373			52.6617	4.6322	6
 NL	1871	Schoorl	Noord-Holland	07	Bergen (NH.)	0373			52.7055	4.6945	6
 NL	1873	Groet	Noord-Holland	07	Bergen (NH.)	0373			52.7223	4.6678	6
-NL	1931	Egmond aan den Hoef	Noord-Holland	07	Bergen (NH.)	0373			52.6215	4.641	6
 NL	1931	Egmond aan Zee	Noord-Holland	07	Bergen (NH.)	0373			52.6183	4.6259	6
+NL	1931	Egmond aan den Hoef	Noord-Holland	07	Bergen (NH.)	0373			52.6215	4.641	6
 NL	1934	Egmond-Binnen	Noord-Holland	07	Bergen (NH.)	0373			52.6118	4.666	6
 NL	1934	Egmond aan den Hoef	Noord-Holland	07	Bergen (NH.)	0373			52.6247	4.6555	6
 NL	1935	Egmond-Binnen	Noord-Holland	07	Bergen (NH.)	0373			52.5949	4.654	6
@@ -2739,17 +2739,17 @@ NL	1508	Zaandam	Noord-Holland	07	Zaanstad	0479			52.4583	4.823	6
 NL	1509	Zaandam	Noord-Holland	07	Zaanstad	0479			52.469	4.8347	6
 NL	1521	Wormerveer	Noord-Holland	07	Zaanstad	0479			52.4951	4.7908	6
 NL	1521	Westknollendam	Noord-Holland	07	Zaanstad	0479			52.5182	4.7818	6
-NL	1525	Wormerveer	Noord-Holland	07	Zaanstad	0479			52.5153	4.778	6
 NL	1525	Westknollendam	Noord-Holland	07	Zaanstad	0479			52.5171	4.7833	6
-NL	1541	Zaandijk	Noord-Holland	07	Zaanstad	0479			52.4699	4.8021	6
+NL	1525	Wormerveer	Noord-Holland	07	Zaanstad	0479			52.5153	4.778	6
 NL	1541	Zaandam	Noord-Holland	07	Zaanstad	0479			52.4543	4.8013	6
 NL	1541	Koog aan de Zaan	Noord-Holland	07	Zaanstad	0479			52.4606	4.8036	6
+NL	1541	Zaandijk	Noord-Holland	07	Zaanstad	0479			52.4699	4.8021	6
 NL	1544	Zaandijk	Noord-Holland	07	Zaanstad	0479			52.4744	4.8024	6
 NL	1551	Westzaan	Noord-Holland	07	Zaanstad	0479			52.4535	4.7745	6
 NL	1561	Krommenie	Noord-Holland	07	Zaanstad	0479			52.5004	4.7661	6
 NL	1562	Krommenie	Noord-Holland	07	Zaanstad	0479			52.5055	4.7587	6
-NL	1566	Assendelft	Noord-Holland	07	Zaanstad	0479			52.4731	4.748	6
 NL	1566	Krommenie	Noord-Holland	07	Zaanstad	0479			52.4938	4.7638	6
+NL	1566	Assendelft	Noord-Holland	07	Zaanstad	0479			52.4731	4.748	6
 NL	1567	Assendelft	Noord-Holland	07	Zaanstad	0479			52.4901	4.7495	6
 NL	1606	Venhuizen	Noord-Holland	07	Drechterland	0498			52.6663	5.2112	6
 NL	1607	Hem	Noord-Holland	07	Drechterland	0498			52.66	5.1864	6
@@ -2812,8 +2812,8 @@ NL	1774	Slootdorp	Noord-Holland	07	Hollands Kroon	1911			52.8472	4.9702	6
 NL	1775	Middenmeer	Noord-Holland	07	Hollands Kroon	1911			52.8052	4.9997	6
 NL	1777	Hippolytushoef	Noord-Holland	07	Hollands Kroon	1911			52.9089	4.9644	6
 NL	1778	Westerland	Noord-Holland	07	Hollands Kroon	1911			52.8923	4.9294	6
-NL	1779	Den Oever	Noord-Holland	07	Hollands Kroon	1911			52.9329	5.0269	6
 NL	1779	Hippolytushoef	Noord-Holland	07	Hollands Kroon	1911			52.919	5.0273	6
+NL	1779	Den Oever	Noord-Holland	07	Hollands Kroon	1911			52.9329	5.0269	6
 NL	1398	Muiden	Noord-Holland	07	Gooise Meren	1942			52.3308	5.0662	6
 NL	1399	Muiderberg	Noord-Holland	07	Gooise Meren	1942			52.3246	5.1193	6
 NL	1401	Bussum	Noord-Holland	07	Gooise Meren	1942			52.2781	5.1699	6
@@ -2882,8 +2882,8 @@ NL	3405	Benschop	Utrecht	09	Lopik	0331			52.0069	4.9768	6
 NL	3411	Lopik	Utrecht	09	Lopik	0331			51.9728	4.9437	6
 NL	3412	Lopikerkapel	Utrecht	09	Lopik	0331			51.9879	5.037	6
 NL	3412	Lopik	Utrecht	09	Lopik	0331			51.9826	5.0123	
-NL	3413	Jaarsveld	Utrecht	09	Lopik	0331			51.9696	4.976	6
 NL	3413	Lopik	Utrecht	09	Lopik	0331			51.9727	4.981	4
+NL	3413	Jaarsveld	Utrecht	09	Lopik	0331			51.9696	4.976	6
 NL	3415	Polsbroek	Utrecht	09	Lopik	0331			51.9822	4.8647	6
 NL	3417	Montfoort	Utrecht	09	Montfoort	0335			52.0438	4.9522	6
 NL	3461	Linschoten	Utrecht	09	Montfoort	0335			52.0632	4.9167	6
@@ -3087,10 +3087,10 @@ NL	4464	Goes	Zeeland	10	Goes	0664			51.5139	3.9075	6
 NL	4465	Goes	Zeeland	10	Goes	0664			51.5214	3.9046	6
 NL	4471	Wolphaartsdijk	Zeeland	10	Goes	0664			51.5341	3.8146	6
 NL	4471	's-Heer Hendrikskinderen	Zeeland	10	Goes	0664			51.5047	3.8458	6
-NL	4472	Goes	Zeeland	10	Goes	0664			51.5138	3.8624	6
 NL	4472	's-Heer Hendrikskinderen	Zeeland	10	Goes	0664			51.502	3.8609	6
-NL	4474	Kattendijke	Zeeland	10	Goes	0664			51.5214	3.9442	6
+NL	4472	Goes	Zeeland	10	Goes	0664			51.5138	3.8624	6
 NL	4474	Kloetinge	Zeeland	10	Goes	0664			51.4942	3.9407	6
+NL	4474	Kattendijke	Zeeland	10	Goes	0664			51.5214	3.9442	6
 NL	4475	Wilhelminadorp	Zeeland	10	Goes	0664			51.5293	3.8961	6
 NL	4481	Kloetinge	Zeeland	10	Goes	0664			51.496	3.9123	6
 NL	4481	Goes	Zeeland	10	Goes	0664			51.4934	3.907	6
@@ -3235,14 +3235,14 @@ NL	2396	Koudekerk aan den Rijn	Zuid-Holland	11	Alphen aan den Rijn	0484			52.133
 NL	2401	Alphen aan den Rijn	Zuid-Holland	11	Alphen aan den Rijn	0484			52.151	4.6535	6
 NL	2402	Alphen aan den Rijn	Zuid-Holland	11	Alphen aan den Rijn	0484			52.1472	4.6676	6
 NL	2403	Alphen aan den Rijn	Zuid-Holland	11	Alphen aan den Rijn	0484			52.146	4.6806	6
-NL	2404	Hazerswoude-Dorp	Zuid-Holland	11	Alphen aan den Rijn	0484			52.1043	4.6374	6
 NL	2404	Alphen aan den Rijn	Zuid-Holland	11	Alphen aan den Rijn	0484			52.1346	4.6498	6
+NL	2404	Hazerswoude-Dorp	Zuid-Holland	11	Alphen aan den Rijn	0484			52.1043	4.6374	6
 NL	2405	Alphen aan den Rijn	Zuid-Holland	11	Alphen aan den Rijn	0484			52.1297	4.6611	6
 NL	2406	Alphen aan den Rijn	Zuid-Holland	11	Alphen aan den Rijn	0484			52.1304	4.6672	6
 NL	2407	Alphen aan den Rijn	Zuid-Holland	11	Alphen aan den Rijn	0484			52.1146	4.6906	6
 NL	2408	Alphen aan den Rijn	Zuid-Holland	11	Alphen aan den Rijn	0484			52.1205	4.6495	6
-NL	2409	Hazerswoude-Dorp	Zuid-Holland	11	Alphen aan den Rijn	0484			52.1032	4.6366	6
 NL	2409	Alphen aan den Rijn	Zuid-Holland	11	Alphen aan den Rijn	0484			52.1048	4.6461	6
+NL	2409	Hazerswoude-Dorp	Zuid-Holland	11	Alphen aan den Rijn	0484			52.1032	4.6366	6
 NL	2445	Aarlanderveen	Zuid-Holland	11	Alphen aan den Rijn	0484			52.1411	4.7272	6
 NL	2471	Zwammerdam	Zuid-Holland	11	Alphen aan den Rijn	0484			52.1056	4.7267	6
 NL	2731	Benthuizen	Zuid-Holland	11	Alphen aan den Rijn	0484			52.0769	4.547	6
@@ -3251,12 +3251,12 @@ NL	2991	Barendrecht	Zuid-Holland	11	Barendrecht	0489			51.8518	4.546	6
 NL	2992	Barendrecht	Zuid-Holland	11	Barendrecht	0489			51.8534	4.5279	6
 NL	2993	Barendrecht	Zuid-Holland	11	Barendrecht	0489			51.8511	4.4984	6
 NL	2994	Barendrecht	Zuid-Holland	11	Barendrecht	0489			51.86	4.5008	6
-NL	3231	Brielle	Zuid-Holland	11	Brielle	0501			51.905	4.1657	6
 NL	3231	Vierpolders	Zuid-Holland	11	Brielle	0501			51.9035	4.1738	
+NL	3231	Brielle	Zuid-Holland	11	Brielle	0501			51.905	4.1657	6
 NL	3232	Vierpolders	Zuid-Holland	11	Brielle	0501			51.8855	4.1632	6
 NL	3232	Brielle	Zuid-Holland	11	Brielle	0501			51.8953	4.1629	6
-NL	3237	Vierpolders	Zuid-Holland	11	Brielle	0501			51.8813	4.1795	6
 NL	3237	Zwartewaal	Zuid-Holland	11	Brielle	0501			51.8629	4.1852	6
+NL	3237	Vierpolders	Zuid-Holland	11	Brielle	0501			51.8813	4.1795	6
 NL	3238	Zwartewaal	Zuid-Holland	11	Brielle	0501			51.8812	4.2183	6
 NL	2901	Capelle aan den IJssel	Zuid-Holland	11	Capelle aan den IJssel	0502			51.917	4.5651	6
 NL	2902	Capelle aan den IJssel	Zuid-Holland	11	Capelle aan den IJssel	0502			51.9251	4.5786	6
@@ -3443,8 +3443,8 @@ NL	2201	Noordwijk	Zuid-Holland	11	Noordwijk	0575			52.2319	4.4442	6
 NL	2202	Noordwijk	Zuid-Holland	11	Noordwijk	0575			52.2447	4.4353	6
 NL	2203	Noordwijk	Zuid-Holland	11	Noordwijk	0575			52.241	4.452	6
 NL	2204	Noordwijk	Zuid-Holland	11	Noordwijk	0575			52.2724	4.4744	6
-NL	2211	De Zilk	Zuid-Holland	11	Noordwijk	0575			52.294	4.5177	6
 NL	2211	Noordwijkerhout	Zuid-Holland	11	Noordwijk	0575			52.2612	4.4945	6
+NL	2211	De Zilk	Zuid-Holland	11	Noordwijk	0575			52.294	4.5177	6
 NL	2212	Noordwijkerhout	Zuid-Holland	11	Noordwijk	0575			52.2748	4.4952	4
 NL	2341	Oegstgeest	Zuid-Holland	11	Oegstgeest	0579			52.1811	4.475	6
 NL	2342	Oegstgeest	Zuid-Holland	11	Oegstgeest	0579			52.1767	4.4546	6
@@ -3629,8 +3629,8 @@ NL	3333	Zwijndrecht	Zuid-Holland	11	Zwijndrecht	0642			51.8109	4.6315	6
 NL	3334	Zwijndrecht	Zuid-Holland	11	Zwijndrecht	0642			51.8141	4.6103	6
 NL	3335	Zwijndrecht	Zuid-Holland	11	Zwijndrecht	0642			51.8207	4.6117	6
 NL	3336	Zwijndrecht	Zuid-Holland	11	Zwijndrecht	0642			51.8093	4.615	6
-NL	2171	Warmond	Zuid-Holland	11	Teylingen	1525			52.2149	4.5144	6
 NL	2171	Sassenheim	Zuid-Holland	11	Teylingen	1525			52.2236	4.5164	6
+NL	2171	Warmond	Zuid-Holland	11	Teylingen	1525			52.2149	4.5144	6
 NL	2172	Sassenheim	Zuid-Holland	11	Teylingen	1525			52.2226	4.5269	6
 NL	2215	Voorhout	Zuid-Holland	11	Teylingen	1525			52.2249	4.4889	6
 NL	2216	Voorhout	Zuid-Holland	11	Teylingen	1525			52.2301	4.4903	4
@@ -3982,9 +3982,9 @@ NL	7641	Hoge Hexel	Overijssel	15	Wierden	0189			52.3813	6.5851	6
 NL	7641	Wierden	Overijssel	15	Wierden	0189			52.3638	6.5968	6
 NL	7642	Notter	Overijssel	15	Wierden	0189			52.34	6.5336	4
 NL	7642	Wierden	Overijssel	15	Wierden	0189			52.354	6.5855	6
-NL	7645	Enter	Overijssel	15	Wierden	0189			52.2897	6.577	4
 NL	7645	Wierden	Overijssel	15	Wierden	0189			52.3832	6.5821	
 NL	7645	Hoge Hexel	Overijssel	15	Wierden	0189			52.3916	6.563	6
+NL	7645	Enter	Overijssel	15	Wierden	0189			52.2897	6.577	4
 NL	8011	Zwolle	Overijssel	15	Zwolle	0193			52.5116	6.0921	6
 NL	8012	Zwolle	Overijssel	15	Zwolle	0193			52.5046	6.1038	6
 NL	8013	Zwolle	Overijssel	15	Zwolle	0193			52.496	6.1227	6

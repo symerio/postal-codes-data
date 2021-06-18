@@ -119,8 +119,8 @@ SE	134 41	Gustavsberg	Stockholm	AB	Värmdö	0120			59.3268	18.3898	4
 SE	134 42	Gustavsberg	Stockholm	AB	Värmdö	0120			59.3268	18.3898	4
 SE	134 43	Gustavsberg	Stockholm	AB	Värmdö	0120			59.3268	18.3898	4
 SE	134 44	Gustavsberg	Stockholm	AB	Värmdö	0120			59.3268	18.3898	4
-SE	134 52	Gustavsberg	Stockholm	AB	Värmdö	0120			59.3268	18.3898	
-SE	134 53	Gustavsberg	Stockholm	AB	Värmdö	0120			59.3268	18.3898	
+SE	134 52	Gustavsberg	Stockholm	AB	Värmdö	0120			59.3268	18.3898	4
+SE	134 53	Gustavsberg	Stockholm	AB	Värmdö	0120			59.3268	18.3898	4
 SE	134 60	Ingarö	Stockholm	AB	Värmdö	0120			59.3268	18.3898	1
 SE	134 61	Ingarö	Stockholm	AB	Värmdö	0120			59.3268	18.3898	1
 SE	134 62	Ingarö	Stockholm	AB	Värmdö	0120			59.3268	18.3898	1
@@ -153,6 +153,8 @@ SE	139 54	Värmdö	Stockholm	AB	Värmdö	0120			59.35	18.5	4
 SE	139 55	Värmdö	Stockholm	AB	Värmdö	0120			59.35	18.5	4
 SE	139 56	Värmdö	Stockholm	AB	Värmdö	0120			59.35	18.5	4
 SE	139 60	Värmdö	Stockholm	AB	Värmdö	0120			59.35	18.5	4
+SE	139 71	Stavsnäs	Stockholm	AB	Värmdö	0120			59.2833	18.6833	
+SE	139 73	Djurhamn	Stockholm	AB	Värmdö	0120			59.3	18.6833	
 SE	139 74	Djurhamn	Stockholm	AB	Värmdö	0120			59.3	18.6833	
 SE	139 90	Värmdö	Stockholm	AB	Värmdö	0120			59.35	18.5	4
 SE	175 00	Järfälla	Stockholm	AB	Järfälla	0123			59.3501	17.9658	1
@@ -227,6 +229,7 @@ SE	177 39	Järfälla	Stockholm	AB	Järfälla	0123			59.3501	17.9658	1
 SE	177 40	Järfälla	Stockholm	AB	Järfälla	0123			59.3501	17.9658	1
 SE	177 41	Järfälla	Stockholm	AB	Järfälla	0123			59.3501	17.9658	1
 SE	177 42	Järfälla	Stockholm	AB	Järfälla	0123			59.3501	17.9658	1
+SE	177 45	Järfalla	Stockholm	AB	Järfälla	0123			59.3501	17.9658	
 SE	177 50	Järfälla	Stockholm	AB	Järfälla	0123			59.3501	17.9658	1
 SE	177 51	Järfälla	Stockholm	AB	Järfälla	0123			59.3501	17.9658	1
 SE	177 52	Järfälla	Stockholm	AB	Järfälla	0123			59.3501	17.9658	1
@@ -263,6 +266,7 @@ SE	178 37	Ekerö	Stockholm	AB	Ekerö	0125			59.291	17.8121	4
 SE	178 38	Ekerö	Stockholm	AB	Ekerö	0125			59.291	17.8121	4
 SE	178 39	Ekerö	Stockholm	AB	Ekerö	0125			59.291	17.8121	4
 SE	178 40	Ekerö	Stockholm	AB	Ekerö	0125			59.291	17.8121	4
+SE	178 41	Ekerö	Stockholm	AB	Ekerö	0125			59.291	17.8121	
 SE	178 51	Ekerö	Stockholm	AB	Ekerö	0125			59.291	17.8121	4
 SE	178 52	Ekerö	Stockholm	AB	Ekerö	0125			59.291	17.8121	4
 SE	178 53	Ekerö	Stockholm	AB	Ekerö	0125			59.291	17.8121	4
@@ -566,6 +570,7 @@ SE	137 34	Västerhaninge	Stockholm	AB	Haninge	0136			59.1167	18.1	4
 SE	137 36	Västerhaninge	Stockholm	AB	Haninge	0136			59.1167	18.1	4
 SE	137 37	Västerhaninge	Stockholm	AB	Haninge	0136			59.1167	18.1	4
 SE	137 38	Västerhaninge	Stockholm	AB	Haninge	0136			59.1167	18.1	4
+SE	137 39	Västerhaninge	Stockholm	AB	Haninge	0136			59.1167	18.1	
 SE	137 40	Västerhaninge	Stockholm	AB	Haninge	0136			59.1167	18.1	4
 SE	137 41	Västerhaninge	Stockholm	AB	Haninge	0136			59.1167	18.1	4
 SE	137 54	Tungelsta	Stockholm	AB	Haninge	0136			59.1	18.0331	4
@@ -1011,6 +1016,7 @@ SE	107 23	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
 SE	107 24	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
 SE	107 25	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
 SE	107 26	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
+SE	107 69	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	
 SE	107 80	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
 SE	107 81	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
 SE	107 85	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
@@ -1079,6 +1085,7 @@ SE	112 02	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
 SE	112 03	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
 SE	112 04	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
 SE	112 06	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
+SE	112 15	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	
 SE	112 20	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
 SE	112 21	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
 SE	112 22	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
@@ -1191,9 +1198,11 @@ SE	113 57	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
 SE	113 58	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
 SE	113 59	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
 SE	113 60	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
+SE	113 61	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	
 SE	113 62	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
 SE	113 64	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
 SE	113 65	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	
+SE	113 66	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	
 SE	113 68	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	
 SE	113 76	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
 SE	113 80	Stockholm	Stockholm	AB	Stockholm	0180			59.3326	18.0649	4
@@ -2115,13 +2124,14 @@ SE	168 57	Bromma	Stockholm	AB	Stockholm	0180			59.35	17.9167	4
 SE	168 58	Bromma	Stockholm	AB	Stockholm	0180			59.35	17.9167	4
 SE	168 59	Bromma	Stockholm	AB	Stockholm	0180			59.35	17.9167	4
 SE	168 60	Bromma	Stockholm	AB	Stockholm	0180			59.35	17.9167	4
-SE	168 61	Bromma	Stockholm	AB	Stockholm	0180			59.35	17.9167	
+SE	168 61	Bromma	Stockholm	AB	Stockholm	0180			59.35	17.9167	4
 SE	168 64	Bromma	Stockholm	AB	Stockholm	0180			59.35	17.9167	4
 SE	168 65	Bromma	Stockholm	AB	Stockholm	0180			59.35	17.9167	4
 SE	168 66	Bromma	Stockholm	AB	Stockholm	0180			59.35	17.9167	4
 SE	168 67	Bromma	Stockholm	AB	Stockholm	0180			59.35	17.9167	4
 SE	168 68	Bromma	Stockholm	AB	Stockholm	0180			59.35	17.9167	4
 SE	168 69	Bromma	Stockholm	AB	Stockholm	0180			59.35	17.9167	4
+SE	168 72	Bromma	Stockholm	AB	Stockholm	0180			59.35	17.9167	
 SE	168 73	Bromma	Stockholm	AB	Stockholm	0180			59.35	17.9167	4
 SE	168 74	Bromma	Stockholm	AB	Stockholm	0180			59.35	17.9167	4
 SE	168 75	Bromma	Stockholm	AB	Stockholm	0180			59.35	17.9167	4
@@ -2280,15 +2290,15 @@ SE	131 47	Nacka	Stockholm	AB	Nacka	0182			59.3105	18.1637	4
 SE	131 48	Nacka	Stockholm	AB	Nacka	0182			59.3105	18.1637	4
 SE	131 49	Nacka	Stockholm	AB	Nacka	0182			59.3105	18.1637	4
 SE	131 50	Saltsjö-Duvnäs	Stockholm	AB	Nacka	0182			59.3	18.2	4
-SE	131 51	Nacka	Stockholm	AB	Nacka	0182			59.3105	18.1637	
+SE	131 51	Nacka	Stockholm	AB	Nacka	0182			59.3105	18.1637	4
 SE	131 52	Nacka Strand	Stockholm	AB	Nacka	0182			59.3134	18.1481	1
 SE	131 54	Nacka	Stockholm	AB	Nacka	0182			59.3105	18.1637	
-SE	131 57	Nacka	Stockholm	AB	Nacka	0182			59.3105	18.1637	
+SE	131 57	Nacka	Stockholm	AB	Nacka	0182			59.3105	18.1637	4
 SE	131 60	Nacka	Stockholm	AB	Nacka	0182			59.3105	18.1637	4
 SE	131 61	Nacka	Stockholm	AB	Nacka	0182			59.3105	18.1637	4
 SE	131 65	Nacka	Stockholm	AB	Nacka	0182			59.3105	18.1637	4
 SE	131 71	Nacka	Stockholm	AB	Nacka	0182			59.3105	18.1637	4
-SE	131 74	Nacka	Stockholm	AB	Nacka	0182			59.3105	18.1637	
+SE	131 74	Nacka	Stockholm	AB	Nacka	0182			59.3105	18.1637	4
 SE	131 80	Nacka Strand	Stockholm	AB	Nacka	0182			59.3216	18.1143	1
 SE	131 81	Nacka	Stockholm	AB	Nacka	0182			59.3105	18.1637	4
 SE	131 82	Nacka	Stockholm	AB	Nacka	0182			59.3105	18.1637	4
@@ -2715,6 +2725,8 @@ SE	761 91	Norrtälje	Stockholm	AB	Norrtälje	0188			59.758	18.705	4
 SE	761 92	Norrtälje	Stockholm	AB	Norrtälje	0188			59.758	18.705	4
 SE	761 93	Norrtälje	Stockholm	AB	Norrtälje	0188			59.758	18.705	4
 SE	761 94	Norrtälje	Stockholm	AB	Norrtälje	0188			59.758	18.705	4
+SE	761 97	Norrtalje	Stockholm	AB	Norrtälje	0188			59.758	18.705	
+SE	761 98	Norrtälje	Stockholm	AB	Norrtälje	0188			59.758	18.705	
 SE	762 00	Rimbo	Stockholm	AB	Norrtälje	0188			59.75	18.3667	4
 SE	762 21	Rimbo	Stockholm	AB	Norrtälje	0188			59.75	18.3667	4
 SE	762 22	Rimbo	Stockholm	AB	Norrtälje	0188			59.75	18.3667	4
@@ -3055,7 +3067,7 @@ SE	134 39	Gustavsberg	Stockholm	AB					59.3268	18.3898	4
 SE	135 20	Tyresö	Stockholm	AB					59.2333	18.3	4
 SE	136 12	Haninge	Stockholm	AB					59.1677	18.1448	4
 SE	136 20	Haninge	Stockholm	AB					59.1677	18.1448	4
-SE	136 36	Handen	Stockholm	AB					59.1681	18.138	
+SE	136 36	Handen	Stockholm	AB					59.1681	18.138	4
 SE	136 37	Handen	Stockholm	AB					59.1681	18.138	4
 SE	136 38	Handen	Stockholm	AB					59.1681	18.138	4
 SE	137 20	Västerhaninge	Stockholm	AB					59.1167	18.1	4
@@ -3414,7 +3426,7 @@ SE	195 55	Märsta	Stockholm	AB					59.6167	17.85	4
 SE	195 56	Märsta	Stockholm	AB					59.6167	17.85	4
 SE	195 57	Märsta	Stockholm	AB					59.6167	17.85	4
 SE	195 58	Märsta	Stockholm	AB					59.6167	17.85	4
-SE	195 59	Märsta	Stockholm	AB					59.6167	17.85	
+SE	195 59	Märsta	Stockholm	AB					59.6167	17.85	4
 SE	195 70	Rosersberg	Stockholm	AB					59.5833	17.8833	4
 SE	195 71	Rosersberg	Stockholm	AB					59.5833	17.8833	4
 SE	195 72	Rosersberg	Stockholm	AB					59.5833	17.8833	4
@@ -3741,6 +3753,7 @@ SE	904 35	Umeå	Västerbotten	AC	Umeå	2480			63.8284	20.2597	4
 SE	904 36	Umeå	Västerbotten	AC	Umeå	2480			63.8284	20.2597	4
 SE	904 40	Röbäck	Västerbotten	AC	Umeå	2480			63.8116	20.1833	4
 SE	904 41	Röbäck	Västerbotten	AC	Umeå	2480			63.8116	20.1833	4
+SE	905 31	Hörnefors	Västerbotten	AC	Umeå	2480			63.8284	20.2597	
 SE	905 80	Umeå	Västerbotten	AC	Umeå	2480			63.8284	20.2597	4
 SE	905 81	Umeå	Västerbotten	AC	Umeå	2480			63.8284	20.2597	4
 SE	905 82	Umeå	Västerbotten	AC	Umeå	2480			63.8284	20.2597	4
@@ -4104,6 +4117,7 @@ SE	952 35	Kalix	Norrbotten	BD	Kalix	2514			65.853	23.1565	4
 SE	952 36	Kalix	Norrbotten	BD	Kalix	2514			65.853	23.1565	4
 SE	952 41	Kalix	Norrbotten	BD	Kalix	2514			65.853	23.1565	4
 SE	952 42	Kalix	Norrbotten	BD	Kalix	2514			65.853	23.1565	4
+SE	952 43	Töre	Norrbotten	BD	Kalix	2514			65.9124	22.6513	
 SE	952 50	Kalix-Nyborg	Norrbotten	BD	Kalix	2514			65.853	23.1565	1
 SE	952 51	Kalix	Norrbotten	BD	Kalix	2514			65.853	23.1565	4
 SE	952 61	Kalix	Norrbotten	BD	Kalix	2514			65.853	23.1565	4
@@ -4536,6 +4550,7 @@ SE	981 91	Jukkasjärvi	Norrbotten	BD	Kiruna	2584			67.85	20.6167	4
 SE	981 92	Kiruna	Norrbotten	BD	Kiruna	2584			67.8557	20.2251	4
 SE	981 93	Björkliden	Norrbotten	BD	Kiruna	2584			68.3667	18.6333	4
 SE	981 94	Riksgränsen	Norrbotten	BD	Kiruna	2584			68.427	18.1257	4
+SE	981 99	Kiruna	Norrbotten	BD	Kiruna	2584			67.8557	20.2251	
 SE	930 87	Arjeplog	Norrbotten	BD					66.0517	17.8861	4
 SE	930 88	Arjeplog	Norrbotten	BD					66.0517	17.8861	4
 SE	933 20	Arvidsjaur	Norrbotten	BD					65.5903	19.1668	4
@@ -4634,6 +4649,7 @@ SE	741 41	Knivsta	Uppsala	C	Knivsta	0330			59.7256	17.7875	4
 SE	741 42	Knivsta	Uppsala	C	Knivsta	0330			59.7256	17.7875	4
 SE	741 43	Knivsta	Uppsala	C	Knivsta	0330			59.7256	17.7875	4
 SE	741 44	Knivsta	Uppsala	C	Knivsta	0330			59.7256	17.7875	4
+SE	741 47	Knivsta	Uppsala	C	Knivsta	0330			59.7256	17.7875	
 SE	741 71	Knivsta	Uppsala	C	Knivsta	0330			59.7256	17.7875	4
 SE	741 72	Knivsta	Uppsala	C	Knivsta	0330			59.7256	17.7875	4
 SE	741 73	Knivsta	Uppsala	C	Knivsta	0330			59.7256	17.7875	4
@@ -4886,6 +4902,7 @@ SE	754 50	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	4
 SE	754 51	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	4
 SE	754 52	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	4
 SE	754 60	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	
+SE	754 71	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	
 SE	755 00	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	4
 SE	755 91	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	4
 SE	755 92	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	4
@@ -4908,10 +4925,10 @@ SE	756 52	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	4
 SE	756 53	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	4
 SE	756 54	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	4
 SE	756 55	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	4
-SE	756 56	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	
-SE	756 57	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	
-SE	756 58	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	
-SE	756 59	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	
+SE	756 56	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	4
+SE	756 57	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	4
+SE	756 58	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	4
+SE	756 59	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	4
 SE	757 00	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	4
 SE	757 52	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	4
 SE	757 53	Uppsala	Uppsala	C	Uppsala	0380			59.8585	17.6454	4
@@ -5021,6 +5038,7 @@ SE	741 45	Knivsta	Uppsala	C					59.7256	17.7875	4
 SE	742 19	Hargshamn	Uppsala	C					60.1667	18.4667	4
 SE	742 20	Östhammar	Uppsala	C					60.2591	18.3741	4
 SE	742 32	Östhammar	Uppsala	C					60.2591	18.3741	4
+SE	742 41	Ôregrund	Uppsala	C					60.2591	18.3741	
 SE	743 19	Vattholma	Uppsala	C					60.0167	17.7333	4
 SE	743 20	Storvreta	Uppsala	C					59.9667	17.7	4
 SE	745 20	Enköping	Uppsala	C					59.6361	17.0777	4
@@ -5161,9 +5179,12 @@ SE	611 60	Nyköping	Södermanland	D	Nyköping	0480			58.753	17.0079	4
 SE	611 61	Nyköping	Södermanland	D	Nyköping	0480			58.753	17.0079	4
 SE	611 62	Nyköping	Södermanland	D	Nyköping	0480			58.753	17.0079	4
 SE	611 63	Nyköping	Södermanland	D	Nyköping	0480			58.753	17.0079	4
+SE	611 64	Nyköping	Södermanland	D	Nyköping	0480			58.753	17.0079	
 SE	611 65	Nyköping	Södermanland	D	Nyköping	0480			58.753	17.0079	4
 SE	611 66	Nyköping	Södermanland	D	Nyköping	0480			58.753	17.0079	4
-SE	611 68	Nyköping	Södermanland	D	Nyköping	0480			58.753	17.0079	
+SE	611 67	Nyköping	Södermanland	D	Nyköping	0480			58.753	17.0079	
+SE	611 68	Nyköping	Södermanland	D	Nyköping	0480			58.753	17.0079	4
+SE	611 72	Stigtomta	Södermanland	D	Nyköping	0480			58.8	16.7833	
 SE	611 79	Nyköping	Södermanland	D	Nyköping	0480			58.753	17.0079	4
 SE	611 80	Nyköping	Södermanland	D	Nyköping	0480			58.753	17.0079	4
 SE	611 81	Nyköping	Södermanland	D	Nyköping	0480			58.753	17.0079	4
@@ -5216,7 +5237,7 @@ SE	642 34	Flen	Södermanland	D	Flen	0482			59.0583	16.5878	4
 SE	642 35	Flen	Södermanland	D	Flen	0482			59.0583	16.5878	4
 SE	642 36	Flen	Södermanland	D	Flen	0482			59.0583	16.5878	4
 SE	642 37	Flen	Södermanland	D	Flen	0482			59.0583	16.5878	4
-SE	642 63	Mellösa	Södermanland	D	Flen	0482			59.1	16.55	
+SE	642 63	Mellösa	Södermanland	D	Flen	0482			59.1	16.55	4
 SE	642 81	Flen	Södermanland	D	Flen	0482			59.0583	16.5878	4
 SE	642 82	Flen	Södermanland	D	Flen	0482			59.0583	16.5878	4
 SE	642 83	Flen	Södermanland	D	Flen	0482			59.0583	16.5878	4
@@ -5259,8 +5280,9 @@ SE	641 50	Katrineholm	Södermanland	D	Katrineholm	0483			58.9959	16.2072	4
 SE	641 51	Katrineholm	Södermanland	D	Katrineholm	0483			58.9959	16.2072	4
 SE	641 52	Katrineholm	Södermanland	D	Katrineholm	0483			58.9959	16.2072	4
 SE	641 53	Katrineholm	Södermanland	D	Katrineholm	0483			58.9959	16.2072	4
-SE	641 63	Björkvik	Södermanland	D	Katrineholm	0483			58.8333	16.5167	
-SE	641 64	Sköldinge	Södermanland	D	Katrineholm	0483			59.0333	16.4333	
+SE	641 62	Valla	Södermanland	D	Katrineholm	0483			59.0167	16.3833	
+SE	641 63	Björkvik	Södermanland	D	Katrineholm	0483			58.8333	16.5167	4
+SE	641 64	Sköldinge	Södermanland	D	Katrineholm	0483			59.0333	16.4333	4
 SE	641 80	Katrineholm	Södermanland	D	Katrineholm	0483			58.9959	16.2072	4
 SE	641 81	Katrineholm	Södermanland	D	Katrineholm	0483			58.9959	16.2072	4
 SE	641 82	Katrineholm	Södermanland	D	Katrineholm	0483			58.9959	16.2072	4
@@ -5271,11 +5293,11 @@ SE	641 94	Katrineholm	Södermanland	D	Katrineholm	0483			58.9959	16.2072	4
 SE	641 95	Katrineholm	Södermanland	D	Katrineholm	0483			58.9959	16.2072	4
 SE	641 96	Katrineholm	Södermanland	D	Katrineholm	0483			58.9959	16.2072	4
 SE	641 97	Katrineholm	Södermanland	D	Katrineholm	0483			58.9959	16.2072	4
-SE	641 98	Björkvik	Södermanland	D	Katrineholm	0483			58.8333	16.5167	
-SE	641 99	Sköldinge	Södermanland	D	Katrineholm	0483			59.0333	16.4333	
-SE	642 62	Bettna	Södermanland	D	Katrineholm	0483			58.9	16.6333	
-SE	642 97	Bettna	Södermanland	D	Katrineholm	0483			58.9	16.6333	
-SE	642 98	Bettna	Södermanland	D	Katrineholm	0483			58.9	16.6333	
+SE	641 98	Björkvik	Södermanland	D	Katrineholm	0483			58.8333	16.5167	4
+SE	641 99	Sköldinge	Södermanland	D	Katrineholm	0483			59.0333	16.4333	4
+SE	642 62	Bettna	Södermanland	D	Katrineholm	0483			58.9	16.6333	4
+SE	642 97	Bettna	Södermanland	D	Katrineholm	0483			58.9	16.6333	4
+SE	642 98	Bettna	Södermanland	D	Katrineholm	0483			58.9	16.6333	4
 SE	648 06	Hälleforsnäs	Södermanland	D	Katrineholm	0483			59.1667	16.5	4
 SE	648 30	Hälleforsnäs	Södermanland	D	Katrineholm	0483			59.1667	16.5	4
 SE	648 31	Hälleforsnäs	Södermanland	D	Katrineholm	0483			59.1667	16.5	4
@@ -5307,9 +5329,9 @@ SE	631 89	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	4
 SE	631 93	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	4
 SE	631 94	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	4
 SE	632 01	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	4
-SE	632 17	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	
-SE	632 18	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	
-SE	632 19	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	
+SE	632 17	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	4
+SE	632 18	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	4
+SE	632 19	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	4
 SE	632 20	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	4
 SE	632 21	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	4
 SE	632 22	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	4
@@ -5351,7 +5373,7 @@ SE	633 57	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	4
 SE	633 58	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	4
 SE	633 59	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	4
 SE	633 62	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	4
-SE	633 63	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	
+SE	633 63	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	4
 SE	633 69	Skogstorp	Södermanland	D	Eskilstuna	0484			59.3333	16.4667	4
 SE	633 70	Hållsta	Södermanland	D	Eskilstuna	0484			59.3	16.45	4
 SE	634 01	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	4
@@ -5376,9 +5398,9 @@ SE	635 20	Eskilstuna	Södermanland	D	Eskilstuna	0484			59.3666	16.5077	4
 SE	635 33	Stora Sundby	Södermanland	D	Eskilstuna	0484			59.3667	16.4917	
 SE	635 34	Stora Sundby	Södermanland	D	Eskilstuna	0484			59.3667	16.4917	
 SE	635 35	Stora Sundby	Södermanland	D	Eskilstuna	0484			59.3667	16.4917	
-SE	635 36	Ärla	Södermanland	D	Eskilstuna	0484			59.2833	16.6667	
-SE	635 37	Ärla	Södermanland	D	Eskilstuna	0484			59.2833	16.6667	
-SE	635 38	Ärla	Södermanland	D	Eskilstuna	0484			59.2833	16.6667	
+SE	635 36	Ärla	Södermanland	D	Eskilstuna	0484			59.2833	16.6667	4
+SE	635 37	Ärla	Södermanland	D	Eskilstuna	0484			59.2833	16.6667	4
+SE	635 38	Ärla	Södermanland	D	Eskilstuna	0484			59.2833	16.6667	4
 SE	640 25	Julita	Södermanland	D	Eskilstuna	0484			59.1532	16.0424	4
 SE	640 40	Stora Sundby	Södermanland	D	Eskilstuna	0484			59.3667	16.4917	1
 SE	640 43	Ärla	Södermanland	D	Eskilstuna	0484			59.2833	16.6667	4
@@ -5449,7 +5471,7 @@ SE	610 73	Vagnhärad	Södermanland	D	Trosa	0488			58.95	17.5167	4
 SE	610 74	Vagnhärad	Södermanland	D	Trosa	0488			58.95	17.5167	4
 SE	610 75	Västerljung	Södermanland	D	Trosa	0488			58.9167	17.4333	4
 SE	619 01	Trosa	Södermanland	D	Trosa	0488			58.8962	17.5481	4
-SE	619 02	Vagnhärad	Södermanland	D	Trosa	0488			58.95	17.5167	
+SE	619 02	Vagnhärad	Södermanland	D	Trosa	0488			58.95	17.5167	4
 SE	619 21	Trosa	Södermanland	D	Trosa	0488			58.8962	17.5481	4
 SE	619 22	Trosa	Södermanland	D	Trosa	0488			58.8962	17.5481	4
 SE	619 23	Trosa	Södermanland	D	Trosa	0488			58.8962	17.5481	4
@@ -5459,14 +5481,14 @@ SE	619 32	Trosa	Södermanland	D	Trosa	0488			58.8962	17.5481	4
 SE	619 33	Trosa	Södermanland	D	Trosa	0488			58.8962	17.5481	4
 SE	619 34	Trosa	Södermanland	D	Trosa	0488			58.8962	17.5481	4
 SE	619 35	Trosa	Södermanland	D	Trosa	0488			58.8962	17.5481	4
-SE	619 71	Vagnhärad	Södermanland	D	Trosa	0488			58.95	17.5167	
-SE	619 72	Vagnhärad	Södermanland	D	Trosa	0488			58.95	17.5167	
-SE	619 73	Vagnhärad	Södermanland	D	Trosa	0488			58.95	17.5167	
+SE	619 71	Vagnhärad	Södermanland	D	Trosa	0488			58.95	17.5167	4
+SE	619 72	Vagnhärad	Södermanland	D	Trosa	0488			58.95	17.5167	4
+SE	619 73	Vagnhärad	Södermanland	D	Trosa	0488			58.95	17.5167	4
 SE	619 80	Trosa	Södermanland	D	Trosa	0488			58.8962	17.5481	4
 SE	619 91	Trosa	Södermanland	D	Trosa	0488			58.8962	17.5481	4
 SE	619 92	Trosa	Södermanland	D	Trosa	0488			58.8962	17.5481	4
-SE	619 94	Vagnhärad	Södermanland	D	Trosa	0488			58.95	17.5167	
-SE	619 95	Västerljung	Södermanland	D	Trosa	0488			58.9167	17.4333	
+SE	619 94	Vagnhärad	Södermanland	D	Trosa	0488			58.95	17.5167	4
+SE	619 95	Västerljung	Södermanland	D	Trosa	0488			58.9167	17.4333	4
 SE	611 20	Nyköping	Södermanland	D					58.753	17.0079	4
 SE	613 20	Oxelösund	Södermanland	D					58.6706	17.1015	4
 SE	619 20	Trosa	Södermanland	D					58.8962	17.5481	4
@@ -5512,13 +5534,13 @@ SE	590 13	Boxholm	Östergötland	E	Boxholm	0560			58.1972	15.0538	4
 SE	590 14	Boxholm	Östergötland	E	Boxholm	0560			58.1972	15.0538	4
 SE	590 15	Boxholm	Östergötland	E	Boxholm	0560			58.1972	15.0538	4
 SE	590 16	Boxholm	Östergötland	E	Boxholm	0560			58.1972	15.0538	4
-SE	595 03	Boxholm	Östergötland	E	Boxholm	0560			58.1972	15.0538	
-SE	595 70	Boxholm	Östergötland	E	Boxholm	0560			58.1972	15.0538	
-SE	595 71	Boxholm	Östergötland	E	Boxholm	0560			58.1972	15.0538	
-SE	595 72	Boxholm	Östergötland	E	Boxholm	0560			58.1972	15.0538	
-SE	595 73	Boxholm	Östergötland	E	Boxholm	0560			58.1972	15.0538	
-SE	595 75	Boxholm	Östergötland	E	Boxholm	0560			58.1972	15.0538	
-SE	595 76	Boxholm	Östergötland	E	Boxholm	0560			58.1972	15.0538	
+SE	595 03	Boxholm	Östergötland	E	Boxholm	0560			58.1972	15.0538	4
+SE	595 70	Boxholm	Östergötland	E	Boxholm	0560			58.1972	15.0538	4
+SE	595 71	Boxholm	Östergötland	E	Boxholm	0560			58.1972	15.0538	4
+SE	595 72	Boxholm	Östergötland	E	Boxholm	0560			58.1972	15.0538	4
+SE	595 73	Boxholm	Östergötland	E	Boxholm	0560			58.1972	15.0538	4
+SE	595 75	Boxholm	Östergötland	E	Boxholm	0560			58.1972	15.0538	4
+SE	595 76	Boxholm	Östergötland	E	Boxholm	0560			58.1972	15.0538	4
 SE	597 00	Åtvidaberg	Östergötland	E	Åtvidaberg	0561			58.2015	15.9977	4
 SE	597 21	Åtvidaberg	Östergötland	E	Åtvidaberg	0561			58.2015	15.9977	4
 SE	597 22	Åtvidaberg	Östergötland	E	Åtvidaberg	0561			58.2015	15.9977	4
@@ -5551,7 +5573,7 @@ SE	610 13	Lotorp	Östergötland	E	Finspång	0562			58.7333	15.8333	4
 SE	610 14	Rejmyre	Östergötland	E	Finspång	0562			58.8333	15.9167	4
 SE	612 01	Finspång	Östergötland	E	Finspång	0562			58.7058	15.7674	4
 SE	612 02	Finspång	Östergötland	E	Finspång	0562			58.7058	15.7674	4
-SE	612 03	Rejmyre	Östergötland	E	Finspång	0562			58.8333	15.9167	
+SE	612 03	Rejmyre	Östergötland	E	Finspång	0562			58.8333	15.9167	4
 SE	612 21	Finspång	Östergötland	E	Finspång	0562			58.7058	15.7674	4
 SE	612 22	Finspång	Östergötland	E	Finspång	0562			58.7058	15.7674	4
 SE	612 23	Finspång	Östergötland	E	Finspång	0562			58.7058	15.7674	4
@@ -5574,11 +5596,11 @@ SE	612 44	Finspång	Östergötland	E	Finspång	0562			58.7058	15.7674	4
 SE	612 45	Finspång	Östergötland	E	Finspång	0562			58.7058	15.7674	4
 SE	612 46	Finspång	Östergötland	E	Finspång	0562			58.7058	15.7674	4
 SE	612 47	Finspång	Östergötland	E	Finspång	0562			58.7058	15.7674	4
-SE	612 71	Rejmyre	Östergötland	E	Finspång	0562			58.8333	15.9167	
-SE	612 72	Rejmyre	Östergötland	E	Finspång	0562			58.8333	15.9167	
-SE	612 74	Grytgöl	Östergötland	E	Finspång	0562			58.8	15.55	
-SE	612 75	Hällestad	Östergötland	E	Finspång	0562			58.7333	15.5667	
-SE	612 76	Lotorp	Östergötland	E	Finspång	0562			58.7333	15.8333	
+SE	612 71	Rejmyre	Östergötland	E	Finspång	0562			58.8333	15.9167	4
+SE	612 72	Rejmyre	Östergötland	E	Finspång	0562			58.8333	15.9167	4
+SE	612 74	Grytgöl	Östergötland	E	Finspång	0562			58.8	15.55	4
+SE	612 75	Hällestad	Östergötland	E	Finspång	0562			58.7333	15.5667	4
+SE	612 76	Lotorp	Östergötland	E	Finspång	0562			58.7333	15.8333	4
 SE	612 80	Finspång	Östergötland	E	Finspång	0562			58.7058	15.7674	4
 SE	612 81	Finspång	Östergötland	E	Finspång	0562			58.7058	15.7674	4
 SE	612 82	Finspång	Östergötland	E	Finspång	0562			58.7058	15.7674	4
@@ -5604,7 +5626,7 @@ SE	615 92	Valdemarsvik	Östergötland	E	Valdemarsvik	0563			58.2031	16.6023	4
 SE	615 93	Valdemarsvik	Östergötland	E	Valdemarsvik	0563			58.2031	16.6023	4
 SE	615 94	Valdemarsvik	Östergötland	E	Valdemarsvik	0563			58.2031	16.6023	4
 SE	615 95	Valdemarsvik	Östergötland	E	Valdemarsvik	0563			58.2031	16.6023	4
-SE	615 96	Gryt	Östergötland	E	Valdemarsvik	0563			58.1833	16.8	
+SE	615 96	Gryt	Östergötland	E	Valdemarsvik	0563			58.1833	16.8	4
 SE	580 02	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
 SE	580 03	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
 SE	580 05	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
@@ -5698,6 +5720,7 @@ SE	582 72	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
 SE	582 73	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
 SE	582 74	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
 SE	582 75	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
+SE	582 76	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	
 SE	582 77	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
 SE	582 78	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
 SE	583 00	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
@@ -5710,7 +5733,7 @@ SE	583 35	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
 SE	583 36	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
 SE	583 37	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
 SE	583 38	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	
-SE	583 94	Nykil	Östergötland	E	Linköping	0580			58.2833	15.45	
+SE	583 94	Nykil	Östergötland	E	Linköping	0580			58.2833	15.45	4
 SE	584 22	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
 SE	584 31	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
 SE	584 32	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
@@ -5720,14 +5743,14 @@ SE	584 36	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
 SE	584 37	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
 SE	584 39	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
 SE	585 00	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
-SE	585 07	Ljungsbro	Östergötland	E	Linköping	0580			58.5167	15.5	
+SE	585 07	Ljungsbro	Östergötland	E	Linköping	0580			58.5167	15.5	4
 SE	585 64	Lindhem	Östergötland	E	Linköping	0580			58.4167	15.6167	
-SE	585 71	Ljungsbro	Östergötland	E	Linköping	0580			58.5167	15.5	
-SE	585 72	Ljungsbro	Östergötland	E	Linköping	0580			58.5167	15.5	
-SE	585 73	Ljungsbro	Östergötland	E	Linköping	0580			58.5167	15.5	
-SE	585 74	Ljungsbro	Östergötland	E	Linköping	0580			58.5167	15.5	
-SE	585 75	Ljungsbro	Östergötland	E	Linköping	0580			58.5167	15.5	
-SE	585 80	Ljungsbro	Östergötland	E	Linköping	0580			58.5167	15.5	
+SE	585 71	Ljungsbro	Östergötland	E	Linköping	0580			58.5167	15.5	4
+SE	585 72	Ljungsbro	Östergötland	E	Linköping	0580			58.5167	15.5	4
+SE	585 73	Ljungsbro	Östergötland	E	Linköping	0580			58.5167	15.5	4
+SE	585 74	Ljungsbro	Östergötland	E	Linköping	0580			58.5167	15.5	4
+SE	585 75	Ljungsbro	Östergötland	E	Linköping	0580			58.5167	15.5	4
+SE	585 80	Ljungsbro	Östergötland	E	Linköping	0580			58.5167	15.5	4
 SE	585 91	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
 SE	585 92	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
 SE	585 93	Linköping	Östergötland	E	Linköping	0580			58.4167	15.6167	4
@@ -5951,9 +5974,9 @@ SE	617 30	Skärblacka	Östergötland	E	Norrköping	0581			58.5667	15.9	4
 SE	617 31	Skärblacka	Östergötland	E	Norrköping	0581			58.5667	15.9	4
 SE	617 32	Skärblacka	Östergötland	E	Norrköping	0581			58.5667	15.9	4
 SE	617 34	Skärblacka	Östergötland	E	Norrköping	0581			58.5667	15.9	4
-SE	617 71	Kimstad	Östergötland	E	Norrköping	0581			58.5333	15.9667	
+SE	617 71	Kimstad	Östergötland	E	Norrköping	0581			58.5333	15.9667	4
 SE	617 90	Skärblacka	Östergötland	E	Norrköping	0581			58.5667	15.9	4
-SE	617 91	Kimstad	Östergötland	E	Norrköping	0581			58.5333	15.9667	
+SE	617 91	Kimstad	Östergötland	E	Norrköping	0581			58.5333	15.9667	4
 SE	618 01	Kolmården	Östergötland	E	Norrköping	0581			58.6667	16.3833	4
 SE	618 21	Kolmården	Östergötland	E	Norrköping	0581			58.6667	16.3833	4
 SE	618 22	Kolmården	Östergötland	E	Norrköping	0581			58.6667	16.3833	4
@@ -5990,16 +6013,16 @@ SE	614 96	Östra Ryd	Östergötland	E	Söderköping	0582			58.4	16.15	4
 SE	614 97	Söderköping	Östergötland	E	Söderköping	0582			58.4806	16.3222	4
 SE	614 98	Sankt Anna	Östergötland	E	Söderköping	0582			58.35	16.7	4
 SE	614 99	Söderköping	Östergötland	E	Söderköping	0582			58.4806	16.3222	4
-SE	615 02	Gusum	Östergötland	E	Söderköping	0582			58.2667	16.4833	
-SE	615 71	Gusum	Östergötland	E	Söderköping	0582			58.2667	16.4833	
-SE	615 72	Gusum	Östergötland	E	Söderköping	0582			58.2667	16.4833	
-SE	615 73	Gusum	Östergötland	E	Söderköping	0582			58.2667	16.4833	
-SE	615 74	Ringarum	Östergötland	E	Söderköping	0582			58.3333	16.45	
-SE	615 75	Ringarum	Östergötland	E	Söderköping	0582			58.3333	16.45	
-SE	617 92	Norsholm	Östergötland	E	Söderköping	0582			58.5167	15.9667	
-SE	585 76	Vreta Kloster	Östergötland	E	Motala	0583			58.4833	15.5167	
-SE	585 77	Vreta Kloster	Östergötland	E	Motala	0583			58.4833	15.5167	
-SE	585 78	Vreta Kloster	Östergötland	E	Motala	0583			58.4833	15.5167	
+SE	615 02	Gusum	Östergötland	E	Söderköping	0582			58.2667	16.4833	4
+SE	615 71	Gusum	Östergötland	E	Söderköping	0582			58.2667	16.4833	4
+SE	615 72	Gusum	Östergötland	E	Söderköping	0582			58.2667	16.4833	4
+SE	615 73	Gusum	Östergötland	E	Söderköping	0582			58.2667	16.4833	4
+SE	615 74	Ringarum	Östergötland	E	Söderköping	0582			58.3333	16.45	4
+SE	615 75	Ringarum	Östergötland	E	Söderköping	0582			58.3333	16.45	4
+SE	617 92	Norsholm	Östergötland	E	Söderköping	0582			58.5167	15.9667	4
+SE	585 76	Vreta Kloster	Östergötland	E	Motala	0583			58.4833	15.5167	4
+SE	585 77	Vreta Kloster	Östergötland	E	Motala	0583			58.4833	15.5167	4
+SE	585 78	Vreta Kloster	Östergötland	E	Motala	0583			58.4833	15.5167	4
 SE	590 30	Borensberg	Östergötland	E	Motala	0583			58.5667	15.2833	4
 SE	590 31	Borensberg	Östergötland	E	Motala	0583			58.5667	15.2833	4
 SE	590 32	Borensberg	Östergötland	E	Motala	0583			58.5667	15.2833	4
@@ -6042,7 +6065,7 @@ SE	591 82	Motala	Östergötland	E	Motala	0583			58.5371	15.0365	4
 SE	591 84	Motala	Östergötland	E	Motala	0583			58.5371	15.0365	4
 SE	591 85	Motala	Östergötland	E	Motala	0583			58.5371	15.0365	4
 SE	591 86	Motala	Östergötland	E	Motala	0583			58.5371	15.0365	4
-SE	591 90	Tjällmo	Östergötland	E	Motala	0583			58.7167	15.35	
+SE	591 90	Tjällmo	Östergötland	E	Motala	0583			58.7167	15.35	4
 SE	591 91	Motala	Östergötland	E	Motala	0583			58.5371	15.0365	4
 SE	591 92	Motala	Östergötland	E	Motala	0583			58.5371	15.0365	4
 SE	591 93	Motala	Östergötland	E	Motala	0583			58.5371	15.0365	4
@@ -6070,12 +6093,12 @@ SE	592 91	Vadstena	Östergötland	E	Vadstena	0584			58.4486	14.8897	4
 SE	592 92	Vadstena	Östergötland	E	Vadstena	0584			58.4486	14.8897	4
 SE	592 93	Borghamn	Östergötland	E	Vadstena	0584			58.3833	14.6833	4
 SE	592 94	Vadstena	Östergötland	E	Vadstena	0584			58.4486	14.8897	4
-SE	583 02	Vikingstad	Östergötland	E	Mjölby	0586			58.383	15.432	
-SE	583 71	Vikingstad	Östergötland	E	Mjölby	0586			58.383	15.432	
-SE	583 72	Vikingstad	Östergötland	E	Mjölby	0586			58.383	15.432	
-SE	583 91	Vikingstad	Östergötland	E	Mjölby	0586			58.383	15.432	
-SE	583 92	Vikingstad	Östergötland	E	Mjölby	0586			58.383	15.432	
-SE	583 93	Vikingstad	Östergötland	E	Mjölby	0586			58.383	15.432	
+SE	583 02	Vikingstad	Östergötland	E	Mjölby	0586			58.383	15.432	4
+SE	583 71	Vikingstad	Östergötland	E	Mjölby	0586			58.383	15.432	4
+SE	583 72	Vikingstad	Östergötland	E	Mjölby	0586			58.383	15.432	4
+SE	583 91	Vikingstad	Östergötland	E	Mjölby	0586			58.383	15.432	4
+SE	583 92	Vikingstad	Östergötland	E	Mjölby	0586			58.383	15.432	4
+SE	583 93	Vikingstad	Östergötland	E	Mjölby	0586			58.383	15.432	4
 SE	590 17	Mantorp	Östergötland	E	Mjölby	0586			58.35	15.2833	4
 SE	590 18	Mantorp	Östergötland	E	Mjölby	0586			58.35	15.2833	4
 SE	590 19	Mantorp	Östergötland	E	Mjölby	0586			58.35	15.2833	4
@@ -6085,13 +6108,13 @@ SE	590 23	Mantorp	Östergötland	E	Mjölby	0586			58.35	15.2833
 SE	590 33	Borensberg	Östergötland	E	Mjölby	0586			58.5667	15.2833	4
 SE	590 47	Vikingstad	Östergötland	E	Mjölby	0586			58.383	15.432	4
 SE	590 48	Vikingstad	Östergötland	E	Mjölby	0586			58.383	15.432	4
-SE	591 06	Borensberg	Östergötland	E	Mjölby	0586			58.5667	15.2833	
-SE	591 74	Borensberg	Östergötland	E	Mjölby	0586			58.5667	15.2833	
-SE	591 75	Borensberg	Östergötland	E	Mjölby	0586			58.5667	15.2833	
-SE	591 76	Borensberg	Östergötland	E	Mjölby	0586			58.5667	15.2833	
-SE	591 77	Borensberg	Östergötland	E	Mjölby	0586			58.5667	15.2833	
+SE	591 06	Borensberg	Östergötland	E	Mjölby	0586			58.5667	15.2833	4
+SE	591 74	Borensberg	Östergötland	E	Mjölby	0586			58.5667	15.2833	4
+SE	591 75	Borensberg	Östergötland	E	Mjölby	0586			58.5667	15.2833	4
+SE	591 76	Borensberg	Östergötland	E	Mjölby	0586			58.5667	15.2833	4
+SE	591 77	Borensberg	Östergötland	E	Mjölby	0586			58.5667	15.2833	4
 SE	595 01	Mjölby	Östergötland	E	Mjölby	0586			58.3259	15.1236	4
-SE	595 04	Mantorp	Östergötland	E	Mjölby	0586			58.35	15.2833	
+SE	595 04	Mantorp	Östergötland	E	Mjölby	0586			58.35	15.2833	4
 SE	595 21	Mjölby	Östergötland	E	Mjölby	0586			58.3259	15.1236	4
 SE	595 22	Mjölby	Östergötland	E	Mjölby	0586			58.3259	15.1236	4
 SE	595 23	Mjölby	Östergötland	E	Mjölby	0586			58.3259	15.1236	4
@@ -6113,9 +6136,9 @@ SE	595 51	Mjölby	Östergötland	E	Mjölby	0586			58.3259	15.1236	4
 SE	595 52	Mjölby	Östergötland	E	Mjölby	0586			58.3259	15.1236	4
 SE	595 53	Mjölby	Östergötland	E	Mjölby	0586			58.3259	15.1236	4
 SE	595 54	Mjölby	Östergötland	E	Mjölby	0586			58.3259	15.1236	4
-SE	595 57	Mantorp	Östergötland	E	Mjölby	0586			58.35	15.2833	
-SE	595 58	Mantorp	Östergötland	E	Mjölby	0586			58.35	15.2833	
-SE	595 59	Mantorp	Östergötland	E	Mjölby	0586			58.35	15.2833	
+SE	595 57	Mantorp	Östergötland	E	Mjölby	0586			58.35	15.2833	4
+SE	595 58	Mantorp	Östergötland	E	Mjölby	0586			58.35	15.2833	4
+SE	595 59	Mantorp	Östergötland	E	Mjölby	0586			58.35	15.2833	4
 SE	595 80	Mjölby	Östergötland	E	Mjölby	0586			58.3259	15.1236	4
 SE	595 81	Mjölby	Östergötland	E	Mjölby	0586			58.3259	15.1236	4
 SE	595 82	Mjölby	Östergötland	E	Mjölby	0586			58.3259	15.1236	4
@@ -6126,7 +6149,7 @@ SE	595 93	Mjölby	Östergötland	E	Mjölby	0586			58.3259	15.1236	4
 SE	595 94	Mjölby	Östergötland	E	Mjölby	0586			58.3259	15.1236	4
 SE	595 95	Mjölby	Östergötland	E	Mjölby	0586			58.3259	15.1236	4
 SE	595 96	Mjölby	Östergötland	E	Mjölby	0586			58.3259	15.1236	4
-SE	595 97	Mantorp	Östergötland	E	Mjölby	0586			58.35	15.2833	
+SE	595 97	Mantorp	Östergötland	E	Mjölby	0586			58.35	15.2833	4
 SE	596 01	Skänninge	Östergötland	E	Mjölby	0586			58.4	15.0833	4
 SE	596 21	Skänninge	Östergötland	E	Mjölby	0586			58.4	15.0833	4
 SE	596 22	Skänninge	Östergötland	E	Mjölby	0586			58.4	15.0833	4
@@ -6135,11 +6158,11 @@ SE	596 31	Skänninge	Östergötland	E	Mjölby	0586			58.4	15.0833	4
 SE	596 32	Skänninge	Östergötland	E	Mjölby	0586			58.4	15.0833	4
 SE	596 33	Skänninge	Östergötland	E	Mjölby	0586			58.4	15.0833	4
 SE	596 34	Skänninge	Östergötland	E	Mjölby	0586			58.4	15.0833	4
-SE	596 36	Väderstad	Östergötland	E	Mjölby	0586			58.3167	14.9167	
+SE	596 36	Väderstad	Östergötland	E	Mjölby	0586			58.3167	14.9167	4
 SE	596 91	Skänninge	Östergötland	E	Mjölby	0586			58.4	15.0833	4
 SE	596 92	Skänninge	Östergötland	E	Mjölby	0586			58.4	15.0833	4
 SE	596 93	Skänninge	Östergötland	E	Mjölby	0586			58.4	15.0833	4
-SE	596 95	Väderstad	Östergötland	E	Mjölby	0586			58.3167	14.9167	
+SE	596 95	Väderstad	Östergötland	E	Mjölby	0586			58.3167	14.9167	4
 SE	581 99	Linköping	Östergötland	E					58.4167	15.6167	4
 SE	583 29	Linköping	Östergötland	E					58.4167	15.6167	4
 SE	587 50	Linköping	Östergötland	E					58.4167	15.6167	4
@@ -6265,7 +6288,7 @@ SE	332 34	Gislaved	Jönköping	F	Gislaved	0662			57.3044	13.5408	4
 SE	332 35	Gislaved	Jönköping	F	Gislaved	0662			57.3044	13.5408	4
 SE	332 36	Gislaved	Jönköping	F	Gislaved	0662			57.3044	13.5408	4
 SE	332 37	Gislaved	Jönköping	F	Gislaved	0662			57.3044	13.5408	4
-SE	332 38	Gislaved	Jönköping	F	Gislaved	0662			57.3044	13.5408	
+SE	332 38	Gislaved	Jönköping	F	Gislaved	0662			57.3044	13.5408	4
 SE	332 80	Gislaved	Jönköping	F	Gislaved	0662			57.3044	13.5408	4
 SE	332 81	Gislaved	Jönköping	F	Gislaved	0662			57.3044	13.5408	4
 SE	332 91	Gislaved	Jönköping	F	Gislaved	0662			57.3044	13.5408	4
@@ -6292,7 +6315,7 @@ SE	334 25	Anderstorp	Jönköping	F	Gislaved	0662			57.2833	13.6333	4
 SE	334 31	Anderstorp	Jönköping	F	Gislaved	0662			57.2833	13.6333	4
 SE	334 32	Anderstorp	Jönköping	F	Gislaved	0662			57.2833	13.6333	4
 SE	334 33	Anderstorp	Jönköping	F	Gislaved	0662			57.2833	13.6333	4
-SE	334 35	Anderstorp	Jönköping	F	Gislaved	0662			57.2833	13.6333	
+SE	334 35	Anderstorp	Jönköping	F	Gislaved	0662			57.2833	13.6333	4
 SE	334 80	Anderstorp	Jönköping	F	Gislaved	0662			57.2833	13.6333	4
 SE	334 91	Anderstorp	Jönköping	F	Gislaved	0662			57.2833	13.6333	4
 SE	567 01	Vaggeryd	Jönköping	F	Vaggeryd	0665			57.4981	14.1484	4
@@ -6407,7 +6430,7 @@ SE	554 66	Jönköping	Jönköping	F	Jönköping	0680			57.7815	14.1562	4
 SE	554 72	Jönköping	Jönköping	F	Jönköping	0680			57.7815	14.1562	4
 SE	554 73	Jönköping	Jönköping	F	Jönköping	0680			57.7815	14.1562	4
 SE	554 74	Jönköping	Jönköping	F	Jönköping	0680			57.7815	14.1562	4
-SE	554 75	Jönköping	Jönköping	F	Jönköping	0680			57.7815	14.1562	
+SE	554 75	Jönköping	Jönköping	F	Jönköping	0680			57.7815	14.1562	4
 SE	555 92	Jönköping	Jönköping	F	Jönköping	0680			57.7815	14.1562	4
 SE	555 93	Jönköping	Jönköping	F	Jönköping	0680			57.7815	14.1562	4
 SE	555 94	Jönköping	Jönköping	F	Jönköping	0680			57.7815	14.1562	4
@@ -6528,6 +6551,7 @@ SE	571 64	Sandsjöfors	Jönköping	F	Nässjö	0682			57.5	14.7833	4
 SE	571 65	Grimstorp	Jönköping	F	Nässjö	0682			57.5667	14.7	4
 SE	571 66	Bodafors	Jönköping	F	Nässjö	0682			57.5	14.7	4
 SE	571 67	Bodafors	Jönköping	F	Nässjö	0682			57.5	14.7	4
+SE	571 68	Malmbäck	Jönköping	F	Nässjö	0682			57.5833	14.4667	
 SE	571 72	Ormaryd	Jönköping	F	Nässjö	0682			57.6667	14.8167	4
 SE	571 73	Stensjön	Jönköping	F	Nässjö	0682			57.6861	14.6111	1
 SE	571 74	Äng	Jönköping	F	Nässjö	0682			57.7	14.5667	4
@@ -6570,8 +6594,8 @@ SE	331 32	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
 SE	331 33	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
 SE	331 34	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
 SE	331 35	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
-SE	331 36	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	
-SE	331 37	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	
+SE	331 36	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
+SE	331 37	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
 SE	331 40	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
 SE	331 41	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
 SE	331 42	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
@@ -6581,8 +6605,8 @@ SE	331 51	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
 SE	331 52	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
 SE	331 53	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
 SE	331 54	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
-SE	331 56	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	
-SE	331 79	Horda	Jönköping	F	Värnamo	0683			57.0333	14.25	
+SE	331 56	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
+SE	331 79	Horda	Jönköping	F	Värnamo	0683			57.0333	14.25	4
 SE	331 81	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
 SE	331 82	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
 SE	331 83	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
@@ -6596,8 +6620,9 @@ SE	331 95	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
 SE	331 96	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
 SE	331 97	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
 SE	331 98	Värnamo	Jönköping	F	Värnamo	0683			57.186	14.04	4
+SE	333 73	Bredaryd	Jönköping	F	Värnamo	0683			57.1667	13.7333	
 SE	333 74	Bredaryd	Jönköping	F	Värnamo	0683			57.1667	13.7333	
-SE	335 96	Kulltorp	Jönköping	F	Värnamo	0683			57.2667	13.7833	
+SE	335 96	Kulltorp	Jönköping	F	Värnamo	0683			57.2667	13.7833	4
 SE	568 92	Skillingaryd	Jönköping	F	Värnamo	0683			57.4333	14.0833	4
 SE	560 13	Hok	Jönköping	F	Sävsjö	0684			57.5167	14.2667	4
 SE	570 01	Rörvik	Jönköping	F	Sävsjö	0684			57.2333	14.5667	4
@@ -6650,7 +6675,7 @@ SE	574 95	Björköby	Jönköping	F	Vetlanda	0685			57.5167	14.9167	4
 SE	574 96	Vetlanda	Jönköping	F	Vetlanda	0685			57.4289	15.0776	4
 SE	574 97	Vetlanda	Jönköping	F	Vetlanda	0685			57.4289	15.0776	4
 SE	574 98	Nye	Jönköping	F	Vetlanda	0685			57.35	15.25	4
-SE	577 99	Pauliström	Jönköping	F	Vetlanda	0685			57.4667	15.5167	
+SE	577 99	Pauliström	Jönköping	F	Vetlanda	0685			57.4667	15.5167	4
 SE	570 31	Ingatorp	Jönköping	F	Eksjö	0686			57.6333	15.4	4
 SE	570 32	Hjältevad	Jönköping	F	Eksjö	0686			57.6333	15.3333	4
 SE	570 33	Mariannelund	Jönköping	F	Eksjö	0686			57.6167	15.5667	4
@@ -6678,9 +6703,9 @@ SE	575 93	Eksjö	Jönköping	F	Eksjö	0686			57.6664	14.972	4
 SE	575 94	Eksjö	Jönköping	F	Eksjö	0686			57.6664	14.972	4
 SE	575 95	Eksjö	Jönköping	F	Eksjö	0686			57.6664	14.972	4
 SE	575 96	Eksjö	Jönköping	F	Eksjö	0686			57.6664	14.972	4
-SE	575 97	Ingatorp	Jönköping	F	Eksjö	0686			57.6333	15.4	
-SE	575 98	Hjältevad	Jönköping	F	Eksjö	0686			57.6333	15.3333	
-SE	575 99	Bruzaholm	Jönköping	F	Eksjö	0686			57.6333	15.2667	
+SE	575 97	Ingatorp	Jönköping	F	Eksjö	0686			57.6333	15.4	4
+SE	575 98	Hjältevad	Jönköping	F	Eksjö	0686			57.6333	15.3333	4
+SE	575 99	Bruzaholm	Jönköping	F	Eksjö	0686			57.6333	15.2667	4
 SE	563 91	Gränna	Jönköping	F	Tranås	0687			58.0167	14.4667	4
 SE	563 92	Gränna	Jönköping	F	Tranås	0687			58.0167	14.4667	4
 SE	573 00	Tranås	Jönköping	F	Tranås	0687			58.0372	14.9782	4
@@ -6753,9 +6778,11 @@ SE	360 72	Klavreström	Kronoberg	G	Uppvidinge	0760			57.1333	15.1333	4
 SE	360 74	Sävsjöström	Kronoberg	G	Uppvidinge	0760			57	15.4	4
 SE	360 75	Alstermo	Kronoberg	G	Uppvidinge	0760			56.9667	15.6333	4
 SE	360 76	Älghult	Kronoberg	G	Uppvidinge	0760			57.0167	15.5667	4
+SE	364 30	Åseda	Kronoberg	G	Uppvidinge	0760			57.1701	15.3443	
 SE	570 10	Korsberga	Kronoberg	G	Uppvidinge	0760			57.3167	15.1167	4
 SE	360 50	Lessebo	Kronoberg	G	Lessebo	0761			56.7519	15.2697	4
 SE	365 31	Lessebo	Kronoberg	G	Lessebo	0761			56.7519	15.2697	
+SE	365 32	Lessebo	Kronoberg	G	Lessebo	0761			56.7519	15.2697	
 SE	360 13	Urshult	Kronoberg	G	Tingsryd	0763			56.5333	14.7833	4
 SE	362 00	Tingsryd	Kronoberg	G	Tingsryd	0763			56.5247	14.979	4
 SE	362 01	Tingsryd	Kronoberg	G	Tingsryd	0763			56.5247	14.979	4
@@ -6850,6 +6877,7 @@ SE	287 91	Strömsnäsbruk	Kronoberg	G	Markaryd	0767			56.55	13.7167	4
 SE	340 30	Vislanda	Kronoberg	G	Växjö	0780			56.7833	14.45	4
 SE	340 32	Grimslöv	Kronoberg	G	Växjö	0780			56.7333	14.5333	4
 SE	340 36	Moheda	Kronoberg	G	Växjö	0780			57	14.5667	4
+SE	342 55	Grimslöv	Kronoberg	G	Växjö	0780			56.7333	14.5333	
 SE	350 02	Växjö	Kronoberg	G	Växjö	0780			56.8777	14.8091	4
 SE	350 03	Växjö	Kronoberg	G	Växjö	0780			56.8777	14.8091	4
 SE	350 04	Växjö	Kronoberg	G	Växjö	0780			56.8777	14.8091	4
@@ -6880,6 +6908,7 @@ SE	351 94	Växjö	Kronoberg	G	Växjö	0780			56.8777	14.8091	4
 SE	351 95	Växjö	Kronoberg	G	Växjö	0780			56.8777	14.8091	4
 SE	351 96	Växjö	Kronoberg	G	Växjö	0780			56.8777	14.8091	4
 SE	351 97	Växjö	Kronoberg	G	Växjö	0780			56.8777	14.8091	4
+SE	352 22	Växjö	Kronoberg	G	Växjö	0780			56.8777	14.8091	
 SE	352 30	Växjö	Kronoberg	G	Växjö	0780			56.8777	14.8091	4
 SE	352 31	Växjö	Kronoberg	G	Växjö	0780			56.8777	14.8091	4
 SE	352 32	Växjö	Kronoberg	G	Växjö	0780			56.8777	14.8091	4
@@ -6914,6 +6943,7 @@ SE	352 62	Växjö	Kronoberg	G	Växjö	0780			56.8777	14.8091	4
 SE	352 63	Växjö	Kronoberg	G	Växjö	0780			56.8777	14.8091	4
 SE	352 70	Växjö	Kronoberg	G	Växjö	0780			56.8777	14.8091	4
 SE	352 74	Vaxjö	Kronoberg	G	Växjö	0780			56.8777	14.8091	
+SE	355 71	Ingelstad	Kronoberg	G	Växjö	0780			56.8777	14.8091	
 SE	355 72	Ingelstad	Kronoberg	G	Växjö	0780			56.8777	14.8091	
 SE	355 75	Åryd	Kronoberg	G	Växjö	0780			56.8777	14.8091	
 SE	355 91	Växjö	Kronoberg	G	Växjö	0780			56.8777	14.8091	4
@@ -6949,6 +6979,7 @@ SE	363 92	Lammhult	Kronoberg	G	Växjö	0780			57.1667	14.5833	4
 SE	363 93	Lammhult	Kronoberg	G	Växjö	0780			57.1667	14.5833	4
 SE	363 94	Lammhult	Kronoberg	G	Växjö	0780			57.1667	14.5833	4
 SE	364 42	Lenhovda	Kronoberg	G	Växjö	0780			57	15.2833	
+SE	365 41	Hovmantorp	Kronoberg	G	Växjö	0780			56.7833	15.1333	
 SE	365 93	Furuby	Kronoberg	G	Växjö	0780			56.85	15.0333	4
 SE	570 12	Landsbro	Kronoberg	G	Växjö	0780			57.3667	14.9	4
 SE	287 92	Traryd	Kronoberg	G	Ljungby	0781			56.5833	13.7833	4
@@ -6975,10 +7006,11 @@ SE	341 36	Ljungby	Kronoberg	G	Ljungby	0781			56.8332	13.9408	4
 SE	341 37	Ljungby	Kronoberg	G	Ljungby	0781			56.8332	13.9408	4
 SE	341 38	Ljungby	Kronoberg	G	Ljungby	0781			56.8332	13.9408	4
 SE	341 39	Ljungby	Kronoberg	G	Ljungby	0781			56.8332	13.9408	4
+SE	341 51	Lagan	Kronoberg	G	Ljungby	0781			56.9167	13.9833	
 SE	341 60	Ljungby	Kronoberg	G	Ljungby	0781			56.8332	13.9408	4
 SE	341 70	Ljungby	Kronoberg	G	Ljungby	0781			56.8332	13.9408	4
-SE	341 74	Annerstad	Kronoberg	G	Ljungby	0781			56.7667	13.7167	
-SE	341 75	Hamneda	Kronoberg	G	Ljungby	0781			56.7	13.85	
+SE	341 74	Annerstad	Kronoberg	G	Ljungby	0781			56.7667	13.7167	4
+SE	341 75	Hamneda	Kronoberg	G	Ljungby	0781			56.7	13.85	4
 SE	341 76	Ryssby	Kronoberg	G	Ljungby	0781			56.8667	14.1667	4
 SE	341 77	Agunnaryd	Kronoberg	G	Ljungby	0781			56.75	14.15	4
 SE	341 80	Ljungby	Kronoberg	G	Ljungby	0781			56.8332	13.9408	4
@@ -7008,6 +7040,7 @@ SE	358 01	Växjö	Kronoberg	G					56.8777	14.8091	4
 SE	358 03	Växjö	Kronoberg	G					56.8777	14.8091	4
 SE	358 10	Växjö	Kronoberg	G					56.8777	14.8091	4
 SE	362 20	Tingsryd	Kronoberg	G					56.5247	14.979	4
+SE	362 53	Uråsa	Kronoberg	G					56.5247	14.979	
 SE	570 72	Fagerhult	Kalmar	H	Högsby	0821			57.35	15.9333	4
 SE	570 75	Fågelfors	Kalmar	H	Högsby	0821			57.2	15.8333	4
 SE	579 00	Högsby	Kalmar	H	Högsby	0821			57.166	16.0256	4
@@ -7020,11 +7053,11 @@ SE	579 31	Högsby	Kalmar	H	Högsby	0821			57.166	16.0256	4
 SE	579 32	Högsby	Kalmar	H	Högsby	0821			57.166	16.0256	4
 SE	579 33	Högsby	Kalmar	H	Högsby	0821			57.166	16.0256	4
 SE	579 40	Berga	Kalmar	H	Högsby	0821			57.2167	16.0333	4
-SE	579 72	Fågelfors	Kalmar	H	Högsby	0821			57.2	15.8333	
+SE	579 72	Fågelfors	Kalmar	H	Högsby	0821			57.2	15.8333	4
 SE	579 80	Högsby	Kalmar	H	Högsby	0821			57.166	16.0256	4
 SE	579 92	Högsby	Kalmar	H	Högsby	0821			57.166	16.0256	4
-SE	579 94	Fagerhult	Kalmar	H	Högsby	0821			57.35	15.9333	
-SE	579 96	Fågelfors	Kalmar	H	Högsby	0821			57.2	15.8333	
+SE	579 94	Fagerhult	Kalmar	H	Högsby	0821			57.35	15.9333	4
+SE	579 96	Fågelfors	Kalmar	H	Högsby	0821			57.2	15.8333	4
 SE	385 01	Torsås	Kalmar	H	Torsås	0834			56.4125	15.9984	4
 SE	385 02	Bergkvara	Kalmar	H	Torsås	0834			56.3906	16.0727	4
 SE	385 03	Söderåkra	Kalmar	H	Torsås	0834			56.45	16.0667	4
@@ -7061,6 +7094,7 @@ SE	386 32	Färjestaden	Kalmar	H	Mörbylånga	0840			56.65	16.45	4
 SE	386 33	Färjestaden	Kalmar	H	Mörbylånga	0840			56.65	16.45	4
 SE	386 34	Färjestaden	Kalmar	H	Mörbylånga	0840			56.65	16.45	4
 SE	386 35	Färjestaden	Kalmar	H	Mörbylånga	0840			56.65	16.45	4
+SE	386 64	Degerhamn	Kalmar	H	Mörbylånga	0840			56.35	16.4	
 SE	386 90	Färjestaden	Kalmar	H	Mörbylånga	0840			56.65	16.45	4
 SE	386 92	Färjestaden	Kalmar	H	Mörbylånga	0840			56.65	16.45	4
 SE	386 93	Färjestaden	Kalmar	H	Mörbylånga	0840			56.65	16.45	4
@@ -7073,9 +7107,9 @@ SE	570 83	Rosenfors	Kalmar	H	Hultsfred	0860			57.3667	15.8333	4
 SE	570 84	Mörlunda	Kalmar	H	Hultsfred	0860			57.3167	15.85	4
 SE	577 01	Hultsfred	Kalmar	H	Hultsfred	0860			57.4882	15.8436	4
 SE	577 02	Silverdalen	Kalmar	H	Hultsfred	0860			57.5333	15.7333	4
-SE	577 03	Virserum	Kalmar	H	Hultsfred	0860			57.3167	15.5833	
-SE	577 04	Målilla	Kalmar	H	Hultsfred	0860			57.3877	15.8068	
-SE	577 05	Järnforsen	Kalmar	H	Hultsfred	0860			57.4167	15.6167	
+SE	577 03	Virserum	Kalmar	H	Hultsfred	0860			57.3167	15.5833	4
+SE	577 04	Målilla	Kalmar	H	Hultsfred	0860			57.3877	15.8068	4
+SE	577 05	Järnforsen	Kalmar	H	Hultsfred	0860			57.4167	15.6167	4
 SE	577 21	Hultsfred	Kalmar	H	Hultsfred	0860			57.4882	15.8436	4
 SE	577 22	Hultsfred	Kalmar	H	Hultsfred	0860			57.4882	15.8436	4
 SE	577 23	Hultsfred	Kalmar	H	Hultsfred	0860			57.4882	15.8436	4
@@ -7093,21 +7127,21 @@ SE	577 37	Hultsfred	Kalmar	H	Hultsfred	0860			57.4882	15.8436	4
 SE	577 38	Hultsfred	Kalmar	H	Hultsfred	0860			57.4882	15.8436	4
 SE	577 39	Hultsfred	Kalmar	H	Hultsfred	0860			57.4882	15.8436	4
 SE	577 50	Silverdalen	Kalmar	H	Hultsfred	0860			57.5333	15.7333	4
-SE	577 71	Virserum	Kalmar	H	Hultsfred	0860			57.3167	15.5833	
-SE	577 72	Virserum	Kalmar	H	Hultsfred	0860			57.3167	15.5833	
-SE	577 73	Målilla	Kalmar	H	Hultsfred	0860			57.3877	15.8068	
-SE	577 74	Målilla	Kalmar	H	Hultsfred	0860			57.3877	15.8068	
-SE	577 75	Mörlunda	Kalmar	H	Hultsfred	0860			57.3167	15.85	
-SE	577 76	Järnforsen	Kalmar	H	Hultsfred	0860			57.4167	15.6167	
-SE	577 77	Järnforsen	Kalmar	H	Hultsfred	0860			57.4167	15.6167	
+SE	577 71	Virserum	Kalmar	H	Hultsfred	0860			57.3167	15.5833	4
+SE	577 72	Virserum	Kalmar	H	Hultsfred	0860			57.3167	15.5833	4
+SE	577 73	Målilla	Kalmar	H	Hultsfred	0860			57.3877	15.8068	4
+SE	577 74	Målilla	Kalmar	H	Hultsfred	0860			57.3877	15.8068	4
+SE	577 75	Mörlunda	Kalmar	H	Hultsfred	0860			57.3167	15.85	4
+SE	577 76	Järnforsen	Kalmar	H	Hultsfred	0860			57.4167	15.6167	4
+SE	577 77	Järnforsen	Kalmar	H	Hultsfred	0860			57.4167	15.6167	4
 SE	577 90	Hultsfred	Kalmar	H	Hultsfred	0860			57.4882	15.8436	4
 SE	577 91	Hultsfred	Kalmar	H	Hultsfred	0860			57.4882	15.8436	4
 SE	577 92	Hultsfred	Kalmar	H	Hultsfred	0860			57.4882	15.8436	4
 SE	577 93	Hultsfred	Kalmar	H	Hultsfred	0860			57.4882	15.8436	4
-SE	577 95	Virserum	Kalmar	H	Hultsfred	0860			57.3167	15.5833	
-SE	577 96	Målilla	Kalmar	H	Hultsfred	0860			57.3877	15.8068	
-SE	577 97	Rosenfors	Kalmar	H	Hultsfred	0860			57.3667	15.8333	
-SE	577 98	Mörlunda	Kalmar	H	Hultsfred	0860			57.3167	15.85	
+SE	577 95	Virserum	Kalmar	H	Hultsfred	0860			57.3167	15.5833	4
+SE	577 96	Målilla	Kalmar	H	Hultsfred	0860			57.3877	15.8068	4
+SE	577 97	Rosenfors	Kalmar	H	Hultsfred	0860			57.3667	15.8333	4
+SE	577 98	Mörlunda	Kalmar	H	Hultsfred	0860			57.3167	15.85	4
 SE	380 52	Timmernabben	Kalmar	H	Mönsterås	0861			56.9667	16.4333	4
 SE	380 53	Fliseryd	Kalmar	H	Mönsterås	0861			57.1333	16.2667	4
 SE	383 01	Mönsterås	Kalmar	H	Mönsterås	0861			57.0413	16.4446	4
@@ -7137,8 +7171,8 @@ SE	384 40	Ålem	Kalmar	H	Mönsterås	0861			56.95	16.3833	4
 SE	384 91	Blomstermåla	Kalmar	H	Mönsterås	0861			56.9833	16.3333	4
 SE	384 92	Ålem	Kalmar	H	Mönsterås	0861			56.95	16.3833	4
 SE	570 76	Ruda	Kalmar	H	Mönsterås	0861			57.3	15.8333	4
-SE	579 71	Ruda	Kalmar	H	Mönsterås	0861			57.3	15.8333	
-SE	579 95	Ruda	Kalmar	H	Mönsterås	0861			57.3	15.8333	
+SE	579 71	Ruda	Kalmar	H	Mönsterås	0861			57.3	15.8333	4
+SE	579 95	Ruda	Kalmar	H	Mönsterås	0861			57.3	15.8333	4
 SE	360 23	Älmeboda	Kalmar	H	Emmaboda	0862			56.5833	15.25	4
 SE	360 52	Kosta	Kalmar	H	Emmaboda	0862			56.85	15.3833	4
 SE	360 53	Skruv	Kalmar	H	Emmaboda	0862			56.7	15.35	4
@@ -7218,8 +7252,8 @@ SE	392 44	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	4
 SE	392 45	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	4
 SE	392 46	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	4
 SE	392 47	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	4
-SE	392 48	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	
-SE	392 49	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	
+SE	392 48	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	4
+SE	392 49	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	4
 SE	393 00	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	4
 SE	393 50	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	4
 SE	393 51	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	4
@@ -7234,10 +7268,10 @@ SE	393 61	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616
 SE	393 63	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	4
 SE	393 64	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	4
 SE	393 65	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	4
-SE	393 66	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	
+SE	393 66	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	4
 SE	394 70	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	4
 SE	394 71	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	4
-SE	394 74	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	
+SE	394 74	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	4
 SE	394 77	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	4
 SE	395 90	Kalmar	Kalmar	H	Kalmar	0880			56.6616	16.3616	4
 SE	395 95	Rockneby	Kalmar	H	Kalmar	0880			56.6616	16.3616	
@@ -7272,8 +7306,8 @@ SE	382 43	Nybro	Kalmar	H	Nybro	0881			56.7446	15.9071	4
 SE	382 44	Nybro	Kalmar	H	Nybro	0881			56.7446	15.9071	4
 SE	382 45	Nybro	Kalmar	H	Nybro	0881			56.7446	15.9071	4
 SE	382 46	Nybro	Kalmar	H	Nybro	0881			56.7446	15.9071	4
-SE	382 75	Gullaskruv	Kalmar	H	Nybro	0881			56.8833	15.6667	
-SE	382 76	Målerås	Kalmar	H	Nybro	0881			56.9167	15.5667	
+SE	382 75	Gullaskruv	Kalmar	H	Nybro	0881			56.8833	15.6667	4
+SE	382 76	Målerås	Kalmar	H	Nybro	0881			56.9167	15.5667	4
 SE	382 80	Nybro	Kalmar	H	Nybro	0881			56.7446	15.9071	4
 SE	382 90	Örsjö	Kalmar	H	Nybro	0881			56.7	15.75	4
 SE	382 91	Nybro	Kalmar	H	Nybro	0881			56.7446	15.9071	4
@@ -7292,7 +7326,7 @@ SE	572 02	Oskarshamn	Kalmar	H	Oskarshamn	0882			57.2646	16.4484	4
 SE	572 04	Oskarshamn	Kalmar	H	Oskarshamn	0882			57.2646	16.4484	4
 SE	572 05	Figeholm	Kalmar	H	Oskarshamn	0882			57.3667	16.55	4
 SE	572 06	Fårbo	Kalmar	H	Oskarshamn	0882			57.3833	16.4833	4
-SE	572 07	Kristdala	Kalmar	H	Oskarshamn	0882			57.4	16.1833	
+SE	572 07	Kristdala	Kalmar	H	Oskarshamn	0882			57.4	16.1833	4
 SE	572 21	Oskarshamn	Kalmar	H	Oskarshamn	0882			57.2646	16.4484	4
 SE	572 22	Oskarshamn	Kalmar	H	Oskarshamn	0882			57.2646	16.4484	4
 SE	572 23	Oskarshamn	Kalmar	H	Oskarshamn	0882			57.2646	16.4484	4
@@ -7319,8 +7353,8 @@ SE	572 60	Oskarshamn	Kalmar	H	Oskarshamn	0882			57.2646	16.4484	4
 SE	572 61	Oskarshamn	Kalmar	H	Oskarshamn	0882			57.2646	16.4484	4
 SE	572 62	Oskarshamn	Kalmar	H	Oskarshamn	0882			57.2646	16.4484	4
 SE	572 63	Oskarshamn	Kalmar	H	Oskarshamn	0882			57.2646	16.4484	4
-SE	572 73	Kristdala	Kalmar	H	Oskarshamn	0882			57.4	16.1833	
-SE	572 74	Påskallavik	Kalmar	H	Oskarshamn	0882			57.1667	16.45	
+SE	572 73	Kristdala	Kalmar	H	Oskarshamn	0882			57.4	16.1833	4
+SE	572 74	Påskallavik	Kalmar	H	Oskarshamn	0882			57.1667	16.45	4
 SE	572 75	Figeholm	Kalmar	H	Oskarshamn	0882			57.3667	16.55	4
 SE	572 76	Fårbo	Kalmar	H	Oskarshamn	0882			57.3833	16.4833	4
 SE	572 83	Oskarshamn	Kalmar	H	Oskarshamn	0882			57.2646	16.4484	4
@@ -7328,7 +7362,7 @@ SE	572 91	Oskarshamn	Kalmar	H	Oskarshamn	0882			57.2646	16.4484	4
 SE	572 92	Oskarshamn	Kalmar	H	Oskarshamn	0882			57.2646	16.4484	4
 SE	572 93	Oskarshamn	Kalmar	H	Oskarshamn	0882			57.2646	16.4484	4
 SE	572 95	Figeholm	Kalmar	H	Oskarshamn	0882			57.3667	16.55	4
-SE	572 97	Kristdala	Kalmar	H	Oskarshamn	0882			57.4	16.1833	
+SE	572 97	Kristdala	Kalmar	H	Oskarshamn	0882			57.4	16.1833	4
 SE	579 90	Berga	Kalmar	H	Oskarshamn	0882			57.2167	16.0333	4
 SE	572 96	Fårbo	Kalmar	H	Västervik	0883			57.3833	16.4833	4
 SE	590 41	Rimforsa	Kalmar	H	Västervik	0883			58.1362	15.6865	4
@@ -7385,12 +7419,12 @@ SE	594 23	Gamleby	Kalmar	H	Västervik	0883			57.9	16.4	4
 SE	594 30	Gamleby	Kalmar	H	Västervik	0883			57.9	16.4	4
 SE	594 31	Gamleby	Kalmar	H	Västervik	0883			57.9	16.4	4
 SE	594 32	Gamleby	Kalmar	H	Västervik	0883			57.9	16.4	4
-SE	594 70	Loftahammar	Kalmar	H	Västervik	0883			57.8997	16.7	
-SE	594 71	Loftahammar	Kalmar	H	Västervik	0883			57.8997	16.7	
-SE	594 72	Överum	Kalmar	H	Västervik	0883			57.9833	16.3167	
-SE	594 73	Överum	Kalmar	H	Västervik	0883			57.9833	16.3167	
-SE	594 74	Edsbruk	Kalmar	H	Västervik	0883			58.0333	16.4667	
-SE	594 75	Edsbruk	Kalmar	H	Västervik	0883			58.0333	16.4667	
+SE	594 70	Loftahammar	Kalmar	H	Västervik	0883			57.8997	16.7	4
+SE	594 71	Loftahammar	Kalmar	H	Västervik	0883			57.8997	16.7	4
+SE	594 72	Överum	Kalmar	H	Västervik	0883			57.9833	16.3167	4
+SE	594 73	Överum	Kalmar	H	Västervik	0883			57.9833	16.3167	4
+SE	594 74	Edsbruk	Kalmar	H	Västervik	0883			58.0333	16.4667	4
+SE	594 75	Edsbruk	Kalmar	H	Västervik	0883			58.0333	16.4667	4
 SE	594 91	Gamleby	Kalmar	H	Västervik	0883			57.9	16.4	4
 SE	594 92	Gamleby	Kalmar	H	Västervik	0883			57.9	16.4	4
 SE	594 93	Gamleby	Kalmar	H	Västervik	0883			57.9	16.4	4
@@ -7405,7 +7439,7 @@ SE	590 90	Ankarsrum	Kalmar	H	Vimmerby	0884			57.7	16.3167	4
 SE	590 91	Hjorted	Kalmar	H	Vimmerby	0884			57.6333	16.3	4
 SE	590 92	Totebo	Kalmar	H	Vimmerby	0884			57.6333	16.2	4
 SE	590 94	Blackstad	Kalmar	H	Vimmerby	0884			57.7833	16.1833	4
-SE	593 72	Totebo	Kalmar	H	Vimmerby	0884			57.6333	16.2	
+SE	593 72	Totebo	Kalmar	H	Vimmerby	0884			57.6333	16.2	4
 SE	594 94	Gamleby	Kalmar	H	Vimmerby	0884			57.9	16.4	4
 SE	598 01	Vimmerby	Kalmar	H	Vimmerby	0884			57.6659	15.8551	4
 SE	598 21	Vimmerby	Kalmar	H	Vimmerby	0884			57.6659	15.8551	4
@@ -7760,7 +7794,7 @@ SE	371 93	Karlskrona	Blekinge	K	Karlskrona	1080			56.1616	15.5866	4
 SE	371 94	Lyckeby	Blekinge	K	Karlskrona	1080			56.2	15.65	4
 SE	373 00	Jämjö	Blekinge	K	Karlskrona	1080			56.1833	15.8167	4
 SE	373 02	Ramdala	Blekinge	K	Karlskrona	1080			56.1833	15.7667	4
-SE	373 64	Drottningskär	Blekinge	K	Karlskrona	1080			56.1167	15.5667	
+SE	373 64	Drottningskär	Blekinge	K	Karlskrona	1080			56.1167	15.5667	4
 SE	370 10	Bräkne-Hoby	Blekinge	K	Ronneby	1081			56.2333	15.1167	4
 SE	370 11	Backaryd	Blekinge	K	Ronneby	1081			56.3333	15.1833	4
 SE	370 17	Eringsboda	Blekinge	K	Ronneby	1081			56.4333	15.35	4
@@ -7788,24 +7822,26 @@ SE	372 50	Kallinge	Blekinge	K	Ronneby	1081			56.2333	15.2833	4
 SE	372 51	Kallinge	Blekinge	K	Ronneby	1081			56.2333	15.2833	4
 SE	372 52	Kallinge	Blekinge	K	Ronneby	1081			56.2333	15.2833	4
 SE	372 53	Kallinge	Blekinge	K	Ronneby	1081			56.2333	15.2833	4
+SE	372 61	Bräkne-Hoby	Blekinge	K	Ronneby	1081			56.2333	15.1167	
+SE	372 62	Bräkne Hoby	Blekinge	K	Ronneby	1081			56.2333	15.1167	
 SE	372 73	Ronneby	Blekinge	K	Ronneby	1081			56.21	15.276	4
 SE	372 74	Listerby	Blekinge	K	Ronneby	1081			56.2	15.4	4
 SE	372 75	Johannishus	Blekinge	K	Ronneby	1081			56.2167	15.4167	4
-SE	372 77	Backaryd	Blekinge	K	Ronneby	1081			56.3333	15.1833	
-SE	372 78	Eringsboda	Blekinge	K	Ronneby	1081			56.4333	15.35	
+SE	372 77	Backaryd	Blekinge	K	Ronneby	1081			56.3333	15.1833	4
+SE	372 78	Eringsboda	Blekinge	K	Ronneby	1081			56.4333	15.35	4
 SE	372 80	Ronneby	Blekinge	K	Ronneby	1081			56.21	15.276	4
 SE	372 81	Ronneby	Blekinge	K	Ronneby	1081			56.21	15.276	4
 SE	372 91	Ronneby	Blekinge	K	Ronneby	1081			56.21	15.276	4
 SE	372 92	Kallinge	Blekinge	K	Ronneby	1081			56.2333	15.2833	4
 SE	372 94	Listerby	Blekinge	K	Ronneby	1081			56.2	15.4	4
 SE	372 95	Johannishus	Blekinge	K	Ronneby	1081			56.2167	15.4167	4
-SE	372 96	Backaryd	Blekinge	K	Ronneby	1081			56.3333	15.1833	
+SE	372 96	Backaryd	Blekinge	K	Ronneby	1081			56.3333	15.1833	4
 SE	372 97	Ronneby	Blekinge	K	Ronneby	1081			56.21	15.276	4
-SE	372 98	Eringsboda	Blekinge	K	Ronneby	1081			56.4333	15.35	
+SE	372 98	Eringsboda	Blekinge	K	Ronneby	1081			56.4333	15.35	4
 SE	290 60	Kyrkhult	Blekinge	K	Karlshamn	1082			56.35	14.5833	4
 SE	370 12	Hallabro	Blekinge	K	Karlshamn	1082			56.3833	15.1	4
-SE	372 76	Hallabro	Blekinge	K	Karlshamn	1082			56.3833	15.1	
-SE	372 93	Hallabro	Blekinge	K	Karlshamn	1082			56.3833	15.1	
+SE	372 76	Hallabro	Blekinge	K	Karlshamn	1082			56.3833	15.1	4
+SE	372 93	Hallabro	Blekinge	K	Karlshamn	1082			56.3833	15.1	4
 SE	374 00	Karlshamn	Blekinge	K	Karlshamn	1082			56.1706	14.8619	4
 SE	374 01	Karlshamn	Blekinge	K	Karlshamn	1082			56.1706	14.8619	4
 SE	374 02	Asarum	Blekinge	K	Karlshamn	1082			56.2	14.8333	4
@@ -8025,6 +8061,7 @@ SE	289 31	Knislinge	Skåne	M	Östra Göinge	1256			56.1833	14.0833	4
 SE	289 32	Knislinge	Skåne	M	Östra Göinge	1256			56.1833	14.0833	4
 SE	289 33	Knislinge	Skåne	M	Östra Göinge	1256			56.1833	14.0833	4
 SE	289 50	Hanaskog	Skåne	M	Östra Göinge	1256			56.15	14.1167	4
+SE	289 73	immeln	Skåne	M	Östra Göinge	1256			56.15	14.1167	
 SE	289 89	Hanaskog	Skåne	M	Östra Göinge	1256			56.15	14.1167	4
 SE	289 90	Knislinge	Skåne	M	Östra Göinge	1256			56.1833	14.0833	4
 SE	286 01	Örkelljunga	Skåne	M	Örkelljunga	1257			56.2834	13.2777	4
@@ -8038,6 +8075,7 @@ SE	286 35	Örkelljunga	Skåne	M	Örkelljunga	1257			56.2834	13.2777	4
 SE	286 36	Örkelljunga	Skåne	M	Örkelljunga	1257			56.2834	13.2777	4
 SE	286 37	Örkelljunga	Skåne	M	Örkelljunga	1257			56.2834	13.2777	4
 SE	286 72	Åsljunga	Skåne	M	Örkelljunga	1257			56.3167	13.3667	4
+SE	286 74	Fagerhult	Skåne	M	Örkelljunga	1257			56.2834	13.2777	
 SE	286 80	Örkelljunga	Skåne	M	Örkelljunga	1257			56.2834	13.2777	4
 SE	286 85	Örkelljunga	Skåne	M	Örkelljunga	1257			56.2834	13.2777	4
 SE	286 91	Örkelljunga	Skåne	M	Örkelljunga	1257			56.2834	13.2777	4
@@ -8230,6 +8268,7 @@ SE	242 32	Hörby	Skåne	M	Hörby	1266			55.8524	13.6609	4
 SE	242 33	Hörby	Skåne	M	Hörby	1266			55.8524	13.6609	4
 SE	242 34	Hörby	Skåne	M	Hörby	1266			55.8524	13.6609	4
 SE	242 35	Hörby	Skåne	M	Hörby	1266			55.8524	13.6609	4
+SE	242 71	Ludvigsberg	Skåne	M	Hörby	1266			55.8524	13.6609	
 SE	242 80	Hörby	Skåne	M	Hörby	1266			55.8524	13.6609	4
 SE	242 91	Hörby	Skåne	M	Hörby	1266			55.8524	13.6609	4
 SE	242 92	Hörby	Skåne	M	Hörby	1266			55.8524	13.6609	4
@@ -8240,6 +8279,7 @@ SE	242 96	Hörby	Skåne	M	Hörby	1266			55.8524	13.6609	4
 SE	242 97	Hörby	Skåne	M	Hörby	1266			55.8524	13.6609	4
 SE	242 98	Hörby	Skåne	M	Hörby	1266			55.8524	13.6609	4
 SE	270 33	Vollsjö	Skåne	M	Hörby	1266			55.7	13.7667	4
+SE	275 68	Vollsjö	Skåne	M	Hörby	1266			55.7	13.7667	
 SE	243 01	Höör	Skåne	M	Höör	1267			55.9344	13.5385	4
 SE	243 21	Höör	Skåne	M	Höör	1267			55.9344	13.5385	4
 SE	243 22	Höör	Skåne	M	Höör	1267			55.9344	13.5385	4
@@ -8253,6 +8293,7 @@ SE	243 34	Höör	Skåne	M	Höör	1267			55.9344	13.5385	4
 SE	243 35	Höör	Skåne	M	Höör	1267			55.9344	13.5385	4
 SE	243 36	Höör	Skåne	M	Höör	1267			55.9344	13.5385	4
 SE	243 39	Höör	Skåne	M	Höör	1267			55.9344	13.5385	4
+SE	243 40	Höor	Skåne	M	Höör	1267			55.9344	13.5385	
 SE	243 91	Höör	Skåne	M	Höör	1267			55.9344	13.5385	4
 SE	243 92	Höör	Skåne	M	Höör	1267			55.9344	13.5385	4
 SE	243 93	Höör	Skåne	M	Höör	1267			55.9344	13.5385	4
@@ -8270,6 +8311,7 @@ SE	273 33	Tomelilla	Skåne	M	Tomelilla	1270			55.5429	13.9546	4
 SE	273 34	Tomelilla	Skåne	M	Tomelilla	1270			55.5429	13.9546	4
 SE	273 35	Tomelilla	Skåne	M	Tomelilla	1270			55.5429	13.9546	4
 SE	273 36	Tomelilla	Skåne	M	Tomelilla	1270			55.5429	13.9546	4
+SE	273 57	Brösarp	Skåne	M	Tomelilla	1270			55.7167	14.1167	
 SE	273 80	Tomelilla	Skåne	M	Tomelilla	1270			55.5429	13.9546	4
 SE	273 91	Tomelilla	Skåne	M	Tomelilla	1270			55.5429	13.9546	4
 SE	273 92	Tomelilla	Skåne	M	Tomelilla	1270			55.5429	13.9546	4
@@ -8323,6 +8365,7 @@ SE	283 80	Osby	Skåne	M	Osby	1273			56.3816	13.9936	4
 SE	283 83	Osby	Skåne	M	Osby	1273			56.3816	13.9936	4
 SE	283 91	Osby	Skåne	M	Osby	1273			56.3816	13.9936	4
 SE	283 95	Visseltofta	Skåne	M	Osby	1273			56.4167	13.85	4
+SE	289 47	Glimåkra	Skåne	M	Osby	1273			56.3	14.1333	
 SE	284 01	Perstorp	Skåne	M	Perstorp	1275			56.1383	13.3948	4
 SE	284 21	Perstorp	Skåne	M	Perstorp	1275			56.1383	13.3948	4
 SE	284 22	Perstorp	Skåne	M	Perstorp	1275			56.1383	13.3948	4
@@ -8354,6 +8397,7 @@ SE	264 36	Klippan	Skåne	M	Klippan	1276			56.1356	13.1309	4
 SE	264 37	Klippan	Skåne	M	Klippan	1276			56.1356	13.1309	4
 SE	264 38	Klippan	Skåne	M	Klippan	1276			56.1356	13.1309	4
 SE	264 39	Klippan	Skåne	M	Klippan	1276			56.1356	13.1309	4
+SE	264 54	Ljungbyhed	Skåne	M	Klippan	1276			56.0667	13.2167	
 SE	264 70	Klippan	Skåne	M	Klippan	1276			56.1356	13.1309	4
 SE	264 71	Östra Ljungby	Skåne	M	Klippan	1276			56.1833	13.0667	4
 SE	264 80	Klippan	Skåne	M	Klippan	1276			56.1356	13.1309	4
@@ -8361,6 +8405,7 @@ SE	264 91	Klippan	Skåne	M	Klippan	1276			56.1356	13.1309	4
 SE	264 92	Klippan	Skåne	M	Klippan	1276			56.1356	13.1309	4
 SE	264 93	Klippan	Skåne	M	Klippan	1276			56.1356	13.1309	4
 SE	264 94	Klippan	Skåne	M	Klippan	1276			56.1356	13.1309	4
+SE	268 77	Kågeröd	Skåne	M	Klippan	1276			56.0167	13.1	
 SE	260 60	Kvidinge	Skåne	M	Åstorp	1277			56.1333	13.0667	4
 SE	260 61	Hyllinge	Skåne	M	Åstorp	1277			56.1	12.85	4
 SE	265 01	Åstorp	Skåne	M	Åstorp	1277			56.1357	12.9443	4
@@ -8405,7 +8450,7 @@ SE	269 39	Båstad	Skåne	M	Båstad	1278			56.4269	12.8534	4
 SE	269 40	Båstad	Skåne	M	Båstad	1278			56.4269	12.8534	4
 SE	269 41	Östra Karup	Skåne	M	Båstad	1278			56.4167	12.95	4
 SE	269 42	Båstad	Skåne	M	Båstad	1278			56.4269	12.8534	4
-SE	269 44	Båstad	Skåne	M	Båstad	1278			56.4269	12.8534	
+SE	269 44	Båstad	Skåne	M	Båstad	1278			56.4269	12.8534	4
 SE	269 62	Grevie	Skåne	M	Båstad	1278			56.3917	12.7833	4
 SE	269 74	Västra Karup	Skåne	M	Båstad	1278			56.4167	12.75	4
 SE	269 80	Båstad	Skåne	M	Båstad	1278			56.4269	12.8534	4
@@ -8454,13 +8499,19 @@ SE	247 34	Södra Sandby	Skåne	M	Lund	1281			55.7167	13.3333	4
 SE	247 35	Södra Sandby	Skåne	M	Lund	1281			55.7167	13.3333	4
 SE	247 36	Södra Sandby	Skåne	M	Lund	1281			55.7167	13.3333	4
 SE	247 41	Södra Sandby	Skåne	M	Lund	1281			55.7167	13.3333	4
+SE	247 45	Torna-häkkestad	Skåne	M	Lund	1281			55.6333	13.4833	
+SE	247 50	Dalby	Skåne	M	Lund	1281			55.6667	13.3333	
 SE	247 51	Dalby	Skåne	M	Lund	1281			55.6667	13.3333	
+SE	247 54	Dalby	Skåne	M	Lund	1281			55.6667	13.3333	
 SE	247 62	Veberöd	Skåne	M	Lund	1281			55.6333	13.4833	
+SE	247 70	Genarp	Skåne	M	Lund	1281			55.6	13.3833	
+SE	247 72	Genarp	Skåne	M	Lund	1281			55.6	13.3833	
 SE	247 81	Södra Sandby	Skåne	M	Lund	1281			55.7167	13.3333	4
 SE	247 82	Södra Sandby	Skåne	M	Lund	1281			55.7167	13.3333	4
 SE	247 91	Södra Sandby	Skåne	M	Lund	1281			55.7167	13.3333	4
 SE	247 92	Södra Sandby	Skåne	M	Lund	1281			55.7167	13.3333	4
 SE	247 94	Dalby	Skåne	M	Lund	1281			55.6667	13.3333	
+SE	247 96	Veberöd	Skåne	M	Lund	1281			55.6333	13.4833	
 SE	260 13	Sankt Ibb	Skåne	M	Landskrona	1282			55.9167	12.6833	4
 SE	260 21	Billeberga	Skåne	M	Landskrona	1282			55.8833	13	4
 SE	261 00	Landskrona	Skåne	M	Landskrona	1282			55.8708	12.8302	4
@@ -8475,6 +8526,7 @@ SE	261 24	Landskrona	Skåne	M	Landskrona	1282			55.8708	12.8302	4
 SE	261 25	Landskrona	Skåne	M	Landskrona	1282			55.8708	12.8302	4
 SE	261 26	Landskrona	Skåne	M	Landskrona	1282			55.8708	12.8302	4
 SE	261 27	Landskrona	Skåne	M	Landskrona	1282			55.8708	12.8302	4
+SE	261 29	Landskrona	Skåne	M	Landskrona	1282			55.8708	12.8302	
 SE	261 31	Landskrona	Skåne	M	Landskrona	1282			55.8708	12.8302	4
 SE	261 32	Landskrona	Skåne	M	Landskrona	1282			55.8708	12.8302	4
 SE	261 33	Landskrona	Skåne	M	Landskrona	1282			55.8708	12.8302	4
@@ -8495,6 +8547,7 @@ SE	261 47	Landskrona	Skåne	M	Landskrona	1282			55.8708	12.8302	4
 SE	261 51	Landskrona	Skåne	M	Landskrona	1282			55.8708	12.8302	4
 SE	261 52	Landskrona	Skåne	M	Landskrona	1282			55.8708	12.8302	4
 SE	261 53	Landskrona	Skåne	M	Landskrona	1282			55.8708	12.8302	4
+SE	261 60	Landskrona	Skåne	M	Landskrona	1282			55.8708	12.8302	
 SE	261 61	Landskrona	Skåne	M	Landskrona	1282			55.8708	12.8302	4
 SE	261 62	Glumslöv	Skåne	M	Landskrona	1282			55.95	12.8167	4
 SE	261 63	Glumslöv	Skåne	M	Landskrona	1282			55.95	12.8167	4
@@ -8507,6 +8560,7 @@ SE	261 91	Landskrona	Skåne	M	Landskrona	1282			55.8708	12.8302	4
 SE	261 92	Landskrona	Skåne	M	Landskrona	1282			55.8708	12.8302	4
 SE	261 93	Landskrona	Skåne	M	Landskrona	1282			55.8708	12.8302	4
 SE	261 94	Landskrona	Skåne	M	Landskrona	1282			55.8708	12.8302	4
+SE	268 73	Billeberga	Skåne	M	Landskrona	1282			55.8833	13	
 SE	250 02	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	250 03	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	250 04	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
@@ -8548,8 +8602,8 @@ SE	251 89	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	252 00	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	252 01	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	252 02	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
-SE	252 18	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	
-SE	252 19	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	
+SE	252 18	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
+SE	252 19	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	252 20	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	252 21	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	252 22	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
@@ -8563,12 +8617,12 @@ SE	252 29	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	252 30	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	252 31	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	252 32	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
-SE	252 33	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	
+SE	252 33	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	252 34	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
-SE	252 37	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	
-SE	252 38	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	
-SE	252 40	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	
-SE	252 41	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	
+SE	252 37	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
+SE	252 38	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
+SE	252 40	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
+SE	252 41	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	252 44	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	252 45	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	252 46	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
@@ -8594,6 +8648,7 @@ SE	252 84	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	252 85	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	252 86	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	253 00	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
+SE	253 53	Påarp	Skåne	M	Helsingborg	1283			56.0467	12.6944	
 SE	253 56	Mörarp	Skåne	M	Helsingborg	1283			56.0467	12.6944	
 SE	253 60	Ramlösa	Skåne	M	Helsingborg	1283			56.0167	12.7167	4
 SE	253 61	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
@@ -8615,6 +8670,8 @@ SE	254 41	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	254 42	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	254 43	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	254 44	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
+SE	254 47	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	
+SE	254 48	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	
 SE	254 50	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	254 51	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	254 52	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
@@ -8633,7 +8690,11 @@ SE	254 65	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	254 66	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	254 67	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	254 68	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
+SE	254 70	Kattarp	Skåne	M	Helsingborg	1283			56.0467	12.6944	
+SE	254 73	Ödåkra	Skåne	M	Helsingborg	1283			56.0467	12.6944	
 SE	254 76	Allerum	Skåne	M	Helsingborg	1283			56.0467	12.6944	
+SE	254 77	Fleninge	Skåne	M	Helsingborg	1283			56.0467	12.6944	
+SE	254 78	Domsten	Skåne	M	Helsingborg	1283			56.0467	12.6944	
 SE	254 84	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	
 SE	255 91	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
 SE	255 92	Helsingborg	Skåne	M	Helsingborg	1283			56.0467	12.6944	4
@@ -8724,6 +8785,8 @@ SE	241 36	Eslöv	Skåne	M	Eslöv	1285			55.8393	13.3039	4
 SE	241 37	Eslöv	Skåne	M	Eslöv	1285			55.8393	13.3039	4
 SE	241 38	Eslöv	Skåne	M	Eslöv	1285			55.8393	13.3039	4
 SE	241 39	Eslöv	Skåne	M	Eslöv	1285			55.8393	13.3039	4
+SE	241 61	Löberöd	Skåne	M	Eslöv	1285			55.7833	13.5	
+SE	241 65	Harlösa	Skåne	M	Eslöv	1285			55.7167	13.5333	
 SE	241 75	Stehag	Skåne	M	Eslöv	1285			55.9	13.3833	
 SE	241 80	Eslöv	Skåne	M	Eslöv	1285			55.8393	13.3039	4
 SE	241 81	Eslöv	Skåne	M	Eslöv	1285			55.8393	13.3039	4
@@ -8735,6 +8798,7 @@ SE	241 95	Billinge	Skåne	M	Eslöv	1285			55.9667	13.35	4
 SE	241 96	Stockamöllan	Skåne	M	Eslöv	1285			55.95	13.3667	4
 SE	247 47	Flyinge	Skåne	M	Eslöv	1285			55.75	13.35	
 SE	260 20	Teckomatorp	Skåne	M	Eslöv	1285			55.8667	13.0833	4
+SE	268 72	Teckomatorp	Skåne	M	Eslöv	1285			55.8667	13.0833	
 SE	270 21	Glemmingebro	Skåne	M	Ystad	1286			55.45	14.0167	4
 SE	270 22	Köpingebro	Skåne	M	Ystad	1286			55.4667	13.9333	4
 SE	270 35	Blentarp	Skåne	M	Ystad	1286			55.5833	13.6	4
@@ -8768,8 +8832,10 @@ SE	271 53	Ystad	Skåne	M	Ystad	1286			55.4297	13.8204	4
 SE	271 54	Ystad	Skåne	M	Ystad	1286			55.4297	13.8204	4
 SE	271 55	Ystad	Skåne	M	Ystad	1286			55.4297	13.8204	4
 SE	271 60	Ystad	Skåne	M	Ystad	1286			55.4297	13.8204	4
+SE	271 74	Glemmingbro	Skåne	M	Ystad	1286			55.4333	14.1167	
 SE	271 76	Löderup	Skåne	M	Ystad	1286			55.4333	14.1167	
 SE	271 77	Löderup	Skåne	M	Ystad	1286			55.4333	14.1167	
+SE	271 78	Löderup	Skåne	M	Ystad	1286			55.4333	14.1167	
 SE	271 80	Ystad	Skåne	M	Ystad	1286			55.4297	13.8204	4
 SE	271 81	Ystad	Skåne	M	Ystad	1286			55.4297	13.8204	4
 SE	271 82	Ystad	Skåne	M	Ystad	1286			55.4297	13.8204	4
@@ -8784,6 +8850,9 @@ SE	271 97	Ystad	Skåne	M	Ystad	1286			55.4297	13.8204	4
 SE	271 98	Ystad	Skåne	M	Ystad	1286			55.4297	13.8204	4
 SE	271 99	Ystad	Skåne	M	Ystad	1286			55.4297	13.8204	4
 SE	274 62	Rydsgård	Skåne	M	Ystad	1286			55.4667	13.5833	4
+SE	275 62	Blentarp	Skåne	M	Ystad	1286			55.5833	13.6	
+SE	275 63	Blentarp	Skåne	M	Ystad	1286			55.5833	13.6	
+SE	275 64	Blentarp	Skåne	M	Ystad	1286			55.5833	13.6	
 SE	276 40	Löderup	Skåne	M	Ystad	1286			55.4333	14.1167	4
 SE	276 45	Löderup	Skåne	M	Ystad	1286			55.4333	14.1167	4
 SE	276 46	Löderup	Skåne	M	Ystad	1286			55.4333	14.1167	4
@@ -8820,6 +8889,7 @@ SE	231 64	Trelleborg	Skåne	M	Trelleborg	1287			55.3751	13.1569	4
 SE	231 65	Trelleborg	Skåne	M	Trelleborg	1287			55.3751	13.1569	4
 SE	231 66	Trelleborg	Skåne	M	Trelleborg	1287			55.3751	13.1569	4
 SE	231 68	Trelleborg	Skåne	M	Trelleborg	1287			55.3751	13.1569	4
+SE	231 69	Skegrie	Skåne	M	Trelleborg	1287			55.5333	13.4333	
 SE	231 70	Anderslöv	Skåne	M	Trelleborg	1287			55.4333	13.3333	4
 SE	231 72	Anderslöv	Skåne	M	Trelleborg	1287			55.4333	13.3333	4
 SE	231 73	Anderslöv	Skåne	M	Trelleborg	1287			55.4333	13.3333	4
@@ -8894,6 +8964,7 @@ SE	291 63	Kristianstad	Skåne	M	Kristianstad	1290			56.0313	14.1524	4
 SE	291 65	Kristianstad	Skåne	M	Kristianstad	1290			56.0313	14.1524	4
 SE	291 66	Kristianstad	Skåne	M	Kristianstad	1290			56.0313	14.1524	4
 SE	291 67	Fjälkinge	Skåne	M	Kristianstad	1290			56.05	14.2833	
+SE	291 69	Fjälkinge	Skåne	M	Kristianstad	1290			56.05	14.2833	
 SE	291 70	Kristianstad	Skåne	M	Kristianstad	1290			56.0313	14.1524	4
 SE	291 73	Önnestad	Skåne	M	Kristianstad	1290			56.05	14.0167	4
 SE	291 75	Färlöv	Skåne	M	Kristianstad	1290			56.0667	14.0833	4
@@ -8929,7 +9000,7 @@ SE	296 34	Åhus	Skåne	M	Kristianstad	1290			55.9167	14.2833	4
 SE	296 35	Åhus	Skåne	M	Kristianstad	1290			55.9167	14.2833	4
 SE	296 37	Åhus	Skåne	M	Kristianstad	1290			55.9167	14.2833	4
 SE	296 38	Åhus	Skåne	M	Kristianstad	1290			55.9167	14.2833	4
-SE	296 41	Åhus	Skåne	M	Kristianstad	1290			55.9167	14.2833	
+SE	296 41	Åhus	Skåne	M	Kristianstad	1290			55.9167	14.2833	4
 SE	296 72	Yngsjö	Skåne	M	Kristianstad	1290			55.8833	14.2167	4
 SE	296 80	Åhus	Skåne	M	Kristianstad	1290			55.9167	14.2833	4
 SE	296 81	Åhus	Skåne	M	Kristianstad	1290			55.9167	14.2833	4
@@ -9024,30 +9095,30 @@ SE	262 32	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 33	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 34	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 35	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
-SE	262 37	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	
+SE	262 37	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 41	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 42	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 43	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 44	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
-SE	262 50	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	
+SE	262 50	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 51	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 52	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 53	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 54	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 57	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
-SE	262 60	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	
+SE	262 60	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 61	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 62	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 63	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 64	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 65	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
-SE	262 66	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	
+SE	262 66	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 68	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	
 SE	262 70	Strövelstorp	Skåne	M	Ängelholm	1292			56.15	12.8167	4
 SE	262 71	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 72	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 73	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
-SE	262 78	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	
+SE	262 78	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 79	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 80	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
 SE	262 81	Ängelholm	Skåne	M	Ängelholm	1292			56.2428	12.8622	4
@@ -9064,6 +9135,9 @@ SE	266 21	Munka-Ljungby	Skåne	M	Ängelholm	1292			56.25	12.9667	4
 SE	266 31	Munka-Ljungby	Skåne	M	Ängelholm	1292			56.25	12.9667	4
 SE	266 32	Munka-Ljungby	Skåne	M	Ängelholm	1292			56.25	12.9667	4
 SE	266 33	Munka-Ljungby	Skåne	M	Ängelholm	1292			56.25	12.9667	4
+SE	266 34	Munka-Ljungby	Skåne	M	Ängelholm	1292			56.25	12.9667	
+SE	266 53	Vejbystrand	Skåne	M	Ängelholm	1292			56.3167	12.7667	
+SE	266 55	Vejbystrand	Skåne	M	Ängelholm	1292			56.3167	12.7667	
 SE	266 75	Hjärnarp	Skåne	M	Ängelholm	1292			56.3167	12.9167	4
 SE	266 91	Munka-Ljungby	Skåne	M	Ängelholm	1292			56.25	12.9667	4
 SE	266 92	Munka-Ljungby	Skåne	M	Ängelholm	1292			56.25	12.9667	4
@@ -9088,7 +9162,7 @@ SE	281 26	Hässleholm	Skåne	M	Hässleholm	1293			56.1591	13.7664	4
 SE	281 31	Hässleholm	Skåne	M	Hässleholm	1293			56.1591	13.7664	4
 SE	281 32	Hässleholm	Skåne	M	Hässleholm	1293			56.1591	13.7664	4
 SE	281 33	Hässleholm	Skåne	M	Hässleholm	1293			56.1591	13.7664	4
-SE	281 34	Hässleholm	Skåne	M	Hässleholm	1293			56.1591	13.7664	
+SE	281 34	Hässleholm	Skåne	M	Hässleholm	1293			56.1591	13.7664	4
 SE	281 35	Hässleholm	Skåne	M	Hässleholm	1293			56.1591	13.7664	4
 SE	281 36	Hässleholm	Skåne	M	Hässleholm	1293			56.1591	13.7664	4
 SE	281 37	Hässleholm	Skåne	M	Hässleholm	1293			56.1591	13.7664	4
@@ -9508,6 +9582,7 @@ SE	211 58	Malmö	Skåne	M					55.6059	13.0007	4
 SE	211 59	Malmö	Skåne	M					55.6059	13.0007	4
 SE	211 60	Malmö	Skåne	M					55.6059	13.0007	4
 SE	211 65	Malmö	Skåne	M					55.6059	13.0007	4
+SE	211 77	Malmø	Skåne	M					55.6059	13.0007	
 SE	212 00	Malmö	Skåne	M					55.6059	13.0007	4
 SE	212 01	Malmö	Skåne	M					55.6059	13.0007	4
 SE	212 02	Malmö	Skåne	M					55.6059	13.0007	4
@@ -9548,6 +9623,7 @@ SE	212 40	Malmö	Skåne	M					55.6059	13.0007	4
 SE	212 41	Malmö	Skåne	M					55.6059	13.0007	4
 SE	212 42	Malmö	Skåne	M					55.6059	13.0007	4
 SE	212 43	Malmö	Skåne	M					55.6059	13.0007	4
+SE	212 44	Malmø	Skåne	M					55.6059	13.0007	
 SE	212 60	Malmö	Skåne	M					55.6059	13.0007	4
 SE	212 91	Malmö	Skåne	M					55.6059	13.0007	4
 SE	213 00	Malmö	Skåne	M					55.6059	13.0007	4
@@ -9619,6 +9695,7 @@ SE	215 10	Malmö	Skåne	M					55.6059	13.0007	4
 SE	215 26	Malmö	Skåne	M					55.6059	13.0007	4
 SE	215 27	Malmö	Skåne	M					55.6059	13.0007	4
 SE	215 32	Malmø	Skåne	M					55.6059	13.0007	
+SE	215 34	Malmø	Skåne	M					55.6059	13.0007	
 SE	215 35	Malmø	Skåne	M					55.6059	13.0007	
 SE	215 50	Malmö	Skåne	M					55.6059	13.0007	4
 SE	215 51	Malmö	Skåne	M					55.6059	13.0007	4
@@ -9671,9 +9748,9 @@ SE	216 24	Malmö	Skåne	M					55.6059	13.0007	4
 SE	216 25	Malmö	Skåne	M					55.6059	13.0007	4
 SE	216 41	Limhamn	Skåne	M					55.5833	12.95	4
 SE	216 42	Limhamn	Skåne	M					55.5833	12.95	4
-SE	216 44	Limhamn	Skåne	M					55.5833	12.95	
-SE	216 48	Limhamn	Skåne	M					55.5833	12.95	
-SE	216 49	Limhamn	Skåne	M					55.5833	12.95	
+SE	216 44	Limhamn	Skåne	M					55.5833	12.95	4
+SE	216 48	Limhamn	Skåne	M					55.5833	12.95	4
+SE	216 49	Limhamn	Skåne	M					55.5833	12.95	4
 SE	217 00	Malmö	Skåne	M					55.6059	13.0007	4
 SE	217 01	Malmö	Skåne	M					55.6059	13.0007	4
 SE	217 41	Malmö	Skåne	M					55.6059	13.0007	4
@@ -10094,8 +10171,9 @@ SE	302 72	Halmstad	Halland	N	Halmstad	1380			56.6745	12.8568	4
 SE	302 73	Halmstad	Halland	N	Halmstad	1380			56.6745	12.8568	4
 SE	302 74	Halmstad	Halland	N	Halmstad	1380			56.6745	12.8568	4
 SE	302 75	Halmstad	Halland	N	Halmstad	1380			56.6745	12.8568	
+SE	302 77	Halmstad	Halland	N	Halmstad	1380			56.6745	12.8568	
 SE	302 79	Holm	Halland	N	Halmstad	1380			56.7333	12.85	4
-SE	302 83	Halmstad	Halland	N	Halmstad	1380			56.6745	12.8568	
+SE	302 83	Halmstad	Halland	N	Halmstad	1380			56.6745	12.8568	4
 SE	305 91	Halmstad	Halland	N	Halmstad	1380			56.6745	12.8568	4
 SE	305 92	Holm	Halland	N	Halmstad	1380			56.7333	12.85	4
 SE	305 93	Halmstad	Halland	N	Halmstad	1380			56.6745	12.8568	4
@@ -10142,13 +10220,14 @@ SE	312 36	Laholm	Halland	N	Laholm	1381			56.5121	13.0437	4
 SE	312 40	Genevad	Halland	N	Laholm	1381			56.5667	13.0167	4
 SE	312 45	Veinge	Halland	N	Laholm	1381			56.55	13.0667	4
 SE	312 50	Vallberga	Halland	N	Laholm	1381			56.4667	13.0167	4
+SE	312 53	Hishult	Halland	N	Laholm	1381			56.4333	13.3	
 SE	312 60	Mellbystrand	Halland	N	Laholm	1381			56.5167	12.9333	4
 SE	312 61	Mellbystrand	Halland	N	Laholm	1381			56.5167	12.9333	4
 SE	312 71	Skummeslövsstrand	Halland	N	Laholm	1381			56.4667	12.9167	4
 SE	312 72	Skummeslövsstrand	Halland	N	Laholm	1381			56.4667	12.9167	4
-SE	312 73	Skummeslövsstrand	Halland	N	Laholm	1381			56.4667	12.9167	
+SE	312 73	Skummeslövsstrand	Halland	N	Laholm	1381			56.4667	12.9167	4
 SE	312 75	Våxtorp	Halland	N	Laholm	1381			56.4333	13.1	4
-SE	312 77	Skottorp	Halland	N	Laholm	1381			56.45	12.95	
+SE	312 77	Skottorp	Halland	N	Laholm	1381			56.45	12.95	4
 SE	312 80	Laholm	Halland	N	Laholm	1381			56.5121	13.0437	4
 SE	312 91	Laholm	Halland	N	Laholm	1381			56.5121	13.0437	4
 SE	312 92	Laholm	Halland	N	Laholm	1381			56.5121	13.0437	4
@@ -10190,8 +10269,10 @@ SE	311 44	Falkenberg	Halland	N	Falkenberg	1382			56.9055	12.4912	4
 SE	311 45	Falkenberg	Halland	N	Falkenberg	1382			56.9055	12.4912	4
 SE	311 50	Falkenberg	Halland	N	Falkenberg	1382			56.9055	12.4912	4
 SE	311 54	Glommen	Halland	N	Falkenberg	1382			56.9333	12.35	
+SE	311 68	Slöinge	Halland	N	Falkenberg	1382			56.85	12.6833	
 SE	311 71	Falkenberg	Halland	N	Falkenberg	1382			56.9055	12.4912	4
 SE	311 72	Falkenberg	Halland	N	Falkenberg	1382			56.9055	12.4912	4
+SE	311 75	Falkenberg	Halland	N	Falkenberg	1382			56.9055	12.4912	
 SE	311 80	Falkenberg	Halland	N	Falkenberg	1382			56.9055	12.4912	4
 SE	311 81	Falkenberg	Halland	N	Falkenberg	1382			56.9055	12.4912	4
 SE	311 82	Falkenberg	Halland	N	Falkenberg	1382			56.9055	12.4912	4
@@ -10208,8 +10289,10 @@ SE	313 91	Oskarström	Halland	N	Falkenberg	1382			56.8	12.9667	4
 SE	314 97	Torup	Halland	N	Falkenberg	1382			56.9667	13.0833	4
 SE	310 58	Vessigebro	Halland	N	Varberg	1383			56.9833	12.65	4
 SE	310 60	Ullared	Halland	N	Varberg	1383			57.1333	12.7167	4
-SE	311 60	Ullared	Halland	N	Varberg	1383			57.1333	12.7167	
+SE	311 60	Ullared	Halland	N	Varberg	1383			57.1333	12.7167	4
+SE	311 64	Vessigebro	Halland	N	Varberg	1383			56.9833	12.65	
 SE	311 85	Ullared	Halland	N	Varberg	1383			57.1333	12.7167	
+SE	311 90	Morud	Halland	N	Varberg	1383			56.9833	12.65	
 SE	311 93	Långås	Halland	N	Varberg	1383			56.9833	12.45	4
 SE	430 10	Tvååker	Halland	N	Varberg	1383			57.05	12.4	4
 SE	430 16	Rolfstorp	Halland	N	Varberg	1383			57.15	12.45	4
@@ -10246,15 +10329,18 @@ SE	432 41	Varberg	Halland	N	Varberg	1383			57.1056	12.2508	4
 SE	432 42	Varberg	Halland	N	Varberg	1383			57.1056	12.2508	4
 SE	432 43	Varberg	Halland	N	Varberg	1383			57.1056	12.2508	4
 SE	432 44	Varberg	Halland	N	Varberg	1383			57.1056	12.2508	4
-SE	432 47	Varberg	Halland	N	Varberg	1383			57.1056	12.2508	
+SE	432 47	Varberg	Halland	N	Varberg	1383			57.1056	12.2508	4
 SE	432 50	Varberg	Halland	N	Varberg	1383			57.1056	12.2508	4
 SE	432 51	Varberg	Halland	N	Varberg	1383			57.1056	12.2508	4
 SE	432 52	Varberg	Halland	N	Varberg	1383			57.1056	12.2508	4
 SE	432 53	Varberg	Halland	N	Varberg	1383			57.1056	12.2508	4
 SE	432 54	Varberg	Halland	N	Varberg	1383			57.1056	12.2508	4
-SE	432 57	Varberg	Halland	N	Varberg	1383			57.1056	12.2508	
+SE	432 57	Varberg	Halland	N	Varberg	1383			57.1056	12.2508	4
+SE	432 63	Bua	Halland	N	Varberg	1383			57.225	12.2167	
 SE	432 66	Veddinge	Halland	N	Varberg	1383			57.225	12.2167	
+SE	432 68	Veddinge	Halland	N	Varberg	1383			57.225	12.2167	
 SE	432 75	Träslövsläge	Halland	N	Varberg	1383			57.0658	12.2828	4
+SE	432 77	Tvååker	Halland	N	Varberg	1383			57.05	12.4	
 SE	432 80	Varberg	Halland	N	Varberg	1383			57.1056	12.2508	4
 SE	432 81	Varberg	Halland	N	Varberg	1383			57.1056	12.2508	4
 SE	432 82	Varberg	Halland	N	Varberg	1383			57.1056	12.2508	4
@@ -10265,6 +10351,7 @@ SE	432 93	Varberg	Halland	N	Varberg	1383			57.1056	12.2508	4
 SE	432 94	Varberg	Halland	N	Varberg	1383			57.1056	12.2508	4
 SE	432 95	Varberg	Halland	N	Varberg	1383			57.1056	12.2508	4
 SE	432 96	Åskloster	Halland	N	Varberg	1383			57.225	12.2167	4
+SE	432 99	Skällinge	Halland	N	Varberg	1383			57.1833	12.4667	
 SE	519 93	Kungsäter	Halland	N	Varberg	1383			57.3167	12.5667	4
 SE	427 00	Billdal	Halland	N	Kungsbacka	1384			57.5667	11.9333	4
 SE	427 50	Billdal	Halland	N	Kungsbacka	1384			57.5667	11.9333	4
@@ -10314,6 +10401,8 @@ SE	434 45	Kungsbacka	Halland	N	Kungsbacka	1384			57.4872	12.0761	4
 SE	434 46	Kungsbacka	Halland	N	Kungsbacka	1384			57.4872	12.0761	4
 SE	434 47	Kungsbacka	Halland	N	Kungsbacka	1384			57.4872	12.0761	4
 SE	434 48	Kungsbacka	Halland	N	Kungsbacka	1384			57.4872	12.0761	4
+SE	434 51	Kungsbacka	Halland	N	Kungsbacka	1384			57.4872	12.0761	
+SE	434 79	Vallda	Halland	N	Kungsbacka	1384			57.4775	12.0014	
 SE	434 80	Kungsbacka	Halland	N	Kungsbacka	1384			57.4872	12.0761	4
 SE	434 81	Kungsbacka	Halland	N	Kungsbacka	1384			57.4872	12.0761	4
 SE	434 88	Kungsbacka	Halland	N	Kungsbacka	1384			57.4872	12.0761	4
@@ -10340,6 +10429,7 @@ SE	439 34	Onsala	Halland	N	Kungsbacka	1384			57.4253	12.029	4
 SE	439 35	Onsala	Halland	N	Kungsbacka	1384			57.4253	12.029	4
 SE	439 36	Onsala	Halland	N	Kungsbacka	1384			57.4253	12.029	4
 SE	439 37	Onsala	Halland	N	Kungsbacka	1384			57.4253	12.029	4
+SE	439 55	Åsa	Halland	N	Kungsbacka	1384			57.35	12.1167	
 SE	439 61	Frillesås	Halland	N	Kungsbacka	1384			57.3167	12.1667	
 SE	439 62	Frillesås	Halland	N	Kungsbacka	1384			57.3167	12.1667	
 SE	439 91	Onsala	Halland	N	Kungsbacka	1384			57.4253	12.029	4
@@ -10361,6 +10451,7 @@ SE	429 20	Kullavik	Halland	N					57.5433	11.9428	4
 SE	432 00	Varberg	Halland	N					57.1056	12.2508	4
 SE	432 10	Varberg	Halland	N					57.1056	12.2508	4
 SE	432 48	Varberg	Halland	N					57.1056	12.2508	
+SE	432 56	Varberg	Halland	N					57.1056	12.2508	
 SE	434 20	Kungsbacka	Halland	N					57.4872	12.0761	4
 SE	434 82	Kungsbacka	Halland	N					57.4872	12.0761	4
 SE	439 20	Onsala	Halland	N					57.4253	12.029	4
@@ -10401,7 +10492,7 @@ SE	438 34	Landvetter	Västra Götaland	O	Härryda	1401			57.6866	12.2117	4
 SE	438 35	Landvetter	Västra Götaland	O	Härryda	1401			57.6866	12.2117	4
 SE	438 36	Landvetter	Västra Götaland	O	Härryda	1401			57.6866	12.2117	4
 SE	438 38	Landvetter	Västra Götaland	O	Härryda	1401			57.6866	12.2117	4
-SE	438 39	Landvetter	Västra Götaland	O	Härryda	1401			57.6866	12.2117	
+SE	438 39	Landvetter	Västra Götaland	O	Härryda	1401			57.6866	12.2117	4
 SE	438 70	Härryda	Västra Götaland	O	Härryda	1401			57.6544	12.3632	
 SE	438 80	Landvetter	Västra Götaland	O	Härryda	1401			57.6866	12.2117	4
 SE	438 91	Landvetter	Västra Götaland	O	Härryda	1401			57.6866	12.2117	4
@@ -10463,9 +10554,11 @@ SE	430 95	Källö-Knippla	Västra Götaland	O	Öckerö	1407			57.75	11.65	4
 SE	430 96	Hyppeln	Västra Götaland	O	Öckerö	1407			57.75	11.6	4
 SE	430 97	Rörö	Västra Götaland	O	Öckerö	1407			57.7761	11.6167	4
 SE	475 25	Hönö	Västra Götaland	O	Öckerö	1407			57.6897	11.6497	4
+SE	475 31	Ôckerø	Västra Götaland	O	Öckerö	1407			57.6897	11.6497	
 SE	475 40	Hönö	Västra Götaland	O	Öckerö	1407			57.6897	11.6497	
 SE	475 41	Hönö	Västra Götaland	O	Öckerö	1407			57.6897	11.6497	
 SE	475 42	Hönö	Västra Götaland	O	Öckerö	1407			57.6897	11.6497	
+SE	475 50	Hälsö	Västra Götaland	O	Öckerö	1407			57.6897	11.6497	
 SE	444 00	Stenungsund	Västra Götaland	O	Stenungsund	1415			58.0705	11.8181	4
 SE	444 02	Stora Höga	Västra Götaland	O	Stenungsund	1415			58.0167	11.8333	4
 SE	444 21	Stenungsund	Västra Götaland	O	Stenungsund	1415			58.0705	11.8181	4
@@ -10523,6 +10616,7 @@ SE	471 41	Rönnäng	Västra Götaland	O	Tjörn	1419			57.9333	11.5833	4
 SE	471 42	Rönnäng	Västra Götaland	O	Tjörn	1419			57.9333	11.5833	4
 SE	471 43	Dyrön	Västra Götaland	O	Tjörn	1419			57.9333	11.6167	4
 SE	471 44	Åstol	Västra Götaland	O	Tjörn	1419			57.9167	11.5833	4
+SE	471 50	Bleket	Västra Götaland	O	Tjörn	1419			57.95	11.5667	
 SE	471 51	Klädesholmen	Västra Götaland	O	Tjörn	1419			57.95	11.5333	4
 SE	471 60	Myggenäs	Västra Götaland	O	Tjörn	1419			58.05	11.7333	4
 SE	471 61	Myggenäs	Västra Götaland	O	Tjörn	1419			58.05	11.7333	4
@@ -10630,6 +10724,7 @@ SE	455 82	Munkedal	Västra Götaland	O	Munkedal	1430			58.4724	11.6686	4
 SE	455 91	Munkedal	Västra Götaland	O	Munkedal	1430			58.4724	11.6686	4
 SE	455 92	Munkedal	Västra Götaland	O	Munkedal	1430			58.4724	11.6686	4
 SE	455 93	Munkedal	Västra Götaland	O	Munkedal	1430			58.4724	11.6686	4
+SE	455 96	Hedekas	Västra Götaland	O	Munkedal	1430			58.65	11.7667	
 SE	450 53	Hällevadsholm	Västra Götaland	O	Tanum	1435			58.5833	11.5333	4
 SE	450 70	Hamburgsund	Västra Götaland	O	Tanum	1435			58.5525	11.2727	4
 SE	450 71	Fjällbacka	Västra Götaland	O	Tanum	1435			58.6	11.2833	4
@@ -10755,7 +10850,7 @@ SE	443 40	Gråbo	Västra Götaland	O	Lerum	1441			57.8333	12.3	4
 SE	443 41	Gråbo	Västra Götaland	O	Lerum	1441			57.8333	12.3	4
 SE	443 42	Gråbo	Västra Götaland	O	Lerum	1441			57.8333	12.3	4
 SE	443 43	Gråbo	Västra Götaland	O	Lerum	1441			57.8333	12.3	4
-SE	443 44	Gråbo	Västra Götaland	O	Lerum	1441			57.8333	12.3	
+SE	443 44	Gråbo	Västra Götaland	O	Lerum	1441			57.8333	12.3	4
 SE	443 45	Sjövik	Västra Götaland	O	Lerum	1441			57.9167	12.3667	4
 SE	443 50	Lerum	Västra Götaland	O	Lerum	1441			57.7705	12.269	4
 SE	443 51	Lerum	Västra Götaland	O	Lerum	1441			57.7705	12.269	4
@@ -11009,8 +11104,10 @@ SE	463 95	Lödöse	Västra Götaland	O	Lilla Edet	1462			58.0333	12.1333	4
 SE	430 33	Fjärås	Västra Götaland	O	Mark	1463			57.4591	12.1751	4
 SE	430 64	Hällingsjö	Västra Götaland	O	Mark	1463			57.6167	12.4333	4
 SE	430 65	Rävlanda	Västra Götaland	O	Mark	1463			57.65	12.5	4
+SE	438 96	Hällingsjö	Västra Götaland	O	Mark	1463			57.6167	12.4333	
 SE	439 72	Fjärås	Västra Götaland	O	Mark	1463			57.4591	12.1751	
 SE	439 74	Fjärås	Västra Götaland	O	Mark	1463			57.4591	12.1751	
+SE	439 75	Fjärås	Västra Götaland	O	Mark	1463			57.4591	12.1751	
 SE	510 21	Sätila	Västra Götaland	O	Mark	1463			57.5417	12.4343	4
 SE	510 22	Hyssna	Västra Götaland	O	Mark	1463			57.5667	12.5333	4
 SE	511 00	Kinna	Västra Götaland	O	Mark	1463			57.5073	12.6946	4
@@ -11034,7 +11131,7 @@ SE	511 59	Kinna	Västra Götaland	O	Mark	1463			57.5073	12.6946	4
 SE	511 61	Skene	Västra Götaland	O	Mark	1463			57.4833	12.6333	4
 SE	511 62	Skene	Västra Götaland	O	Mark	1463			57.4833	12.6333	4
 SE	511 63	Skene	Västra Götaland	O	Mark	1463			57.4833	12.6333	4
-SE	511 64	Skene	Västra Götaland	O	Mark	1463			57.4833	12.6333	
+SE	511 64	Skene	Västra Götaland	O	Mark	1463			57.4833	12.6333	4
 SE	511 70	Rydal	Västra Götaland	O	Mark	1463			57.55	12.6833	4
 SE	511 71	Fritsla	Västra Götaland	O	Mark	1463			57.55	12.7833	4
 SE	511 72	Fritsla	Västra Götaland	O	Mark	1463			57.55	12.7833	4
@@ -11542,43 +11639,43 @@ SE	415 22	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	415 23	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	415 25	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	415 26	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
-SE	415 28	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 31	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 32	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 33	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 34	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 35	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 36	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 37	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 38	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 41	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 42	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 43	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 44	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 45	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 46	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 47	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 48	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
+SE	415 28	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 31	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 32	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 33	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 34	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 35	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 36	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 37	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 38	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 41	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 42	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 43	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 44	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 45	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 46	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 47	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 48	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	415 50	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
-SE	415 51	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 52	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 53	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 54	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 55	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 56	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 57	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 61	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 62	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 63	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 64	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 65	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 66	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 67	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 68	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 71	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 72	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 73	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	415 74	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
+SE	415 51	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 52	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 53	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 54	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 55	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 56	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 57	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 61	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 62	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 63	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 64	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 65	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 66	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 67	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 68	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 71	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 72	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 73	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	415 74	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	415 80	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	415 81	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	415 82	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
@@ -11625,11 +11722,11 @@ SE	417 04	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 05	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 06	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 07	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
-SE	417 08	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	417 09	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	417 10	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	417 11	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	417 12	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
+SE	417 08	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	417 09	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	417 10	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	417 11	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	417 12	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 13	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 14	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 15	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
@@ -11639,18 +11736,18 @@ SE	417 18	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 19	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 20	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 21	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
-SE	417 22	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	417 23	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	417 24	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	417 25	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
+SE	417 22	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	417 23	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	417 24	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	417 25	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 26	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 27	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 28	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 29	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
-SE	417 30	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	417 39	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	417 40	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	417 41	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
+SE	417 30	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	417 39	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	417 40	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	417 41	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 42	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 43	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 44	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
@@ -11659,9 +11756,9 @@ SE	417 46	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 47	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 48	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 49	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
-SE	417 50	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	417 52	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	417 53	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
+SE	417 50	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	417 52	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	417 53	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 54	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 55	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 56	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
@@ -11673,9 +11770,9 @@ SE	417 62	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 63	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 64	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 66	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	417 68	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	417 69	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
-SE	417 70	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	
+SE	417 68	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	417 69	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
+SE	417 70	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 80	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 81	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
 SE	417 85	Göteborg	Västra Götaland	O	Göteborg	1480			57.7072	11.9668	4
@@ -11751,6 +11848,7 @@ SE	421 63	Västra Frölunda	Västra Götaland	O	Göteborg	1480			57.6467	11.9294
 SE	421 65	Västra Frölunda	Västra Götaland	O	Göteborg	1480			57.6467	11.9294	4
 SE	421 66	Västra Frölunda	Västra Götaland	O	Göteborg	1480			57.6467	11.9294	4
 SE	421 67	Västra Frölunda	Västra Götaland	O	Göteborg	1480			57.6467	11.9294	4
+SE	421 73	Västra Frölunda	Västra Götaland	O	Göteborg	1480			57.6467	11.9294	
 SE	422 00	Hisings Backa	Västra Götaland	O	Göteborg	1480			57.6766	11.9582	1
 SE	422 02	Hisings Backa	Västra Götaland	O	Göteborg	1480			57.6766	11.9582	1
 SE	422 03	Hisings Backa	Västra Götaland	O	Göteborg	1480			57.6766	11.9582	1
@@ -12049,6 +12147,7 @@ SE	442 40	Kungälv	Västra Götaland	O	Kungälv	1482			57.871	11.9805	4
 SE	442 41	Kungälv	Västra Götaland	O	Kungälv	1482			57.871	11.9805	4
 SE	442 42	Kungälv	Västra Götaland	O	Kungälv	1482			57.871	11.9805	4
 SE	442 43	Kungälv	Västra Götaland	O	Kungälv	1482			57.871	11.9805	4
+SE	442 48	Kungälv	Västra Götaland	O	Kungälv	1482			57.871	11.9805	
 SE	442 49	Kungälv	Västra Götaland	O	Kungälv	1482			57.871	11.9805	4
 SE	442 50	Ytterby	Västra Götaland	O	Kungälv	1482			57.8667	11.9167	4
 SE	442 51	Ytterby	Västra Götaland	O	Kungälv	1482			57.8667	11.9167	4
@@ -12056,6 +12155,7 @@ SE	442 52	Ytterby	Västra Götaland	O	Kungälv	1482			57.8667	11.9167	4
 SE	442 53	Ytterby	Västra Götaland	O	Kungälv	1482			57.8667	11.9167	4
 SE	442 54	Ytterby	Västra Götaland	O	Kungälv	1482			57.8667	11.9167	4
 SE	442 60	Kode	Västra Götaland	O	Kungälv	1482			57.9333	11.85	4
+SE	442 65	Marstrand	Västra Götaland	O	Kungälv	1482			57.887	11.5822	
 SE	442 66	Marstrand	Västra Götaland	O	Kungälv	1482			57.887	11.5822	
 SE	442 70	Kärna	Västra Götaland	O	Kungälv	1482			57.85	11.7833	4
 SE	442 71	Kärna	Västra Götaland	O	Kungälv	1482			57.85	11.7833	4
@@ -12651,6 +12751,7 @@ SE	523 36	Ulricehamn	Västra Götaland	O	Ulricehamn	1491			57.7916	13.4142	4
 SE	523 37	Ulricehamn	Västra Götaland	O	Ulricehamn	1491			57.7916	13.4142	4
 SE	523 38	Ulricehamn	Västra Götaland	O	Ulricehamn	1491			57.7916	13.4142	4
 SE	523 39	Ulricehamn	Västra Götaland	O	Ulricehamn	1491			57.7916	13.4142	4
+SE	523 40	Ulricehamn	Västra Götaland	O	Ulricehamn	1491			57.7916	13.4142	
 SE	523 72	Timmele	Västra Götaland	O	Ulricehamn	1491			57.85	13.4333	4
 SE	523 74	Hökerum	Västra Götaland	O	Ulricehamn	1491			57.85	13.2833	4
 SE	523 84	Ulricehamn	Västra Götaland	O	Ulricehamn	1491			57.7916	13.4142	4
@@ -12849,7 +12950,7 @@ SE	541 63	Skövde	Västra Götaland	O	Skövde	1496			58.3912	13.8451	4
 SE	541 64	Skövde	Västra Götaland	O	Skövde	1496			58.3912	13.8451	4
 SE	541 65	Skövde	Västra Götaland	O	Skövde	1496			58.3912	13.8451	4
 SE	541 70	Skövde	Västra Götaland	O	Skövde	1496			58.3912	13.8451	4
-SE	541 71	Timmersdala	Västra Götaland	O	Skövde	1496			58.5333	13.75	
+SE	541 71	Timmersdala	Västra Götaland	O	Skövde	1496			58.5333	13.75	4
 SE	541 77	Skövde	Västra Götaland	O	Skövde	1496			58.3912	13.8451	4
 SE	541 78	Värsås	Västra Götaland	O	Skövde	1496			58.35	14.05	4
 SE	541 80	Skövde	Västra Götaland	O	Skövde	1496			58.3912	13.8451	4
@@ -12862,9 +12963,9 @@ SE	541 91	Skövde	Västra Götaland	O	Skövde	1496			58.3912	13.8451	4
 SE	541 92	Skövde	Västra Götaland	O	Skövde	1496			58.3912	13.8451	4
 SE	541 93	Skövde	Västra Götaland	O	Skövde	1496			58.3912	13.8451	4
 SE	541 94	Skövde	Västra Götaland	O	Skövde	1496			58.3912	13.8451	4
-SE	541 95	Timmersdala	Västra Götaland	O	Skövde	1496			58.5333	13.75	
+SE	541 95	Timmersdala	Västra Götaland	O	Skövde	1496			58.5333	13.75	4
 SE	541 96	Väring	Västra Götaland	O	Skövde	1496			58.5	13.95	
-SE	541 97	Lerdala	Västra Götaland	O	Skövde	1496			58.4833	13.7167	
+SE	541 97	Lerdala	Västra Götaland	O	Skövde	1496			58.4833	13.7167	4
 SE	549 21	Tidan	Västra Götaland	O	Skövde	1496			58.5667	14	4
 SE	549 31	Tidan	Västra Götaland	O	Skövde	1496			58.5667	14	4
 SE	549 91	Tidan	Västra Götaland	O	Skövde	1496			58.5667	14	4
@@ -12877,9 +12978,9 @@ SE	544 30	Hjo	Västra Götaland	O	Hjo	1497			58.3013	14.2878	4
 SE	544 31	Hjo	Västra Götaland	O	Hjo	1497			58.3013	14.2878	4
 SE	544 32	Hjo	Västra Götaland	O	Hjo	1497			58.3013	14.2878	4
 SE	544 33	Hjo	Västra Götaland	O	Hjo	1497			58.3013	14.2878	4
-SE	544 34	Hjo	Västra Götaland	O	Hjo	1497			58.3013	14.2878	
-SE	544 35	Hjo	Västra Götaland	O	Hjo	1497			58.3013	14.2878	
-SE	544 36	Hjo	Västra Götaland	O	Hjo	1497			58.3013	14.2878	
+SE	544 34	Hjo	Västra Götaland	O	Hjo	1497			58.3013	14.2878	4
+SE	544 35	Hjo	Västra Götaland	O	Hjo	1497			58.3013	14.2878	4
+SE	544 36	Hjo	Västra Götaland	O	Hjo	1497			58.3013	14.2878	4
 SE	544 50	Hjo	Västra Götaland	O	Hjo	1497			58.3013	14.2878	4
 SE	544 81	Hjo	Västra Götaland	O	Hjo	1497			58.3013	14.2878	4
 SE	544 91	Hjo	Västra Götaland	O	Hjo	1497			58.3013	14.2878	4
@@ -12899,7 +13000,7 @@ SE	522 32	Tidaholm	Västra Götaland	O	Tidaholm	1498			58.1804	13.9582	4
 SE	522 33	Tidaholm	Västra Götaland	O	Tidaholm	1498			58.1804	13.9582	4
 SE	522 34	Tidaholm	Västra Götaland	O	Tidaholm	1498			58.1804	13.9582	4
 SE	522 35	Tidaholm	Västra Götaland	O	Tidaholm	1498			58.1804	13.9582	4
-SE	522 37	Tidaholm	Västra Götaland	O	Tidaholm	1498			58.1804	13.9582	
+SE	522 37	Tidaholm	Västra Götaland	O	Tidaholm	1498			58.1804	13.9582	4
 SE	522 81	Tidaholm	Västra Götaland	O	Tidaholm	1498			58.1804	13.9582	4
 SE	522 82	Tidaholm	Västra Götaland	O	Tidaholm	1498			58.1804	13.9582	4
 SE	522 83	Tidaholm	Västra Götaland	O	Tidaholm	1498			58.1804	13.9582	4
@@ -13357,7 +13458,7 @@ SE	508 98	Borås	Västra Götaland	O					57.721	12.9401	4
 SE	508 99	Borås	Västra Götaland	O					57.721	12.9401	4
 SE	511 20	Kinna	Västra Götaland	O					57.5073	12.6946	4
 SE	511 24	Kinna	Västra Götaland	O					57.5073	12.6946	4
-SE	511 53	Kinna	Västra Götaland	O					57.5073	12.6946	
+SE	511 53	Kinna	Västra Götaland	O					57.5073	12.6946	4
 SE	512 20	Svenljunga	Västra Götaland	O					57.4955	13.1108	4
 SE	513 20	Fristad	Västra Götaland	O					57.8167	13.0167	4
 SE	514 04	Limmared	Västra Götaland	O					57.5333	13.35	4
@@ -13371,11 +13472,11 @@ SE	519 20	Horred	Västra Götaland	O					57.35	12.4667	4
 SE	521 20	Falköping	Västra Götaland	O					58.1735	13.5507	4
 SE	522 20	Tidaholm	Västra Götaland	O					58.1804	13.9582	4
 SE	523 20	Ulricehamn	Västra Götaland	O					57.7916	13.4142	4
-SE	523 43	Ulricehamn	Västra Götaland	O					57.7916	13.4142	
-SE	523 44	Ulricehamn	Västra Götaland	O					57.7916	13.4142	
-SE	523 45	Ulricehamn	Västra Götaland	O					57.7916	13.4142	
+SE	523 43	Ulricehamn	Västra Götaland	O					57.7916	13.4142	4
+SE	523 44	Ulricehamn	Västra Götaland	O					57.7916	13.4142	4
+SE	523 45	Ulricehamn	Västra Götaland	O					57.7916	13.4142	4
 SE	524 20	Herrljunga	Västra Götaland	O					58.0774	13.0266	4
-SE	524 33	Herrljunga	Västra Götaland	O					58.0774	13.0266	
+SE	524 33	Herrljunga	Västra Götaland	O					58.0774	13.0266	4
 SE	531 20	Lidköping	Västra Götaland	O					58.5052	13.1577	4
 SE	532 20	Skara	Västra Götaland	O					58.3866	13.4384	4
 SE	533 20	Götene	Västra Götaland	O					58.5282	13.4946	4
@@ -13629,10 +13730,13 @@ SE	654 66	Karlstad	Värmland	S	Karlstad	1780			59.3793	13.5036	4
 SE	654 67	Karlstad	Värmland	S	Karlstad	1780			59.3793	13.5036	4
 SE	654 68	Karlstad	Värmland	S	Karlstad	1780			59.3793	13.5036	4
 SE	654 69	Karlstad	Värmland	S	Karlstad	1780			59.3793	13.5036	4
+SE	655 60	Molkum	Värmland	S	Karlstad	1780			59.3793	13.5036	
 SE	655 91	Karlstad	Värmland	S	Karlstad	1780			59.3793	13.5036	4
 SE	655 92	Karlstad	Värmland	S	Karlstad	1780			59.3793	13.5036	4
 SE	655 93	Karlstad	Värmland	S	Karlstad	1780			59.3793	13.5036	4
 SE	655 94	Karlstad	Värmland	S	Karlstad	1780			59.3793	13.5036	4
+SE	655 95	Väse	Värmland	S	Karlstad	1780			59.3793	13.5036	
+SE	655 98	Molkom	Värmland	S	Karlstad	1780			59.3793	13.5036	
 SE	656 01	Karlstad	Värmland	S	Karlstad	1780			59.3793	13.5036	4
 SE	656 31	Karlstad	Värmland	S	Karlstad	1780			59.3793	13.5036	4
 SE	656 32	Karlstad	Värmland	S	Karlstad	1780			59.3793	13.5036	4
@@ -13724,6 +13828,7 @@ SE	683 32	Hagfors	Värmland	S	Hagfors	1783			60.0238	13.6721	4
 SE	683 33	Hagfors	Värmland	S	Hagfors	1783			60.0238	13.6721	4
 SE	683 34	Hagfors	Värmland	S	Hagfors	1783			60.0238	13.6721	4
 SE	683 40	Uddeholm	Värmland	S	Hagfors	1783			60.0167	13.6167	4
+SE	683 60	Ekshärad	Värmland	S	Hagfors	1783			60.1728	13.4965	
 SE	683 80	Hagfors	Värmland	S	Hagfors	1783			60.0238	13.6721	4
 SE	683 85	Hagfors	Värmland	S	Hagfors	1783			60.0238	13.6721	4
 SE	683 91	Hagfors	Värmland	S	Hagfors	1783			60.0238	13.6721	4
@@ -13794,6 +13899,7 @@ SE	661 96	Långserud	Värmland	S	Säffle	1785			59.1658	12.8964	1
 SE	662 03	Svanskog	Värmland	S	Säffle	1785			59.1833	12.55	4
 SE	662 50	Svanskog	Värmland	S	Säffle	1785			59.1833	12.55	4
 SE	662 96	Svanskog	Värmland	S	Säffle	1785			59.1833	12.55	4
+SE	664 92	Värmskog	Värmland	S	Säffle	1785			59.3667	12.9333	
 SE	664 95	Borgvik	Värmland	S	Säffle	1785			59.3667	12.9333	4
 SE	658 00	Karlstad	Värmland	S					59.3793	13.5036	4
 SE	658 10	Karlstad	Värmland	S					59.3793	13.5036	4
@@ -13858,7 +13964,7 @@ SE	695 95	Hasselfors	Örebro	T	Laxå	1860			59.0833	14.65	4
 SE	695 96	Tived	Örebro	T	Laxå	1860			58.9845	14.5509	1
 SE	695 97	Tived	Örebro	T	Laxå	1860			58.9845	14.5509	1
 SE	610 10	Ljusfallshammar	Örebro	T	Hallsberg	1861			58.7833	15.4833	4
-SE	612 73	Ljusfallshammar	Örebro	T	Hallsberg	1861			58.7833	15.4833	
+SE	612 73	Ljusfallshammar	Örebro	T	Hallsberg	1861			58.7833	15.4833	4
 SE	694 01	Hallsberg	Örebro	T	Hallsberg	1861			59.0657	15.1117	4
 SE	694 21	Hallsberg	Örebro	T	Hallsberg	1861			59.0657	15.1117	4
 SE	694 22	Hallsberg	Örebro	T	Hallsberg	1861			59.0657	15.1117	4
@@ -13946,8 +14052,8 @@ SE	714 82	Kopparberg	Örebro	T	Ljusnarsberg	1864			59.876	14.9944	4
 SE	714 92	Kopparberg	Örebro	T	Ljusnarsberg	1864			59.876	14.9944	4
 SE	772 94	Grängesberg	Örebro	T	Ljusnarsberg	1864			60.0833	14.9833	4
 SE	640 10	Högsjö	Örebro	T	Örebro	1880			59.0333	15.6833	4
-SE	643 62	Högsjö	Örebro	T	Örebro	1880			59.0333	15.6833	
-SE	643 99	Högsjö	Örebro	T	Örebro	1880			59.0333	15.6833	
+SE	643 62	Högsjö	Örebro	T	Örebro	1880			59.0333	15.6833	4
+SE	643 99	Högsjö	Örebro	T	Örebro	1880			59.0333	15.6833	4
 SE	700 02	Örebro	Örebro	T	Örebro	1880			59.2741	15.2066	4
 SE	700 05	Örebro	Örebro	T	Örebro	1880			59.2741	15.2066	4
 SE	700 06	Örebro	Örebro	T	Örebro	1880			59.2741	15.2066	4
@@ -14037,7 +14143,7 @@ SE	702 32	Örebro	Örebro	T	Örebro	1880			59.2741	15.2066	4
 SE	702 33	Örebro	Örebro	T	Örebro	1880			59.2741	15.2066	4
 SE	702 34	Örebro	Örebro	T	Örebro	1880			59.2741	15.2066	4
 SE	702 35	Örebro	Örebro	T	Örebro	1880			59.2741	15.2066	4
-SE	702 36	Örebro	Örebro	T	Örebro	1880			59.2741	15.2066	
+SE	702 36	Örebro	Örebro	T	Örebro	1880			59.2741	15.2066	4
 SE	703 01	Örebro	Örebro	T	Örebro	1880			59.2741	15.2066	4
 SE	703 40	Örebro	Örebro	T	Örebro	1880			59.2741	15.2066	4
 SE	703 41	Örebro	Örebro	T	Örebro	1880			59.2741	15.2066	4
@@ -14077,6 +14183,7 @@ SE	703 74	Örebro	Örebro	T	Örebro	1880			59.2741	15.2066	4
 SE	703 75	Örebro	Örebro	T	Örebro	1880			59.2741	15.2066	4
 SE	703 76	Örebro	Örebro	T	Örebro	1880			59.2741	15.2066	4
 SE	703 78	Örebro	Örebro	T	Örebro	1880			59.2741	15.2066	4
+SE	703 83	Örebro	Örebro	T	Örebro	1880			59.2741	15.2066	
 SE	703 85	Glanshammar	Örebro	T	Örebro	1880			59.3167	15.4	4
 SE	705 91	Örebro	Örebro	T	Örebro	1880			59.2741	15.2066	4
 SE	705 92	Örebro	Örebro	T	Örebro	1880			59.2741	15.2066	4
@@ -14528,7 +14635,8 @@ SE	723 51	Västerås	Västmanland	U	Västerås	1980			59.6162	16.5528	4
 SE	723 52	Västerås	Västmanland	U	Västerås	1980			59.6162	16.5528	4
 SE	723 53	Västerås	Västmanland	U	Västerås	1980			59.6162	16.5528	4
 SE	723 55	Västerås	Västmanland	U	Västerås	1980			59.6162	16.5528	4
-SE	723 58	Västerås	Västmanland	U	Västerås	1980			59.6162	16.5528	
+SE	723 56	Västerås	Västmanland	U	Västerås	1980			59.6162	16.5528	
+SE	723 58	Västerås	Västmanland	U	Västerås	1980			59.6162	16.5528	4
 SE	724 01	Västerås	Västmanland	U	Västerås	1980			59.6162	16.5528	4
 SE	724 02	Västerås	Västmanland	U	Västerås	1980			59.6162	16.5528	4
 SE	724 55	Västerås	Västmanland	U	Västerås	1980			59.6162	16.5528	
@@ -14706,6 +14814,7 @@ SE	731 20	Köping	Västmanland	U					59.514	15.9926	4
 SE	731 81	Köping	Västmanland	U					59.514	15.9926	4
 SE	732 20	Arboga	Västmanland	U					59.3939	15.8388	4
 SE	733 20	Sala	Västmanland	U					59.9199	16.6066	4
+SE	733 45	Storvreta	Västmanland	U					59.9199	16.6066	
 SE	734 20	Hallstahammar	Västmanland	U					59.6139	16.2285	4
 SE	734 28	Kolbäck	Västmanland	U					59.5667	16.25	4
 SE	734 50	Kolbäck	Västmanland	U					59.5667	16.25	4
@@ -14724,16 +14833,16 @@ SE	749 70	Fjärdhundra	Västmanland	U					59.7833	16.9333	4
 SE	780 50	Vansbro	Dalarna	W	Vansbro	2021			60.5089	14.2246	4
 SE	780 51	Dala-Järna	Dalarna	W	Vansbro	2021			60.55	14.35	4
 SE	780 53	Nås	Dalarna	W	Vansbro	2021			60.45	14.4833	4
-SE	786 02	Dala-Järna	Dalarna	W	Vansbro	2021			60.55	14.35	
-SE	786 21	Vansbro	Dalarna	W	Vansbro	2021			60.5089	14.2246	
-SE	786 31	Vansbro	Dalarna	W	Vansbro	2021			60.5089	14.2246	
-SE	786 32	Vansbro	Dalarna	W	Vansbro	2021			60.5089	14.2246	
-SE	786 33	Vansbro	Dalarna	W	Vansbro	2021			60.5089	14.2246	
-SE	786 71	Dala-Järna	Dalarna	W	Vansbro	2021			60.55	14.35	
-SE	786 72	Dala-Järna	Dalarna	W	Vansbro	2021			60.55	14.35	
-SE	786 91	Vansbro	Dalarna	W	Vansbro	2021			60.5089	14.2246	
-SE	786 92	Dala-Järna	Dalarna	W	Vansbro	2021			60.55	14.35	
-SE	786 93	Nås	Dalarna	W	Vansbro	2021			60.45	14.4833	
+SE	786 02	Dala-Järna	Dalarna	W	Vansbro	2021			60.55	14.35	4
+SE	786 21	Vansbro	Dalarna	W	Vansbro	2021			60.5089	14.2246	4
+SE	786 31	Vansbro	Dalarna	W	Vansbro	2021			60.5089	14.2246	4
+SE	786 32	Vansbro	Dalarna	W	Vansbro	2021			60.5089	14.2246	4
+SE	786 33	Vansbro	Dalarna	W	Vansbro	2021			60.5089	14.2246	4
+SE	786 71	Dala-Järna	Dalarna	W	Vansbro	2021			60.55	14.35	4
+SE	786 72	Dala-Järna	Dalarna	W	Vansbro	2021			60.55	14.35	4
+SE	786 91	Vansbro	Dalarna	W	Vansbro	2021			60.5089	14.2246	4
+SE	786 92	Dala-Järna	Dalarna	W	Vansbro	2021			60.55	14.35	4
+SE	786 93	Nås	Dalarna	W	Vansbro	2021			60.45	14.4833	4
 SE	780 54	Äppelbo	Dalarna	W	Malung	2023			60.4833	14	4
 SE	780 61	Öje	Dalarna	W	Malung	2023			60.8167	13.85	4
 SE	780 64	Lima	Dalarna	W	Malung	2023			60.9333	13.35	4
@@ -14753,7 +14862,7 @@ SE	782 35	Malung	Dalarna	W	Malung	2023			60.6833	13.7154	4
 SE	782 75	Malungsfors	Dalarna	W	Malung	2023			60.7333	13.55	4
 SE	782 90	Malung	Dalarna	W	Malung	2023			60.6833	13.7154	4
 SE	782 91	Malung	Dalarna	W	Malung	2023			60.6833	13.7154	4
-SE	786 94	Äppelbo	Dalarna	W	Malung	2023			60.4833	14	
+SE	786 94	Äppelbo	Dalarna	W	Malung	2023			60.4833	14	4
 SE	780 40	Mockfjärd	Dalarna	W	Gagnef	2026			60.5	14.9667	4
 SE	780 41	Gagnef	Dalarna	W	Gagnef	2026			60.5986	15.0774	4
 SE	780 44	Dala-Floda	Dalarna	W	Gagnef	2026			60.4833	14.7833	4
@@ -14765,6 +14874,7 @@ SE	785 21	Gagnef	Dalarna	W	Gagnef	2026			60.4833	14.7833	4
 SE	785 30	Gagnef	Dalarna	W	Gagnef	2026			60.4833	14.7833	4
 SE	785 42	Mockfjärd	Dalarna	W	Gagnef	2026			60.5	14.9667	4
 SE	785 43	Mockfjärd	Dalarna	W	Gagnef	2026			60.5	14.9667	4
+SE	785 44	Hala-Floda	Dalarna	W	Gagnef	2026			60.4833	14.7833	
 SE	785 45	Björbo	Dalarna	W	Gagnef	2026			60.45	14.7	
 SE	785 60	Djurås	Dalarna	W	Gagnef	2026			60.4833	14.7833	4
 SE	785 61	Djurås	Dalarna	W	Gagnef	2026			60.4833	14.7833	4
@@ -14773,8 +14883,8 @@ SE	785 63	Sifferbo	Dalarna	W	Gagnef	2026			60.55	14.2333	4
 SE	785 80	Gagnef	Dalarna	W	Gagnef	2026			60.4833	14.7833	4
 SE	785 91	Gagnef	Dalarna	W	Gagnef	2026			60.4833	14.7833	4
 SE	785 92	Gagnef	Dalarna	W	Gagnef	2026			60.4833	14.7833	4
-SE	786 95	Dala-Floda	Dalarna	W	Gagnef	2026			60.4833	14.7833	
-SE	786 97	Björbo	Dalarna	W	Gagnef	2026			60.45	14.7	
+SE	786 95	Dala-Floda	Dalarna	W	Gagnef	2026			60.4833	14.7833	4
+SE	786 97	Björbo	Dalarna	W	Gagnef	2026			60.45	14.7	4
 SE	790 31	Djura	Dalarna	W	Leksand	2029			60.6167	15	4
 SE	793 01	Leksand	Dalarna	W	Leksand	2029			60.7329	15.0018	4
 SE	793 04	Insjön	Dalarna	W	Leksand	2029			60.6833	15.0833	4
@@ -14803,7 +14913,7 @@ SE	793 86	Insjön	Dalarna	W	Leksand	2029			60.6833	15.0833	4
 SE	793 90	Leksand	Dalarna	W	Leksand	2029			60.7333	15	4
 SE	793 91	Leksand	Dalarna	W	Leksand	2029			60.7333	15	4
 SE	793 92	Leksand	Dalarna	W	Leksand	2029			60.7333	15	4
-SE	793 93	Djura	Dalarna	W	Leksand	2029			60.6167	15	
+SE	793 93	Djura	Dalarna	W	Leksand	2029			60.6167	15	4
 SE	793 94	Tällberg	Dalarna	W	Leksand	2029			60.8167	15	4
 SE	793 97	Siljansnäs	Dalarna	W	Leksand	2029			60.7833	14.85	4
 SE	790 70	Furudal	Dalarna	W	Rättvik	2031			60.7167	15.5625	1
@@ -15051,9 +15161,9 @@ SE	784 75	Borlänge	Dalarna	W	Borlänge	2081			60.4858	15.4371	4
 SE	784 76	Borlänge	Dalarna	W	Borlänge	2081			60.4858	15.4371	4
 SE	784 77	Borlänge	Dalarna	W	Borlänge	2081			60.4858	15.4371	4
 SE	793 41	Insjön	Dalarna	W	Borlänge	2081			60.6833	15.0833	4
-SE	781 60	Gustafs	Dalarna	W	Säter	2082			60.4	15.6	
-SE	781 61	Gustafs	Dalarna	W	Säter	2082			60.4	15.6	
-SE	781 62	Gustafs	Dalarna	W	Säter	2082			60.4	15.6	
+SE	781 60	Gustafs	Dalarna	W	Säter	2082			60.4	15.6	4
+SE	781 61	Gustafs	Dalarna	W	Säter	2082			60.4	15.6	4
+SE	781 62	Gustafs	Dalarna	W	Säter	2082			60.4	15.6	4
 SE	783 01	Säter	Dalarna	W	Säter	2082			60.3478	15.7505	4
 SE	783 21	Säter	Dalarna	W	Säter	2082			60.3478	15.7505	4
 SE	783 22	Säter	Dalarna	W	Säter	2082			60.3478	15.7505	4
@@ -15083,6 +15193,7 @@ SE	776 34	Hedemora	Dalarna	W	Hedemora	2083			60.2797	15.9886	4
 SE	776 35	Hedemora	Dalarna	W	Hedemora	2083			60.2797	15.9886	4
 SE	776 36	Hedemora	Dalarna	W	Hedemora	2083			60.2797	15.9886	4
 SE	776 70	Vikmanshyttan	Dalarna	W	Hedemora	2083			60.2833	15.8167	4
+SE	776 74	Stjärnsund	Dalarna	W	Hedemora	2083			60.4333	16.2	
 SE	776 90	Hedemora	Dalarna	W	Hedemora	2083			60.2797	15.9886	4
 SE	776 91	Hedemora	Dalarna	W	Hedemora	2083			60.2797	15.9886	4
 SE	776 92	Hedemora	Dalarna	W	Hedemora	2083			60.2797	15.9886	4
@@ -15111,7 +15222,7 @@ SE	774 41	Avesta	Dalarna	W	Avesta	2084			60.1454	16.1679	4
 SE	774 60	Avesta	Dalarna	W	Avesta	2084			60.1454	16.1679	4
 SE	774 61	Avesta	Dalarna	W	Avesta	2084			60.1454	16.1679	4
 SE	774 62	Avesta	Dalarna	W	Avesta	2084			60.1454	16.1679	4
-SE	774 63	Avesta	Dalarna	W	Avesta	2084			60.1454	16.1679	
+SE	774 63	Avesta	Dalarna	W	Avesta	2084			60.1454	16.1679	4
 SE	774 67	Horndal	Dalarna	W	Avesta	2084			60.3	16.4167	4
 SE	774 80	Avesta	Dalarna	W	Avesta	2084			60.1454	16.1679	4
 SE	774 81	Avesta	Dalarna	W	Avesta	2084			60.1454	16.1679	4
@@ -15432,7 +15543,7 @@ SE	806 42	Gävle	Gävleborg	X	Gävle	2180			60.6745	17.1417	4
 SE	806 43	Gävle	Gävleborg	X	Gävle	2180			60.6745	17.1417	4
 SE	806 45	Gävle	Gävleborg	X	Gävle	2180			60.6745	17.1417	4
 SE	806 46	Gävle	Gävleborg	X	Gävle	2180			60.6745	17.1417	4
-SE	806 47	Gävle	Gävleborg	X	Gävle	2180			60.6745	17.1417	
+SE	806 47	Gävle	Gävleborg	X	Gävle	2180			60.6745	17.1417	4
 SE	806 48	Gävle	Gävleborg	X	Gävle	2180			60.6745	17.1417	4
 SE	806 49	Gävle	Gävleborg	X	Gävle	2180			60.6745	17.1417	4
 SE	810 40	Hedesunda	Gävleborg	X	Gävle	2180			60.4	17	4
@@ -15454,11 +15565,12 @@ SE	818 31	Valbo	Gävleborg	X	Gävle	2180			60.65	17.0333	4
 SE	818 32	Valbo	Gävleborg	X	Gävle	2180			60.65	17.0333	4
 SE	818 33	Valbo	Gävleborg	X	Gävle	2180			60.65	17.0333	4
 SE	818 34	Valbo	Gävleborg	X	Gävle	2180			60.65	17.0333	4
-SE	818 35	Valbo	Gävleborg	X	Gävle	2180			60.65	17.0333	
+SE	818 35	Valbo	Gävleborg	X	Gävle	2180			60.65	17.0333	4
 SE	818 41	Forsbacka	Gävleborg	X	Gävle	2180			60.6167	16.8833	4
 SE	818 42	Forsbacka	Gävleborg	X	Gävle	2180			60.6167	16.8833	4
 SE	818 91	Valbo	Gävleborg	X	Gävle	2180			60.65	17.0333	4
 SE	818 92	Valbo	Gävleborg	X	Gävle	2180			60.65	17.0333	4
+SE	818 95	Hedesunda	Gävleborg	X	Gävle	2180			60.4	17	
 SE	774 68	Horndal	Gävleborg	X	Sandviken	2181			60.3	16.4167	4
 SE	810 20	Österfärnebo	Gävleborg	X	Sandviken	2181			60.3	16.8	4
 SE	810 21	Gysinge	Gävleborg	X	Sandviken	2181			60.2833	16.8833	4
@@ -15495,8 +15607,8 @@ SE	811 61	Sandviken	Gävleborg	X	Sandviken	2181			60.6167	16.7667	4
 SE	811 62	Sandviken	Gävleborg	X	Sandviken	2181			60.6167	16.7667	4
 SE	811 70	Järbo	Gävleborg	X	Sandviken	2181			60.7167	16.6	4
 SE	811 71	Järbo	Gävleborg	X	Sandviken	2181			60.7167	16.6	4
-SE	811 73	Årsunda	Gävleborg	X	Sandviken	2181			60.5333	16.7333	
-SE	811 74	Österfärnebo	Gävleborg	X	Sandviken	2181			60.3	16.8	
+SE	811 73	Årsunda	Gävleborg	X	Sandviken	2181			60.5333	16.7333	4
+SE	811 74	Österfärnebo	Gävleborg	X	Sandviken	2181			60.3	16.8	4
 SE	811 80	Sandviken	Gävleborg	X	Sandviken	2181			60.6167	16.7667	4
 SE	811 81	Sandviken	Gävleborg	X	Sandviken	2181			60.6167	16.7667	4
 SE	811 88	Sandviken	Gävleborg	X	Sandviken	2181			60.6167	16.7667	4
@@ -15506,10 +15618,10 @@ SE	811 92	Sandviken	Gävleborg	X	Sandviken	2181			60.6167	16.7667	4
 SE	811 93	Sandviken	Gävleborg	X	Sandviken	2181			60.6167	16.7667	4
 SE	811 94	Sandviken	Gävleborg	X	Sandviken	2181			60.6167	16.7667	4
 SE	811 95	Järbo	Gävleborg	X	Sandviken	2181			60.7167	16.6	4
-SE	811 96	Årsunda	Gävleborg	X	Sandviken	2181			60.5333	16.7333	
-SE	811 97	Gysinge	Gävleborg	X	Sandviken	2181			60.2833	16.8833	
-SE	811 98	Österfärnebo	Gävleborg	X	Sandviken	2181			60.3	16.8	
-SE	811 99	Årsunda	Gävleborg	X	Sandviken	2181			60.5333	16.7333	
+SE	811 96	Årsunda	Gävleborg	X	Sandviken	2181			60.5333	16.7333	4
+SE	811 97	Gysinge	Gävleborg	X	Sandviken	2181			60.2833	16.8833	4
+SE	811 98	Österfärnebo	Gävleborg	X	Sandviken	2181			60.3	16.8	4
+SE	811 99	Årsunda	Gävleborg	X	Sandviken	2181			60.5333	16.7333	4
 SE	812 01	Storvik	Gävleborg	X	Sandviken	2181			60.5833	16.5333	4
 SE	812 03	Kungsgården	Gävleborg	X	Sandviken	2181			60.6	16.6167	4
 SE	812 21	Storvik	Gävleborg	X	Sandviken	2181			60.5833	16.5333	4
@@ -15612,6 +15724,7 @@ SE	823 80	Kilafors	Gävleborg	X	Bollnäs	2183			61.2333	16.5667	4
 SE	823 91	Kilafors	Gävleborg	X	Bollnäs	2183			61.2333	16.5667	4
 SE	823 92	Holmsveden	Gävleborg	X	Bollnäs	2183			61.1167	16.7167	4
 SE	823 93	Segersta	Gävleborg	X	Bollnäs	2183			61.2667	16.6333	4
+SE	826 69	Stråtjära	Gävleborg	X	Bollnäs	2183			61.1667	16.85	
 SE	820 60	Delsbo	Gävleborg	X	Hudiksvall	2184			61.801	16.5557	4
 SE	820 62	Bjuråker	Gävleborg	X	Hudiksvall	2184			61.8667	16.5667	4
 SE	820 64	Näsviken	Gävleborg	X	Hudiksvall	2184			61.7667	16.8667	4
@@ -15635,25 +15748,25 @@ SE	824 26	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
 SE	824 27	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
 SE	824 28	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
 SE	824 30	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
-SE	824 31	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	
-SE	824 32	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	
+SE	824 31	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
+SE	824 32	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
 SE	824 33	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
 SE	824 34	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
-SE	824 35	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	
-SE	824 39	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	
+SE	824 35	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
+SE	824 39	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
 SE	824 40	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
 SE	824 41	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
 SE	824 42	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
 SE	824 43	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
-SE	824 44	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	
-SE	824 45	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	
+SE	824 44	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
+SE	824 45	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
 SE	824 50	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
 SE	824 51	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
 SE	824 52	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
-SE	824 53	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	
-SE	824 54	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	
-SE	824 55	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	
-SE	824 56	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	
+SE	824 53	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
+SE	824 54	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
+SE	824 55	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
+SE	824 56	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
 SE	824 71	Delsbo	Gävleborg	X	Hudiksvall	2184			61.801	16.5557	
 SE	824 80	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
 SE	824 81	Hudiksvall	Gävleborg	X	Hudiksvall	2184			61.729	17.1036	4
@@ -16248,8 +16361,9 @@ SE	859 98	Sundsvall	Västernorrland	Y					62.3913	17.3063	4
 SE	861 20	Timrå	Västernorrland	Y					62.487	17.3257	4
 SE	862 20	Kvissleby	Västernorrland	Y					62.2936	17.375	4
 SE	863 20	Sundsbruk	Västernorrland	Y					62.4581	17.3489	4
-SE	863 37	Sundsvall	Västernorrland	Y					62.3913	17.3063	
+SE	863 37	Sundsvall	Västernorrland	Y					62.3913	17.3063	4
 SE	863 41	Sundsvall	Västernorrland	Y					62.3913	17.3063	
+SE	863 42	Sundsvall	Västernorrland	Y					62.3913	17.3063	
 SE	864 20	Matfors	Västernorrland	Y					62.35	17.0333	4
 SE	865 20	Alnö	Västernorrland	Y					62.4489	17.4047	4
 SE	871 20	Härnösand	Västernorrland	Y					62.6323	17.9379	4
@@ -16431,6 +16545,7 @@ SE	831 48	Östersund	Jämtland	Z	Östersund	2380			63.1792	14.6357	4
 SE	831 51	Östersund	Jämtland	Z	Östersund	2380			63.1792	14.6357	4
 SE	831 52	Östersund	Jämtland	Z	Östersund	2380			63.1792	14.6357	4
 SE	831 55	Östersund	Jämtland	Z	Östersund	2380			63.1792	14.6357	4
+SE	831 59	Östersund	Jämtland	Z	Östersund	2380			63.1792	14.6357	
 SE	831 61	Östersund	Jämtland	Z	Östersund	2380			63.1792	14.6357	4
 SE	831 62	Östersund	Jämtland	Z	Östersund	2380			63.1792	14.6357	4
 SE	831 71	Östersund	Jämtland	Z	Östersund	2380			63.1792	14.6357	4
@@ -16556,38 +16671,40 @@ SE	839 87	Östersund	Jämtland	Z					63.1792	14.6357	4
 SE	842 20	Sveg	Jämtland	Z					62.0341	14.3658	4
 SE	121 07	Stockholm-globen							59.3333	18.05	1
 SE	121 25	Stockholm-globen							59.3332	18.0525	1
-SE	132 20	Saltsjö-boo							59.3173	18.255	4
+SE	132 20	Saltsjö-boo	Stockholm						59.3173	18.255	4
 SE	148 40	Segersäng							58.9802	17.9374	1
-SE	190 40	Stockholm-Arlanda							59.6352	17.9125	4
-SE	190 45	Stockholm-Arlanda							59.6352	17.9125	4
-SE	190 46	Stockholm-Arlanda							59.6352	17.9125	4
-SE	190 47	Stockholm-Arlanda							59.6352	17.9125	4
-SE	190 50	Stockholm-Arlanda							59.6352	17.9125	4
-SE	190 60	Stockholm-Arlanda							59.6352	17.9125	4
+SE	190 40	Stockholm-Arlanda	Stockholm						59.6352	17.9125	4
+SE	190 45	Stockholm-Arlanda	Stockholm						59.6352	17.9125	4
+SE	190 46	Stockholm-Arlanda	Stockholm						59.6352	17.9125	4
+SE	190 47	Stockholm-Arlanda	Stockholm						59.6352	17.9125	4
+SE	190 50	Stockholm-Arlanda	Stockholm						59.6352	17.9125	4
+SE	190 60	Stockholm-Arlanda	Stockholm						59.6352	17.9125	4
 SE	195 05	Arlandastad							59.6083	17.8583	1
 SE	195 60	Arlandastad							59.6068	17.8585	1
 SE	195 61	Arlandastad							59.6068	17.8585	1
-SE	195 87	Stockholm							59.3326	18.0649	4
-SE	218 45	Vintrie							55.55	12.9667	4
+SE	195 87	Stockholm	Stockholm						59.3326	18.0649	4
+SE	196 50	Arlandastad							59.6083	17.8583	
+SE	218 45	Vintrie	Skåne						55.55	12.9667	4
 SE	230 32	Malmö-Sturup							55.5708	13.0667	1
-SE	230 40	Bara							55.5833	13.2	4
-SE	230 41	Klågerup							55.6	13.25	4
-SE	230 53	Alnarp							55.6583	13.0833	4
-SE	233 61	Bara							55.5833	13.2	
-SE	233 63	Bara							55.5833	13.2	
-SE	261 72	Häljarp							55.85	12.9167	4
-SE	261 73	Häljarp							55.85	12.9167	4
-SE	266 20	Munka-ljungby							56.25	12.9667	4
+SE	230 40	Bara	Skåne						55.5833	13.2	4
+SE	230 41	Klågerup	Skåne						55.6	13.25	4
+SE	230 53	Alnarp	Skåne						55.6583	13.0833	4
+SE	233 61	Bara	Skåne						55.5833	13.2	
+SE	233 63	Bara	Skåne						55.5833	13.2	
+SE	233 64	Bara							55.5833	13.2	
+SE	261 72	Häljarp	Skåne						55.85	12.9167	4
+SE	261 73	Häljarp	Skåne						55.85	12.9167	4
+SE	266 20	Munka-ljungby	Skåne						56.25	12.9667	4
 SE	271 70	Nybrostrand							55.4667	13.9333	
 SE	271 71	Nybrostrand							55.4667	13.9333	1
-SE	427 20	Billdal							57.5667	11.9333	4
-SE	427 24	Billdal							57.5667	11.9333	4
+SE	427 20	Billdal	Västra Götaland						57.5667	11.9333	4
+SE	427 24	Billdal	Västra Götaland						57.5667	11.9333	4
 SE	622 30	Gotlands Tofta							57.5167	18.45	1
 SE	622 32	Gotlands Tofta							57.5167	18.45	1
 SE	622 65	Gotlands Tofta							57.6409	18.296	1
 SE	622 66	Gotlands Tofta							57.6409	18.296	1
 SE	622 70	Gotlands Tofta							57.6409	18.296	1
-SE	624 66	Fårö							57.9167	19.1333	4
-SE	624 67	Fårö							57.9167	19.1333	4
-SE	734 94	Strömsholm							59.5333	16.25	4
-SE	749 50	Ekolsund							59.6167	17.3667	4
+SE	624 66	Fårö	Gotland						57.9167	19.1333	4
+SE	624 67	Fårö	Gotland						57.9167	19.1333	4
+SE	734 94	Strömsholm	Västmanland						59.5333	16.25	4
+SE	749 50	Ekolsund	Uppsala						59.6167	17.3667	4
