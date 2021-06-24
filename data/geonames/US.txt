@@ -1213,6 +1213,7 @@ US	72401	Jonesboro	Arkansas	AR	Craighead	031			35.833	-90.6965	4
 US	72402	Jonesboro	Arkansas	AR	Craighead	031			35.8088	-90.6529	4
 US	72403	Jonesboro	Arkansas	AR	Craighead	031			35.8305	-90.7039	4
 US	72404	Jonesboro	Arkansas	AR	Craighead	031			35.7792	-90.766	4
+US	72405	Jonesboro	Arkansas	AR	Craighead	031			35.7792	-90.766	4
 US	72411	Bay	Arkansas	AR	Craighead	031			35.7456	-90.5507	4
 US	72414	Black Oak	Arkansas	AR	Craighead	031			35.8368	-90.4005	4
 US	72416	Bono	Arkansas	AR	Craighead	031			35.9086	-90.7848	4
@@ -2912,6 +2913,7 @@ US	90094	Playa Vista	California	CA	Los Angeles	037			33.9728	-118.4276	4
 US	90095	Los Angeles	California	CA	Los Angeles	037			33.7866	-118.2987	4
 US	90096	Los Angeles	California	CA	Los Angeles	037			34.0522	-118.2437	4
 US	90099	Los Angeles	California	CA	Los Angeles	037			34.0522	-118.2437	4
+US	90134	Los Angeles	California	CA	Los Angeles	037			34.0522	-118.2437	4
 US	90189	Los Angeles	California	CA	Los Angeles	037			34.0515	-118.2559	4
 US	90201	Bell Gardens	California	CA	Los Angeles	037			33.9653	-118.1515	4
 US	90202	Bell	California	CA	Los Angeles	037			33.9775	-118.187	4
@@ -3280,7 +3282,7 @@ US	91750	La Verne	California	CA	Los Angeles	037			34.1159	-117.7708	4
 US	91754	Monterey Park	California	CA	Los Angeles	037			34.0534	-118.1271	4
 US	91755	Monterey Park	California	CA	Los Angeles	037			34.048	-118.115	4
 US	91756	Monterey Park	California	CA	Los Angeles	037			34.0625	-118.1228	4
-US	91759	Mt Baldy	California	CA	Los Angeles	037			33.7866	-118.2987	1
+US	91759	Mount Baldy	California	CA	Los Angeles	037			34.2361	-117.6601	1
 US	91765	Diamond Bar	California	CA	Los Angeles	037			34.0066	-117.8098	4
 US	91766	Pomona	California	CA	Los Angeles	037			34.0418	-117.7569	4
 US	91767	Pomona	California	CA	Los Angeles	037			34.0812	-117.7362	4
@@ -12169,6 +12171,7 @@ US	46082	Carmel	Indiana	IN	Hamilton	057			40.0725	-86.0523	4
 US	46085	Fishers	Indiana	IN	Hamilton	057			39.9556	-86.0139	4
 US	46262	Indianapolis	Indiana	IN	Hamilton	057			39.7684	-86.158	4
 US	46280	Indianapolis	Indiana	IN	Hamilton	057			39.9416	-86.1157	4
+US	46288	Indianapolis	Indiana	IN	Hamilton	057			39.9347	-86.1633	4
 US	46290	Indianapolis	Indiana	IN	Hamilton	057			39.9347	-86.1633	4
 US	46040	Fortville	Indiana	IN	Hancock	059			39.9323	-85.848	4
 US	46055	Mccordsville	Indiana	IN	Hancock	059			39.9081	-85.9228	4
@@ -13484,6 +13487,7 @@ US	66624	Topeka	Kansas	KS	Shawnee	177			39.0429	-95.7697	4
 US	66625	Topeka	Kansas	KS	Shawnee	177			39.0483	-95.678	4
 US	66626	Topeka	Kansas	KS	Shawnee	177			39.0483	-95.678	4
 US	66629	Topeka	Kansas	KS	Shawnee	177			39.0483	-95.678	4
+US	66630	Topeka	Kansas	KS	Shawnee	177			39.0483	-95.678	4
 US	66636	Topeka	Kansas	KS	Shawnee	177			39.0483	-95.678	4
 US	66647	Topeka	Kansas	KS	Shawnee	177			39.0429	-95.7697	4
 US	66667	Topeka	Kansas	KS	Shawnee	177			39.0429	-95.7697	4
@@ -18883,6 +18887,7 @@ US	55119	Saint Paul	Minnesota	MN	Ramsey	123			44.9414	-93.0107	4
 US	55126	Saint Paul	Minnesota	MN	Ramsey	123			45.0736	-93.138	4
 US	55127	Saint Paul	Minnesota	MN	Ramsey	123			45.0803	-93.0875	4
 US	55130	Saint Paul	Minnesota	MN	Ramsey	123			44.973	-93.0827	4
+US	55131	Saint Paul	Minnesota	MN	Ramsey	123			44.973	-93.0827	4
 US	55133	Saint Paul	Minnesota	MN	Ramsey	123			45.0059	-93.1059	4
 US	55144	Saint Paul	Minnesota	MN	Ramsey	123			45.0059	-93.1059	4
 US	55145	Saint Paul	Minnesota	MN	Ramsey	123			44.9444	-93.0933	4
@@ -19364,6 +19369,7 @@ US	65720	Oldfield	Missouri	MO	Christian	043			36.9404	-92.9528	4
 US	65721	Ozark	Missouri	MO	Christian	043			37.0169	-93.2022	4
 US	65753	Sparta	Missouri	MO	Christian	043			36.9775	-93.1065	4
 US	65754	Spokane	Missouri	MO	Christian	043			36.8636	-93.2754	4
+US	72643	Lead Hill	Missouri	MO	Christian	043			36.9404	-92.9528	4
 US	63430	Alexandria	Missouri	MO	Clark	045			40.3445	-91.5154	4
 US	63445	Kahoka	Missouri	MO	Clark	045			40.4266	-91.725	4
 US	63453	Luray	Missouri	MO	Clark	045			40.4931	-91.8912	4
@@ -25006,6 +25012,7 @@ US	89433	Sun Valley	Nevada	NV	Washoe	031			39.5955	-119.7754	4
 US	89434	Sparks	Nevada	NV	Washoe	031			39.5502	-119.7178	4
 US	89435	Sparks	Nevada	NV	Washoe	031			39.5349	-119.7527	4
 US	89436	Sparks	Nevada	NV	Washoe	031			39.6269	-119.7081	4
+US	89437	Sparks	Nevada	NV	Washoe	031			39.6269	-119.7081	4
 US	89439	Verdi	Nevada	NV	Washoe	031			39.5165	-119.9833	4
 US	89441	Sparks	Nevada	NV	Washoe	031			39.6582	-119.6954	4
 US	89442	Wadsworth	Nevada	NV	Washoe	031			39.6481	-119.2918	4
@@ -26540,6 +26547,7 @@ US	11433	Jamaica	New York	NY	Queens	081			40.6969	-73.7877	4
 US	11434	Jamaica	New York	NY	Queens	081			40.6775	-73.7758	4
 US	11435	Jamaica	New York	NY	Queens	081			40.7029	-73.8111	4
 US	11436	Jamaica	New York	NY	Queens	081			40.6763	-73.7966	4
+US	11437	Jamaica	New York	NY	Queens	081			40.6763	-73.7966	4
 US	11439	Jamaica	New York	NY	Queens	081			40.722	-73.7908	4
 US	11451	Jamaica	New York	NY	Queens	081			40.6514	-73.8708	4
 US	11499	Jamaica	New York	NY	Queens	081			40.6514	-73.8708	4
@@ -29748,6 +29756,7 @@ US	97239	Portland	Oregon	OR	Multnomah	051			45.4983	-122.6913	4
 US	97240	Portland	Oregon	OR	Multnomah	051			45.5235	-122.6762	4
 US	97242	Portland	Oregon	OR	Multnomah	051			45.5235	-122.6762	4
 US	97250	Portland	Oregon	OR	Multnomah	051			45.5235	-122.6762	4
+US	97251	Portland	Oregon	OR	Multnomah	051			45.5235	-122.6762	4
 US	97252	Portland	Oregon	OR	Multnomah	051			45.5235	-122.6762	4
 US	97253	Portland	Oregon	OR	Multnomah	051			45.5235	-122.6762	4
 US	97254	Portland	Oregon	OR	Multnomah	051			45.5967	-122.5942	4
@@ -29831,6 +29840,7 @@ US	97075	Beaverton	Oregon	OR	Washington	067			45.4871	-122.8037	4
 US	97076	Beaverton	Oregon	OR	Washington	067			45.4871	-122.8037	4
 US	97077	Beaverton	Oregon	OR	Washington	067			45.4871	-122.8037	4
 US	97078	Beaverton	Oregon	OR	Washington	067			45.452	-122.7893	4
+US	97079	Beaverton	Oregon	OR	Washington	067			45.452	-122.7893	4
 US	97106	Banks	Oregon	OR	Washington	067			45.6535	-123.121	4
 US	97109	Buxton	Oregon	OR	Washington	067			45.737	-123.2146	4
 US	97113	Cornelius	Oregon	OR	Washington	067			45.529	-123.0415	4
@@ -29840,6 +29850,7 @@ US	97119	Gaston	Oregon	OR	Washington	067			45.4427	-123.1666	4
 US	97123	Hillsboro	Oregon	OR	Washington	067			45.4984	-122.957	4
 US	97124	Hillsboro	Oregon	OR	Washington	067			45.5387	-122.9636	4
 US	97125	Manning	Oregon	OR	Washington	067			45.6648	-123.1637	4
+US	97129	Hillsboro	Oregon	OR	Washington	067			45.5387	-122.9636	4
 US	97133	North Plains	Oregon	OR	Washington	067			45.6686	-123.0281	4
 US	97140	Sherwood	Oregon	OR	Washington	067			45.3514	-122.8567	4
 US	97144	Timber	Oregon	OR	Washington	067			45.727	-123.3119	4
@@ -34343,10 +34354,12 @@ US	75051	Grand Prairie	Texas	TX	Dallas	113			32.7115	-97.0069	4
 US	75052	Grand Prairie	Texas	TX	Dallas	113			32.6605	-97.0311	4
 US	75053	Grand Prairie	Texas	TX	Dallas	113			32.746	-96.9978	4
 US	75054	Grand Prairie	Texas	TX	Dallas	113			32.5907	-97.0405	4
+US	75059	Irving	Texas	TX	Dallas	113			32.8023	-96.9597	4
 US	75060	Irving	Texas	TX	Dallas	113			32.8023	-96.9597	4
 US	75061	Irving	Texas	TX	Dallas	113			32.8267	-96.9633	4
 US	75062	Irving	Texas	TX	Dallas	113			32.8479	-96.974	4
 US	75063	Irving	Texas	TX	Dallas	113			32.9247	-96.9598	4
+US	75064	Irving	Texas	TX	Dallas	113			32.9247	-96.9598	4
 US	75080	Richardson	Texas	TX	Dallas	113			32.966	-96.7452	4
 US	75081	Richardson	Texas	TX	Dallas	113			32.9462	-96.7058	4
 US	75082	Richardson	Texas	TX	Dallas	113			32.9865	-96.686	4

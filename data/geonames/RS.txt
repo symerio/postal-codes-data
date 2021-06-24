@@ -117,8 +117,8 @@ RS	12256	Voluja							44.4915	21.765	4
 RS	12257	Turija (Kučevo)							44.5672	21.6118	1
 RS	12258	Klenje							44.6011	21.5306	4
 RS	12300	Petrovac na Mlavi							44.3367	21.4466	1
-RS	12304	Ranovac							44.4441	21.4762	4
 RS	12304	Kladurovo							44.4369	21.5441	4
+RS	12304	Ranovac							44.4441	21.4762	4
 RS	12305	Melnica							44.3921	21.5336	4
 RS	12306	Veliko Laole							44.3195	21.4312	4
 RS	12307	Burovac							44.2728	21.3578	4
@@ -269,8 +269,8 @@ RS	17525	Trgovište							42.3528	22.0622	4
 RS	17526	Donji Stajevac							42.4012	22.1597	4
 RS	17528	Veliki Trnovac							42.4791	21.7399	4
 RS	17529	Muhovac							42.5696	21.7542	4
-RS	17530	Suvojnica							42.6597	22.1234	4
 RS	17530	Surdulica							42.6906	22.1708	4
+RS	17530	Suvojnica							42.6597	22.1234	4
 RS	17531	Jelašnica							42.6404	22.0883	4
 RS	17532	Vlasina Okruglica							42.6656	22.3192	4
 RS	17533	Vlasina Rid							42.731	22.3219	4

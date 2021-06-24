@@ -1172,8 +1172,8 @@ CA	P8T	Sioux Lookout	Ontario	ON					50.0668	-91.9836	4
 CA	P9A	Fort Frances	Ontario	ON					48.6393	-93.4469	5
 CA	P9N	Kenora	Ontario	ON					49.7573	-94.3427	1
 CA	C0B	Prince County (Portage)	Prince Edward Island	PE	Prince County	1103			46.6023	-63.9583	1
-CA	C0A	Kings and Queens counties (Elmira)	Prince Edward Island	PE					46.1668	-62.6487	3
 CA	C0A	Montague	Prince Edward Island	PE					46.1668	-62.6487	4
+CA	C0A	Kings and Queens counties (Elmira)	Prince Edward Island	PE					46.1668	-62.6487	3
 CA	C1A	Charlottetown Southeast Prince Edward Island Provincial Government	Prince Edward Island	PE	Charlottetown				46.2716	-63.0165	1
 CA	C1B	Stratford	Prince Edward Island	PE					46.2179	-63.0795	4
 CA	C1C	Charlottetown North	Prince Edward Island	PE	Charlottetown				46.2645	-63.0842	5

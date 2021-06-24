@@ -1,5 +1,7 @@
 AX	22100	Mariehamn	Mariehamns stad	211	Mariehamn	478			60.1007	19.9438	6
 AX	22101	Mariehamn	Mariehamns stad	211	Mariehamn	478			60.0628	19.9533	6
+AX	22110	Mariehamn	Mariehamns stad	211	Mariehamn	478			60.0973	19.9348	5
+AX	22111	Mariehamn	Mariehamns stad	211	Mariehamn	478			60.0973	19.9348	5
 AX	22270	Eckerö	Ålands landsbygd	212	Eckerö	043			60.2203	19.6263	6
 AX	22220	Emkarby	Ålands landsbygd	212	Finström	060			60.2394	19.848	6
 AX	22310	Pålsböle	Ålands landsbygd	212	Finström	060			60.2756	19.9057	6

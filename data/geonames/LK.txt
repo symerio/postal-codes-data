@@ -407,8 +407,8 @@ LK	50450	Rambewa	North Central Province	30	Anuradhapura	AD			8.4423	80.5054	4
 LK	50452	Kendewa	North Central Province	30	Anuradhapura	AD			8.4858	80.6067	4
 LK	50454	Kallanchiya	North Central Province	30	Anuradhapura	AD			8.4592	80.5643	4
 LK	50492	Wahamalgollewa	North Central Province	30	Anuradhapura	AD			8.4771	80.5173	4
-LK	50500	Kebithigollewa	North Central Province	30	Anuradhapura	AD			8.5345	80.4923	3
 LK	50500	Medawachchiya	North Central Province	30	Anuradhapura	AD			8.5345	80.4923	4
+LK	50500	Kebithigollewa	North Central Province	30	Anuradhapura	AD			8.5345	80.4923	3
 LK	50506	Punewa	North Central Province	30	Anuradhapura	AD			8.6113	80.4715	4
 LK	50511	Kirigalwewa	North Central Province	30	Anuradhapura	AD			8.4941	80.4801	1
 LK	50512	Pihimbiyagolewa	North Central Province	30	Anuradhapura	AD			8.4941	80.4801	1
@@ -1420,8 +1420,8 @@ LK	91550	Medagana	Province of Uva	35	Moneragala	MJ			6.9979	81.2821	1
 LK	91552	Kandawinna	Province of Uva	35	Moneragala	MJ			6.9979	81.2821	1
 LK	91554	Bakinigahawela	Province of Uva	35	Moneragala	MJ			6.9979	81.2821	4
 LK	00100	Fort	Western Province	36	Colombo	CO			6.9392	79.8436	4
-LK	00200	Slave Island	Western Province	36	Colombo	CO			6.9167	79.85	4
 LK	00200	Slave lsland	Western Province	36	Colombo	CO			7.3267	80.5226	1
+LK	00200	Slave Island	Western Province	36	Colombo	CO			6.9167	79.85	4
 LK	00300	Colpetty	Western Province	36	Colombo	CO			6.8833	79.85	4
 LK	00400	Bambalapitiya	Western Province	36	Colombo	CO			6.8914	79.8522	4
 LK	00500	Havelock Town	Western Province	36	Colombo	CO			6.8841	79.8608	4
@@ -1502,8 +1502,8 @@ LK	11066	Nedungamuwa	Western Province	36	Gampaha	GQ			7.0393	80.0197	4
 LK	11068	Wanaluwewa	Western Province	36	Gampaha	GQ			7.0075	80.0551	1
 LK	11100	Veyangoda	Western Province	36	Gampaha	GQ			7.1535	80.0597	4
 LK	11102	Dewalapola	Western Province	36	Gampaha	GQ			7.1659	79.9905	4
-LK	11104	Watinapaha	Western Province	36	Gampaha	GQ			7.1891	80.0004	4
 LK	11104	Wattala	Western Province	36	Gampaha	GQ			6.9779	79.8898	4
+LK	11104	Watinapaha	Western Province	36	Gampaha	GQ			7.1891	80.0004	4
 LK	11105	Kumbaloluwa	Western Province	36	Gampaha	GQ			7.1763	80.0827	4
 LK	11108	Essella	Western Province	36	Gampaha	GQ			7.1773	80.0123	4
 LK	11112	Muddaragama	Western Province	36	Gampaha	GQ			7.2077	80.0545	4

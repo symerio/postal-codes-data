@@ -321,8 +321,8 @@ BY	211485	Малые Дольцы	Vitebsk		Ouchatchi				54.9867	28.386	4
 BY	211486	Косари	Vitebsk		Ouchatchi				55.0241	28.3124	4
 BY	211487	Кубличи	Vitebsk		Ouchatchi				55.1604	28.3417	4
 BY	211488	Селище	Vitebsk		Ouchatchi				55.1989	28.4307	4
-BY	211489	Двор - Плино	Vitebsk		Ouchatchi				55.2094	28.5198	4
 BY	211489	Двор-Плино	Vitebsk		Ouchatchi				55.2094	28.5198	4
+BY	211489	Двор - Плино	Vitebsk		Ouchatchi				55.2094	28.5198	4
 BY	211490	Лутово	Vitebsk		Ouchatchi				55.21	28.6404	4
 BY	211491	Сорочино	Vitebsk		Ouchatchi				55.2036	28.7529	4
 BY	211492	Старое Село	Vitebsk		Ouchatchi				55.1792	28.5003	4
@@ -1207,8 +1207,8 @@ BY	222370	Ивенец	Minsk		Volojin				53.8864	26.7432	4
 BY	222371	Камень	Minsk		Volojin				54.5777	27.4686	4
 BY	222372	Падневичи	Minsk		Volojin				53.9683	26.8333	4
 BY	222373	Родники	Minsk		Volojin				53.9047	26.8105	4
-BY	222374	Волма	Minsk		Dzerjinsk				53.8711	26.9535	4
 BY	222374	Будслав	Minsk		Miadel				54.7833	27.45	4
+BY	222374	Волма	Minsk		Dzerjinsk				53.8711	26.9535	4
 BY	222375	Илово	Minsk		Miadel				54.8281	27.4519	4
 BY	222376	Кривичи	Minsk		Miadel				54.7132	27.2886	4
 BY	222377	Княгинин	Minsk		Miadel				54.6845	27.1699	4
@@ -2899,8 +2899,8 @@ BY	247525	Сведское	Gomel		Retchitsa				52.543	30.0228	4
 BY	247526	Заречье	Gomel		Retchitsa				52.5399	28.5838	4
 BY	247530	Солтаново	Gomel		Retchitsa				52.3524	30.2367	4
 BY	247533	Лиски	Gomel		Retchitsa				52.3112	30.1011	4
-BY	247534	Бабичи	Gomel		Retchitsa				52.2895	30.002	4
 BY	247534	Бабичи - Пункт Почтовой Связи	Gomel		Retchitsa				52.2895	30.002	3
+BY	247534	Бабичи	Gomel		Retchitsa				52.2895	30.002	4
 BY	247535	Красная Дуброва	Gomel		Retchitsa				52.2762	30.0826	4
 BY	247537	Васильков	Gomel		Retchitsa				52.3073	30.1056	1
 BY	247540	Пересвятое	Gomel		Retchitsa				52.232	30.1094	1
@@ -3097,8 +3097,8 @@ BY	247948	Селютичи	Gomel		Petrikov				52.2994	28.1919	4
 BY	247949	Голубица	Gomel		Petrikov				52.1449	28.3498	1
 BY	247950	Копцевичи	Gomel		Petrikov				52.2454	28.289	4
 BY	247960	Житковичи	Gomel		Jitkovitchi				52.2168	27.8561	4
-BY	247961	Рудня	Gomel		Jitkovitchi				52.1821	27.9503	4
 BY	247961	Гребеневский	Gomel		Jitkovitchi				52.1821	27.9503	3
+BY	247961	Рудня	Gomel		Jitkovitchi				52.1821	27.9503	4
 BY	247962	Белев	Gomel		Jitkovitchi				52.2972	28.0298	4
 BY	247963	Морохорово	Gomel		Jitkovitchi				52.3115	27.9975	4
 BY	247964	Пуховичи	Gomel		Jitkovitchi				52.373	27.9702	4
