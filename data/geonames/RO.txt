@@ -1,6 +1,6 @@
 RO	510001	Bărăbanţ	Alba	01					46.0993	23.5849	4
-RO	510002	Alba Iulia	Alba	01					46.0667	23.5833	4
 RO	510002	Miceşti	Alba	01					46.1014	23.5557	4
+RO	510002	Alba Iulia	Alba	01					46.0667	23.5833	4
 RO	510003	Oarda	Alba	01					46.0333	23.5667	4
 RO	510004	Pâclişa	Alba	01					46.05	23.5167	4
 RO	510005	Alba Iulia	Alba	01					46.0667	23.5833	4

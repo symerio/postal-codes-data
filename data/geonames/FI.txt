@@ -1,207 +1,207 @@
-FI	00100	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1714	24.9316	6
+FI	00100	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1714	24.9316	6
 FI	00102	Eduskunta	Uusimaa	01	Helsinki	011	Helsinki	091	60.1725	24.9328	5
-FI	00120	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1632	24.9391	6
+FI	00120	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1632	24.9391	6
 FI	00121	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00130	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1645	24.9487	6
+FI	00130	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1645	24.9487	6
 FI	00131	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00140	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1578	24.9525	6
+FI	00140	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1578	24.9525	6
 FI	00141	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00150	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.157	24.9369	6
+FI	00150	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.157	24.9369	6
 FI	00151	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00160	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1671	24.9684	6
+FI	00160	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1671	24.9684	6
 FI	00161	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00170	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1728	24.9554	6
+FI	00170	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1728	24.9554	6
 FI	00171	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00180	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1634	24.919	6
+FI	00180	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1634	24.919	6
 FI	00181	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00190	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.146	24.9851	6
+FI	00190	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.146	24.9851	6
 FI	00191	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00200	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1603	24.8714	6
+FI	00200	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1603	24.8714	6
 FI	00201	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00210	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1513	24.8827	6
+FI	00210	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1513	24.8827	6
 FI	00211	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00220	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1573	24.9173	6
+FI	00220	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1573	24.9173	6
 FI	00221	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00230	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.214	24.9195	6
+FI	00230	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.214	24.9195	6
 FI	00231	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
 FI	00232	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00240	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2015	24.9233	6
+FI	00240	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2015	24.9233	6
 FI	00241	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00250	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1873	24.9127	6
+FI	00250	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1873	24.9127	6
 FI	00251	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00260	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1794	24.9226	6
-FI	00270	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1942	24.9007	6
+FI	00260	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1794	24.9226	6
+FI	00270	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1942	24.9007	6
 FI	00271	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00280	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2019	24.9043	6
+FI	00280	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2019	24.9043	6
 FI	00281	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00290	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1893	24.9064	6
-FI	00300	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2034	24.8939	6
+FI	00290	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1893	24.9064	6
+FI	00300	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2034	24.8939	6
 FI	00301	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00310	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2106	24.9035	6
-FI	00320	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2159	24.8961	6
+FI	00310	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2106	24.9035	6
+FI	00320	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2159	24.8961	6
 FI	00321	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00330	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1975	24.875	6
+FI	00330	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1975	24.875	6
 FI	00331	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00340	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1819	24.8594	6
+FI	00340	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1819	24.8594	6
 FI	00341	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00350	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2075	24.8705	6
+FI	00350	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2075	24.8705	6
 FI	00351	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00360	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2182	24.8564	6
-FI	00370	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2263	24.8555	6
+FI	00360	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2182	24.8564	6
+FI	00370	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2263	24.8555	6
 FI	00371	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00380	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2173	24.8722	6
+FI	00380	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2173	24.8722	6
 FI	00381	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00390	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2387	24.8427	6
+FI	00390	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2387	24.8427	6
 FI	00391	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00400	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2265	24.8978	6
+FI	00400	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2265	24.8978	6
 FI	00401	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00410	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2488	24.8578	6
+FI	00410	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2488	24.8578	6
 FI	00411	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00420	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2443	24.88	6
+FI	00420	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2443	24.88	6
 FI	00421	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00430	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2501	24.8962	6
+FI	00430	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2501	24.8962	6
 FI	00431	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00440	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2313	24.8796	6
+FI	00440	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2313	24.8796	6
 FI	00441	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00500	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1873	24.9601	6
+FI	00500	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1873	24.9601	6
 FI	00501	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00510	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1918	24.9498	6
+FI	00510	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1918	24.9498	6
 FI	00511	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00520	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1983	24.9416	6
+FI	00520	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1983	24.9416	6
 FI	00521	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00530	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1826	24.9505	6
+FI	00530	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1826	24.9505	6
 FI	00531	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00540	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1841	24.9785	
-FI	00550	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1957	24.9622	6
+FI	00540	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1841	24.9785	
+FI	00550	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1957	24.9622	6
 FI	00551	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00560	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.21	24.9726	6
+FI	00560	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.21	24.9726	6
 FI	00561	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00570	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1838	25.0055	6
-FI	00580	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1921	24.9716	6
+FI	00570	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1838	25.0055	6
+FI	00580	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1921	24.9716	6
 FI	00581	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00590	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1733	25.0239	6
-FI	00600	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2202	24.9628	6
+FI	00590	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1733	25.0239	6
+FI	00600	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2202	24.9628	6
 FI	00601	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00610	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2124	24.9475	6
-FI	00620	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2239	24.9427	6
+FI	00610	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2124	24.9475	6
+FI	00620	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2239	24.9427	6
 FI	00621	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00630	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2325	24.9294	6
-FI	00640	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.233	24.9628	6
+FI	00630	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2325	24.9294	6
+FI	00640	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.233	24.9628	6
 FI	00641	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00650	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2278	24.9736	6
-FI	00660	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2418	24.9297	6
+FI	00650	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2278	24.9736	6
+FI	00660	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2418	24.9297	6
 FI	00661	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00670	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2516	24.9326	6
+FI	00670	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2516	24.9326	6
 FI	00671	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00680	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2455	24.956	6
-FI	00690	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2606	24.9538	6
-FI	00700	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.252	25.0171	6
+FI	00680	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2455	24.956	6
+FI	00690	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2606	24.9538	6
+FI	00700	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.252	25.0171	6
 FI	00701	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00710	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2328	25.006	6
+FI	00710	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2328	25.006	6
 FI	00711	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00720	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2448	24.9912	6
+FI	00720	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2448	24.9912	6
 FI	00721	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00730	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2659	25.0206	6
-FI	00740	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2745	24.9978	6
+FI	00730	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2659	25.0206	6
+FI	00740	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2745	24.9978	6
 FI	00741	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00750	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2793	25.0317	6
+FI	00750	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2793	25.0317	6
 FI	00751	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00760	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2711	25.0596	6
+FI	00760	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2711	25.0596	6
 FI	00761	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00770	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2585	25.0682	6
+FI	00770	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2585	25.0682	6
 FI	00771	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00780	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2583	24.9881	6
+FI	00780	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2583	24.9881	6
 FI	00781	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00790	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2295	25.0315	6
+FI	00790	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2295	25.0315	6
 FI	00791	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00800	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2082	25.0404	6
-FI	00810	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1909	25.0337	6
+FI	00800	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2082	25.0404	6
+FI	00810	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1909	25.0337	6
 FI	00811	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00820	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2004	25.06	6
-FI	00830	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1901	25.064	6
-FI	00840	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.176	25.0512	6
-FI	00850	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1629	25.0792	6
-FI	00860	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1462	25.0442	6
+FI	00820	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2004	25.06	6
+FI	00830	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1901	25.064	6
+FI	00840	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.176	25.0512	6
+FI	00850	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1629	25.0792	6
+FI	00860	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1462	25.0442	6
 FI	00861	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00870	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.1642	25.0477	6
-FI	00880	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2031	25.0475	6
-FI	00890	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2606	25.2017	6
-FI	00900	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2154	25.0857	6
-FI	00910	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2133	25.102	6
-FI	00920	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2234	25.0671	6
+FI	00870	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1642	25.0477	6
+FI	00880	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2031	25.0475	6
+FI	00890	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2606	25.2017	6
+FI	00900	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2154	25.0857	6
+FI	00910	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2133	25.102	6
+FI	00920	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2234	25.0671	6
 FI	00921	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00930	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2039	25.0847	6
+FI	00930	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2039	25.0847	6
 FI	00931	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00940	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2378	25.0835	6
+FI	00940	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2378	25.0835	6
 FI	00941	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00950	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2222	25.1062	6
-FI	00960	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2204	25.1408	6
-FI	00970	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2344	25.1143	6
+FI	00950	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2222	25.1062	6
+FI	00960	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2204	25.1408	6
+FI	00970	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2344	25.1143	6
 FI	00971	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00980	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2049	25.1322	6
+FI	00980	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2049	25.1322	6
 FI	00981	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.1695	24.9354	5
-FI	00990	Helsinki                      	Uusimaa	01	Helsinki	011	Helsinki	091	60.2047	25.1555	6
-FI	01120	Västerskog                    	Uusimaa	01	Helsinki	011	Sipoo	753	60.2461	25.2713	6
-FI	01150	Söderkulla                    	Uusimaa	01	Helsinki	011	Sipoo	753	60.2855	25.3309	6
+FI	00990	Helsinki	Uusimaa	01	Helsinki	011	Helsinki	091	60.2047	25.1555	6
+FI	01120	Västerskog	Uusimaa	01	Helsinki	011	Sipoo	753	60.2461	25.2713	6
+FI	01150	Söderkulla	Uusimaa	01	Helsinki	011	Sipoo	753	60.2855	25.3309	6
 FI	01151	Söderkulla	Uusimaa	01	Helsinki	011	Sipoo	753	60.3005	25.3271	5
-FI	01180	Kalkkiranta                   	Uusimaa	01	Helsinki	011	Sipoo	753	60.2581	25.4029	6
-FI	01190	Box                           	Uusimaa	01	Helsinki	011	Sipoo	753	60.3091	25.3942	6
-FI	01200	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2805	25.1253	6
+FI	01180	Kalkkiranta	Uusimaa	01	Helsinki	011	Sipoo	753	60.2581	25.4029	6
+FI	01190	Box	Uusimaa	01	Helsinki	011	Sipoo	753	60.3091	25.3942	6
+FI	01200	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2805	25.1253	6
 FI	01201	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2941	25.041	5
-FI	01230	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2657	25.0957	6
-FI	01260	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.297	25.1182	6
+FI	01230	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2657	25.0957	6
+FI	01260	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.297	25.1182	6
 FI	01261	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2941	25.041	5
-FI	01280	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2484	25.1009	6
-FI	01300	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2949	25.0223	6
+FI	01280	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2484	25.1009	6
+FI	01300	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2949	25.0223	6
 FI	01301	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2941	25.041	5
-FI	01340	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.3241	25.0398	6
-FI	01350	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.3085	25.036	6
+FI	01340	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.3241	25.0398	6
+FI	01350	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.3085	25.036	6
 FI	01351	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2941	25.041	5
-FI	01360	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.32	25.0619	6
+FI	01360	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.32	25.0619	6
 FI	01361	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2941	25.041	5
-FI	01370	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2978	25.0613	6
-FI	01380	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2835	25.074	6
-FI	01390	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.324	25.0138	6
+FI	01370	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2978	25.0613	6
+FI	01380	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2835	25.074	6
+FI	01390	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.324	25.0138	6
 FI	01391	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2941	25.041	5
-FI	01400	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.3315	25.0739	6
-FI	01420	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.3254	25.1041	6
-FI	01450	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.3553	25.0718	6
+FI	01400	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.3315	25.0739	6
+FI	01420	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.3254	25.1041	6
+FI	01450	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.3553	25.0718	6
 FI	01451	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2941	25.041	5
-FI	01480	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.3464	25.1076	6
-FI	01490	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.3463	25.1368	6
-FI	01510	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2897	24.9698	6
+FI	01480	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.3464	25.1076	6
+FI	01490	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.3463	25.1368	6
+FI	01510	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2897	24.9698	6
 FI	01511	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2941	25.041	5
-FI	01520	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2775	24.9632	6
-FI	01530	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.3093	24.959	6
+FI	01520	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2775	24.9632	6
+FI	01530	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.3093	24.959	6
 FI	01531	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2941	25.041	5
-FI	01600	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2642	24.8511	6
+FI	01600	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2642	24.8511	6
 FI	01601	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2941	25.041	5
-FI	01610	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2626	24.8755	6
+FI	01610	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2626	24.8755	6
 FI	01611	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2941	25.041	5
-FI	01620	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2799	24.8537	6
+FI	01620	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2799	24.8537	6
 FI	01621	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2941	25.041	5
-FI	01630	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2673	24.7939	6
-FI	01640	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2522	24.7985	6
+FI	01630	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2673	24.7939	6
+FI	01640	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2522	24.7985	6
 FI	01641	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2941	25.041	5
-FI	01650	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2624	24.8251	6
+FI	01650	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2624	24.8251	6
 FI	01651	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2941	25.041	5
-FI	01660	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2697	24.8155	6
+FI	01660	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2697	24.8155	6
 FI	01661	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2941	25.041	5
-FI	01670	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2816	24.8739	6
+FI	01670	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2816	24.8739	6
 FI	01671	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2941	25.041	5
-FI	01680	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2839	24.7825	6
-FI	01690	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2818	24.9148	6
-FI	01700	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.3249	24.8452	6
-FI	01710	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2592	24.802	6
+FI	01680	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2839	24.7825	6
+FI	01690	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2818	24.9148	6
+FI	01700	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.3249	24.8452	6
+FI	01710	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2592	24.802	6
 FI	01711	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2941	25.041	5
-FI	01720	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2808	24.8171	6
+FI	01720	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2808	24.8171	6
 FI	01721	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2941	25.041	5
-FI	01730	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.3186	24.8671	6
-FI	01740	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2958	24.893	6
+FI	01730	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.3186	24.8671	6
+FI	01740	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2958	24.893	6
 FI	01741	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2941	25.041	5
-FI	01750	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.3402	24.7951	6
-FI	01760	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.3582	24.867	6
-FI	01770	Vantaa                        	Uusimaa	01	Helsinki	011	Vantaa	092	60.2886	24.8558	6
+FI	01750	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.3402	24.7951	6
+FI	01760	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.3582	24.867	6
+FI	01770	Vantaa	Uusimaa	01	Helsinki	011	Vantaa	092	60.2886	24.8558	6
 FI	01800	Klaukkala	Uusimaa	01	Helsinki	011	Nurmijärvi	543	60.3854	24.7351	6
 FI	01801	Klaukkala	Uusimaa	01	Helsinki	011	Nurmijärvi	543	60.3824	24.751	5
 FI	01810	Luhtajoki	Uusimaa	01	Helsinki	011	Nurmijärvi	543	60.4056	24.8026	6
@@ -212,99 +212,99 @@ FI	01860	Perttula	Uusimaa	01	Helsinki	011	Nurmijärvi	543	60.4387	24.6832	6
 FI	01900	Nurmijärvi	Uusimaa	01	Helsinki	011	Nurmijärvi	543	60.4702	24.8264	6
 FI	01901	Nurmijärvi	Uusimaa	01	Helsinki	011	Nurmijärvi	543	60.4641	24.8073	5
 FI	01940	Palojoki	Uusimaa	01	Helsinki	011	Nurmijärvi	543	60.4204	24.8608	6
-FI	02100	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1703	24.8086	6
+FI	02100	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1703	24.8086	6
 FI	02101	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02110	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1784	24.8169	6
-FI	02120	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1728	24.7902	6
-FI	02130	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1887	24.7918	6
+FI	02110	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1784	24.8169	6
+FI	02120	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1728	24.7902	6
+FI	02130	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1887	24.7918	6
 FI	02131	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02140	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2025	24.8029	6
-FI	02150	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1833	24.8296	6
+FI	02140	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2025	24.8029	6
+FI	02150	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1833	24.8296	6
 FI	02151	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02160	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1597	24.7984	6
-FI	02170	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1627	24.7737	6
+FI	02160	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1597	24.7984	6
+FI	02170	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1627	24.7737	6
 FI	02171	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02180	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1955	24.7659	6
-FI	02200	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1754	24.7605	6
-FI	02201	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2224	24.7437	6
-FI	02210	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1736	24.7273	6
+FI	02180	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1955	24.7659	6
+FI	02200	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1754	24.7605	6
+FI	02201	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2224	24.7437	6
+FI	02210	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1736	24.7273	6
 FI	02211	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02230	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1525	24.7465	6
+FI	02230	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1525	24.7465	6
 FI	02231	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02240	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1677	24.717	6
+FI	02240	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1677	24.717	6
 FI	02241	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02250	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1877	24.73	6
-FI	02260	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1462	24.6951	6
-FI	02270	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1606	24.696	6
+FI	02250	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1877	24.73	6
+FI	02260	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1462	24.6951	6
+FI	02270	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1606	24.696	6
 FI	02271	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02280	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1742	24.6842	6
-FI	02290	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1766	24.704	6
-FI	02300	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1604	24.6721	6
-FI	02320	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1466	24.6458	6
+FI	02280	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1742	24.6842	6
+FI	02290	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1766	24.704	6
+FI	02300	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1604	24.6721	6
+FI	02320	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1466	24.6458	6
 FI	02321	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02330	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1663	24.6404	6
-FI	02340	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1781	24.6586	6
-FI	02360	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.137	24.6732	6
+FI	02330	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1663	24.6404	6
+FI	02340	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1781	24.6586	6
+FI	02360	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.137	24.6732	6
 FI	02361	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02380	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1143	24.7127	6
-FI	02390	Sarvvik                       	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.1456	24.5976	6
-FI	02400	Kirkkonummi                   	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.1333	24.4403	6
-FI	02401	Kirkkonummi                   	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.1048	24.4263	6
-FI	02410	Kirkkonummi                   	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.137	24.4476	6
-FI	02420	Jorvas                        	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.1031	24.5686	6
+FI	02380	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1143	24.7127	6
+FI	02390	Sarvvik	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.1456	24.5976	6
+FI	02400	Kirkkonummi	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.1333	24.4403	6
+FI	02401	Kirkkonummi	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.1048	24.4263	6
+FI	02410	Kirkkonummi	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.137	24.4476	6
+FI	02420	Jorvas	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.1031	24.5686	6
 FI	02421	Jorvas	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.1362	24.5106	5
-FI	02430	Masala                        	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.1621	24.5302	6
+FI	02430	Masala	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.1621	24.5302	6
 FI	02431	Masala	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.1576	24.529	5
-FI	02440	Luoma                         	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.1788	24.5316	6
-FI	02450	Sundsberg                     	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.1568	24.5573	6
-FI	02460	Kantvik                       	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.0928	24.4003	6
-FI	02470	Upinniemi                     	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.0264	24.3724	6
-FI	02471	Upinniemi                     	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.0362	24.3662	6
-FI	02480	Kirkkonummi                   	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.0523	24.448	6
-FI	02490	Pikkala                       	Uusimaa	01	Helsinki	011	Siuntio	755	60.0863	24.3254	6
-FI	02510	Oitmäki                       	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.2087	24.4936	6
-FI	02520	Lapinkylä                     	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.2189	24.4451	6
-FI	02540	Kylmälä                       	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.2399	24.3913	6
-FI	02550	Evitskog                      	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.2025	24.3458	6
-FI	02570	Siuntio Kk                    	Uusimaa	01	Helsinki	011	Siuntio	755	60.2144	24.2404	6
-FI	02580	Siuntio                       	Uusimaa	01	Helsinki	011	Siuntio	755	60.1264	24.2468	6
-FI	02590	Lappers                       	Uusimaa	01	Helsinki	011	Siuntio	755	60.1778	24.114	6
-FI	02600	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2122	24.8066	6
+FI	02440	Luoma	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.1788	24.5316	6
+FI	02450	Sundsberg	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.1568	24.5573	6
+FI	02460	Kantvik	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.0928	24.4003	6
+FI	02470	Upinniemi	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.0264	24.3724	6
+FI	02471	Upinniemi	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.0362	24.3662	6
+FI	02480	Kirkkonummi	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.0523	24.448	6
+FI	02490	Pikkala	Uusimaa	01	Helsinki	011	Siuntio	755	60.0863	24.3254	6
+FI	02510	Oitmäki	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.2087	24.4936	6
+FI	02520	Lapinkylä	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.2189	24.4451	6
+FI	02540	Kylmälä	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.2399	24.3913	6
+FI	02550	Evitskog	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.2025	24.3458	6
+FI	02570	Siuntio Kk	Uusimaa	01	Helsinki	011	Siuntio	755	60.2144	24.2404	6
+FI	02580	Siuntio	Uusimaa	01	Helsinki	011	Siuntio	755	60.1264	24.2468	6
+FI	02590	Lappers	Uusimaa	01	Helsinki	011	Siuntio	755	60.1778	24.114	6
+FI	02600	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2122	24.8066	6
 FI	02601	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02610	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2194	24.7749	6
+FI	02610	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2194	24.7749	6
 FI	02611	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02620	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2356	24.7711	6
+FI	02620	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2356	24.7711	6
 FI	02621	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02630	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2119	24.7669	6
+FI	02630	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2119	24.7669	6
 FI	02631	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02650	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2259	24.8221	6
-FI	02660	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2368	24.8118	6
+FI	02650	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2259	24.8221	6
+FI	02660	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2368	24.8118	6
 FI	02661	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02680	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2406	24.829	6
-FI	02700	Kauniainen                    	Uusimaa	01	Helsinki	011	Kauniainen	235	60.2145	24.7201	6
+FI	02680	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2406	24.829	6
+FI	02700	Kauniainen	Uusimaa	01	Helsinki	011	Kauniainen	235	60.2145	24.7201	6
 FI	02701	Kauniainen	Uusimaa	01	Helsinki	011	Kauniainen	235	60.2121	24.7276	5
-FI	02710	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2286	24.7428	6
+FI	02710	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2286	24.7428	6
 FI	02711	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02720	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2402	24.7457	6
-FI	02730	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2501	24.7661	6
-FI	02740	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2475	24.6606	6
-FI	02750	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2001	24.7226	6
-FI	02760	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2005	24.6817	6
+FI	02720	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2402	24.7457	6
+FI	02730	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2501	24.7661	6
+FI	02740	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2475	24.6606	6
+FI	02750	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2001	24.7226	6
+FI	02760	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2005	24.6817	6
 FI	02761	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02770	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2041	24.6476	6
+FI	02770	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2041	24.6476	6
 FI	02771	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02780	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.1883	24.5944	6
+FI	02780	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.1883	24.5944	6
 FI	02781	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02810	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2234	24.6306	6
-FI	02820	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2605	24.5714	6
-FI	02860	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2779	24.5259	6
-FI	02880	Veikkola                      	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.2721	24.4334	6
-FI	02920	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2791	24.7407	6
+FI	02810	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2234	24.6306	6
+FI	02820	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2605	24.5714	6
+FI	02860	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2779	24.5259	6
+FI	02880	Veikkola	Uusimaa	01	Helsinki	011	Kirkkonummi	257	60.2721	24.4334	6
+FI	02920	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2791	24.7407	6
 FI	02921	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02940	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.2445	24.7079	6
+FI	02940	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2445	24.7079	6
 FI	02941	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.2052	24.6522	5
-FI	02970	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.3126	24.7327	6
-FI	02980	Espoo                         	Uusimaa	01	Helsinki	011	Espoo	049	60.3358	24.6403	6
+FI	02970	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.3126	24.7327	6
+FI	02980	Espoo	Uusimaa	01	Helsinki	011	Espoo	049	60.3358	24.6403	6
 FI	03100	Nummela	Uusimaa	01	Helsinki	011	Vihti	927	60.3394	24.3041	6
 FI	03101	Nummela	Uusimaa	01	Helsinki	011	Vihti	927	60.3334	24.3216	5
 FI	03150	Huhmari	Uusimaa	01	Helsinki	011	Vihti	927	60.2958	24.3593	6
@@ -319,18 +319,18 @@ FI	03601	Karkkila	Uusimaa	01	Helsinki	011	Karkkila	224	60.5271	24.2114
 FI	03620	Karkkila	Uusimaa	01	Helsinki	011	Karkkila	224	60.5359	24.2787	6
 FI	03710	Uusitalo	Uusimaa	01	Helsinki	011	Karkkila	224	60.5239	24.3733	6
 FI	03790	Vihtijärvi	Uusimaa	01	Helsinki	011	Vihti	927	60.5274	24.5373	6
-FI	03810	Ikkala                        	Uusimaa	01	Helsinki	011	Lohja	444	60.4869	24.108	6
-FI	03850	Pusula                        	Uusimaa	01	Helsinki	011	Lohja	444	60.5288	23.9893	6
-FI	03870	Hyönölä                       	Uusimaa	01	Helsinki	011	Lohja	444	60.4658	23.9232	6
-FI	04130	Sipoo                         	Uusimaa	01	Helsinki	011	Sipoo	753	60.3697	25.2742	6
-FI	04131	Sipoo                         	Uusimaa	01	Helsinki	011	Sipoo	753	60.352	25.2674	
-FI	04150	Martinkylä                    	Uusimaa	01	Helsinki	011	Sipoo	753	60.3901	25.2215	6
-FI	04170	Paippinen                     	Uusimaa	01	Helsinki	011	Sipoo	753	60.449	25.2393	6
+FI	03810	Ikkala	Uusimaa	01	Helsinki	011	Lohja	444	60.4869	24.108	6
+FI	03850	Pusula	Uusimaa	01	Helsinki	011	Lohja	444	60.5288	23.9893	6
+FI	03870	Hyönölä	Uusimaa	01	Helsinki	011	Lohja	444	60.4658	23.9232	6
+FI	04130	Sipoo	Uusimaa	01	Helsinki	011	Sipoo	753	60.3697	25.2742	6
+FI	04131	Sipoo	Uusimaa	01	Helsinki	011	Sipoo	753	60.352	25.2674	
+FI	04150	Martinkylä	Uusimaa	01	Helsinki	011	Sipoo	753	60.3901	25.2215	6
+FI	04170	Paippinen	Uusimaa	01	Helsinki	011	Sipoo	753	60.449	25.2393	6
 FI	04200	Kerava	Uusimaa	01	Helsinki	011	Kerava	245	60.406	25.096	6
 FI	04201	Kerava	Uusimaa	01	Helsinki	011	Kerava	245	60.4034	25.105	5
 FI	04220	Kerava	Uusimaa	01	Helsinki	011	Kerava	245	60.402	25.1435	6
 FI	04230	Kerava	Uusimaa	01	Helsinki	011	Kerava	245	60.4192	25.0952	6
-FI	04240	Talma                         	Uusimaa	01	Helsinki	011	Sipoo	753	60.4078	25.1774	6
+FI	04240	Talma	Uusimaa	01	Helsinki	011	Sipoo	753	60.4078	25.1774	6
 FI	04250	Kerava	Uusimaa	01	Helsinki	011	Kerava	245	60.3903	25.1153	6
 FI	04251	Kerava	Uusimaa	01	Helsinki	011	Kerava	245	60.405	25.1295	6
 FI	04260	Kerava	Uusimaa	01	Helsinki	011	Kerava	245	60.3808	25.0914	6
@@ -398,101 +398,101 @@ FI	05880	Hyvinkää	Uusimaa	01	Helsinki	011	Hyvinkää	106	60.6476	24.8306	6
 FI	05900	Hyvinkää	Uusimaa	01	Helsinki	011	Hyvinkää	106	60.6348	24.8421	6
 FI	05901	Hyvinkää	Uusimaa	01	Helsinki	011	Hyvinkää	106	60.6333	24.8667	5
 FI	05950	Hyvinkää	Uusimaa	01	Helsinki	011	Hyvinkää	106	60.6514	25.0219	6
-FI	06880	Kärrby                        	Uusimaa	01	Helsinki	011	Sipoo	753	60.2512	25.4704	6
+FI	06880	Kärrby	Uusimaa	01	Helsinki	011	Sipoo	753	60.2512	25.4704	6
 FI	07150	Laukkoski	Uusimaa	01	Helsinki	011	Pornainen	611	60.4364	25.39	6
 FI	07170	Pornainen	Uusimaa	01	Helsinki	011	Pornainen	611	60.4782	25.3689	6
 FI	07171	Pornainen	Uusimaa	01	Helsinki	011	Pornainen	611	60.4665	25.3891	
 FI	07190	Halkia	Uusimaa	01	Helsinki	011	Pornainen	611	60.5186	25.291	4
-FI	08100	Lohja                         	Uusimaa	01	Helsinki	011	Lohja	444	60.2568	24.0146	6
+FI	08100	Lohja	Uusimaa	01	Helsinki	011	Lohja	444	60.2568	24.0146	6
 FI	08101	Lohja	Uusimaa	01	Helsinki	011	Lohja	444	60.2486	24.0653	5
-FI	08150	Lohja                         	Uusimaa	01	Helsinki	011	Lohja	444	60.2414	24.0832	6
+FI	08150	Lohja	Uusimaa	01	Helsinki	011	Lohja	444	60.2414	24.0832	6
 FI	08151	Lohja	Uusimaa	01	Helsinki	011	Lohja	444	60.2486	24.0653	5
-FI	08200	Lohja                         	Uusimaa	01	Helsinki	011	Lohja	444	60.2296	24.0261	6
+FI	08200	Lohja	Uusimaa	01	Helsinki	011	Lohja	444	60.2296	24.0261	6
 FI	08201	Lohja	Uusimaa	01	Helsinki	011	Lohja	444	60.2486	24.0653	5
-FI	08350	Lohja                         	Uusimaa	01	Helsinki	011	Lohja	444	60.2875	24.0463	6
-FI	08360	Lohja                         	Uusimaa	01	Helsinki	011	Lohja	444	60.3221	24.0408	6
-FI	08450	Lohja                         	Uusimaa	01	Helsinki	011	Lohja	444	60.2713	23.9952	
-FI	08480	Lohja                         	Uusimaa	01	Helsinki	011	Lohja	444	60.3027	23.9367	6
-FI	08500	Lohja                         	Uusimaa	01	Helsinki	011	Lohja	444	60.3	24.1394	6
+FI	08350	Lohja	Uusimaa	01	Helsinki	011	Lohja	444	60.2875	24.0463	6
+FI	08360	Lohja	Uusimaa	01	Helsinki	011	Lohja	444	60.3221	24.0408	6
+FI	08450	Lohja	Uusimaa	01	Helsinki	011	Lohja	444	60.2713	23.9952	
+FI	08480	Lohja	Uusimaa	01	Helsinki	011	Lohja	444	60.3027	23.9367	6
+FI	08500	Lohja	Uusimaa	01	Helsinki	011	Lohja	444	60.3	24.1394	6
 FI	08501	Lohja	Uusimaa	01	Helsinki	011	Lohja	444	60.2486	24.0653	5
-FI	08680	Lohja                         	Uusimaa	01	Helsinki	011	Lohja	444	60.2886	24.2059	6
-FI	08700	Lohja                         	Uusimaa	01	Helsinki	011	Lohja	444	60.2007	24	6
+FI	08680	Lohja	Uusimaa	01	Helsinki	011	Lohja	444	60.2886	24.2059	6
+FI	08700	Lohja	Uusimaa	01	Helsinki	011	Lohja	444	60.2007	24	6
 FI	08701	Lohja	Uusimaa	01	Helsinki	011	Lohja	444	60.2486	24.0653	5
-FI	08800	Lohja                         	Uusimaa	01	Helsinki	011	Lohja	444	60.2075	23.8845	6
-FI	09120	Karjalohja                    	Uusimaa	01	Helsinki	011	Lohja	444	60.2506	23.7101	
-FI	09220	Sammatti                      	Uusimaa	01	Helsinki	011	Lohja	444	60.334	23.8204	6
-FI	09430	Saukkola                      	Uusimaa	01	Helsinki	011	Lohja	444	60.3755	23.9781	6
-FI	09520	Millola                       	Uusimaa	01	Helsinki	011	Lohja	444	60.3409	24.0258	6
-FI	09630	Koisjärvi                     	Uusimaa	01	Helsinki	011	Lohja	444	60.3851	24.1116	6
-FI	09810	Nummi                         	Uusimaa	01	Helsinki	011	Lohja	444	60.4093	23.8929	6
-FI	09930	Leppäkorpi                    	Uusimaa	01	Helsinki	011	Lohja	444	60.4645	23.8094	6
-FI	10120	Tähtelä                       	Uusimaa	01	Raaseporin	014	Ingå	149	60.0935	24.0424	6
-FI	10140	Päivölä                       	Uusimaa	01	Raaseporin	014	Ingå	149	60.108	24.095	6
-FI	10160	Degerby                       	Uusimaa	01	Raaseporin	014	Ingå	149	60.0631	24.184	6
-FI	10210	Inkoo                         	Uusimaa	01	Raaseporin	014	Ingå	149	60.0365	24.0206	6
+FI	08800	Lohja	Uusimaa	01	Helsinki	011	Lohja	444	60.2075	23.8845	6
+FI	09120	Karjalohja	Uusimaa	01	Helsinki	011	Lohja	444	60.2506	23.7101	
+FI	09220	Sammatti	Uusimaa	01	Helsinki	011	Lohja	444	60.334	23.8204	6
+FI	09430	Saukkola	Uusimaa	01	Helsinki	011	Lohja	444	60.3755	23.9781	6
+FI	09520	Millola	Uusimaa	01	Helsinki	011	Lohja	444	60.3409	24.0258	6
+FI	09630	Koisjärvi	Uusimaa	01	Helsinki	011	Lohja	444	60.3851	24.1116	6
+FI	09810	Nummi	Uusimaa	01	Helsinki	011	Lohja	444	60.4093	23.8929	6
+FI	09930	Leppäkorpi	Uusimaa	01	Helsinki	011	Lohja	444	60.4645	23.8094	6
+FI	10120	Tähtelä	Uusimaa	01	Raaseporin	014	Ingå	149	60.0935	24.0424	6
+FI	10140	Päivölä	Uusimaa	01	Raaseporin	014	Ingå	149	60.108	24.095	6
+FI	10160	Degerby	Uusimaa	01	Raaseporin	014	Ingå	149	60.0631	24.184	6
+FI	10210	Inkoo	Uusimaa	01	Raaseporin	014	Ingå	149	60.0365	24.0206	6
 FI	10211	Inkoo	Uusimaa	01	Raaseporin	014	Ingå	149	60.0459	24.0046	5
-FI	10230	Inkoo As                      	Uusimaa	01	Raaseporin	014	Ingå	149	60.0783	23.9144	6
-FI	10250	Fagervik                      	Uusimaa	01	Raaseporin	014	Ingå	149	60.0105	23.8381	6
-FI	10270	Barösund                      	Uusimaa	01	Raaseporin	014	Ingå	149	59.9574	23.9042	6
-FI	10300	Karjaa                        	Uusimaa	01	Raaseporin	014	Raseborg	710	60.0814	23.6864	6
+FI	10230	Inkoo As	Uusimaa	01	Raaseporin	014	Ingå	149	60.0783	23.9144	6
+FI	10250	Fagervik	Uusimaa	01	Raaseporin	014	Ingå	149	60.0105	23.8381	6
+FI	10270	Barösund	Uusimaa	01	Raaseporin	014	Ingå	149	59.9574	23.9042	6
+FI	10300	Karjaa	Uusimaa	01	Raaseporin	014	Raseborg	710	60.0814	23.6864	6
 FI	10301	Karjaa	Uusimaa	01	Raaseporin	014	Raseborg	710	60.0718	23.6616	5
-FI	10320	Karjaa                        	Uusimaa	01	Raaseporin	014	Raseborg	710	60.0584	23.6506	6
-FI	10330	Pinjainen                     	Uusimaa	01	Raaseporin	014	Raseborg	710	60.0852	23.6376	6
-FI	10350	Meltola                       	Uusimaa	01	Raaseporin	014	Raseborg	710	60.1092	23.798	6
-FI	10360	Mustio                        	Uusimaa	01	Raaseporin	014	Raseborg	710	60.1558	23.8531	6
-FI	10380	Kaunislahti                   	Uusimaa	01	Raaseporin	014	Raseborg	710	60.066	23.8137	6
-FI	10410	Åminnefors                    	Uusimaa	01	Raaseporin	014	Raseborg	710	60.0953	23.5833	6
-FI	10420	Pohjankuru                    	Uusimaa	01	Raaseporin	014	Raseborg	710	60.0993	23.4876	6
+FI	10320	Karjaa	Uusimaa	01	Raaseporin	014	Raseborg	710	60.0584	23.6506	6
+FI	10330	Pinjainen	Uusimaa	01	Raaseporin	014	Raseborg	710	60.0852	23.6376	6
+FI	10350	Meltola	Uusimaa	01	Raaseporin	014	Raseborg	710	60.1092	23.798	6
+FI	10360	Mustio	Uusimaa	01	Raaseporin	014	Raseborg	710	60.1558	23.8531	6
+FI	10380	Kaunislahti	Uusimaa	01	Raaseporin	014	Raseborg	710	60.066	23.8137	6
+FI	10410	Åminnefors	Uusimaa	01	Raaseporin	014	Raseborg	710	60.0953	23.5833	6
+FI	10420	Pohjankuru	Uusimaa	01	Raaseporin	014	Raseborg	710	60.0993	23.4876	6
 FI	10421	Pohjankuru	Uusimaa	01	Raaseporin	014	Raseborg	710	60.1012	23.5534	5
-FI	10440	Bollsta                       	Uusimaa	01	Raaseporin	014	Raseborg	710	60.1126	23.5225	
-FI	10470	Fiskari                       	Uusimaa	01	Raaseporin	014	Raseborg	710	60.1292	23.5532	6
-FI	10480	Antskog                       	Uusimaa	01	Raaseporin	014	Raseborg	710	60.1753	23.5852	6
-FI	10520	Tenhola                       	Uusimaa	01	Raaseporin	014	Raseborg	710	60.0523	23.2472	6
-FI	10570	Bromarv                       	Uusimaa	01	Raaseporin	014	Raseborg	710	59.9661	22.9727	6
-FI	10600	Tammisaari                    	Uusimaa	01	Raaseporin	014	Raseborg	710	59.9443	23.4635	6
+FI	10440	Bollsta	Uusimaa	01	Raaseporin	014	Raseborg	710	60.1126	23.5225	
+FI	10470	Fiskari	Uusimaa	01	Raaseporin	014	Raseborg	710	60.1292	23.5532	6
+FI	10480	Antskog	Uusimaa	01	Raaseporin	014	Raseborg	710	60.1753	23.5852	6
+FI	10520	Tenhola	Uusimaa	01	Raaseporin	014	Raseborg	710	60.0523	23.2472	6
+FI	10570	Bromarv	Uusimaa	01	Raaseporin	014	Raseborg	710	59.9661	22.9727	6
+FI	10600	Tammisaari	Uusimaa	01	Raaseporin	014	Raseborg	710	59.9443	23.4635	6
 FI	10601	Tammisaari	Uusimaa	01	Raaseporin	014	Raseborg	710	59.9736	23.4339	5
 FI	10611	Raasepori	Uusimaa	01	Raaseporin	014	Raseborg	710	59.9773	23.4397	5
-FI	10620	Tammisaari                    	Uusimaa	01	Raaseporin	014	Raseborg	710	59.9987	23.4234	6
-FI	10640	Dragsvik                      	Uusimaa	01	Raaseporin	014	Raseborg	710	59.9955	23.5139	6
+FI	10620	Tammisaari	Uusimaa	01	Raaseporin	014	Raseborg	710	59.9987	23.4234	6
+FI	10640	Dragsvik	Uusimaa	01	Raaseporin	014	Raseborg	710	59.9955	23.5139	6
 FI	10641	Dragsvik	Uusimaa	01	Raaseporin	014	Raseborg	710	59.9876	23.4968	5
-FI	10650	Tammisaari                    	Uusimaa	01	Raaseporin	014	Raseborg	710	59.969	23.4667	6
-FI	10660	Tammisaari                    	Uusimaa	01	Raaseporin	014	Raseborg	710	59.9674	23.3838	6
-FI	10680	Skogby                        	Uusimaa	01	Raaseporin	014	Raseborg	710	59.9284	23.2993	6
-FI	10710	Snappertuna                   	Uusimaa	01	Raaseporin	014	Raseborg	710	59.9782	23.7238	
-FI	10820	Lappohja                      	Uusimaa	01	Raaseporin	014	Hanko	078	59.9	23.2364	6
-FI	10900	Hanko                         	Uusimaa	01	Raaseporin	014	Hanko	078	59.843	23.0317	6
-FI	10901	Hanko                         	Uusimaa	01	Raaseporin	014	Hanko	078	59.8494	23.0346	
-FI	10940	Hangonkylä                    	Uusimaa	01	Raaseporin	014	Hanko	078	59.8325	22.9401	6
-FI	10960	Hanko Pohjoinen               	Uusimaa	01	Raaseporin	014	Hanko	078	59.8347	22.9925	6
-FI	06100	Porvoo                        	Uusimaa	01	Porvoo	015	Porvoo	638	60.3973	25.6617	6
-FI	06101	Porvoo                        	Uusimaa	01	Porvoo	015	Porvoo	638	60.3079	25.5441	6
-FI	06150	Porvoo                        	Uusimaa	01	Porvoo	015	Porvoo	638	60.3905	25.7015	6
+FI	10650	Tammisaari	Uusimaa	01	Raaseporin	014	Raseborg	710	59.969	23.4667	6
+FI	10660	Tammisaari	Uusimaa	01	Raaseporin	014	Raseborg	710	59.9674	23.3838	6
+FI	10680	Skogby	Uusimaa	01	Raaseporin	014	Raseborg	710	59.9284	23.2993	6
+FI	10710	Snappertuna	Uusimaa	01	Raaseporin	014	Raseborg	710	59.9782	23.7238	
+FI	10820	Lappohja	Uusimaa	01	Raaseporin	014	Hanko	078	59.9	23.2364	6
+FI	10900	Hanko	Uusimaa	01	Raaseporin	014	Hanko	078	59.843	23.0317	6
+FI	10901	Hanko	Uusimaa	01	Raaseporin	014	Hanko	078	59.8494	23.0346	
+FI	10940	Hangonkylä	Uusimaa	01	Raaseporin	014	Hanko	078	59.8325	22.9401	6
+FI	10960	Hanko Pohjoinen	Uusimaa	01	Raaseporin	014	Hanko	078	59.8347	22.9925	6
+FI	06100	Porvoo	Uusimaa	01	Porvoo	015	Porvoo	638	60.3973	25.6617	6
+FI	06101	Porvoo	Uusimaa	01	Porvoo	015	Porvoo	638	60.3079	25.5441	6
+FI	06150	Porvoo	Uusimaa	01	Porvoo	015	Porvoo	638	60.3905	25.7015	6
 FI	06151	Porvoo	Uusimaa	01	Porvoo	015	Porvoo	638	60.3923	25.6651	5
-FI	06200	Porvoo                        	Uusimaa	01	Porvoo	015	Porvoo	638	60.3279	25.7829	6
-FI	06400	Porvoo                        	Uusimaa	01	Porvoo	015	Porvoo	638	60.3653	25.6241	6
+FI	06200	Porvoo	Uusimaa	01	Porvoo	015	Porvoo	638	60.3279	25.7829	6
+FI	06400	Porvoo	Uusimaa	01	Porvoo	015	Porvoo	638	60.3653	25.6241	6
 FI	06401	Porvoo	Uusimaa	01	Porvoo	015	Porvoo	638	60.3923	25.6651	5
-FI	06450	Porvoo                        	Uusimaa	01	Porvoo	015	Porvoo	638	60.3765	25.6048	6
-FI	06500	Porvoo                        	Uusimaa	01	Porvoo	015	Porvoo	638	60.4315	25.6141	6
-FI	06530	Kerkkoo                       	Uusimaa	01	Porvoo	015	Porvoo	638	60.4586	25.6288	6
-FI	06650	Hamari                        	Uusimaa	01	Porvoo	015	Porvoo	638	60.3615	25.6332	6
-FI	06750	Tolkkinen                     	Uusimaa	01	Porvoo	015	Porvoo	638	60.3412	25.5831	6
-FI	06830	Kulloonkylä                   	Uusimaa	01	Porvoo	015	Porvoo	638	60.345	25.4877	6
-FI	06850	Kulloo                        	Uusimaa	01	Porvoo	015	Porvoo	638	60.3076	25.5125	6
-FI	06950	Emäsalo                       	Uusimaa	01	Porvoo	015	Porvoo	638	60.2579	25.6258	6
-FI	07110	Hinthaara                     	Uusimaa	01	Porvoo	015	Porvoo	638	60.3995	25.4924	6
-FI	07130	Anttila                       	Uusimaa	01	Porvoo	015	Porvoo	638	60.3843	25.4173	6
-FI	07220	Kaarenkylä                    	Uusimaa	01	Porvoo	015	Porvoo	638	60.4743	25.5354	6
+FI	06450	Porvoo	Uusimaa	01	Porvoo	015	Porvoo	638	60.3765	25.6048	6
+FI	06500	Porvoo	Uusimaa	01	Porvoo	015	Porvoo	638	60.4315	25.6141	6
+FI	06530	Kerkkoo	Uusimaa	01	Porvoo	015	Porvoo	638	60.4586	25.6288	6
+FI	06650	Hamari	Uusimaa	01	Porvoo	015	Porvoo	638	60.3615	25.6332	6
+FI	06750	Tolkkinen	Uusimaa	01	Porvoo	015	Porvoo	638	60.3412	25.5831	6
+FI	06830	Kulloonkylä	Uusimaa	01	Porvoo	015	Porvoo	638	60.345	25.4877	6
+FI	06850	Kulloo	Uusimaa	01	Porvoo	015	Porvoo	638	60.3076	25.5125	6
+FI	06950	Emäsalo	Uusimaa	01	Porvoo	015	Porvoo	638	60.2579	25.6258	6
+FI	07110	Hinthaara	Uusimaa	01	Porvoo	015	Porvoo	638	60.3995	25.4924	6
+FI	07130	Anttila	Uusimaa	01	Porvoo	015	Porvoo	638	60.3843	25.4173	6
+FI	07220	Kaarenkylä	Uusimaa	01	Porvoo	015	Porvoo	638	60.4743	25.5354	6
 FI	07230	Monninkylä	Uusimaa	01	Porvoo	015	Askola	018	60.5043	25.5234	6
 FI	07231	Monninkylä	Uusimaa	01	Porvoo	015	Askola	018	60.4953	25.5398	5
-FI	07280	Ilola                         	Uusimaa	01	Porvoo	015	Porvoo	638	60.4717	25.7662	6
-FI	07310	Sannainen                     	Uusimaa	01	Porvoo	015	Porvoo	638	60.412	25.7887	6
-FI	07320	Jakari                        	Uusimaa	01	Porvoo	015	Porvoo	638	60.4061	25.9003	6
-FI	07350	Gäddrag                       	Uusimaa	01	Porvoo	015	Porvoo	638	60.298	25.8855	6
-FI	07360	Tirmo                         	Uusimaa	01	Porvoo	015	Porvoo	638	60.2531	25.9135	6
-FI	07370	Pellinki                      	Uusimaa	01	Porvoo	015	Porvoo	638	60.2242	25.9347	6
-FI	07390	Suurpellinki                  	Uusimaa	01	Porvoo	015	Porvoo	638	60.2072	25.8446	6
-FI	07410	Kråkö                         	Uusimaa	01	Porvoo	015	Porvoo	638	60.3425	25.6608	6
-FI	07450	Voolahti                      	Uusimaa	01	Porvoo	015	Porvoo	638	60.2912	25.8247	6
+FI	07280	Ilola	Uusimaa	01	Porvoo	015	Porvoo	638	60.4717	25.7662	6
+FI	07310	Sannainen	Uusimaa	01	Porvoo	015	Porvoo	638	60.412	25.7887	6
+FI	07320	Jakari	Uusimaa	01	Porvoo	015	Porvoo	638	60.4061	25.9003	6
+FI	07350	Gäddrag	Uusimaa	01	Porvoo	015	Porvoo	638	60.298	25.8855	6
+FI	07360	Tirmo	Uusimaa	01	Porvoo	015	Porvoo	638	60.2531	25.9135	6
+FI	07370	Pellinki	Uusimaa	01	Porvoo	015	Porvoo	638	60.2242	25.9347	6
+FI	07390	Suurpellinki	Uusimaa	01	Porvoo	015	Porvoo	638	60.2072	25.8446	6
+FI	07410	Kråkö	Uusimaa	01	Porvoo	015	Porvoo	638	60.3425	25.6608	6
+FI	07450	Voolahti	Uusimaa	01	Porvoo	015	Porvoo	638	60.2912	25.8247	6
 FI	07500	Askola	Uusimaa	01	Porvoo	015	Askola	018	60.5319	25.6047	6
 FI	07510	Vakkola	Uusimaa	01	Porvoo	015	Askola	018	60.5238	25.5506	6
 FI	07530	Onkimaa	Uusimaa	01	Porvoo	015	Askola	018	60.5696	25.561	6
@@ -501,71 +501,71 @@ FI	07560	Pukkila	Uusimaa	01	Porvoo	015	Pukkila	616	60.6485	25.5677	6
 FI	07565	Kantele	Uusimaa	01	Porvoo	015	Pukkila	616	60.6664	25.681	6
 FI	07580	Tiilää	Uusimaa	01	Porvoo	015	Askola	018	60.5519	25.6772	6
 FI	07590	Huuvari	Uusimaa	01	Porvoo	015	Askola	018	60.5174	25.7036	6
-FI	07600	Myrskylä                      	Uusimaa	01	Porvoo	015	Mörskom	504	60.6501	25.8599	6
+FI	07600	Myrskylä	Uusimaa	01	Porvoo	015	Mörskom	504	60.6501	25.8599	6
 FI	07601	Myrskylä	Uusimaa	01	Porvoo	015	Mörskom	504	60.6696	25.8475	5
 FI	07680	Juornaankylä	Uusimaa	01	Porvoo	015	Askola	018	60.5717	25.7319	6
-FI	07690	Kankkila                      	Uusimaa	01	Porvoo	015	Mörskom	504	60.6164	25.7461	6
-FI	07700	Koskenkylän Saha              	Uusimaa	01	Loviisa	016	Loviisa	434	60.5057	25.933	6
-FI	07720	Malmgård                      	Uusimaa	01	Loviisa	016	Loviisa	434	60.5412	25.9484	6
-FI	07740	Pernajan Vanhakylä            	Uusimaa	01	Loviisa	016	Loviisa	434	60.4716	25.9076	6
-FI	07750	Isnäs                         	Uusimaa	01	Loviisa	016	Loviisa	434	60.3428	26.0436	6
-FI	07780	Härkäpää                      	Uusimaa	01	Loviisa	016	Loviisa	434	60.3011	25.9712	6
-FI	07800	Lapinjärvi                    	Uusimaa	01	Loviisa	016	Lappträsk	407	60.6246	26.2046	6
-FI	07810	Ingermaninkylä                	Uusimaa	01	Loviisa	016	Lappträsk	407	60.6189	26.1341	6
-FI	07820	Porlammi                      	Uusimaa	01	Loviisa	016	Lappträsk	407	60.6796	26.0112	6
-FI	07830	Pukaro                        	Uusimaa	01	Loviisa	016	Lappträsk	407	60.6768	26.2349	6
-FI	07840	Lindkoski                     	Uusimaa	01	Loviisa	016	Lappträsk	407	60.6314	26.2703	6
-FI	07850	Heikinkylä                    	Uusimaa	01	Loviisa	016	Lappträsk	407	60.5863	26.255	6
-FI	07870	Skinnarby                     	Uusimaa	01	Loviisa	016	Loviisa	434	60.5487	26.1694	6
-FI	07880	Liljendal                     	Uusimaa	01	Loviisa	016	Loviisa	434	60.5644	26.0513	6
-FI	07890	Mickelspiltom                 	Uusimaa	01	Loviisa	016	Loviisa	434	60.617	26.018	6
-FI	07900	Loviisa                       	Uusimaa	01	Loviisa	016	Loviisa	434	60.4207	26.2829	6
-FI	07901	Loviisa                       	Uusimaa	01	Loviisa	016	Loviisa	434	60.3714	26.3475	
-FI	07910	Valko                         	Uusimaa	01	Loviisa	016	Loviisa	434	60.3953	26.2474	6
-FI	07920	Loviisa                       	Uusimaa	01	Loviisa	016	Loviisa	434	60.4417	26.2259	6
-FI	07930	Pernaja                       	Uusimaa	01	Loviisa	016	Loviisa	434	60.4344	26.0498	6
-FI	07940	Loviisa                       	Uusimaa	01	Loviisa	016	Loviisa	434	60.4534	26.255	6
-FI	07945	Kuggom                        	Uusimaa	01	Loviisa	016	Loviisa	434	60.4955	26.181	6
-FI	07955	Tesjoki                       	Uusimaa	01	Loviisa	016	Loviisa	434	60.4695	26.3337	6
-FI	07960	Ahvenkoski                    	Uusimaa	01	Loviisa	016	Loviisa	434	60.4905	26.4389	6
-FI	07970	Ruotsinpyhtää                 	Uusimaa	01	Loviisa	016	Loviisa	434	60.5231	26.4521	6
-FI	07980	Kuninkaankylä                 	Uusimaa	01	Loviisa	016	Loviisa	434	60.5779	26.4675	6
-FI	07990	Ruotsinkylä                   	Uusimaa	01	Loviisa	016	Loviisa	434	60.6199	26.4473	6
-FI	47350	Kimonkylä                     	Uusimaa	01	Loviisa	016	Lappträsk	407	60.7121	26.2904	6
-FI	21600	Parainen                      	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.2705	22.2604	6
-FI	21601	Parainen                      	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.2867	22.1633	
-FI	21610	Kirjala                       	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.3466	22.3791	6
-FI	21630	Lielahti Tl                   	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.294	22.404	6
-FI	21650	Lillandet                     	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.151	22.0162	6
-FI	21660	Nauvo                         	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.1882	21.8626	6
-FI	21661	Nauvo                         	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.0139	21.7781	
-FI	21670	Pärnäinen                     	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.1248	21.7568	6
-FI	21680	Nötö                          	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	59.9484	21.7705	6
-FI	21710	Korppoo                       	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.1487	21.5799	6
-FI	21720	Korpoström                    	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.1049	21.6249	6
-FI	21740	Utö                           	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	59.7883	21.3736	6
-FI	21750	Norrskata                     	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.2629	21.5938	6
-FI	21760	Houtskari                     	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.2263	21.3461	6
-FI	21770	Mossala                       	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.2705	21.4037	6
-FI	23390	Iniö                          	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.3951	21.3419	6
-FI	25650	Strömma                       	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.1888	22.8499	
-FI	25700	Kemiö                         	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.1712	22.7136	6
-FI	25701	Kemiö                         	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.2137	22.7954	6
-FI	25710	Vreta                         	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.1624	22.6331	6
-FI	25730	Mjösund                       	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.2017	22.471	6
-FI	25760	Kiila                         	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.2363	22.8632	6
-FI	25810	Mark                          	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.104	22.7322	6
-FI	25820	Vestlax                       	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.0776	22.7793	6
-FI	25830	Västanfjärd                   	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.0282	22.6982	6
-FI	25840	Nivelax                       	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.0769	22.6265	6
-FI	25860	Björkboda                     	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.1026	22.5424	6
-FI	25870	Dragsfjärd                    	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.0687	22.4569	6
-FI	25900	Taalintehdas                  	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	59.9817	22.4951	6
-FI	25910	Vänoxa                        	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	59.9536	22.6199	6
-FI	25930	Kasnäs                        	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	59.922	22.4257	6
-FI	25940	Hiittinen                     	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	59.8986	22.5193	6
-FI	25950	Rosala                        	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	59.8483	22.4115	6
-FI	25960	Högsåra                       	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	59.9641	22.3662	6
+FI	07690	Kankkila	Uusimaa	01	Porvoo	015	Mörskom	504	60.6164	25.7461	6
+FI	07700	Koskenkylän Saha	Uusimaa	01	Loviisa	016	Loviisa	434	60.5057	25.933	6
+FI	07720	Malmgård	Uusimaa	01	Loviisa	016	Loviisa	434	60.5412	25.9484	6
+FI	07740	Pernajan Vanhakylä	Uusimaa	01	Loviisa	016	Loviisa	434	60.4716	25.9076	6
+FI	07750	Isnäs	Uusimaa	01	Loviisa	016	Loviisa	434	60.3428	26.0436	6
+FI	07780	Härkäpää	Uusimaa	01	Loviisa	016	Loviisa	434	60.3011	25.9712	6
+FI	07800	Lapinjärvi	Uusimaa	01	Loviisa	016	Lappträsk	407	60.6246	26.2046	6
+FI	07810	Ingermaninkylä	Uusimaa	01	Loviisa	016	Lappträsk	407	60.6189	26.1341	6
+FI	07820	Porlammi	Uusimaa	01	Loviisa	016	Lappträsk	407	60.6796	26.0112	6
+FI	07830	Pukaro	Uusimaa	01	Loviisa	016	Lappträsk	407	60.6768	26.2349	6
+FI	07840	Lindkoski	Uusimaa	01	Loviisa	016	Lappträsk	407	60.6314	26.2703	6
+FI	07850	Heikinkylä	Uusimaa	01	Loviisa	016	Lappträsk	407	60.5863	26.255	6
+FI	07870	Skinnarby	Uusimaa	01	Loviisa	016	Loviisa	434	60.5487	26.1694	6
+FI	07880	Liljendal	Uusimaa	01	Loviisa	016	Loviisa	434	60.5644	26.0513	6
+FI	07890	Mickelspiltom	Uusimaa	01	Loviisa	016	Loviisa	434	60.617	26.018	6
+FI	07900	Loviisa	Uusimaa	01	Loviisa	016	Loviisa	434	60.4207	26.2829	6
+FI	07901	Loviisa	Uusimaa	01	Loviisa	016	Loviisa	434	60.3714	26.3475	
+FI	07910	Valko	Uusimaa	01	Loviisa	016	Loviisa	434	60.3953	26.2474	6
+FI	07920	Loviisa	Uusimaa	01	Loviisa	016	Loviisa	434	60.4417	26.2259	6
+FI	07930	Pernaja	Uusimaa	01	Loviisa	016	Loviisa	434	60.4344	26.0498	6
+FI	07940	Loviisa	Uusimaa	01	Loviisa	016	Loviisa	434	60.4534	26.255	6
+FI	07945	Kuggom	Uusimaa	01	Loviisa	016	Loviisa	434	60.4955	26.181	6
+FI	07955	Tesjoki	Uusimaa	01	Loviisa	016	Loviisa	434	60.4695	26.3337	6
+FI	07960	Ahvenkoski	Uusimaa	01	Loviisa	016	Loviisa	434	60.4905	26.4389	6
+FI	07970	Ruotsinpyhtää	Uusimaa	01	Loviisa	016	Loviisa	434	60.5231	26.4521	6
+FI	07980	Kuninkaankylä	Uusimaa	01	Loviisa	016	Loviisa	434	60.5779	26.4675	6
+FI	07990	Ruotsinkylä	Uusimaa	01	Loviisa	016	Loviisa	434	60.6199	26.4473	6
+FI	47350	Kimonkylä	Uusimaa	01	Loviisa	016	Lappträsk	407	60.7121	26.2904	6
+FI	21600	Parainen	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.2705	22.2604	6
+FI	21601	Parainen	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.2867	22.1633	
+FI	21610	Kirjala	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.3466	22.3791	6
+FI	21630	Lielahti Tl	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.294	22.404	6
+FI	21650	Lillandet	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.151	22.0162	6
+FI	21660	Nauvo	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.1882	21.8626	6
+FI	21661	Nauvo	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.0139	21.7781	
+FI	21670	Pärnäinen	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.1248	21.7568	6
+FI	21680	Nötö	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	59.9484	21.7705	6
+FI	21710	Korppoo	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.1487	21.5799	6
+FI	21720	Korpoström	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.1049	21.6249	6
+FI	21740	Utö	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	59.7883	21.3736	6
+FI	21750	Norrskata	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.2629	21.5938	6
+FI	21760	Houtskari	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.2263	21.3461	6
+FI	21770	Mossala	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.2705	21.4037	6
+FI	23390	Iniö	Southwest Finland	02	Åboland-Turunmaa	021	Pargas	445	60.3951	21.3419	6
+FI	25650	Strömma	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.1888	22.8499	
+FI	25700	Kemiö	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.1712	22.7136	6
+FI	25701	Kemiö	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.2137	22.7954	6
+FI	25710	Vreta	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.1624	22.6331	6
+FI	25730	Mjösund	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.2017	22.471	6
+FI	25760	Kiila	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.2363	22.8632	6
+FI	25810	Mark	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.104	22.7322	6
+FI	25820	Vestlax	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.0776	22.7793	6
+FI	25830	Västanfjärd	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.0282	22.6982	6
+FI	25840	Nivelax	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.0769	22.6265	6
+FI	25860	Björkboda	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.1026	22.5424	6
+FI	25870	Dragsfjärd	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	60.0687	22.4569	6
+FI	25900	Taalintehdas	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	59.9817	22.4951	6
+FI	25910	Vänoxa	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	59.9536	22.6199	6
+FI	25930	Kasnäs	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	59.922	22.4257	6
+FI	25940	Hiittinen	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	59.8986	22.5193	6
+FI	25950	Rosala	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	59.8483	22.4115	6
+FI	25960	Högsåra	Southwest Finland	02	Åboland-Turunmaa	021	Kimitoön	322	59.9641	22.3662	6
 FI	24100	Salo	Southwest Finland	02	Salo	022	Salo	734	60.3839	23.1424	6
 FI	24101	Salo	Southwest Finland	02	Salo	022	Salo	734	60.3833	23.1333	5
 FI	24130	Salo	Southwest Finland	02	Salo	022	Salo	734	60.3545	23.1223	6
@@ -618,52 +618,52 @@ FI	31470	Somerniemi	Southwest Finland	02	Salo	022	Somero	761	60.5634	23.7806	6
 FI	31490	Terttilä	Southwest Finland	02	Salo	022	Somero	761	60.5397	23.5639	6
 FI	31520	Pitkäjärvi	Southwest Finland	02	Salo	022	Somero	761	60.6731	23.2935	6
 FI	31530	Pyöli	Southwest Finland	02	Salo	022	Somero	761	60.6593	23.3909	6
-FI	20100	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4449	22.2261	
+FI	20100	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4449	22.2261	
 FI	20101	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4515	22.2687	5
-FI	20200	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4475	22.2261	6
+FI	20200	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4475	22.2261	6
 FI	20201	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4515	22.2687	5
-FI	20210	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4551	22.2008	6
-FI	20240	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4522	22.1571	6
+FI	20210	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4551	22.2008	6
+FI	20240	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4522	22.1571	6
 FI	20241	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4515	22.2687	5
-FI	20250	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4587	22.2294	6
+FI	20250	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4587	22.2294	6
 FI	20251	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4515	22.2687	5
-FI	20300	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4654	22.2624	6
-FI	20320	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4761	22.2318	6
+FI	20300	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4654	22.2624	6
+FI	20320	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4761	22.2318	6
 FI	20321	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4515	22.2687	5
-FI	20360	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4866	22.2771	6
+FI	20360	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4866	22.2771	6
 FI	20361	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4515	22.2687	5
-FI	20380	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4866	22.3179	6
+FI	20380	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4866	22.3179	6
 FI	20381	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4515	22.2687	5
-FI	20400	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.5419	22.3045	6
-FI	20460	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.5431	22.3559	6
-FI	20500	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4532	22.282	6
+FI	20400	Turku	Southwest Finland	02	Turku	023	Turku	853	60.5419	22.3045	6
+FI	20460	Turku	Southwest Finland	02	Turku	023	Turku	853	60.5431	22.3559	6
+FI	20500	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4532	22.282	6
 FI	20501	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4515	22.2687	5
-FI	20520	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4473	22.304	6
+FI	20520	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4473	22.304	6
 FI	20521	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4515	22.2687	5
-FI	20540	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4587	22.3141	6
+FI	20540	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4587	22.3141	6
 FI	20541	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4515	22.2687	5
-FI	20610	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4446	22.3481	6
+FI	20610	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4446	22.3481	6
 FI	20611	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4515	22.2687	5
 FI	20660	Littoinen	Southwest Finland	02	Turku	023	Kaarina	202	60.4418	22.3944	6
-FI	20700	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4447	22.2769	6
+FI	20700	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4447	22.2769	6
 FI	20701	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4515	22.2687	5
-FI	20720	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4376	22.2973	6
-FI	20730	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4276	22.3221	6
-FI	20740	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4185	22.2997	6
+FI	20720	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4376	22.2973	6
+FI	20730	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4276	22.3221	6
+FI	20740	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4185	22.2997	6
 FI	20741	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4515	22.2687	5
-FI	20750	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4318	22.3467	6
+FI	20750	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4318	22.3467	6
 FI	20751	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4515	22.2687	5
 FI	20760	Piispanristi	Southwest Finland	02	Turku	023	Kaarina	202	60.4054	22.3253	6
 FI	20761	Piispanristi	Southwest Finland	02	Turku	023	Kaarina	202	60.4177	22.333	5
 FI	20780	Kaarina	Southwest Finland	02	Turku	023	Kaarina	202	60.4099	22.3825	6
 FI	20781	Kaarina	Southwest Finland	02	Turku	023	Kaarina	202	60.4072	22.369	5
-FI	20800	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4455	22.2642	6
+FI	20800	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4455	22.2642	6
 FI	20801	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4515	22.2687	5
-FI	20810	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4347	22.2562	6
+FI	20810	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4347	22.2562	6
 FI	20811	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4515	22.2687	5
-FI	20880	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4222	22.264	6
-FI	20900	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.4054	22.2186	6
-FI	20960	Turku                         	Southwest Finland	02	Turku	023	Turku	853	60.3648	22.1968	6
+FI	20880	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4222	22.264	6
+FI	20900	Turku	Southwest Finland	02	Turku	023	Turku	853	60.4054	22.2186	6
+FI	20960	Turku	Southwest Finland	02	Turku	023	Turku	853	60.3648	22.1968	6
 FI	21100	Naantali	Southwest Finland	02	Turku	023	Naantali	529	60.4616	22.0102	6
 FI	21101	Naantali	Southwest Finland	02	Turku	023	Naantali	529	60.4808	22.0678	6
 FI	21110	Naantali	Southwest Finland	02	Turku	023	Naantali	529	60.4885	22.0455	6
@@ -688,8 +688,8 @@ FI	21280	Raisio	Southwest Finland	02	Turku	023	Raisio	680	60.4831	22.1976	6
 FI	21290	Rusko	Southwest Finland	02	Turku	023	Rusko	704	60.5434	22.2324	6
 FI	21291	Rusko	Southwest Finland	02	Turku	023	Rusko	704	60.5333	22.2167	5
 FI	21310	Vahto	Southwest Finland	02	Turku	023	Rusko	704	60.6195	22.3148	6
-FI	21330	Paattinen                     	Southwest Finland	02	Turku	023	Turku	853	60.5963	22.3832	6
-FI	21340	Tortinmäki                    	Southwest Finland	02	Turku	023	Turku	853	60.6749	22.4302	6
+FI	21330	Paattinen	Southwest Finland	02	Turku	023	Turku	853	60.5963	22.3832	6
+FI	21340	Tortinmäki	Southwest Finland	02	Turku	023	Turku	853	60.6749	22.4302	6
 FI	21350	Ilmarinen	Southwest Finland	02	Turku	023	Lieto	423	60.5083	22.3909	6
 FI	21360	Lieto As	Southwest Finland	02	Turku	023	Lieto	423	60.5698	22.4525	6
 FI	21410	Vanhalinna	Southwest Finland	02	Turku	023	Lieto	423	60.4815	22.3974	6
@@ -933,7 +933,7 @@ FI	39960	Sarvela	Satakunta	04	Pohjois-Satakunta	044	Karvia	230	62.1812	22.623	6
 FI	39965	Karviankylä	Satakunta	04	Pohjois-Satakunta	044	Karvia	230	62.2299	22.6823	6
 FI	39980	Sara	Satakunta	04	Pohjois-Satakunta	044	Karvia	230	62.2479	22.6158	6
 FI	39990	Alkkia	Satakunta	04	Pohjois-Satakunta	044	Karvia	230	62.193	22.7424	6
-FI	00002	Helsinki                      	Kanta-Häme	05	Hämeenlinna	051	Hattula	082	61.0806	24.2737	6
+FI	00002	Helsinki	Kanta-Häme	05	Hämeenlinna	051	Hattula	082	61.0806	24.2737	6
 FI	12380	Leppäkoski	Kanta-Häme	05	Hämeenlinna	051	Janakkala	165	60.8609	24.7113	6
 FI	12400	Tervakoski	Kanta-Häme	05	Hämeenlinna	051	Janakkala	165	60.8141	24.6297	6
 FI	12401	Tervakoski	Kanta-Häme	05	Hämeenlinna	051	Janakkala	165	60.8141	24.6259	5
@@ -1547,12 +1547,12 @@ FI	48810	Kotka	Kymenlaakso	08	Kotka-Hamina	082	Kotka	285	60.5486	26.9924	6
 FI	48900	Kotka	Kymenlaakso	08	Kotka-Hamina	082	Kotka	285	60.4988	26.9586	6
 FI	48910	Kotka	Kymenlaakso	08	Kotka-Hamina	082	Kotka	285	60.5012	26.9789	6
 FI	48930	Kotka	Kymenlaakso	08	Kotka-Hamina	082	Kotka	285	60.4674	26.9834	6
-FI	49200	Heinlahti                     	Kymenlaakso	08	Kotka-Hamina	082	Pyttis	624	60.4789	26.7856	6
-FI	49210	Huutjärvi                     	Kymenlaakso	08	Kotka-Hamina	082	Pyttis	624	60.4834	26.7512	6
-FI	49220	Siltakylä                     	Kymenlaakso	08	Kotka-Hamina	082	Pyttis	624	60.4556	26.676	
-FI	49240	Purola                        	Kymenlaakso	08	Kotka-Hamina	082	Pyttis	624	60.4454	26.6557	6
-FI	49270	Pyhtää                        	Kymenlaakso	08	Kotka-Hamina	082	Pyttis	624	60.4913	26.5364	6
-FI	49290	Vastila                       	Kymenlaakso	08	Kotka-Hamina	082	Pyttis	624	60.6052	26.638	6
+FI	49200	Heinlahti	Kymenlaakso	08	Kotka-Hamina	082	Pyttis	624	60.4789	26.7856	6
+FI	49210	Huutjärvi	Kymenlaakso	08	Kotka-Hamina	082	Pyttis	624	60.4834	26.7512	6
+FI	49220	Siltakylä	Kymenlaakso	08	Kotka-Hamina	082	Pyttis	624	60.4556	26.676	
+FI	49240	Purola	Kymenlaakso	08	Kotka-Hamina	082	Pyttis	624	60.4454	26.6557	6
+FI	49270	Pyhtää	Kymenlaakso	08	Kotka-Hamina	082	Pyttis	624	60.4913	26.5364	6
+FI	49290	Vastila	Kymenlaakso	08	Kotka-Hamina	082	Pyttis	624	60.6052	26.638	6
 FI	49300	Tavastila	Kymenlaakso	08	Kotka-Hamina	082	Kotka	285	60.5809	26.9625	6
 FI	49340	Juurikorpi	Kymenlaakso	08	Kotka-Hamina	082	Kotka	285	60.6053	26.9377	6
 FI	49400	Hamina	Kymenlaakso	08	Kotka-Hamina	082	Hamina	075	60.5645	27.2167	6
@@ -1845,7 +1845,7 @@ FI	79885	Etelä-Petruma	Southern Savonia	10	Savonlinna	103	Heinävesi	090	62.465
 FI	79895	Sarvikumpu	Southern Savonia	10	Savonlinna	103	Heinävesi	090	62.4567	29.0079	6
 FI	79910	Kerma	Southern Savonia	10	Savonlinna	103	Heinävesi	090	62.3614	28.8007	6
 FI	79940	Vihtari	Southern Savonia	10	Savonlinna	103	Heinävesi	090	62.3781	28.9851	6
-FI	00101	Helsinki                      	Southern Savonia	10	Pieksämäki	105	Pieksämäki	593	62.1569	27.1979	6
+FI	00101	Helsinki	Southern Savonia	10	Pieksämäki	105	Pieksämäki	593	62.1569	27.1979	6
 FI	51760	Nuutilanmäki	Southern Savonia	10	Pieksämäki	105	Juva	178	61.7924	27.5929	6
 FI	51780	Kuosmala	Southern Savonia	10	Pieksämäki	105	Juva	178	61.7346	27.7253	6
 FI	51810	Maivala	Southern Savonia	10	Pieksämäki	105	Juva	178	61.8152	27.6964	6
@@ -1961,7 +1961,7 @@ FI	74770	Kalliokylä	Northern Savo	11	Ylä-Savo	111	Kiuruvesi	263	63.5837	26.391
 FI	74840	Koppeloharju	Northern Savo	11	Ylä-Savo	111	Kiuruvesi	263	63.7369	26.7617	6
 FI	74940	Remeskylä	Northern Savo	11	Ylä-Savo	111	Kiuruvesi	263	63.8007	26.4152	4
 FI	74980	Tihilänkangas	Northern Savo	11	Ylä-Savo	111	Kiuruvesi	263	63.8786	26.4366	6
-FI	70006	Vastauslähetys                	Northern Savo	11	Kuopio	112	Kuopio	297	62.889	27.628	
+FI	70006	Vastauslähetys	Northern Savo	11	Kuopio	112	Kuopio	297	62.889	27.628	
 FI	70100	Kuopio	Northern Savo	11	Kuopio	112	Kuopio	297	62.8807	27.6928	6
 FI	70101	Kuopio	Northern Savo	11	Kuopio	112	Kuopio	297	62.9462	27.6826	4
 FI	70110	Kuopio	Northern Savo	11	Kuopio	112	Kuopio	297	62.8931	27.6726	6
@@ -2744,85 +2744,85 @@ FI	61560	Orisberg	Ostrobothnia Region	15	Kyrönmaa	151	Isokyrö	152	62.8908	22.3
 FI	66400	Laihia	Ostrobothnia Region	15	Kyrönmaa	151	Laihia	399	62.9769	22.0123	6
 FI	66401	Laihia	Ostrobothnia Region	15	Kyrönmaa	151	Laihia	399	62.9761	22.0114	5
 FI	66420	Ruto	Ostrobothnia Region	15	Kyrönmaa	151	Laihia	399	62.9867	21.9026	6
-FI	66430	Vedenoja                      	Ostrobothnia Region	15	Kyrönmaa	151	Laihia	399	62.9864	22.0553	6
+FI	66430	Vedenoja	Ostrobothnia Region	15	Kyrönmaa	151	Laihia	399	62.9864	22.0553	6
 FI	66440	Tervajoki	Ostrobothnia Region	15	Kyrönmaa	151	Isokyrö	152	63.0048	22.1892	6
 FI	66441	Tervajoki	Ostrobothnia Region	15	Kyrönmaa	151	Isokyrö	152	63	22.1667	5
 FI	66450	Jakkula	Ostrobothnia Region	15	Kyrönmaa	151	Laihia	399	62.9204	22.0388	6
 FI	66460	Haapala	Ostrobothnia Region	15	Kyrönmaa	151	Laihia	399	62.8944	22.0616	6
 FI	66470	Jukaja	Ostrobothnia Region	15	Kyrönmaa	151	Laihia	399	62.8439	22.1971	6
-FI	62395	Petterinmäki                  	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.1246	22.619	6
-FI	65100	Vaasa                         	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.0941	21.6236	6
-FI	65101	Vaasa                         	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.1216	21.5166	
-FI	65130	Vaasa                         	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.0852	21.6162	6
-FI	65170	Vaasa                         	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.0907	21.569	6
-FI	65200	Vaasa                         	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.1117	21.596	6
+FI	62395	Petterinmäki	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.1246	22.619	6
+FI	65100	Vaasa	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.0941	21.6236	6
+FI	65101	Vaasa	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.1216	21.5166	
+FI	65130	Vaasa	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.0852	21.6162	6
+FI	65170	Vaasa	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.0907	21.569	6
+FI	65200	Vaasa	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.1117	21.596	6
 FI	65201	Vaasa	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.096	21.6158	5
-FI	65230	Vaasa                         	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.1215	21.6177	6
+FI	65230	Vaasa	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.1215	21.6177	6
 FI	65231	Vaasa	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.096	21.6158	5
-FI	65280	Vaasa                         	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.1367	21.5612	6
-FI	65300	Vaasa                         	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.1079	21.6555	6
-FI	65301	Vaasa                         	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.23	21.5249	6
-FI	65320	Vaasa                         	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.092	21.6826	6
-FI	65350	Vaasa                         	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.0777	21.6557	6
-FI	65370	Vaasa                         	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.0931	21.7195	6
-FI	65380	Vaasa                         	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.0713	21.7319	6
-FI	65410	Sundom                        	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.0454	21.5112	6
-FI	65450	Sulva                         	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.0063	21.6549	6
-FI	65460	Tölby                         	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.0181	21.6953	
-FI	65470	Rimal                         	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	62.9537	21.7678	6
-FI	65480	Vikby                         	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.0275	21.7396	6
-FI	65520	Helsingby                     	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.0285	21.819	6
-FI	65610	Mustasaari                    	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.1204	21.6874	6
+FI	65280	Vaasa	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.1367	21.5612	6
+FI	65300	Vaasa	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.1079	21.6555	6
+FI	65301	Vaasa	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.23	21.5249	6
+FI	65320	Vaasa	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.092	21.6826	6
+FI	65350	Vaasa	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.0777	21.6557	6
+FI	65370	Vaasa	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.0931	21.7195	6
+FI	65380	Vaasa	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.0713	21.7319	6
+FI	65410	Sundom	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.0454	21.5112	6
+FI	65450	Sulva	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.0063	21.6549	6
+FI	65460	Tölby	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.0181	21.6953	
+FI	65470	Rimal	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	62.9537	21.7678	6
+FI	65480	Vikby	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.0275	21.7396	6
+FI	65520	Helsingby	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.0285	21.819	6
+FI	65610	Mustasaari	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.1204	21.6874	6
 FI	65611	Mustasaari	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.1142	21.6822	5
-FI	65630	Karperö                       	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.1682	21.6954	6
-FI	65650	Koskö                         	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.1922	21.7193	6
-FI	65710	Singsby                       	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.164	21.6432	6
-FI	65730	Jungsund                      	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.2036	21.6121	
-FI	65760	Iskmo                         	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.2275	21.5744	
-FI	65800	Raippaluoto                   	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.2365	21.3945	6
-FI	65870	Björköby                      	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.3415	21.2895	
-FI	65920	Norra Vallgrund               	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.2067	21.2991	6
-FI	65930	Södra Vallgrund               	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.1813	21.2565	6
-FI	65970	Söderudden                    	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.2843	21.1518	
-FI	66100	Maalahti                      	Ostrobothnia Region	15	Vaasa	152	Malax	475	62.9623	21.4727	6
-FI	66140	Övermalax                     	Ostrobothnia Region	15	Vaasa	152	Malax	475	62.9105	21.6194	6
+FI	65630	Karperö	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.1682	21.6954	6
+FI	65650	Koskö	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.1922	21.7193	6
+FI	65710	Singsby	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.164	21.6432	6
+FI	65730	Jungsund	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.2036	21.6121	
+FI	65760	Iskmo	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.2275	21.5744	
+FI	65800	Raippaluoto	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.2365	21.3945	6
+FI	65870	Björköby	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.3415	21.2895	
+FI	65920	Norra Vallgrund	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.2067	21.2991	6
+FI	65930	Södra Vallgrund	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.1813	21.2565	6
+FI	65970	Söderudden	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.2843	21.1518	
+FI	66100	Maalahti	Ostrobothnia Region	15	Vaasa	152	Malax	475	62.9623	21.4727	6
+FI	66140	Övermalax	Ostrobothnia Region	15	Vaasa	152	Malax	475	62.9105	21.6194	6
 FI	66141	Övermalax	Ostrobothnia Region	15	Vaasa	152	Malax	475	62.9159	21.626	5
-FI	66160	Långåminne                    	Ostrobothnia Region	15	Vaasa	152	Malax	475	62.8865	21.7273	6
-FI	66200	Korsnäs                       	Ostrobothnia Region	15	Vaasa	152	Korsnäs	280	62.7915	21.1822	6
+FI	66160	Långåminne	Ostrobothnia Region	15	Vaasa	152	Malax	475	62.8865	21.7273	6
+FI	66200	Korsnäs	Ostrobothnia Region	15	Vaasa	152	Korsnäs	280	62.7915	21.1822	6
 FI	66201	Korsnäs	Ostrobothnia Region	15	Vaasa	152	Korsnäs	280	62.7833	21.2	5
-FI	66210	Molpe                         	Ostrobothnia Region	15	Vaasa	152	Korsnäs	280	62.8788	21.2522	6
-FI	66220	Bergö                         	Ostrobothnia Region	15	Vaasa	152	Malax	475	62.9804	21.1327	6
-FI	66230	Korsbäck                      	Ostrobothnia Region	15	Vaasa	152	Korsnäs	280	62.7916	21.2893	6
-FI	66240	Petolahti                     	Ostrobothnia Region	15	Vaasa	152	Malax	475	62.861	21.409	6
-FI	66260	Svarvar                       	Ostrobothnia Region	15	Vaasa	152	Malax	475	62.799	21.6787	6
-FI	66280	Taklax                        	Ostrobothnia Region	15	Vaasa	152	Korsnäs	280	62.729	21.2779	6
-FI	66290	Harrström                     	Ostrobothnia Region	15	Vaasa	152	Korsnäs	280	62.7124	21.1554	6
-FI	66500	Vähäkyrö                      	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.0588	22.0948	6
+FI	66210	Molpe	Ostrobothnia Region	15	Vaasa	152	Korsnäs	280	62.8788	21.2522	6
+FI	66220	Bergö	Ostrobothnia Region	15	Vaasa	152	Malax	475	62.9804	21.1327	6
+FI	66230	Korsbäck	Ostrobothnia Region	15	Vaasa	152	Korsnäs	280	62.7916	21.2893	6
+FI	66240	Petolahti	Ostrobothnia Region	15	Vaasa	152	Malax	475	62.861	21.409	6
+FI	66260	Svarvar	Ostrobothnia Region	15	Vaasa	152	Malax	475	62.799	21.6787	6
+FI	66280	Taklax	Ostrobothnia Region	15	Vaasa	152	Korsnäs	280	62.729	21.2779	6
+FI	66290	Harrström	Ostrobothnia Region	15	Vaasa	152	Korsnäs	280	62.7124	21.1554	6
+FI	66500	Vähäkyrö	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.0588	22.0948	6
 FI	66501	Vähäkyrö	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.0564	22.1058	5
-FI	66510	Merikaarto                    	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.0717	21.9509	6
-FI	66520	Veikkaala                     	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.0941	21.8854	6
-FI	66530	Koivulahti                    	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.1655	21.8358	6
+FI	66510	Merikaarto	Ostrobothnia Region	15	Vaasa	152	Vaasa	905	63.0717	21.9509	6
+FI	66520	Veikkaala	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.0941	21.8854	6
+FI	66530	Koivulahti	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.1655	21.8358	6
 FI	66531	Koivulahti	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.1618	21.8393	5
-FI	66540	Petsmo                        	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.2464	21.7778	6
-FI	66550	Västerhankmo                  	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.2262	21.8584	
-FI	66560	Österhankmo                   	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.2408	21.8942	
-FI	66580	Kuni                          	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.1591	21.963	6
-FI	66590	Vassor                        	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.1836	22.0011	6
-FI	66600	Vöyri                         	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.1496	22.255	6
-FI	66640	Maksamaa                      	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.2976	22.03	6
-FI	66660	Bertby                        	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.2339	22.1982	6
-FI	66680	Kaurajärvi                    	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.1326	22.5179	6
-FI	66710	Kaitsor                       	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.2856	22.2187	6
-FI	66730	Oxkangar                      	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.3073	22.211	
-FI	66800	Oravainen                     	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.3053	22.3546	6
+FI	66540	Petsmo	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.2464	21.7778	6
+FI	66550	Västerhankmo	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.2262	21.8584	
+FI	66560	Österhankmo	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.2408	21.8942	
+FI	66580	Kuni	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.1591	21.963	6
+FI	66590	Vassor	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.1836	22.0011	6
+FI	66600	Vöyri	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.1496	22.255	6
+FI	66640	Maksamaa	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.2976	22.03	6
+FI	66660	Bertby	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.2339	22.1982	6
+FI	66680	Kaurajärvi	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.1326	22.5179	6
+FI	66710	Kaitsor	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.2856	22.2187	6
+FI	66730	Oxkangar	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.3073	22.211	
+FI	66800	Oravainen	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.3053	22.3546	6
 FI	66801	Oravainen	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.3013	22.3782	5
-FI	66810	Kimo                          	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.2499	22.4455	6
-FI	66820	Komossa                       	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.1958	22.5247	6
-FI	66830	Oravaisten Tehdas             	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.3201	22.4081	6
-FI	66999	Vaasa                         	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.29	21.6497	6
-FI	64100	Kristiinankaupunki            	Ostrobothnia Region	15	Sydösterbotten	153	Kristinestad	287	62.2631	21.3796	6
-FI	64101	Kristiinankaupunki            	Ostrobothnia Region	15	Sydösterbotten	153	Kristinestad	287	62.0904	21.606	6
-FI	64140	Tiukka                        	Ostrobothnia Region	15	Sydösterbotten	153	Kristinestad	287	62.3106	21.4582	6
+FI	66810	Kimo	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.2499	22.4455	6
+FI	66820	Komossa	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.1958	22.5247	6
+FI	66830	Oravaisten Tehdas	Ostrobothnia Region	15	Vaasa	152	Vörå	946	63.3201	22.4081	6
+FI	66999	Vaasa	Ostrobothnia Region	15	Vaasa	152	Korsholm	499	63.29	21.6497	6
+FI	64100	Kristiinankaupunki	Ostrobothnia Region	15	Sydösterbotten	153	Kristinestad	287	62.2631	21.3796	6
+FI	64101	Kristiinankaupunki	Ostrobothnia Region	15	Sydösterbotten	153	Kristinestad	287	62.0904	21.606	6
+FI	64140	Tiukka	Ostrobothnia Region	15	Sydösterbotten	153	Kristinestad	287	62.3106	21.4582	6
 FI	64200	Närpes	Ostrobothnia Region	15	Sydösterbotten	153	Närpes	545	62.4735	21.355	6
 FI	64201	Närpes	Ostrobothnia Region	15	Sydösterbotten	153	Närpes	545	62.4802	21.3718	6
 FI	64210	Kalax	Ostrobothnia Region	15	Sydösterbotten	153	Närpes	545	62.4548	21.2452	6
@@ -2830,45 +2830,45 @@ FI	64220	Yttermark	Ostrobothnia Region	15	Sydösterbotten	153	Närpes	545	62.546
 FI	64230	Närpes St	Ostrobothnia Region	15	Sydösterbotten	153	Närpes	545	62.4724	21.3658	6
 FI	64240	Böle	Ostrobothnia Region	15	Sydösterbotten	153	Närpes	545	62.4119	21.3386	6
 FI	64250	Pjelax	Ostrobothnia Region	15	Sydösterbotten	153	Närpes	545	62.3637	21.3552	6
-FI	64260	Kaskinen                      	Ostrobothnia Region	15	Sydösterbotten	153	Kaskinen	231	62.3765	21.224	6
-FI	64300	Lapväärtti                    	Ostrobothnia Region	15	Sydösterbotten	153	Kristinestad	287	62.2465	21.5105	6
-FI	64320	Dagsmark                      	Ostrobothnia Region	15	Sydösterbotten	153	Kristinestad	287	62.2269	21.6523	6
-FI	64440	Metsälä                       	Ostrobothnia Region	15	Sydösterbotten	153	Kristinestad	287	62.0745	21.5179	6
-FI	64450	Kallträsk                     	Ostrobothnia Region	15	Sydösterbotten	153	Kristinestad	287	62.03	21.5332	6
-FI	64460	Härkmeri                      	Ostrobothnia Region	15	Sydösterbotten	153	Kristinestad	287	62.167	21.4138	6
-FI	64480	Skaftung                      	Ostrobothnia Region	15	Sydösterbotten	153	Kristinestad	287	62.1332	21.3304	6
-FI	64490	Siipyy                        	Ostrobothnia Region	15	Sydösterbotten	153	Kristinestad	287	62.0169	21.3256	6
+FI	64260	Kaskinen	Ostrobothnia Region	15	Sydösterbotten	153	Kaskinen	231	62.3765	21.224	6
+FI	64300	Lapväärtti	Ostrobothnia Region	15	Sydösterbotten	153	Kristinestad	287	62.2465	21.5105	6
+FI	64320	Dagsmark	Ostrobothnia Region	15	Sydösterbotten	153	Kristinestad	287	62.2269	21.6523	6
+FI	64440	Metsälä	Ostrobothnia Region	15	Sydösterbotten	153	Kristinestad	287	62.0745	21.5179	6
+FI	64450	Kallträsk	Ostrobothnia Region	15	Sydösterbotten	153	Kristinestad	287	62.03	21.5332	6
+FI	64460	Härkmeri	Ostrobothnia Region	15	Sydösterbotten	153	Kristinestad	287	62.167	21.4138	6
+FI	64480	Skaftung	Ostrobothnia Region	15	Sydösterbotten	153	Kristinestad	287	62.1332	21.3304	6
+FI	64490	Siipyy	Ostrobothnia Region	15	Sydösterbotten	153	Kristinestad	287	62.0169	21.3256	6
 FI	64510	Nämpnäs	Ostrobothnia Region	15	Sydösterbotten	153	Närpes	545	62.5023	21.1794	6
 FI	64530	Norrnäs	Ostrobothnia Region	15	Sydösterbotten	153	Närpes	545	62.5659	21.1754	6
 FI	64550	Rangsby	Ostrobothnia Region	15	Sydösterbotten	153	Närpes	545	62.6132	21.2217	6
 FI	64610	Övermark	Ostrobothnia Region	15	Sydösterbotten	153	Närpes	545	62.6297	21.4765	6
 FI	66270	Pörtom	Ostrobothnia Region	15	Sydösterbotten	153	Närpes	545	62.7082	21.6201	6
 FI	66295	Töjby	Ostrobothnia Region	15	Sydösterbotten	153	Närpes	545	62.6488	21.148	6
-FI	66840	Pensala                       	Ostrobothnia Region	15	Jakobstadsregionen	154	Nykarleby	893	63.3468	22.5619	6
-FI	66850	Jepua                         	Ostrobothnia Region	15	Jakobstadsregionen	154	Nykarleby	893	63.4001	22.6566	6
-FI	66900	Uusikaarlepyy                 	Ostrobothnia Region	15	Jakobstadsregionen	154	Nykarleby	893	63.518	22.5255	6
-FI	66901	Uusikaarlepyy                 	Ostrobothnia Region	15	Jakobstadsregionen	154	Nykarleby	893	63.5677	22.5748	6
-FI	66910	Sokaluoto                     	Ostrobothnia Region	15	Jakobstadsregionen	154	Nykarleby	893	63.5886	22.5205	6
-FI	66930	Kovjoki                       	Ostrobothnia Region	15	Jakobstadsregionen	154	Nykarleby	893	63.5347	22.6973	6
-FI	66950	Munsala                       	Ostrobothnia Region	15	Jakobstadsregionen	154	Nykarleby	893	63.477	22.4002	6
-FI	66970	Hirvlax                       	Ostrobothnia Region	15	Jakobstadsregionen	154	Nykarleby	893	63.4373	22.2937	6
-FI	66980	Monå                          	Ostrobothnia Region	15	Jakobstadsregionen	154	Nykarleby	893	63.3819	22.343	6
-FI	68410	Alaveteli                     	Ostrobothnia Region	15	Jakobstadsregionen	154	Kronoby	288	63.6991	23.3757	6
-FI	68500	Kruunupyy                     	Ostrobothnia Region	15	Jakobstadsregionen	154	Kronoby	288	63.7193	23.0226	6
+FI	66840	Pensala	Ostrobothnia Region	15	Jakobstadsregionen	154	Nykarleby	893	63.3468	22.5619	6
+FI	66850	Jepua	Ostrobothnia Region	15	Jakobstadsregionen	154	Nykarleby	893	63.4001	22.6566	6
+FI	66900	Uusikaarlepyy	Ostrobothnia Region	15	Jakobstadsregionen	154	Nykarleby	893	63.518	22.5255	6
+FI	66901	Uusikaarlepyy	Ostrobothnia Region	15	Jakobstadsregionen	154	Nykarleby	893	63.5677	22.5748	6
+FI	66910	Sokaluoto	Ostrobothnia Region	15	Jakobstadsregionen	154	Nykarleby	893	63.5886	22.5205	6
+FI	66930	Kovjoki	Ostrobothnia Region	15	Jakobstadsregionen	154	Nykarleby	893	63.5347	22.6973	6
+FI	66950	Munsala	Ostrobothnia Region	15	Jakobstadsregionen	154	Nykarleby	893	63.477	22.4002	6
+FI	66970	Hirvlax	Ostrobothnia Region	15	Jakobstadsregionen	154	Nykarleby	893	63.4373	22.2937	6
+FI	66980	Monå	Ostrobothnia Region	15	Jakobstadsregionen	154	Nykarleby	893	63.3819	22.343	6
+FI	68410	Alaveteli	Ostrobothnia Region	15	Jakobstadsregionen	154	Kronoby	288	63.6991	23.3757	6
+FI	68500	Kruunupyy	Ostrobothnia Region	15	Jakobstadsregionen	154	Kronoby	288	63.7193	23.0226	6
 FI	68501	Kruunupyy	Ostrobothnia Region	15	Jakobstadsregionen	154	Kronoby	288	63.7286	23.0339	5
 FI	68530	Lepplax	Ostrobothnia Region	15	Jakobstadsregionen	154	Pedersöre	599	63.6872	22.8554	6
-FI	68555	Bosund                        	Ostrobothnia Region	15	Jakobstadsregionen	154	Larsmo	440	63.844	22.8238	
-FI	68560	Eugmo                         	Ostrobothnia Region	15	Jakobstadsregionen	154	Larsmo	440	63.8191	22.7314	6
-FI	68570	Luoto                         	Ostrobothnia Region	15	Jakobstadsregionen	154	Larsmo	440	63.7484	22.7284	6
-FI	68580	Larsmo                        	Ostrobothnia Region	15	Jakobstadsregionen	154	Larsmo	440	63.7104	22.7559	
-FI	68600	Pietarsaari                   	Ostrobothnia Region	15	Jakobstadsregionen	154	Jakobstad	598	63.6747	22.7193	6
-FI	68601	Pietarsaari                   	Ostrobothnia Region	15	Jakobstadsregionen	154	Jakobstad	598	63.6943	22.7135	
-FI	68620	Pietarsaari                   	Ostrobothnia Region	15	Jakobstadsregionen	154	Jakobstad	598	63.6764	22.6384	6
-FI	68630	Pietarsaari                   	Ostrobothnia Region	15	Jakobstadsregionen	154	Jakobstad	598	63.6605	22.6782	6
-FI	68660	Pietarsaari                   	Ostrobothnia Region	15	Jakobstadsregionen	154	Jakobstad	598	63.6886	22.7454	6
+FI	68555	Bosund	Ostrobothnia Region	15	Jakobstadsregionen	154	Larsmo	440	63.844	22.8238	
+FI	68560	Eugmo	Ostrobothnia Region	15	Jakobstadsregionen	154	Larsmo	440	63.8191	22.7314	6
+FI	68570	Luoto	Ostrobothnia Region	15	Jakobstadsregionen	154	Larsmo	440	63.7484	22.7284	6
+FI	68580	Larsmo	Ostrobothnia Region	15	Jakobstadsregionen	154	Larsmo	440	63.7104	22.7559	
+FI	68600	Pietarsaari	Ostrobothnia Region	15	Jakobstadsregionen	154	Jakobstad	598	63.6747	22.7193	6
+FI	68601	Pietarsaari	Ostrobothnia Region	15	Jakobstadsregionen	154	Jakobstad	598	63.6943	22.7135	
+FI	68620	Pietarsaari	Ostrobothnia Region	15	Jakobstadsregionen	154	Jakobstad	598	63.6764	22.6384	6
+FI	68630	Pietarsaari	Ostrobothnia Region	15	Jakobstadsregionen	154	Jakobstad	598	63.6605	22.6782	6
+FI	68660	Pietarsaari	Ostrobothnia Region	15	Jakobstadsregionen	154	Jakobstad	598	63.6886	22.7454	6
 FI	68690	Sundby	Ostrobothnia Region	15	Jakobstadsregionen	154	Pedersöre	599	63.5914	22.6337	6
-FI	68700	Teerijärvi                    	Ostrobothnia Region	15	Jakobstadsregionen	154	Kronoby	288	63.5345	23.515	6
-FI	68750	Småbönders                    	Ostrobothnia Region	15	Jakobstadsregionen	154	Kronoby	288	63.436	23.6233	6
+FI	68700	Teerijärvi	Ostrobothnia Region	15	Jakobstadsregionen	154	Kronoby	288	63.5345	23.515	6
+FI	68750	Småbönders	Ostrobothnia Region	15	Jakobstadsregionen	154	Kronoby	288	63.436	23.6233	6
 FI	68800	Kolppi	Ostrobothnia Region	15	Jakobstadsregionen	154	Pedersöre	599	63.6227	22.8953	6
 FI	68810	Ytteresse	Ostrobothnia Region	15	Jakobstadsregionen	154	Pedersöre	599	63.6237	22.9967	6
 FI	68820	Ähtävä	Ostrobothnia Region	15	Jakobstadsregionen	154	Pedersöre	599	63.5925	23.0568	6
@@ -2908,29 +2908,29 @@ FI	69950	Perho	Central Ostrobothnia Region	16	Kaustinen	161	Perho	584	63.2246	24
 FI	69951	Perho	Central Ostrobothnia Region	16	Kaustinen	161	Perho	584	63.2167	24.4167	5
 FI	69970	Salamajärvi	Central Ostrobothnia Region	16	Kaustinen	161	Perho	584	63.3244	24.6287	4
 FI	69980	Möttönen	Central Ostrobothnia Region	16	Kaustinen	161	Perho	584	63.1871	24.5589	6
-FI	67100	Kokkola                       	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8388	23.133	6
-FI	67101	Kokkola                       	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8484	23.081	
-FI	67200	Kokkola                       	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8472	23.1106	6
-FI	67300	Kokkola                       	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8618	23.1308	6
-FI	67400	Kokkola                       	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8579	23.1734	6
-FI	67410	Kokkola                       	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8564	23.2371	6
-FI	67500	Kokkola                       	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.7737	23.2381	6
-FI	67600	Kokkola                       	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8236	23.1852	6
-FI	67700	Kokkola                       	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8196	23.1329	6
+FI	67100	Kokkola	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8388	23.133	6
+FI	67101	Kokkola	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8484	23.081	
+FI	67200	Kokkola	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8472	23.1106	6
+FI	67300	Kokkola	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8618	23.1308	6
+FI	67400	Kokkola	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8579	23.1734	6
+FI	67410	Kokkola	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8564	23.2371	6
+FI	67500	Kokkola	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.7737	23.2381	6
+FI	67600	Kokkola	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8236	23.1852	6
+FI	67700	Kokkola	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8196	23.1329	6
 FI	67701	Kokkola	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8385	23.1307	5
-FI	67800	Kokkola                       	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8251	23.0591	6
-FI	67900	Kokkola                       	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8412	23.0536	6
-FI	68210	Marinkainen                   	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.9416	23.4371	6
-FI	68220	Karhi                         	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.9865	23.4084	6
-FI	68230	Lohtaja                       	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	64.027	23.508	6
-FI	68240	Ala-Viirre                    	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	64.0249	23.6192	6
-FI	68300	Kälviä                        	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8531	23.4682	6
-FI	68320	Ruotsalo                      	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.9119	23.3204	6
-FI	68370	Ullava                        	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.7126	23.8843	6
-FI	68380	Yli-Ullava                    	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.6308	24.0476	6
-FI	68390	Rahkonen                      	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.614	24.0262	6
-FI	68550	Öja                           	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8358	22.9167	6
-FI	68999	Kokkola                       	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.7788	23.4309	
+FI	67800	Kokkola	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8251	23.0591	6
+FI	67900	Kokkola	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8412	23.0536	6
+FI	68210	Marinkainen	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.9416	23.4371	6
+FI	68220	Karhi	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.9865	23.4084	6
+FI	68230	Lohtaja	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	64.027	23.508	6
+FI	68240	Ala-Viirre	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	64.0249	23.6192	6
+FI	68300	Kälviä	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8531	23.4682	6
+FI	68320	Ruotsalo	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.9119	23.3204	6
+FI	68370	Ullava	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.7126	23.8843	6
+FI	68380	Yli-Ullava	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.6308	24.0476	6
+FI	68390	Rahkonen	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.614	24.0262	6
+FI	68550	Öja	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.8358	22.9167	6
+FI	68999	Kokkola	Central Ostrobothnia Region	16	Kokkola	162	Kokkola	272	63.7788	23.4309	
 FI	69100	Kannus	Central Ostrobothnia Region	16	Kokkola	162	Kannus	217	63.9098	23.9189	6
 FI	69150	Eskola	Central Ostrobothnia Region	16	Kokkola	162	Kannus	217	63.9132	24.162	6
 FI	69170	Yli-Kannus	Central Ostrobothnia Region	16	Kokkola	162	Kannus	217	63.8739	24.0381	6

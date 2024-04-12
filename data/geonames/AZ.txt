@@ -292,7 +292,7 @@ AZ	AZ 0830	Tülü	Balakən	10					41.7272	46.3698	4
 AZ	AZ 0831	Yeni Şərif	Balakən	10					41.7379	46.2559	4
 AZ	AZ 0833	Mazimçay (Dgk)	Balakən	10					41.7325	46.3129	1
 AZ	AZ 0900	Bərdə	Bərdə	11					40.3758	47.1262	4
-AZ	AZ 0901	Bərdə-1 	Bərdə	11					40.3758	47.1262	1
+AZ	AZ 0901	Bərdə-1	Bərdə	11					40.3758	47.1262	1
 AZ	AZ 0902	Bərdə-2	Bərdə	11					40.3758	47.1262	1
 AZ	AZ 0911	Alpout	Bərdə	11					40.3242	47.2019	4
 AZ	AZ 0912	Bərdə St	Bərdə	11					40.4064	47.1376	1
@@ -565,7 +565,7 @@ AZ	AZ 3321	Muradxan	Kürdəmir	27					40.1903	48.1461	4
 AZ	AZ 3323	Siğirli	Kürdəmir	27					40.2676	48.4092	4
 AZ	AZ 3324	Sor-Sor	Kürdəmir	27					40.299	48.1701	1
 AZ	AZ 3325	Şiximli	Kürdəmir	27					40.3637	48.1853	4
-AZ	AZ 3326	Şilyan 	Kürdəmir	27					40.3293	48.011	4
+AZ	AZ 3326	Şilyan	Kürdəmir	27					40.3293	48.011	4
 AZ	AZ 3327	Topalhəsənli	Kürdəmir	27					40.3845	48.1957	4
 AZ	AZ 3328	Yenikənd	Kürdəmir	27					40.3897	48.1384	4
 AZ	AZ 3329	Atakişili	Kürdəmir	27					40.3498	48.171	4
@@ -729,7 +729,7 @@ AZ	AZ 3401	1 Sayli	Qax	39					41.4183	46.9204	1
 AZ	AZ 3411	Alatəmir	Qax	39					41.4234	46.8704	1
 AZ	AZ 3412	Almali	Qax	39					41.3397	46.764	4
 AZ	AZ 3413	Cəlayer	Qax	39					41.4234	46.8704	1
-AZ	AZ 3414	Əlibəyli 	Qax	39					41.3814	46.8256	4
+AZ	AZ 3414	Əlibəyli	Qax	39					41.3814	46.8256	4
 AZ	AZ 3416	Güllük	Qax	39					41.5039	46.7589	4
 AZ	AZ 3417	Ilisu	Qax	39					41.4679	47.0651	4
 AZ	AZ 3418	Kötüklü	Qax	39					41.4234	46.8704	1
@@ -742,7 +742,7 @@ AZ	AZ 3424	Ləkit	Qax	39					41.4839	46.849	4
 AZ	AZ 3425	Tasmali	Qax	39					41.4315	46.7026	4
 AZ	AZ 3426	Turacli	Qax	39					41.4152	46.7742	4
 AZ	AZ 3427	Üzümlü	Qax	39					41.409	46.815	1
-AZ	AZ 3428	Zəyəm 	Qax	39					41.4121	46.6826	4
+AZ	AZ 3428	Zəyəm	Qax	39					41.4121	46.6826	4
 AZ	AZ 3500	Qazax	Qazax	40					41.0925	45.3656	4
 AZ	AZ 3501	1 Sayli	Qazax	40					41.0925	45.3656	1
 AZ	AZ 3502	2 Sayli	Qazax	40					41.0925	45.3656	1
@@ -860,7 +860,7 @@ AZ	AZ 5430	Moranli	Sabirabad	46					39.7868	48.7381	4
 AZ	AZ 5432	Mürsəlli	Sabirabad	46					40.0834	48.5603	4
 AZ	AZ 5433	Surra	Sabirabad	46					40.0785	48.5302	4
 AZ	AZ 5434	Nizamikənd	Sabirabad	46					39.9927	48.6572	1
-AZ	AZ 5435	Suqovuşan 	Sabirabad	46					39.9927	48.6572	1
+AZ	AZ 5435	Suqovuşan	Sabirabad	46					39.9927	48.6572	1
 AZ	AZ 5436	Şəhriyar	Sabirabad	46					39.9445	48.7138	4
 AZ	AZ 5437	Şix Salahli	Sabirabad	46					39.9927	48.8068	4
 AZ	AZ 5439	Ulacali	Sabirabad	46					40.0706	48.5939	4
@@ -998,7 +998,7 @@ AZ	AZ 5131	Yenikənd	Samux	52					40.9247	46.3086	4
 AZ	AZ 5134	Yuxari Ağasibəyli	Samux	52					40.7555	46.5038	4
 AZ	AZ 5300	Siyəzən	Siyəzən	53					41.0781	49.1156	4
 AZ	AZ 5301	1 Sayli Rş	Siyəzən	53					41.0781	49.1156	1
-AZ	AZ 5312	Yenikənd 	Siyəzən	53					41.1642	49.0839	4
+AZ	AZ 5312	Yenikənd	Siyəzən	53					41.1642	49.0839	4
 AZ	AZ 5313	Həmyə	Siyəzən	53					41.069	49.0907	1
 AZ	AZ 5314	Sədan	Siyəzən	53					41.0652	49.0391	4
 AZ	AZ 5315	Zarat	Siyəzən	53					40.9491	49.2821	4
@@ -1012,7 +1012,7 @@ AZ	AZ 5006	6 Sayli	Sumqayit	54					40.5897	49.6686	1
 AZ	AZ 5007	7 Sayli	Sumqayit	54					40.5897	49.6686	1
 AZ	AZ 5008	8 Sayli	Sumqayit	54					40.5897	49.6686	1
 AZ	AZ 5009	9 Sayli	Sumqayit	54					40.5897	49.6686	1
-AZ	AZ 5011	11 Sayli 	Sumqayit	54					40.5911	49.6619	1
+AZ	AZ 5011	11 Sayli	Sumqayit	54					40.5911	49.6619	1
 AZ	AZ 5021	Corat	Sumqayit	54					40.5718	49.7051	4
 AZ	AZ 5022	Haci Zeynalabdin	Sumqayit	54					40.6233	49.5586	4
 AZ	AZ 5800	Şuşa	Şuşa	56					39.7607	46.766	4
@@ -1107,7 +1107,7 @@ AZ	AZ 2900	Xocali	Xocali	64					39.913	46.7903	4
 AZ	AZ 2800	Xocavənd	Xocavənd	65					39.795	47.1117	4
 AZ	AZ 6500	Yardimli	Yardimli	66					38.9077	48.2405	4
 AZ	AZ 6510	Avaş	Yardimli	66					38.9037	48.0944	4
-AZ	AZ 6512	Arus 	Yardimli	66					38.9504	48.3245	4
+AZ	AZ 6512	Arus	Yardimli	66					38.9504	48.3245	4
 AZ	AZ 6515	Çayüzü	Yardimli	66					38.9238	48.2325	1
 AZ	AZ 6518	Köryədi	Yardimli	66					38.9174	48.2787	4
 AZ	AZ 6523	Şəfəqli	Yardimli	66					38.9003	48.1591	4
@@ -1116,12 +1116,12 @@ AZ	AZ 6600	Yevlax	Yevlax	68					40.6183	47.1501	4
 AZ	AZ 6601	1 Sayli	Yevlax	68					40.6183	47.1501	1
 AZ	AZ 6602	2 Sayli	Yevlax	68					40.6183	47.1501	1
 AZ	AZ 6603	3 Sayli	Yevlax	68					40.6183	47.1501	1
-AZ	AZ 6604	4 Sayli 	Yevlax	68					40.6183	47.1501	1
+AZ	AZ 6604	4 Sayli	Yevlax	68					40.6183	47.1501	1
 AZ	AZ 6605	5 Sayli	Yevlax	68					40.6183	47.1501	1
 AZ	AZ 6611	Aran 1	Yevlax	68					40.7182	47.1452	1
 AZ	AZ 6612	Aran 2	Yevlax	68					40.7182	47.1452	1
 AZ	AZ 6613	Aşaği Bucaq	Yevlax	68					40.7215	47.2095	4
-AZ	AZ 6614	Nərimanabad 	Yevlax	68					40.7182	47.1452	1
+AZ	AZ 6614	Nərimanabad	Yevlax	68					40.7182	47.1452	1
 AZ	AZ 6616	Hürüuşaği	Yevlax	68					40.7204	47.0206	4
 AZ	AZ 6617	Haciselli	Yevlax	68					40.7178	47.1217	4
 AZ	AZ 6619	Xaldan	Yevlax	68					40.7131	47.2291	4
@@ -1182,5 +1182,5 @@ AZ	AZ 6321	Məmmədqasimli	Zərdab	71					40.2022	47.5915	4
 AZ	AZ 6322	Əlvənd	Zərdab	71					40.1078	47.8747	4
 AZ	AZ 6323	Pərvanli	Zərdab	71					40.1889	47.5765	4
 AZ	AZ 6324	Səfdəxal	Zərdab	71					40.1772	47.6744	1
-AZ	AZ 6325	Yarməmmədbaği 	Zərdab	71					40.1826	47.6079	4
+AZ	AZ 6325	Yarməmmədbaği	Zərdab	71					40.1826	47.6079	4
 AZ	AZ 6328	Təzəkənd	Zərdab	71					40.2045	47.7214	4

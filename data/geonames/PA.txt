@@ -1,0 +1,729 @@
+PA	01001	Bocas Del Toro (Cabecera)	Bocas Del Toro	01	Bocas Del Toro	0101			9.2973	-82.3254	1
+PA	01002	Bastimentos	Bocas Del Toro	01	Bocas Del Toro	0101			9.3486	-82.2109	4
+PA	01003	Punta Laurel	Bocas Del Toro	01	Bocas Del Toro	0101			9.1412	-82.127	4
+PA	01004	Cauchero	Bocas Del Toro	01	Bocas Del Toro	0101			9.2973	-82.3254	1
+PA	01005	Tierra Oscura	Bocas Del Toro	01	Bocas Del Toro	0101			9.2014	-82.2759	4
+PA	01006	Changuinola (Cabec)	Bocas Del Toro	01	Changuinola	0102			9.2973	-82.3254	1
+PA	01007	Almirante	Bocas Del Toro	01	Changuinola	0102			9.3009	-82.4018	4
+PA	01008	Guabito	Bocas Del Toro	01	Changuinola	0102			9.4944	-82.6115	4
+PA	01009	El Teribe	Bocas Del Toro	01	Changuinola	0102			9.2973	-82.3254	1
+PA	01010	Valle Del Risco	Bocas Del Toro	01	Changuinola	0102			9.1841	-82.3876	1
+PA	01011	El Empalme	Bocas Del Toro	01	Changuinola	0102			9.4147	-82.5224	4
+PA	01012	Las Tablas	Bocas Del Toro	01	Changuinola	0102			9.5441	-82.7408	4
+PA	01013	Chiriqui Grande (Cabec)	Bocas Del Toro	01	Chiriqui Grande	0103			9.1841	-82.3876	1
+PA	01014	Punta Robalo	Bocas Del Toro	01	Chiriqui Grande	0103			9.0379	-82.2477	4
+PA	01015	Miramar	Bocas Del Toro	01	Chiriqui Grande	0103			8.9975	-82.2434	4
+PA	01016	Punta Peða	Bocas Del Toro	01	Chiriqui Grande	0103			9.1841	-82.3876	1
+PA	01017	Rambala	Bocas Del Toro	01	Chiriqui Grande	0103			8.9262	-82.1838	4
+PA	04029	Alanje (Cabec)	Chiriqui	02	Alanje	0401			8.5829	-82.683	1
+PA	04030	Divala	Chiriqui	02	Alanje	0401			8.4129	-82.7137	4
+PA	04031	Guarumal	Chiriqui	02	Alanje	0401			8.3479	-82.5298	4
+PA	04032	Palo Grande	Chiriqui	02	Alanje	0401			8.3516	-82.6064	4
+PA	04033	Querevalo	Chiriqui	02	Alanje	0401			8.3724	-82.5199	4
+PA	04034	Santo Tomas	Chiriqui	02	Alanje	0401			8.397	-82.6477	4
+PA	04035	Canta Gallo	Chiriqui	02	Alanje	0401			8.3604	-82.6318	4
+PA	04036	Nuevo Mexico	Chiriqui	02	Alanje	0401			8.4272	-82.5972	1
+PA	04011	Puerto Armuelles (Cabec)	Chiriqui	02	Baru	0402			8.4553	-82.7396	1
+PA	04012	Limones	Chiriqui	02	Baru	0402			8.1009	-82.8659	4
+PA	04013	Progreso	Chiriqui	02	Baru	0402			8.4467	-82.8386	4
+PA	04014	Baco	Chiriqui	02	Baru	0402			8.3595	-82.7498	4
+PA	04015	Rodolfo Aguilar	Chiriqui	02	Baru	0402			8.4553	-82.7396	1
+PA	04037	Boqueron (Cabec)	Chiriqui	02	Boqueron	0403			8.4272	-82.5972	1
+PA	04038	Bagala	Chiriqui	02	Boqueron	0403			8.4671	-82.5269	4
+PA	04039	Cordillera	Chiriqui	02	Boqueron	0403			8.7085	-82.6012	4
+PA	04040	Guabal	Chiriqui	02	Boqueron	0403			8.5747	-82.5373	4
+PA	04041	Guayabal	Chiriqui	02	Boqueron	0403			8.6179	-82.5791	4
+PA	04042	Paraiso	Chiriqui	02	Boqueron	0403			8.6627	-82.5908	4
+PA	04043	Pedregal	Chiriqui	02	Boqueron	0403			8.6435	-82.6501	1
+PA	04044	Tijeras	Chiriqui	02	Boqueron	0403			8.4693	-82.5484	4
+PA	04053	Bajo Boquete (Cabec)	Chiriqui	02	Boquete	0404			8.7303	-82.5604	1
+PA	04054	Caldera	Chiriqui	02	Boquete	0404			8.6542	-82.3799	4
+PA	04055	Palmira	Chiriqui	02	Boquete	0404			8.734	-82.4589	4
+PA	04056	Alto Boquete	Chiriqui	02	Boquete	0404			8.7362	-82.4333	4
+PA	04057	Jaramillo	Chiriqui	02	Boquete	0404			8.7707	-82.4232	4
+PA	04058	Los Naranjos	Chiriqui	02	Boquete	0404			8.7942	-82.4456	4
+PA	04016	La Concepcion (Cabec)	Chiriqui	02	Bugaba	0405			8.4553	-82.7396	1
+PA	04017	Aserrio De Gariche	Chiriqui	02	Bugaba	0405			8.4864	-82.7893	4
+PA	04018	Bugaba	Chiriqui	02	Bugaba	0405			8.4861	-82.6202	4
+PA	04019	Cerro Punta	Chiriqui	02	Bugaba	0405			8.8522	-82.5736	4
+PA	04020	Gomez	Chiriqui	02	Bugaba	0405			8.5649	-82.7402	4
+PA	04021	La Estrella	Chiriqui	02	Bugaba	0405			8.5181	-82.6704	4
+PA	04022	San Andres	Chiriqui	02	Bugaba	0405			8.6022	-82.7245	4
+PA	04023	Santa Marta	Chiriqui	02	Bugaba	0405			8.5229	-82.7011	4
+PA	04024	Santa Rosa	Chiriqui	02	Bugaba	0405			8.6031	-82.6846	4
+PA	04025	Santo Domingo	Chiriqui	02	Bugaba	0405			8.5104	-82.7136	4
+PA	04026	Sortova	Chiriqui	02	Bugaba	0405			8.5511	-82.6509	4
+PA	04027	Volcan	Chiriqui	02	Bugaba	0405			8.7805	-82.639	4
+PA	04028	El Bongo	Chiriqui	02	Bugaba	0405			8.5926	-82.6226	4
+PA	04001	David (Cabec)	Chiriqui	02	David	0406			8.4443	-82.4131	1
+PA	04002	Bijagual	Chiriqui	02	David	0406			8.5149	-82.3336	4
+PA	04003	Cochea	Chiriqui	02	David	0406			8.4443	-82.4131	1
+PA	04004	Chiriqui	Chiriqui	02	David	0406			8.3971	-82.3216	4
+PA	04005	Guaca	Chiriqui	02	David	0406			8.4443	-82.4131	1
+PA	04006	Las Lomas	Chiriqui	02	David	0406			8.429	-82.389	4
+PA	04007	Pedregal	Chiriqui	02	David	0406			8.377	-82.4295	4
+PA	04008	San Carlos	Chiriqui	02	David	0406			8.5205	-82.5047	4
+PA	04009	San Pablo Nuevo	Chiriqui	02	David	0406			8.4277	-82.5001	4
+PA	04010	San Pablo Viejo	Chiriqui	02	David	0406			8.4553	-82.7396	1
+PA	04059	Dolega (Cabec)	Chiriqui	02	Dolega	0407			8.7303	-82.5604	1
+PA	04060	Dos Rios	Chiriqui	02	Dolega	0407			8.5517	-82.3981	4
+PA	04061	Los Anastacios	Chiriqui	02	Dolega	0407			8.5303	-82.423	4
+PA	04062	Potrerillos	Chiriqui	02	Dolega	0407			8.6452	-82.4857	4
+PA	04063	Potrerillos Abajo	Chiriqui	02	Dolega	0407			8.6452	-82.4857	4
+PA	04064	Rovira	Chiriqui	02	Dolega	0407			8.5649	-82.4117	1
+PA	04065	Tinajas	Chiriqui	02	Dolega	0407			8.5592	-82.4622	4
+PA	04066	Los Algarrobos	Chiriqui	02	Dolega	0407			8.4967	-82.4242	4
+PA	04067	Gualaca (Cabec)	Chiriqui	02	Gualaca	0408			8.5649	-82.4117	1
+PA	04068	Hornito	Chiriqui	02	Gualaca	0408			8.5649	-82.4117	1
+PA	04069	Los Angeles	Chiriqui	02	Gualaca	0408			8.5257	-82.2029	4
+PA	04070	Paja De Sombrero	Chiriqui	02	Gualaca	0408			8.6861	-82.3215	4
+PA	04071	Rincon	Chiriqui	02	Gualaca	0408			8.466	-82.281	4
+PA	04072	Remedios (Cabec)	Chiriqui	02	Remedios	0409			8.3312	-82.0175	1
+PA	04073	El Nancito	Chiriqui	02	Remedios	0409			8.2412	-81.7321	4
+PA	04074	El Porvenir	Chiriqui	02	Remedios	0409			8.232	-81.8335	4
+PA	04075	El Puerto	Chiriqui	02	Remedios	0409			8.2152	-81.81	4
+PA	04076	Santa Lucia	Chiriqui	02	Remedios	0409			8.232	-81.8261	4
+PA	04045	Rio Sereno (Cabec)	Chiriqui	02	Renacimiento	0410			8.6435	-82.6501	1
+PA	04046	Breðon	Chiriqui	02	Renacimiento	0410			8.6435	-82.6501	1
+PA	04047	Caðas Gordas	Chiriqui	02	Renacimiento	0410			8.6435	-82.6501	1
+PA	04048	Monte Lirio	Chiriqui	02	Renacimiento	0410			8.7933	-82.8245	4
+PA	04049	Plaza De Caisan	Chiriqui	02	Renacimiento	0410			8.7435	-82.8207	4
+PA	04050	Santa Cruz	Chiriqui	02	Renacimiento	0410			8.6463	-82.7605	4
+PA	04051	Santa Clara	Chiriqui	02	Renacimiento	0410			8.8348	-82.7819	4
+PA	04052	Dominical	Chiriqui	02	Renacimiento	0410			8.6719	-82.7999	4
+PA	04091	Las Lajas (Cabec)	Chiriqui	02	San Felix	0411			8.2599	-81.8523	1
+PA	04092	Juay	Chiriqui	02	San Felix	0411			8.2869	-81.9476	4
+PA	04093	San Felix	Chiriqui	02	San Felix	0411			8.2933	-81.8692	4
+PA	04094	Lajas Adentro	Chiriqui	02	San Felix	0411			8.2493	-81.8797	4
+PA	04095	Santa Cruz	Chiriqui	02	San Felix	0411			8.2353	-81.9127	4
+PA	04077	Horconcitos (Cabec)	Chiriqui	02	San Lorenzo	0412			8.3312	-82.0175	1
+PA	04078	Boca Chica	Chiriqui	02	San Lorenzo	0412			8.2204	-82.2185	4
+PA	04079	Boca Del Monte	Chiriqui	02	San Lorenzo	0412			8.3564	-82.1169	4
+PA	04080	San Juan	Chiriqui	02	San Lorenzo	0412			8.2796	-81.9954	4
+PA	04081	San Lorenzo	Chiriqui	02	San Lorenzo	0412			8.3094	-82.1026	4
+PA	04082	Tole(Cabec)	Chiriqui	02	Tole	0413			8.2348	-81.8391	1
+PA	04083	Cerro Viejo	Chiriqui	02	Tole	0413			8.254	-81.5752	4
+PA	04084	Lasjas De Tole	Chiriqui	02	Tole	0413			8.2348	-81.8391	1
+PA	04085	Potrero De Caða	Chiriqui	02	Tole	0413			8.2348	-81.8391	1
+PA	04086	Quebrada De Piedra	Chiriqui	02	Tole	0413			8.096	-81.6831	4
+PA	04087	Cbella Vista	Chiriqui	02	Tole	0413			8.2348	-81.8391	1
+PA	04088	El Cristo	Chiriqui	02	Tole	0413			8.2348	-81.8391	1
+PA	04089	Justo Fidel Palacios	Chiriqui	02	Tole	0413			8.2348	-81.8391	1
+PA	04090	Veladero	Chiriqui	02	Tole	0413			8.2346	-81.6525	4
+PA	02038	Aguadulce (Cabec)	Cocle	03	Aguadulce	0201			8.4341	-80.6585	1
+PA	02039	El Cristo	Cocle	03	Aguadulce	0201			8.2535	-80.6203	4
+PA	02040	El Roble	Cocle	03	Aguadulce	0201			8.1688	-80.6602	4
+PA	02041	Pocri	Cocle	03	Aguadulce	0201			8.2564	-80.5463	4
+PA	02042	Barrios Unidos	Cocle	03	Aguadulce	0201			8.2326	-80.5433	4
+PA	02001	Anton (Cabec)	Cocle	03	Anton	0202			8.5204	-80.1915	1
+PA	02002	Cabuya	Cocle	03	Anton	0202			8.547	-80.1676	4
+PA	02003	El Chiru	Cocle	03	Anton	0202			8.5706	-80.1497	4
+PA	02004	El Retiro	Cocle	03	Anton	0202			8.4772	-80.1573	4
+PA	02005	El Valle	Cocle	03	Anton	0202			8.5204	-80.1915	1
+PA	02006	Juan Diaz	Cocle	03	Anton	0202			8.4607	-80.2853	4
+PA	02007	Rio Hato	Cocle	03	Anton	0202			8.5397	-80.1643	4
+PA	02008	San Juan De Dios	Cocle	03	Anton	0202			8.5512	-80.2262	4
+PA	02009	Santa Rita	Cocle	03	Anton	0202			8.4961	-80.1904	4
+PA	02010	Caballero	Cocle	03	Anton	0202			8.5451	-80.1972	4
+PA	02043	El Valle	Cocle	03	Anton	0202			8.2193	-80.5833	1
+PA	02021	La Pintada (Cabec)	Cocle	03	La Pintada	0203			8.5796	-80.5169	1
+PA	02022	El Harino	Cocle	03	La Pintada	0203			8.6141	-80.5582	4
+PA	02023	El Potrero	Cocle	03	La Pintada	0203			8.522	-80.5209	4
+PA	02024	Llano Grande	Cocle	03	La Pintada	0203			8.6347	-80.4399	4
+PA	02025	Piedras Gordas	Cocle	03	La Pintada	0203			8.6389	-80.5114	4
+PA	02026	Las Lomas	Cocle	03	La Pintada	0203			8.6052	-80.6294	4
+PA	02027	Nata (Cabec)	Cocle	03	Nata	0204			8.5796	-80.5169	1
+PA	02028	Capellania	Cocle	03	Nata	0204			8.3022	-80.5533	4
+PA	02029	El Caðo	Cocle	03	Nata	0204			8.5796	-80.5169	1
+PA	02030	Guzman	Cocle	03	Nata	0204			8.5226	-80.5855	4
+PA	02031	Las Huacas	Cocle	03	Nata	0204			8.467	-80.7509	4
+PA	02032	Toza	Cocle	03	Nata	0204			8.3452	-80.6411	4
+PA	02033	Ola (Cabec)	Cocle	03	Ola	0205			8.4341	-80.6585	1
+PA	02034	El Cope	Cocle	03	Ola	0205			8.4393	-80.6801	4
+PA	02035	El Palmar	Cocle	03	Ola	0205			8.5769	-80.673	4
+PA	02036	El Picacho	Cocle	03	Ola	0205			8.4341	-80.6585	1
+PA	02037	La Pava	Cocle	03	Ola	0205			8.4341	-80.6585	1
+PA	02011	Penonome (Cabec)	Cocle	03	Penonome	0206			8.5783	-80.3153	1
+PA	02012	Caðaberal	Cocle	03	Penonome	0206			8.5783	-80.3153	1
+PA	02013	Cocle	Cocle	03	Penonome	0206			8.4651	-80.4155	4
+PA	02014	Chiriqui Arriba	Cocle	03	Penonome	0206			8.5783	-80.3153	1
+PA	02015	El Coco	Cocle	03	Penonome	0206			8.396	-80.3545	4
+PA	02016	Pajonal	Cocle	03	Penonome	0206			8.5928	-80.256	4
+PA	02017	Rio Grande	Cocle	03	Penonome	0206			8.4319	-80.487	4
+PA	02018	Rio Indio	Cocle	03	Penonome	0206			8.9668	-80.1756	4
+PA	02019	Toabre	Cocle	03	Penonome	0206			8.6507	-80.3212	4
+PA	02020	Tulu	Cocle	03	Penonome	0206			8.7399	-80.4052	4
+PA	03001	Barrio Norte	Colon	04	Colon	0301			9.3626	-79.8999	4
+PA	03002	Barrio Sur	Colon	04	Colon	0301			9.353	-79.8949	4
+PA	03003	Buena Vista	Colon	04	Colon	0301			9.2739	-79.6958	4
+PA	03004	Cativa	Colon	04	Colon	0301			9.3622	-79.8323	4
+PA	03005	Ciricito	Colon	04	Colon	0301			9.2956	-79.8533	1
+PA	03006	Cristobal	Colon	04	Colon	0301			9.3522	-79.9044	4
+PA	03007	Escobal	Colon	04	Colon	0301			9.1476	-79.9638	4
+PA	03008	Limon	Colon	04	Colon	0301			9.25	-79.82	4
+PA	03009	Nueva Providencia	Colon	04	Colon	0301			9.2633	-79.8156	4
+PA	03010	Puerto Pilon	Colon	04	Colon	0301			9.3632	-79.7933	4
+PA	03011	Sabanitas	Colon	04	Colon	0301			9.3452	-79.8054	4
+PA	03012	Salamanca	Colon	04	Colon	0301			9.3363	-79.603	4
+PA	03013	San Juan	Colon	04	Colon	0301			9.2328	-79.9047	1
+PA	03014	Santa Rosa	Colon	04	Colon	0301			9.1849	-79.6544	4
+PA	03041	Colon	Colon	04	Colon	0301			9.3545	-79.9001	4
+PA	03042	Bahia La Mina	Colon	04	Colon	0301			9.5222	-79.6159	1
+PA	03046	El Espinar	Colon	04	Colon	0301			9.5222	-79.6159	1
+PA	03047	Manzanillo	Colon	04	Colon	0301			9.2567	-79.795	4
+PA	03049	Porto Belo	Colon	04	Colon	0301			9.5222	-79.6159	1
+PA	03050	Zona Libre	Colon	04	Colon	0301			9.3668	-79.7696	1
+PA	03015	Nuevo Chagres (Cabec)	Colon	04	Chagres	0302			9.2328	-79.9047	1
+PA	03016	Achiote	Colon	04	Chagres	0302			9.2224	-80.0189	4
+PA	03017	El Guabo	Colon	04	Chagres	0302			9.085	-80.0843	4
+PA	03018	La Encantada	Colon	04	Chagres	0302			9.097	-80.1931	4
+PA	03019	Palmas Bellas	Colon	04	Chagres	0302			9.2284	-80.085	4
+PA	03020	Piða	Colon	04	Chagres	0302			9.2509	-80.1528	1
+PA	03021	Salud	Colon	04	Chagres	0302			9.2067	-80.132	4
+PA	03022	Miguel De La Borda (Cabec)	Colon	04	Donoso	0303			9.2509	-80.1528	1
+PA	03023	Cocle Del Norte	Colon	04	Donoso	0303			9.0754	-80.5718	4
+PA	03024	El Guasimo	Colon	04	Donoso	0303			9.2509	-80.1528	1
+PA	03025	Gobea	Colon	04	Donoso	0303			9.1679	-80.2538	4
+PA	03026	Rio Indio	Colon	04	Donoso	0303			9.1927	-80.1907	4
+PA	03027	San Jose Del General	Colon	04	Donoso	0303			9.2509	-80.1528	1
+PA	03028	Portobelo (Cabec)	Colon	04	Portobelo	0304			9.2509	-80.1528	1
+PA	03029	Cacique	Colon	04	Portobelo	0304			9.6118	-79.6158	4
+PA	03030	Garrote	Colon	04	Portobelo	0304			9.6054	-79.5856	4
+PA	03031	Isla Grande	Colon	04	Portobelo	0304			9.6296	-79.5648	4
+PA	03032	Maria Chiquita	Colon	04	Portobelo	0304			9.4429	-79.753	4
+PA	03033	Palenque (Cabec)	Colon	04	Santa Isabel	0305			9.5618	-79.4135	1
+PA	03034	Cuango	Colon	04	Santa Isabel	0305			9.5687	-79.3106	4
+PA	03035	Miramar	Colon	04	Santa Isabel	0305			9.5754	-79.3357	4
+PA	03036	Nombre De Dios	Colon	04	Santa Isabel	0305			9.5815	-79.4685	4
+PA	03037	Palmira	Colon	04	Santa Isabel	0305			9.5469	-79.2154	4
+PA	03038	Playa Chiquita	Colon	04	Santa Isabel	0305			9.5662	-79.2918	4
+PA	03039	Santa Isabel	Colon	04	Santa Isabel	0305			9.5392	-79.1957	4
+PA	03040	Viento Frio	Colon	04	Santa Isabel	0305			9.5826	-79.4069	4
+PA	05001	Chitre (Cabec)	Herrera	06	Chitre	0601			7.8668	-80.5142	1
+PA	05002	La Arena	Herrera	06	Chitre	0601			7.9694	-80.4615	4
+PA	05003	Monagrillo	Herrera	06	Chitre	0601			7.9826	-80.433	4
+PA	05004	San Uan Bautista	Herrera	06	Chitre	0601			7.8668	-80.5142	1
+PA	05005	Llano Bonito	Herrera	06	Chitre	0601			7.974	-80.4209	4
+PA	05030	Las Minas (Cabec)	Herrera	06	Las Minas	0602			7.8062	-80.8087	1
+PA	05031	Chepo	Herrera	06	Las Minas	0602			7.75	-80.8	4
+PA	05032	Chumical	Herrera	06	Las Minas	0602			7.8464	-80.7366	4
+PA	05033	El Toro	Herrera	06	Las Minas	0602			7.7534	-80.8692	4
+PA	05034	Leones	Herrera	06	Las Minas	0602			7.8062	-80.8087	1
+PA	05035	Quebrada Del Rosario	Herrera	06	Las Minas	0602			7.7176	-80.7389	4
+PA	05036	El Ciprian	Herrera	06	Las Minas	0602			7.8062	-80.8087	1
+PA	05050	Chepo	Herrera	06	Las Minas	0602			7.75	-80.8	4
+PA	05006	Los Pozos (Cabec)	Herrera	06	Los Pozos	0603			7.8668	-80.5142	1
+PA	05007	Capuri	Herrera	06	Los Pozos	0603			7.8668	-80.5142	1
+PA	05008	El Calabacito	Herrera	06	Los Pozos	0603			7.7205	-80.5972	4
+PA	05009	El Cedro	Herrera	06	Los Pozos	0603			7.6874	-80.6582	4
+PA	05010	La Arena	Herrera	06	Los Pozos	0603			7.7513	-80.5921	4
+PA	05011	La Pitaloza	Herrera	06	Los Pozos	0603			7.8904	-80.6122	1
+PA	05012	Los Cerritos	Herrera	06	Los Pozos	0603			7.7995	-80.6064	4
+PA	05013	Los Cerros De Paja	Herrera	06	Los Pozos	0603			7.7206	-80.6708	4
+PA	05014	Las Llanas	Herrera	06	Los Pozos	0603			7.8904	-80.6122	1
+PA	05037	Ocu (Cabec)	Herrera	06	Ocu	0604			7.8062	-80.8087	1
+PA	05038	Cerro Largo	Herrera	06	Ocu	0604			7.839	-80.8308	4
+PA	05039	Los Llanos	Herrera	06	Ocu	0604			7.9308	-80.8768	4
+PA	05040	Llano Grande	Herrera	06	Ocu	0604			7.9744	-80.7093	4
+PA	05041	Peðas Chatas	Herrera	06	Ocu	0604			8.0371	-80.7232	1
+PA	05042	El Tijera	Herrera	06	Ocu	0604			8.0371	-80.7232	1
+PA	05043	Menchaca	Herrera	06	Ocu	0604			7.8704	-80.7592	4
+PA	05015	Parita (Cabec)	Herrera	06	Parita	0605			7.8904	-80.6122	1
+PA	05016	Cabuya	Herrera	06	Parita	0605			8.031	-80.6311	4
+PA	05017	Los Castillos	Herrera	06	Parita	0605			7.9874	-80.6193	4
+PA	05018	Llana De La Cruz	Herrera	06	Parita	0605			7.8904	-80.6122	1
+PA	05019	Paris	Herrera	06	Parita	0605			8.0527	-80.5538	4
+PA	05020	Portobelillo	Herrera	06	Parita	0605			8.0175	-80.5978	4
+PA	05021	Potuga	Herrera	06	Parita	0605			8.0659	-80.6209	4
+PA	05022	Pese (Cabec)	Herrera	06	Pese	0606			7.9391	-80.5971	1
+PA	05023	Las Cabras	Herrera	06	Pese	0606			7.877	-80.5481	4
+PA	05024	El Pajaro	Herrera	06	Pese	0606			7.9474	-80.5741	4
+PA	05025	El Barrero	Herrera	06	Pese	0606			7.9335	-80.5204	4
+PA	05026	El Pedregoso	Herrera	06	Pese	0606			7.9396	-80.6376	4
+PA	05027	El Ciruelo	Herrera	06	Pese	0606			7.89	-80.675	4
+PA	05028	Sabanagrande	Herrera	06	Pese	0606			7.9391	-80.5971	1
+PA	05029	Rincon Hondo	Herrera	06	Pese	0606			7.8421	-80.603	4
+PA	05044	Santa Maria (Cabec)	Herrera	06	Santa Maria	0607			8.0371	-80.7232	1
+PA	05045	Chupampa	Herrera	06	Santa Maria	0607			8.0771	-80.7783	4
+PA	05046	El Rincon	Herrera	06	Santa Maria	0607			8.1196	-80.6151	4
+PA	05047	El Limon	Herrera	06	Santa Maria	0607			8.0589	-80.7721	4
+PA	05048	Los Canelos	Herrera	06	Santa Maria	0607			8.1222	-80.7053	4
+PA	06030	Guarare	Los Santos	07	Guarare	0701			7.8198	-80.2809	4
+PA	06031	El Espinal	Los Santos	07	Guarare	0701			7.8667	-80.3219	4
+PA	06032	El Macano	Los Santos	07	Guarare	0701			7.6878	-80.4053	4
+PA	06033	Guarare Arriba	Los Santos	07	Guarare	0701			7.808	-80.3592	4
+PA	06034	El Enea	Los Santos	07	Guarare	0701			7.8388	-80.2723	4
+PA	06035	La Pasera	Los Santos	07	Guarare	0701			7.798	-80.3044	4
+PA	06036	Las Trancas	Los Santos	07	Guarare	0701			7.7364	-80.3726	4
+PA	06037	Llano Abajo	Los Santos	07	Guarare	0701			7.7939	-80.4076	4
+PA	06038	El Hato	Los Santos	07	Guarare	0701			7.7955	-80.3828	4
+PA	06039	Perales	Los Santos	07	Guarare	0701			7.7769	-80.3214	4
+PA	06001	Las Tablas (Cabec)	Los Santos	07	Las Tablas	0702			7.7039	-80.2911	1
+PA	06002	Bajo Corral	Los Santos	07	Las Tablas	0702			7.6064	-80.2586	4
+PA	06003	Bayano	Los Santos	07	Las Tablas	0702			7.6381	-80.3847	4
+PA	06004	Carate	Los Santos	07	Las Tablas	0702			7.732	-80.2954	4
+PA	06005	El Cocal	Los Santos	07	Las Tablas	0702			7.7385	-80.2789	4
+PA	06006	El Manantial	Los Santos	07	Las Tablas	0702			7.7839	-80.2425	4
+PA	06007	El Muðoz	Los Santos	07	Las Tablas	0702			7.7039	-80.2911	1
+PA	06008	El Pedregoso	Los Santos	07	Las Tablas	0702			7.6947	-80.3271	4
+PA	06009	La Laja	Los Santos	07	Las Tablas	0702			7.7338	-80.2507	4
+PA	06010	La Miel	Los Santos	07	Las Tablas	0702			7.5602	-80.3274	4
+PA	06011	La Palma	Los Santos	07	Las Tablas	0702			7.6918	-80.192	4
+PA	06012	La Tiza	Los Santos	07	Las Tablas	0702			7.7528	-80.2884	4
+PA	06013	Las Palmitas	Los Santos	07	Las Tablas	0702			7.767	-80.2903	4
+PA	06014	Las Tablas Abajo	Los Santos	07	Las Tablas	0702			7.7938	-80.2525	4
+PA	06015	Nuario	Los Santos	07	Las Tablas	0702			7.5271	-80.32	4
+PA	06016	Palmira	Los Santos	07	Las Tablas	0702			7.6635	-80.3573	4
+PA	06017	Peða Blanca	Los Santos	07	Las Tablas	0702			7.6831	-80.2921	1
+PA	06018	Rio Hondo	Los Santos	07	Las Tablas	0702			7.7143	-80.3573	4
+PA	06019	San Jose	Los Santos	07	Las Tablas	0702			7.677	-80.2434	4
+PA	06020	San Miguel	Los Santos	07	Las Tablas	0702			7.6939	-80.2317	1
+PA	06021	Santo Domingo	Los Santos	07	Las Tablas	0702			7.7486	-80.2414	4
+PA	06022	El Sesteadero	Los Santos	07	Las Tablas	0702			7.746	-80.2508	4
+PA	06023	Valle Rico	Los Santos	07	Las Tablas	0702			7.73	-80.2483	4
+PA	06024	Vallerriquito	Los Santos	07	Las Tablas	0702			7.6223	-80.3166	4
+PA	06040	La Villa De Los Santos	Los Santos	07	Los Santos	0703			7.936	-80.413	4
+PA	06041	El Guasimo	Los Santos	07	Los Santos	0703			7.8094	-80.527	4
+PA	06042	La Colorada	Los Santos	07	Los Santos	0703			7.8275	-80.557	4
+PA	06043	La Espigadilla	Los Santos	07	Los Santos	0703			7.8878	-80.3889	4
+PA	06044	Las Cruces	Los Santos	07	Los Santos	0703			7.8272	-80.4297	4
+PA	06045	Las Guabas	Los Santos	07	Los Santos	0703			7.8147	-80.5015	4
+PA	06046	Los Angeles	Los Santos	07	Los Santos	0703			7.8846	-80.355	4
+PA	06047	Los Olivos	Los Santos	07	Los Santos	0703			7.9185	-80.488	4
+PA	06048	Llano Largo	Los Santos	07	Los Santos	0703			7.9086	-80.424	4
+PA	06049	Sabanagrande	Los Santos	07	Los Santos	0703			7.8683	-80.4538	1
+PA	06050	Santa Ana	Los Santos	07	Los Santos	0703			7.7904	-80.4725	1
+PA	06051	Tres Quebradas	Los Santos	07	Los Santos	0703			7.8402	-80.4074	4
+PA	06052	Villa Lourdes	Los Santos	07	Los Santos	0703			7.8098	-80.4723	4
+PA	06053	Agua Buena	Los Santos	07	Los Santos	0703			7.8368	-80.3996	4
+PA	06054	Macaracas (Cabec)	Los Santos	07	Macaracas	0704			7.7904	-80.4725	1
+PA	06055	Bahia Honda	Los Santos	07	Macaracas	0704			7.709	-80.4514	4
+PA	06056	Bajos De Guerra	Los Santos	07	Macaracas	0704			7.7904	-80.4725	1
+PA	06057	Corozal	Los Santos	07	Macaracas	0704			7.7548	-80.4782	4
+PA	06058	Chupa	Los Santos	07	Macaracas	0704			7.8022	-80.5728	4
+PA	06059	El Cedro	Los Santos	07	Macaracas	0704			7.78	-80.5257	4
+PA	06060	Espino Amarillo	Los Santos	07	Macaracas	0704			7.6085	-80.3279	1
+PA	06061	La Mesa	Los Santos	07	Macaracas	0704			7.6616	-80.619	4
+PA	06062	Las Palmas	Los Santos	07	Macaracas	0704			7.6831	-80.4973	4
+PA	06063	Llano De Piedra	Los Santos	07	Macaracas	0704			7.6657	-80.5625	4
+PA	06064	Mogollon	Los Santos	07	Macaracas	0704			7.6492	-80.4572	4
+PA	06065	Pedasi (Cabec)	Los Santos	07	Pedasi	0705			7.6085	-80.3279	1
+PA	06066	Los Asientos	Los Santos	07	Pedasi	0705			7.5185	-80.1329	4
+PA	06067	Mariabe	Los Santos	07	Pedasi	0705			7.5834	-80.0642	4
+PA	06068	Purio	Los Santos	07	Pedasi	0705			7.5992	-80.084	4
+PA	06069	Oria Arriba	Los Santos	07	Pedasi	0705			7.5075	-80.206	4
+PA	06025	Pocri (Cabec)	Los Santos	07	Pocri	0706			7.6939	-80.2317	1
+PA	06026	El Caðafistulo	Los Santos	07	Pocri	0706			7.6939	-80.2317	1
+PA	06027	Lajaminas	Los Santos	07	Pocri	0706			7.6939	-80.2317	1
+PA	06028	Paraiso	Los Santos	07	Pocri	0706			7.6871	-80.159	4
+PA	06029	Paritilla	Los Santos	07	Pocri	0706			7.6293	-80.1742	4
+PA	06070	Tonosi (Cabec)	Los Santos	07	Tonosi	0707			7.4177	-80.487	1
+PA	06071	Altos De Guerra	Los Santos	07	Tonosi	0707			7.4177	-80.487	1
+PA	06072	Caðas	Los Santos	07	Tonosi	0707			7.4177	-80.487	1
+PA	06073	El Bebedero	Los Santos	07	Tonosi	0707			7.4141	-80.4574	4
+PA	06074	El Cacao	Los Santos	07	Tonosi	0707			7.4493	-80.4035	4
+PA	06075	El Cortezo	Los Santos	07	Tonosi	0707			7.4291	-80.6326	4
+PA	06076	Flores	Los Santos	07	Tonosi	0707			7.4866	-80.4059	4
+PA	06077	Guanico	Los Santos	07	Tonosi	0707			7.2909	-80.4328	4
+PA	06078	La Tronosa	Los Santos	07	Tonosi	0707			7.4362	-80.5897	4
+PA	07042	San Miguel /Cabec)	Panama	08	Balboa	0802			8.5374	-79.1045	1
+PA	07043	La Ensenada	Panama	08	Balboa	0802			8.3662	-78.8461	4
+PA	07044	La Esmeralda	Panama	08	Balboa	0802			8.2682	-78.9246	4
+PA	07045	La Guinea	Panama	08	Balboa	0802			8.3427	-78.93	4
+PA	07046	Pedro Gonzalez	Panama	08	Balboa	0802			8.4143	-79.1047	4
+PA	07047	Saboga	Panama	08	Balboa	0802			8.6269	-79.0612	4
+PA	07048	Chepo (Cabec)	Panama	08	Chepo	0805			8.5374	-79.1045	1
+PA	07049	Carita	Panama	08	Chepo	0805			8.5374	-79.1045	1
+PA	07050	Chepillo	Panama	08	Chepo	0805			8.954	-79.1286	4
+PA	07051	El Llano	Panama	08	Chepo	0805			9.2171	-78.9769	4
+PA	07052	Las Margaritas	Panama	08	Chepo	0805			9.1918	-79.0867	4
+PA	07053	Sta. Cruz De Chinina	Panama	08	Chepo	0805			8.8901	-78.7833	1
+PA	07054	Torti	Panama	08	Chepo	0805			8.9215	-78.3985	4
+PA	07055	Chiman (Cabec)	Panama	08	Chiman	0806			8.8901	-78.7833	1
+PA	07056	Brujas	Panama	08	Chiman	0806			8.5861	-78.5314	4
+PA	07057	Gonzalo Vasquez	Panama	08	Chiman	0806			8.4198	-78.4519	4
+PA	07058	Union Santeða	Panama	08	Chiman	0806			8.8901	-78.7833	1
+PA	07059	Pasiga	Panama	08	Chiman	0806			8.9408	-78.909	4
+PA	07063	Madungandi	Panama	08	Panama	0808			8.8279	-79.714	1
+PA	07090	San Felipe	Panama	08	Panama	0808			8.9512	-79.5373	4
+PA	07091	El Chorrillo	Panama	08	Panama	0808			8.9496	-79.5472	4
+PA	07092	Santa Ana	Panama	08	Panama	0808			9.2069	-79.4185	4
+PA	07093	Calidonia	Panama	08	Panama	0808			8.9673	-79.5359	4
+PA	07094	Curundu	Panama	08	Panama	0808			8.9709	-79.5461	4
+PA	07095	Betania	Panama	08	Panama	0808			9.0116	-79.5276	4
+PA	07096	Bella Vista	Panama	08	Panama	0808			8.9847	-79.5254	4
+PA	07097	Pueblo Nuevo	Panama	08	Panama	0808			9.0118	-79.5133	4
+PA	07098	Ancon	Panama	08	Panama	0808			8.9602	-79.5514	4
+PA	07099	San Fransisco	Panama	08	Panama	0808			8.9809	-79.4673	1
+PA	07100	Rio Abajo	Panama	08	Panama	0808			9.024	-79.4936	4
+PA	07101	Juan Diaz	Panama	08	Panama	0808			9.0406	-79.4408	4
+PA	07102	Pedregal	Panama	08	Panama	0808			9.0661	-79.4258	4
+PA	07103	Chilibre	Panama	08	Panama	0808			9.154	-79.6202	4
+PA	07104	Las Cumbres	Panama	08	Panama	0808			9.0921	-79.5389	4
+PA	07105	Pacora	Panama	08	Panama	0808			9.0825	-79.2896	4
+PA	07106	San Martin	Panama	08	Panama	0808			9.0897	-79.428	4
+PA	07107	Tocumen	Panama	08	Panama	0808			9.0894	-79.3831	4
+PA	07109	24 De Diciembre	Panama	08	Panama	0808			9.0798	-79.4525	1
+PA	07110	Parque Lefevre	Panama	08	Panama	0808			9.0227	-79.4786	4
+PA	07113	24 Diciembre	Panama	08	Panama	0808			9.0002	-79.5244	1
+PA	07114	Aeropuerto De Tocumen	Panama	08	Panama	0808			9.0002	-79.5244	1
+PA	07115	Alameda	Panama	08	Panama	0808			9.0001	-79.5358	4
+PA	07116	Albrook	Panama	08	Panama	0808			8.9779	-79.5587	4
+PA	07117	Alta Mira	Panama	08	Panama	0808			9.0002	-79.5244	1
+PA	07118	Alto Del Chace	Panama	08	Panama	0808			9.0002	-79.5244	1
+PA	07119	Altos De Curundu	Panama	08	Panama	0808			9.0002	-79.5244	1
+PA	07120	Altos De Tocumen	Panama	08	Panama	0808			9.055	-79.4106	1
+PA	07121	Altos Del Crisol	Panama	08	Panama	0808			9.055	-79.4106	1
+PA	07122	Altos Del Hipodromo	Panama	08	Panama	0808			9.055	-79.4106	1
+PA	07124	Arcoiris	Panama	08	Panama	0808			9.055	-79.4106	1
+PA	07125	Arraijan	Panama	08	Panama	0808			9.055	-79.4106	1
+PA	07126	Ato Pintado Urbanización	Panama	08	Panama	0808			9.055	-79.4106	1
+PA	07127	Ave. Balboa	Panama	08	Panama	0808			9.055	-79.4106	1
+PA	07128	Belen	Panama	08	Panama	0808			9.055	-79.4106	1
+PA	07129	Bello Horizonte	Panama	08	Panama	0808			9.055	-79.4106	4
+PA	07131	Boca La Caja	Panama	08	Panama	0808			8.9845	-79.5058	4
+PA	07132	Cabulla	Panama	08	Panama	0808			9.015	-79.5112	1
+PA	07134	Campo Alegre	Panama	08	Panama	0808			8.982	-79.5243	4
+PA	07135	Cardenas	Panama	08	Panama	0808			8.9986	-79.5669	4
+PA	07136	Carrasquilla	Panama	08	Panama	0808			9.0023	-79.5135	4
+PA	07137	Catedral	Panama	08	Panama	0808			9.015	-79.5112	1
+PA	07138	Cerro Batea	Panama	08	Panama	0808			9.2069	-79.4185	4
+PA	07139	Cerro Viento	Panama	08	Panama	0808			9.2069	-79.4185	4
+PA	07140	Chame	Panama	08	Panama	0808			9.2069	-79.4185	4
+PA	07141	Chilibre	Panama	08	Panama	0808			9.154	-79.6202	4
+PA	07142	Chorrillo	Panama	08	Panama	0808			8.9496	-79.5472	4
+PA	07143	Ciudad Radial	Panama	08	Panama	0808			9.0426	-79.437	4
+PA	07144	Clayton	Panama	08	Panama	0808			9.0042	-79.5786	4
+PA	07145	Coco Solo	Panama	08	Panama	0808			8.9895	-79.5082	1
+PA	07146	Cocoli	Panama	08	Panama	0808			9.2069	-79.4185	4
+PA	07147	Colinas Del Golf	Panama	08	Panama	0808			8.9895	-79.5082	1
+PA	07148	Concepcion	Panama	08	Panama	0808			8.9895	-79.5082	1
+PA	07149	Coquira	Panama	08	Panama	0808			9.2069	-79.4185	4
+PA	07150	Coronado	Panama	08	Panama	0808			9.0192	-79.5486	1
+PA	07151	Cuatro Altos	Panama	08	Panama	0808			9.0192	-79.5486	1
+PA	07153	Diablo	Panama	08	Panama	0808			8.9678	-79.5587	4
+PA	07154	Don Bosco	Panama	08	Panama	0808			9.1348	-79.6103	4
+PA	07155	El Bosque	Panama	08	Panama	0808			9.0192	-79.5486	1
+PA	07156	El Cangrejo	Panama	08	Panama	0808			8.988	-79.5288	4
+PA	07157	El Carmen	Panama	08	Panama	0808			8.9919	-79.5256	4
+PA	07158	El Ingenio	Panama	08	Panama	0808			9.0133	-79.5196	4
+PA	07159	El Milagro	Panama	08	Panama	0808			9.0192	-79.5486	1
+PA	07160	El Pantanal	Panama	08	Panama	0808			9.0751	-79.3891	4
+PA	07162	Gatun	Panama	08	Panama	0808			9.0495	-79.4545	1
+PA	07163	Gonzalillo	Panama	08	Panama	0808			9.0978	-79.5131	4
+PA	07164	Jardin Olimpico	Panama	08	Panama	0808			9.0306	-79.4702	4
+PA	07165	Jose De Espinar	Panama	08	Panama	0808			9.0495	-79.4545	1
+PA	07166	La Boca	Panama	08	Panama	0808			8.9485	-79.5613	4
+PA	07167	La Cresta	Panama	08	Panama	0808			8.9801	-79.5319	4
+PA	07168	La Doña	Panama	08	Panama	0808			9.0495	-79.4545	1
+PA	07169	La Pradera	Panama	08	Panama	0808			9.1648	-79.2613	4
+PA	07170	Las Acacias	Panama	08	Panama	0808			9.0504	-79.4205	4
+PA	07172	Las Mercedes	Panama	08	Panama	0808			9.0559	-79.4551	1
+PA	07173	Llano Bonito	Panama	08	Panama	0808			9.0383	-79.4584	4
+PA	07174	Los Andes	Panama	08	Panama	0808			9.2069	-79.4185	4
+PA	07175	Los Caobos	Panama	08	Panama	0808			9.0867	-79.4364	4
+PA	07176	Los Cerilla	Panama	08	Panama	0808			9.0559	-79.4551	1
+PA	07177	Los Robles	Panama	08	Panama	0808			9.0488	-79.4161	4
+PA	07178	Mano De Piedra	Panama	08	Panama	0808			9.2069	-79.4185	4
+PA	07179	Marbella	Panama	08	Panama	0808			9.0559	-79.4551	1
+PA	07181	Miraflores	Panama	08	Panama	0808			9.0234	-79.5224	4
+PA	07182	Monte Oscuro	Panama	08	Panama	0808			9.0309	-79.5116	4
+PA	07183	Monterrico	Panama	08	Panama	0808			9.0138	-79.5193	1
+PA	07184	Nuevo San Juan	Panama	08	Panama	0808			9.0138	-79.5193	1
+PA	07185	Obarrio	Panama	08	Panama	0808			8.9896	-79.5179	4
+PA	07187	Pan De Azucar	Panama	08	Panama	0808			9.2069	-79.4185	4
+PA	07188	Panama Viejo	Panama	08	Panama	0808			8.9842	-79.537	4
+PA	07190	Perejil	Panama	08	Panama	0808			8.9757	-79.5364	4
+PA	07192	Punta Paitilla	Panama	08	Panama	0808			9.0231	-79.5245	1
+PA	07194	Rio Abajo Ato Pintado	Panama	08	Panama	0808			9.0231	-79.5245	1
+PA	07195	Rodman	Panama	08	Panama	0808			9.0231	-79.5245	1
+PA	07196	San Francisco	Panama	08	Panama	0808			8.9924	-79.5082	4
+PA	07197	San Isidro	Panama	08	Panama	0808			9.2069	-79.4185	4
+PA	07198	Santa Librada	Panama	08	Panama	0808			9.0636	-79.535	4
+PA	07199	Santa Maria	Panama	08	Panama	0808			9.0159	-79.5326	4
+PA	07200	Terminal	Panama	08	Panama	0808			9.0154	-79.5217	1
+PA	07202	Torrijos-Carter	Panama	08	Panama	0808			9.2069	-79.4185	4
+PA	07203	Urb. Dos Mares	Panama	08	Panama	0808			9.0154	-79.5217	1
+PA	07204	Urbanizacion Nuevoreparto Chanis	Panama	08	Panama	0808			9.0154	-79.5217	1
+PA	07205	Veranillo	Panama	08	Panama	0808			8.9842	-79.537	4
+PA	07206	Via España	Panama	08	Panama	0808			9.0154	-79.5217	1
+PA	07207	Viejo Veranillo	Panama	08	Panama	0808			8.9842	-79.537	4
+PA	07208	Villa Caceres	Panama	08	Panama	0808			9.0154	-79.5217	1
+PA	07209	Villa De La Fuente	Panama	08	Panama	0808			9.0154	-79.5217	1
+PA	07210	Villa Saita	Panama	08	Panama	0808			9.1145	-79.4723	1
+PA	07211	Villa Unida	Panama	08	Panama	0808			9.1918	-79.6237	4
+PA	07212	Vista Hermosa	Panama	08	Panama	0808			8.9998	-79.5193	4
+PA	07081	Amelia D. De Icaza	Panama	08	San Miguelito	0810			9.1077	-79.3581	1
+PA	07082	Belisario Porras	Panama	08	San Miguelito	0810			9.1077	-79.3581	1
+PA	07083	Jose D. Espinar	Panama	08	San Miguelito	0810			9.1077	-79.3581	1
+PA	07084	Mateo Iturralde	Panama	08	San Miguelito	0810			9.1077	-79.3581	1
+PA	07085	Victoriano Lorenzo	Panama	08	San Miguelito	0810			9.0593	-79.4898	4
+PA	07086	Arnulfo Arias	Panama	08	San Miguelito	0810			9.1077	-79.3581	1
+PA	07087	Belisario Frias	Panama	08	San Miguelito	0810			9.1077	-79.3581	1
+PA	07088	Omar Torrijos	Panama	08	San Miguelito	0810			9.1077	-79.3581	1
+PA	07089	Rufina Alfaro	Panama	08	San Miguelito	0810			9.1077	-79.3581	1
+PA	07213	El Bosque	Panama	08	San Miguelito	0810			9.1145	-79.4723	1
+PA	07060	Taboga	Panama	08	Taboga	0811			8.8279	-79.714	1
+PA	07061	Otoque Occidente	Panama	08	Taboga	0811			8.6063	-79.6059	4
+PA	07062	Otoque Oriente	Panama	08	Taboga	0811			8.6038	-79.5955	4
+PA	07001	Arraijan (Cabec)	Panama	08	Arraijan				8.9364	-79.5561	1
+PA	07002	Juan D. Arosemena	Panama	08	Arraijan				8.9364	-79.5561	1
+PA	07003	Nuevo Emperador	Panama	08	Arraijan				9.0028	-79.7304	4
+PA	07004	Santa Clara	Panama	08	Arraijan				9.0363	-79.4762	4
+PA	07005	Veracruz	Panama	08	Arraijan				8.8932	-79.6234	4
+PA	07006	Vista Alegre	Panama	08	Arraijan				9.0264	-78.8418	4
+PA	07007	Burunga	Panama	08	Arraijan				8.9619	-79.6723	4
+PA	07008	Cerro Silvestre	Panama	08	Arraijan				8.9402	-79.6799	4
+PA	07009	Capira	Panama	08	Capira				8.6944	-79.8691	4
+PA	07010	Caimito	Panama	08	Capira				8.6898	-80.1832	1
+PA	07011	Campana	Panama	08	Capira				8.7128	-79.9096	4
+PA	07012	Cermeðo	Panama	08	Capira				8.6898	-80.1832	1
+PA	07013	Ciri De Los Sotos	Panama	08	Capira				8.9758	-80.0925	4
+PA	07014	Ciri Grande	Panama	08	Capira				8.7648	-80.0567	4
+PA	07015	El Cacao	Panama	08	Capira				8.6898	-80.1832	1
+PA	07016	La Trinidad	Panama	08	Capira				8.1236	-81.2303	4
+PA	07017	Las Ollas Arriba	Panama	08	Capira				8.8128	-79.9006	4
+PA	07018	Lidice	Panama	08	Capira				8.7487	-79.9097	4
+PA	07019	Viila Carmen	Panama	08	Capira				8.6898	-80.1832	1
+PA	07020	Villa Rosario	Panama	08	Capira				8.7797	-79.8735	4
+PA	07021	Santa Rosa	Panama	08	Capira				9.1849	-79.6544	4
+PA	07022	Chame (Cabec)	Panama	08	Chame				8.8562	-79.7256	1
+PA	07023	Bejuco	Panama	08	Chame				8.8562	-79.7256	1
+PA	07024	Cbuenos Aires	Panama	08	Chame				8.8562	-79.7256	1
+PA	07025	Cabuya	Panama	08	Chame				9.1009	-79.373	4
+PA	07026	Chica	Panama	08	Chame				8.6661	-79.9383	4
+PA	07027	El Libano	Panama	08	Chame				8.6187	-79.8319	4
+PA	07028	Las Lajas	Panama	08	Chame				9.0881	-79.5338	4
+PA	07029	Nueva Gorgona	Panama	08	Chame				8.5548	-79.8743	4
+PA	07030	Punta Chame	Panama	08	Chame				8.6442	-79.707	4
+PA	07031	Sajalices	Panama	08	Chame				8.6819	-79.8676	4
+PA	07032	Sora	Panama	08	Chame				8.6345	-80.0093	4
+PA	07033	San Carlos /Cabec)	Panama	08	San Carlos				8.624	-79.9402	1
+PA	07034	El Espino	Panama	08	San Carlos				8.0929	-80.8238	4
+PA	07035	El Higo	Panama	08	San Carlos				8.4503	-80.0367	4
+PA	07036	Guayabito	Panama	08	San Carlos				9.0523	-79.4357	4
+PA	07037	La Ermita	Panama	08	San Carlos				8.4607	-80.0711	4
+PA	07038	La Laguna	Panama	08	San Carlos				9.1379	-79.5144	4
+PA	07039	Las Uvas	Panama	08	San Carlos				8.4613	-79.9961	4
+PA	07040	Los Llanitos	Panama	08	San Carlos				8.7178	-79.907	4
+PA	07041	San Jose	Panama	08	San Carlos				9.0261	-78.9583	4
+PA	07064	Barrio Balboa	Panama	08	La Chorrera				8.8279	-79.714	1
+PA	07065	Barrio Colon	Panama	08	La Chorrera				8.8279	-79.714	1
+PA	07066	Amador	Panama	08	La Chorrera				8.9395	-79.5491	4
+PA	07067	Arosemena	Panama	08	La Chorrera				8.9734	-79.9653	4
+PA	07068	El Arado	Panama	08	La Chorrera				8.9673	-79.7602	4
+PA	07069	El Coco	Panama	08	La Chorrera				8.8769	-79.8081	4
+PA	07070	Feuillet	Panama	08	La Chorrera				9.1315	-79.7278	1
+PA	07071	Guadalupe	Panama	08	La Chorrera				9.0418	-79.4941	4
+PA	07072	Herrera	Panama	08	La Chorrera				9.1315	-79.7278	1
+PA	07073	Hurtado	Panama	08	La Chorrera				9.1315	-79.7278	1
+PA	07074	Iturralde	Panama	08	La Chorrera				9.1315	-79.7278	1
+PA	07075	La Represa	Panama	08	La Chorrera				9.3367	-79.8407	4
+PA	07076	Los Diaz	Panama	08	La Chorrera				9.1315	-79.7278	1
+PA	07077	Mendoza	Panama	08	La Chorrera				9.0159	-79.8486	4
+PA	07078	Obaldia	Panama	08	La Chorrera				9.1315	-79.7278	1
+PA	07079	Playa Leonapuerto Caimito	Panama	08	La Chorrera				9.1315	-79.7278	1
+PA	07080	Santa Rita	Panama	08	La Chorrera				9.1181	-79.3386	4
+PA	07112	Vaca Monte	Panama	08	La Chorrera				9.0002	-79.5244	1
+PA	07215	Mañanitas	Panama	08	Tocumen				9.0847	-79.4023	4
+PA	07216	Nueva California	Panama	08	Tocumen				9.1145	-79.4723	1
+PA	07217	Rana De Oro	Panama	08	Tocumen				9.0794	-79.428	4
+PA	07218	Residencial La Castellana	Panama	08	Tocumen				9.0574	-79.4759	4
+PA	07219	San Cristobal	Panama	08	Tocumen				9.2737	-79.3848	4
+PA	07220	San Joaquin	Panama	08	Tocumen				9.0779	-79.4209	4
+PA	07221	San Pedro	Panama	08	Tocumen				9.1576	-79.405	4
+PA	07222	San Sebastian	Panama	08	Tocumen				8.8758	-79.9714	4
+PA	07223	Santa Monica	Panama	08	Tocumen				9.0724	-79.4117	4
+PA	07224	Urb. Remon Cantera	Panama	08	Tocumen				9.0479	-79.5212	1
+PA	07225	Urbanizacion Balmoral	Panama	08	Tocumen				9.0585	-79.434	4
+PA	07226	Urbanizacion Tere Mar	Panama	08	Tocumen				9.0479	-79.5212	1
+PA	07227	Villa Flor	Panama	08	Tocumen				9.0479	-79.5212	1
+PA	07228	Villa Lobos	Panama	08	Tocumen				9.0479	-79.5212	1
+PA	07229	Villa Lucre	Panama	08	Tocumen				9.0452	-79.484	4
+PA	09001	Aligandi	Comarca Kuna Yala	09					8.2043	-77.7775	4
+PA	09002	Nargana	Comarca Kuna Yala	09					9.4439	-78.5867	4
+PA	09003	Puerto Obaldia	Comarca Kuna Yala	09					8.6663	-77.4192	4
+PA	09004	Tibuala	Comarca Kuna Yala	09					8.7715	-77.9278	1
+PA	08054	Atalaya (Cabec)	Veraguas	10	Atalaya	0901			8.2911	-81.0009	1
+PA	08055	El Barrito	Veraguas	10	Atalaya	0901			7.959	-80.9482	4
+PA	08056	La Montaðuela	Veraguas	10	Atalaya	0901			8.2911	-81.0009	1
+PA	08057	San Antonio	Veraguas	10	Atalaya	0901			8.0722	-80.9297	4
+PA	08058	La Carrillo	Veraguas	10	Atalaya	0901			7.9702	-80.8817	4
+PA	08029	Calobre (Cabec)	Veraguas	10	Calobre	0902			7.8971	-81.3559	1
+PA	08030	Barnizal	Veraguas	10	Calobre	0902			8.4046	-80.7777	4
+PA	08031	Chitra	Veraguas	10	Calobre	0902			8.3196	-80.8282	1
+PA	08032	El Cocla	Veraguas	10	Calobre	0902			8.3218	-80.9181	4
+PA	08033	El Potrero	Veraguas	10	Calobre	0902			8.385	-80.8007	4
+PA	08034	La Laguna	Veraguas	10	Calobre	0902			8.3409	-80.7293	4
+PA	08035	La Raya De Calobre	Veraguas	10	Calobre	0902			8.2206	-80.8256	4
+PA	08036	La Tetilla	Veraguas	10	Calobre	0902			8.2514	-80.8795	4
+PA	08037	La Yeguada	Veraguas	10	Calobre	0902			8.261	-80.8288	4
+PA	08038	Las Guias	Veraguas	10	Calobre	0902			8.3196	-80.8282	1
+PA	08039	Monjaras	Veraguas	10	Calobre	0902			8.3717	-80.8657	4
+PA	08040	San Jose	Veraguas	10	Calobre	0902			8.4658	-80.8037	4
+PA	08077	Caðazas (Cabec)	Veraguas	10	Cañazas	0903			7.807	-81.1222	1
+PA	08078	Cerro De Plata	Veraguas	10	Cañazas	0903			7.807	-81.1222	1
+PA	08079	Los Valles	Veraguas	10	Cañazas	0903			8.4461	-81.1966	4
+PA	08080	San Marcelo	Veraguas	10	Cañazas	0903			8.2723	-81.1465	4
+PA	08081	El Picador	Veraguas	10	Cañazas	0903			8.3795	-81.255	4
+PA	08082	San Jose	Veraguas	10	Cañazas	0903			8.3705	-81.4153	4
+PA	08083	El Aromillo	Veraguas	10	Cañazas	0903			8.2532	-81.3737	1
+PA	08013	La Mesa (Cabec)	Veraguas	10	La Mesa	0904			8.1879	-81.2781	1
+PA	08014	Bisvalles	Veraguas	10	La Mesa	0904			8.1847	-81.2211	4
+PA	08015	Boro	Veraguas	10	La Mesa	0904			8.172	-81.3012	4
+PA	08016	Llano Grande	Veraguas	10	La Mesa	0904			8.1823	-81.3139	4
+PA	08017	San Bartolo	Veraguas	10	La Mesa	0904			8.2127	-81.2763	4
+PA	08018	Los Milagros	Veraguas	10	La Mesa	0904			8.1879	-81.2781	1
+PA	08084	Las Palmas (Cabec)	Veraguas	10	Las Palmas	0905			8.2532	-81.3737	1
+PA	08085	Cerro De Casa	Veraguas	10	Las Palmas	0905			8.2532	-81.3737	1
+PA	08086	Corozal	Veraguas	10	Las Palmas	0905			8.0809	-81.435	4
+PA	08087	El Maria	Veraguas	10	Las Palmas	0905			8.248	-81.4317	4
+PA	08088	El Prado	Veraguas	10	Las Palmas	0905			8.2367	-81.501	4
+PA	08089	El Rincon	Veraguas	10	Las Palmas	0905			8.1844	-81.4316	4
+PA	08090	Lola	Veraguas	10	Las Palmas	0905			8.0926	-81.4665	4
+PA	08091	Pixvae	Veraguas	10	Las Palmas	0905			8.1223	-81.5194	1
+PA	08092	Puerto Vidal	Veraguas	10	Las Palmas	0905			8.0493	-81.6045	4
+PA	08093	Zapotillo	Veraguas	10	Las Palmas	0905			8.0072	-81.5092	4
+PA	08094	San Martin De Porres	Veraguas	10	Las Palmas	0905			8.1223	-81.5194	1
+PA	08095	Vigui	Veraguas	10	Las Palmas	0905			8.3399	-81.4975	4
+PA	08059	Montijo (Cabec)	Veraguas	10	Montijo	0906			8.2911	-81.0009	1
+PA	08060	Gobernadora	Veraguas	10	Montijo	0906			7.5593	-81.1855	4
+PA	08061	La Garcena	Veraguas	10	Montijo	0906			7.861	-81.1286	1
+PA	08062	Leones	Veraguas	10	Montijo	0906			7.861	-81.1286	1
+PA	08063	Pilon	Veraguas	10	Montijo	0906			7.9568	-81.0723	4
+PA	08064	Union Del Norte	Veraguas	10	Montijo	0906			7.861	-81.1286	1
+PA	08065	Costa Hermosa	Veraguas	10	Montijo	0906			7.861	-81.1286	1
+PA	08066	Cebaco	Veraguas	10	Montijo	0906			7.861	-81.1286	1
+PA	08067	Rio De Jesus (Cabec)	Veraguas	10	Rio De Jesus	0907			7.861	-81.1286	1
+PA	08068	Las Huacas	Veraguas	10	Rio De Jesus	0907			7.9033	-81.14	4
+PA	08069	Los Castillos	Veraguas	10	Rio De Jesus	0907			8.0246	-81.1167	4
+PA	08070	Utira	Veraguas	10	Rio De Jesus	0907			7.9749	-81.2173	4
+PA	08071	Catorce De Noviembre	Veraguas	10	Rio De Jesus	0907			7.807	-81.1222	1
+PA	08041	San Fransisco (Cabec)	Veraguas	10	San Francisco	0908			8.4612	-80.9973	1
+PA	08042	Corra Falso	Veraguas	10	San Francisco	0908			8.4612	-80.9973	1
+PA	08043	Los Hatillos	Veraguas	10	San Francisco	0908			8.314	-80.9851	4
+PA	08044	Remance	Veraguas	10	San Francisco	0908			8.3073	-81.0808	4
+PA	08045	San Juan	Veraguas	10	San Francisco	0908			8.2996	-81.0058	4
+PA	08046	San Jose	Veraguas	10	San Francisco	0908			8.3523	-81.0385	4
+PA	08047	Santa Fe (Cabec)	Veraguas	10	Santa Fe	0909			8.4612	-80.9973	1
+PA	08048	Calovebora	Veraguas	10	Santa Fe	0909			8.787	-81.2106	4
+PA	08049	El Alto	Veraguas	10	Santa Fe	0909			8.5118	-81.0364	4
+PA	08050	El Cuay	Veraguas	10	Santa Fe	0909			8.2911	-81.0009	1
+PA	08051	El Pantano	Veraguas	10	Santa Fe	0909			8.5347	-81.0694	4
+PA	08052	Gatuncito	Veraguas	10	Santa Fe	0909			8.5282	-80.9572	4
+PA	08053	Rio Luis	Veraguas	10	Santa Fe	0909			8.6827	-81.2195	4
+PA	08001	Santiago	Veraguas	10	Santiago	0910			8.1	-80.9833	4
+PA	08002	La Colorada	Veraguas	10	Santiago	0910			8.0147	-80.9843	4
+PA	08003	La Peða	Veraguas	10	Santiago	0910			8.062	-81.001	1
+PA	08004	La Raya Sta. Maria	Veraguas	10	Santiago	0910			8.062	-81.001	1
+PA	08005	Ponuga	Veraguas	10	Santiago	0910			7.8827	-80.9771	4
+PA	08006	San Pedro Del Espino	Veraguas	10	Santiago	0910			8.1387	-81.0821	4
+PA	08007	Canto Del Llano	Veraguas	10	Santiago	0910			8.1231	-80.9642	4
+PA	08008	Los Algarrobos	Veraguas	10	Santiago	0910			8.1129	-81.0152	4
+PA	08009	Carlos Santana	Veraguas	10	Santiago	0910			8.062	-81.001	1
+PA	08010	Edwin Fabrega	Veraguas	10	Santiago	0910			8.1879	-81.2781	1
+PA	08011	San Martin De Porres	Veraguas	10	Santiago	0910			8.1879	-81.2781	1
+PA	08012	Urraca	Veraguas	10	Santiago	0910			8.1879	-81.2781	1
+PA	08019	Sona (Cabec)	Veraguas	10	Sona	0911			8.1879	-81.2781	1
+PA	08020	Bahia Honda	Veraguas	10	Sona	0911			7.7524	-81.517	4
+PA	08021	Calidonia	Veraguas	10	Sona	0911			7.9576	-81.3863	4
+PA	08022	Cative	Veraguas	10	Sona	0911			7.9191	-81.3801	4
+PA	08023	El Maraðon	Veraguas	10	Sona	0911			7.8971	-81.3559	1
+PA	08024	Guarumal	Veraguas	10	Sona	0911			7.7989	-81.2585	4
+PA	08025	La Soledad	Veraguas	10	Sona	0911			7.8789	-81.2679	4
+PA	08026	Quebrada De Oro	Veraguas	10	Sona	0911			8.0355	-81.3869	4
+PA	08027	Rio Grande	Veraguas	10	Sona	0911			7.7191	-81.3342	4
+PA	08028	Rodeo Viejo	Veraguas	10	Sona	0911			8.1151	-81.3159	4
+PA	08072	Llano De Cativa	Veraguas	10	Mariato	12535894			7.807	-81.1222	1
+PA	08073	Arena	Veraguas	10	Mariato	12535894			7.9181	-81.5901	4
+PA	08074	Quebro	Veraguas	10	Mariato	12535894			7.4387	-80.8859	4
+PA	08075	Tebario	Veraguas	10	Mariato	12535894			7.7192	-80.9746	4
+PA	08076	El Cacao	Veraguas	10	Mariato	12535894			7.3448	-80.8686	4
+PA	10017	Soloy	Comarca Ngobe Bugle	12	Besiko	1201			8.4969	-82.072	4
+PA	10018	Boca De Balsa	Comarca Ngobe Bugle	12	Besiko	1201			8.53	-82.0313	4
+PA	10019	Cerro Banco	Comarca Ngobe Bugle	12	Besiko	1201			8.4639	-81.9407	4
+PA	10020	Cerro De Patena	Comarca Ngobe Bugle	12	Besiko	1201			8.4224	-81.9109	1
+PA	10021	Camaron Arriba	Comarca Ngobe Bugle	12	Besiko	1201			8.3877	-81.9965	4
+PA	10022	Emplanada De Corcha	Comarca Ngobe Bugle	12	Besiko	1201			8.4224	-81.9109	1
+PA	10023	Namnoni	Comarca Ngobe Bugle	12	Besiko	1201			8.4224	-81.9109	1
+PA	10024	Niba	Comarca Ngobe Bugle	12	Besiko	1201			8.4224	-81.9109	1
+PA	10025	Hato Pilon	Comarca Ngobe Bugle	12	Mirono	1202			8.4017	-81.8681	4
+PA	10026	Cascabel	Comarca Ngobe Bugle	12	Mirono	1202			8.5272	-81.8759	4
+PA	10027	Hato Corotu	Comarca Ngobe Bugle	12	Mirono	1202			8.3352	-81.9703	4
+PA	10028	Hato Culantro	Comarca Ngobe Bugle	12	Mirono	1202			8.4721	-81.862	4
+PA	10029	Hato Jobo	Comarca Ngobe Bugle	12	Mirono	1202			8.4103	-81.8924	4
+PA	10030	Hato Juli	Comarca Ngobe Bugle	12	Mirono	1202			8.3676	-81.8192	4
+PA	10031	Quebrada De Loro	Comarca Ngobe Bugle	12	Mirono	1202			8.3544	-81.918	4
+PA	10032	Salto Dupi	Comarca Ngobe Bugle	12	Mirono	1202			8.3504	-81.8882	4
+PA	10038	Chichica	Comarca Ngobe Bugle	12	Muna	1203			8.415	-81.7736	4
+PA	10039	Alto Caballero	Comarca Ngobe Bugle	12	Muna	1203			8.2932	-81.6751	4
+PA	10040	Bagama	Comarca Ngobe Bugle	12	Muna	1203			8.3665	-81.6649	1
+PA	10041	Cerro Caða	Comarca Ngobe Bugle	12	Muna	1203			8.3665	-81.6649	1
+PA	10042	Cerro Puerco	Comarca Ngobe Bugle	12	Muna	1203			8.3505	-81.6815	4
+PA	10043	Krua	Comarca Ngobe Bugle	12	Muna	1203			8.3665	-81.6649	1
+PA	10044	Maraca	Comarca Ngobe Bugle	12	Muna	1203			8.3761	-81.7333	4
+PA	10045	Nibra	Comarca Ngobe Bugle	12	Muna	1203			8.3665	-81.6649	1
+PA	10046	Peða Blanca	Comarca Ngobe Bugle	12	Muna	1203			8.3665	-81.6649	1
+PA	10047	Roka	Comarca Ngobe Bugle	12	Muna	1203			8.3665	-81.6649	1
+PA	10048	Sitio Prado	Comarca Ngobe Bugle	12	Muna	1203			8.3728	-81.58	4
+PA	10049	Umani	Comarca Ngobe Bugle	12	Muna	1203			8.3665	-81.6649	1
+PA	10033	Cerro Iglesias	Comarca Ngobe Bugle	12	Nole Duima	1204			8.3613	-81.8007	1
+PA	10034	Lajero	Comarca Ngobe Bugle	12	Nole Duima	1204			8.29	-81.7701	4
+PA	10035	Hato Chami	Comarca Ngobe Bugle	12	Nole Duima	1204			8.4485	-81.7702	4
+PA	10036	Susama	Comarca Ngobe Bugle	12	Nole Duima	1204			8.3613	-81.8007	1
+PA	10037	Jadeberi	Comarca Ngobe Bugle	12	Nole Duima	1204			8.371	-81.791	4
+PA	10050	Buenos Aires	Comarca Ngobe Bugle	12	Nurun	1205			8.4145	-81.4799	4
+PA	10051	Agua De Salud	Comarca Ngobe Bugle	12	Nurun	1205			8.5105	-81.4742	4
+PA	10052	Alto De Jesus	Comarca Ngobe Bugle	12	Nurun	1205			8.4136	-81.4613	1
+PA	10053	Cerro Pelado	Comarca Ngobe Bugle	12	Nurun	1205			8.1625	-81.5392	4
+PA	10054	El Bale	Comarca Ngobe Bugle	12	Nurun	1205			8.346	-81.3716	4
+PA	10055	El Paredon	Comarca Ngobe Bugle	12	Nurun	1205			8.4136	-81.4613	1
+PA	10056	El Piro	Comarca Ngobe Bugle	12	Nurun	1205			8.4083	-81.5224	4
+PA	10057	Guayabito	Comarca Ngobe Bugle	12	Nurun	1205			8.5396	-81.4821	4
+PA	10058	Guibale	Comarca Ngobe Bugle	12	Nurun	1205			8.514	-81.3595	4
+PA	10001	Bisisra	Comarca Ngobe Bugle	12	Kankintu	1206			8.6848	-81.7719	1
+PA	10002	Buri	Comarca Ngobe Bugle	12	Kankintu	1206			8.6848	-81.7719	1
+PA	10003	Kankitu	Comarca Ngobe Bugle	12	Kankintu	1206			8.6848	-81.7719	1
+PA	10004	Guariviara	Comarca Ngobe Bugle	12	Kankintu	1206			8.6848	-81.7719	1
+PA	10005	Guaroni	Comarca Ngobe Bugle	12	Kankintu	1206			8.6848	-81.7719	1
+PA	10006	Mununi	Comarca Ngobe Bugle	12	Kankintu	1206			8.7994	-81.7972	4
+PA	10007	Piedra Roja	Comarca Ngobe Bugle	12	Kankintu	1206			8.5703	-81.7466	4
+PA	10008	Tuwai	Comarca Ngobe Bugle	12	Kankintu	1206			8.6848	-81.7719	1
+PA	10009	Man Creek	Comarca Ngobe Bugle	12	Kankintu	1206			8.6848	-81.7719	1
+PA	10010	Kusapin	Comarca Ngobe Bugle	12	Kusapin	1207			9.1816	-81.8879	4
+PA	10011	Calovebora	Comarca Ngobe Bugle	12	Kusapin	1207			8.7939	-81.9088	1
+PA	10012	Bahia Azul	Comarca Ngobe Bugle	12	Kusapin	1207			9.1418	-81.8942	4
+PA	10013	Rio Chiriqui	Comarca Ngobe Bugle	12	Kusapin	1207			8.7939	-81.9088	1
+PA	10014	Loma Yuca	Comarca Ngobe Bugle	12	Kusapin	1207			8.7569	-81.5106	4
+PA	10015	Tobobe	Comarca Ngobe Bugle	12	Kusapin	1207			9.1208	-81.828	4
+PA	10016	Valle Bonito	Comarca Ngobe Bugle	12	Kusapin	1207			8.7939	-81.9088	1
+PA	11001	Wargandi	Comarca Wargandi						8.857	-77.978	4
+PA	12001	La Palma (Cabec)	Darien Y Comarca Embera		Chepigana				8.1052	-78.1493	1
+PA	12002	Camoganti	Darien Y Comarca Embera		Chepigana				8.0417	-77.8868	4
+PA	12003	Chepigana	Darien Y Comarca Embera		Chepigana				8.2845	-78.0419	4
+PA	12004	Garachine	Darien Y Comarca Embera		Chepigana				8.0668	-78.3644	4
+PA	12005	Jaque	Darien Y Comarca Embera		Chepigana				7.5183	-78.1634	4
+PA	12006	Puerto Piða	Darien Y Comarca Embera		Chepigana				8.1052	-78.1493	1
+PA	12007	Rio Congo	Darien Y Comarca Embera		Chepigana				8.4025	-78.3689	4
+PA	12008	Rio Iglesias	Darien Y Comarca Embera		Chepigana				8.3971	-78.0104	4
+PA	12009	Sambu	Darien Y Comarca Embera		Chepigana				8.0254	-78.2093	4
+PA	12010	Seteganti	Darien Y Comarca Embera		Chepigana				8.294	-78.0892	4
+PA	12011	Taimati	Darien Y Comarca Embera		Chepigana				8.1536	-78.2444	4
+PA	12012	Tucuti	Darien Y Comarca Embera		Chepigana				7.9601	-77.9322	4
+PA	12013	Agua Fria	Darien Y Comarca Embera		Chepigana				8.935	-78.494	4
+PA	12014	Cucunati	Darien Y Comarca Embera		Chepigana				8.5791	-78.2558	4
+PA	12015	Rio Congo Arriba	Darien Y Comarca Embera		Chepigana				8.305	-78.1847	1
+PA	12016	Santa Fe	Darien Y Comarca Embera		Chepigana				8.6584	-78.1589	4
+PA	12017	Jingurudo	Darien Y Comarca Embera		Sambu				7.8775	-78.0839	4
+PA	12018	Rio Sabalo	Darien Y Comarca Embera		Sambu				7.9821	-78.2194	4
+PA	12019	El Real S. M. (Cabec)	Darien Y Comarca Embera		Pinogana				8.305	-78.1847	1
+PA	12020	Boca De Chupe	Darien Y Comarca Embera		Pinogana				8.1675	-77.6647	1
+PA	12021	Paya	Darien Y Comarca Embera		Pinogana				7.9058	-77.4037	4
+PA	12022	Pinogana	Darien Y Comarca Embera		Pinogana				8.1172	-77.6831	4
+PA	12023	Pucuro	Darien Y Comarca Embera		Pinogana				7.9788	-77.4876	4
+PA	12024	Yape	Darien Y Comarca Embera		Pinogana				8.0984	-77.5982	4
+PA	12025	Yaviza	Darien Y Comarca Embera		Pinogana				8.1583	-77.6928	4
+PA	12026	Meteti	Darien Y Comarca Embera		Pinogana				8.4991	-77.979	4
+PA	12027	Cirilo Guaynora	Darien Y Comarca Embera		Cemaco				8.1675	-77.6647	1
+PA	12028	Lajas Blancas	Darien Y Comarca Embera		Cemaco				8.415	-77.8087	4
+PA	12029	Manuel Ortega	Darien Y Comarca Embera		Cemaco				8.1675	-77.6647	1

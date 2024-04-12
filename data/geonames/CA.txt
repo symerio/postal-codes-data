@@ -684,7 +684,7 @@ CA	M4V	Central Toronto (Summerhill West / Rathnelly / South Hill / Forest Hill S
 CA	M4W	Downtown Toronto (Rosedale)	Ontario	ON	Toronto	8133394			43.6827	-79.373	6
 CA	M4X	Downtown Toronto (St. James Town / Cabbagetown)	Ontario	ON	Toronto	8133394			43.6684	-79.3689	6
 CA	M4Y	Downtown Toronto (Church and Wellesley)	Ontario	ON	Toronto	8133394			43.6656	-79.383	6
-CA	M5A	Downtown Toronto (Regent Park / Port of Toronto)	Ontario	ON	Toronto	8133394			43.6555	-79.3626	6
+CA	M5A	Toronto	Ontario	ON	Toronto	8133394			43.6555	-79.3626	6
 CA	M5B	Downtown Toronto (Ryerson)	Ontario	ON	Toronto	8133394			43.6572	-79.3783	6
 CA	M5C	Downtown Toronto (St. James Park)	Ontario	ON	Toronto	8133394			43.6513	-79.3756	6
 CA	M5E	Downtown Toronto (Berczy Park)	Ontario	ON	Toronto	8133394			43.6456	-79.3754	5
@@ -803,7 +803,6 @@ CA	L0L	Lake Simcoe West Shore (Oro)	Ontario	ON	Lake Simcoe 				44.4548	-79.7352	
 CA	L0M	Georgian Bay South Shore (Angus)	Ontario	ON					44.3269	-80.0333	6
 CA	L0R	East Haldimand County (Waterdown)	Ontario	ON					43.1607	-79.7463	6
 CA	L0S	Niagara Regional Municipality (Fonthill)	Ontario	ON					42.9071	-79.0832	5
-CA	L0V	Westminster Abbey	Ontario	ON					45.4689	-75.0079	
 CA	L1A	Port Hope	Ontario	ON					44.0168	-78.3995	4
 CA	L1B	Bowmanville East	Ontario	ON	Bowmanville				43.9235	-78.5457	1
 CA	L1C	Bowmanville West	Ontario	ON	Bowmanville				43.9714	-78.7095	1
@@ -933,9 +932,9 @@ CA	L9S	Innisfil	Ontario	ON					44.3001	-79.6496	4
 CA	L9T	Milton	Ontario	ON					43.5148	-79.884	1
 CA	L9V	Orangeville North	Ontario	ON	Orangeville				43.9597	-80.1079	4
 CA	L9W	Orangeville South	Ontario	ON	Orangeville				43.9702	-80.016	5
-CA	L9X	Midhurst	Ontario	ON					44.4438	-79.7318	4
-CA	L9X	Minesing	Ontario	ON					44.4334	-79.833	4
 CA	L9X	Barrie	Ontario	ON					44.4001	-79.6663	4
+CA	L9X	Minesing	Ontario	ON					44.4334	-79.833	4
+CA	L9X	Midhurst	Ontario	ON					44.4438	-79.7318	4
 CA	L9X	Springwater	Ontario	ON					44.4954	-79.8503	4
 CA	L9Y	Collingwood	Ontario	ON					44.4834	-80.2164	4
 CA	L9Z	Wasaga Beach	Ontario	ON					44.5168	-80.0164	4
@@ -1172,8 +1171,8 @@ CA	P8T	Sioux Lookout	Ontario	ON					50.0668	-91.9836	4
 CA	P9A	Fort Frances	Ontario	ON					48.6393	-93.4469	5
 CA	P9N	Kenora	Ontario	ON					49.7573	-94.3427	1
 CA	C0B	Prince County (Portage)	Prince Edward Island	PE	Prince County	1103			46.6023	-63.9583	1
-CA	C0A	Montague	Prince Edward Island	PE					46.1668	-62.6487	4
 CA	C0A	Kings and Queens counties (Elmira)	Prince Edward Island	PE					46.1668	-62.6487	3
+CA	C0A	Montague	Prince Edward Island	PE					46.1668	-62.6487	4
 CA	C1A	Charlottetown Southeast Prince Edward Island Provincial Government	Prince Edward Island	PE	Charlottetown				46.2716	-63.0165	1
 CA	C1B	Stratford	Prince Edward Island	PE					46.2179	-63.0795	4
 CA	C1C	Charlottetown North	Prince Edward Island	PE	Charlottetown				46.2645	-63.0842	5
@@ -1477,8 +1476,8 @@ CA	H3S	Côte-des-Neiges North	Quebec	QC	Côte-des-Neiges				45.5063	-73.6297	1
 CA	H3T	Côte-des-Neiges Northeast	Quebec	QC	Côte-des-Neiges				45.5018	-73.6191	1
 CA	H3V	Côte-des-Neiges East	Quebec	QC	Côte-des-Neiges				45.499	-73.6089	1
 CA	H3W	Côte-des-Neiges Southwest	Quebec	QC	Côte-des-Neiges				45.4897	-73.6312	1
-CA	H4A	Notre-Dame-de-GrÔce Northeast	Quebec	QC	Notre-Dame-de-GrÔce				45.4717	-73.6149	1
-CA	H4B	Notre-Dame-de-GrÔce Southwest	Quebec	QC	Notre-Dame-de-GrÔce				45.4604	-73.6303	1
+CA	H4A	Notre-Dame-de-Grâce Northeast	Quebec	QC	Notre-Dame-de-Grâce				45.4717	-73.6149	1
+CA	H4B	Notre-Dame-de-Grâce Southwest	Quebec	QC	Notre-Dame-de-Grâce				45.4604	-73.6303	1
 CA	H4C	Saint-Henri	Quebec	QC					45.4737	-73.5882	4
 CA	H4E	Ville Émard	Quebec	QC					45.4546	-73.5985	1
 CA	H4G	Verdun North	Quebec	QC	Verdun				45.4643	-73.5698	4

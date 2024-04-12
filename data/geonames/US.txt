@@ -2579,7 +2579,7 @@ US	93662	Selma	California	CA	Fresno	019			36.5695	-119.617	4
 US	93664	Shaver Lake	California	CA	Fresno	019			37.1397	-119.273	4
 US	93667	Tollhouse	California	CA	Fresno	019			36.9943	-119.3914	4
 US	93668	Tranquillity	California	CA	Fresno	019			36.6584	-120.2617	4
-US	93675	Squaw Valley	California	CA	Fresno	019			36.7071	-119.1814	4
+US	93675	Yokuts	California	CA	Fresno	019			36.7071	-119.1814	4
 US	93701	Fresno	California	CA	Fresno	019			36.7487	-119.7867	4
 US	93702	Fresno	California	CA	Fresno	019			36.74	-119.7532	4
 US	93703	Fresno	California	CA	Fresno	019			36.7684	-119.7594	4
@@ -17022,8 +17022,8 @@ US	04090	Wells	Maine	ME	York	031			43.3144	-70.5969	4
 US	04093	Buxton	Maine	ME	York	031			43.6379	-70.5189	4
 US	04094	West Kennebunk	Maine	ME	York	031			43.4061	-70.5733	4
 US	04095	West Newfield	Maine	ME	York	031			43.601	-70.9027	4
-US	96960	Marshall Islands		MH	Marshall Islands	020			7.1128	171.237	1
-US	96970	Ebeye		MH	Marshall Islands	020			8.786	167.7365	1
+US	96960	Marshall Islands	Marshall Islands	MH	Marshall Islands	020			7.1128	171.237	1
+US	96970	Ebeye	Marshall Islands	MH	Marshall Islands	020			8.786	167.7365	1
 US	48705	Barton City	Michigan	MI	Alcona	001			44.702	-83.5994	4
 US	48721	Black River	Michigan	MI	Alcona	001			44.8138	-83.3407	4
 US	48728	Curran	Michigan	MI	Alcona	001			44.7336	-83.832	4

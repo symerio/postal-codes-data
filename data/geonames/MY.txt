@@ -96,8 +96,8 @@ MY	80906	Johor Bahru	Johor	JHR					1.4634	103.7547	3
 MY	80908	Johor Bahru	Johor	JHR					1.4634	103.7547	3
 MY	80988	Johor Bahru	Johor	JHR					1.4634	103.7547	3
 MY	80990	Johor Bahru	Johor	JHR					1.4634	103.7547	3
-MY	81000	Johor Bahru	Johor	JHR					1.4634	103.7547	3
 MY	81000	Kulai	Johor	JHR					1.7259	103.5011	3
+MY	81000	Johor Bahru	Johor	JHR					1.4634	103.7547	3
 MY	81100	Johor Bahru	Johor	JHR					1.5495	103.708	3
 MY	81200	Johor Bahru	Johor	JHR					1.5249	103.6874	3
 MY	81300	Johor Bahru	Johor	JHR					1.5427	103.6487	3
@@ -105,20 +105,20 @@ MY	81310	Johor Bahru	Johor	JHR					1.5107	103.6984	3
 MY	81400	Senai	Johor	JHR					1.6446	103.5973	3
 MY	81440	Bandar Tenggara	Johor	JHR					1.7876	103.6699	3
 MY	81450	Gugusan Taib Andak	Johor	JHR					1.7601	103.6852	3
-MY	81500	Pekan Nenas	Johor	JHR					1.6627	103.4182	3
 MY	81500	Sungai Mati	Johor	JHR					1.5141	103.7014	3
+MY	81500	Pekan Nenas	Johor	JHR					1.6627	103.4182	3
 MY	81550	Gelang Patah	Johor	JHR					1.4619	103.5857	3
 MY	81600	Pengerang	Johor	JHR					1.4656	103.9435	3
 MY	81700	Pasir Gudang	Johor	JHR					1.5002	103.8273	3
-MY	81750	masai	Johor	JHR					1.5641	103.7838	3
 MY	81750	Masai	Johor	JHR					1.5558	103.7616	3
+MY	81750	masai	Johor	JHR					1.5641	103.7838	3
 MY	81800	Ulu Tiram	Johor	JHR					1.6728	103.6325	3
 MY	81850	Layang-Layang	Johor	JHR					1.7832	103.4388	3
 MY	81900	Kota Tinggi	Johor	JHR					1.7427	103.7788	3
+MY	81920	Ayer Tawar 4	Johor	JHR					1.5058	103.9501	3
 MY	81920	Ayer Tawar 5	Johor	JHR					2.1308	102.4472	3
 MY	81920	Ayer Tawar 2	Johor	JHR					1.7578	103.9291	3
 MY	81920	Ayer Tawar 3	Johor	JHR					1.721	103.8967	3
-MY	81920	Ayer Tawar 4	Johor	JHR					1.5058	103.9501	3
 MY	81930	Bandar Penawar	Johor	JHR					1.6712	103.9725	3
 MY	82000	Pontian	Johor	JHR					1.5666	103.3873	3
 MY	82100	Ayer Baloi	Johor	JHR					1.6927	103.2524	3
@@ -127,15 +127,15 @@ MY	82300	Kukup	Johor	JHR					1.423	103.4425	3
 MY	83000	Batu Pahat	Johor	JHR					1.8578	103.0357	3
 MY	83100	Rengit	Johor	JHR					1.664	103.2453	3
 MY	83200	Senggarang	Johor	JHR					1.8138	103.0467	3
-MY	83300	Seri Gading	Johor	JHR					1.8197	103.2399	3
 MY	83300	Sri Gading	Johor	JHR					1.8563	102.9259	3
-MY	83400	Sri Medan	Johor	JHR					1.5084	103.7136	3
+MY	83300	Seri Gading	Johor	JHR					1.8197	103.2399	3
 MY	83400	Seri Medan	Johor	JHR					1.9071	103.0757	3
+MY	83400	Sri Medan	Johor	JHR					1.5084	103.7136	3
 MY	83500	Parit Sulong	Johor	JHR					1.9663	102.9015	3
 MY	83600	Semerah	Johor	JHR					1.9075	102.8813	3
 MY	83700	Yong Peng	Johor	JHR					1.9139	103.1326	3
-MY	84000	Muar	Johor	JHR					2.0051	102.7335	3
 MY	84000	Tangkak	Johor	JHR					1.9768	102.9125	3
+MY	84000	Muar	Johor	JHR					2.0051	102.7335	3
 MY	84150	Parit Jawa	Johor	JHR					1.9152	102.8197	3
 MY	84200	Muar	Johor	JHR					2.0102	102.6981	3
 MY	84300	Bukit Pasir	Johor	JHR					2.1122	102.7617	3
@@ -165,15 +165,15 @@ MY	86900	Endau	Johor	JHR					2.5415	103.542	3
 MY	05000	Alor Setar	Kedah	KDH					6.1063	100.3685	3
 MY	05050	Alor Setar	Kedah	KDH					6.0141	100.3832	3
 MY	05100	Alor Setar	Kedah	KDH					6.1272	100.3698	3
-MY	05150	Alor Star	Kedah	KDH					6.0727	100.3859	3
 MY	05150	Alor Setar	Kedah	KDH					6.0901	100.3692	3
+MY	05150	Alor Star	Kedah	KDH					6.0727	100.3859	3
 MY	05200	Alor Setar	Kedah	KDH					6.0276	100.3989	3
 MY	05250	Alor Setar	Kedah	KDH					6.0976	100.3864	3
 MY	05300	Alor Setar	Kedah	KDH					6.0907	100.3819	3
-MY	05350	Alor Star	Kedah	KDH					6.1194	100.3677	3
 MY	05350	Alor Setar	Kedah	KDH					6.0642	100.3947	3
-MY	05400	Alor Setar	Kedah	KDH					6.0568	100.3876	3
+MY	05350	Alor Star	Kedah	KDH					6.1194	100.3677	3
 MY	05400	Alor Star	Kedah	KDH					6.1162	100.3703	3
+MY	05400	Alor Setar	Kedah	KDH					6.0568	100.3876	3
 MY	05460	Alor Star	Kedah	KDH					6.1194	100.3677	3
 MY	05460	Alor Setar	Kedah	KDH					6.0803	100.3946	3
 MY	05500	Alor Setar	Kedah	KDH					6.1194	100.3677	3
@@ -248,17 +248,17 @@ MY	06150	Ayer Hitam	Kedah	KDH					6.1893	100.2859	3
 MY	06200	Kepala Batas	Kedah	KDH					5.9661	100.4734	3
 MY	06207	Kepala Batas	Kedah	KDH					6.2017	100.4128	3
 MY	06209	Kepala Batas	Kedah	KDH					6.2017	100.4128	3
-MY	06250	Alor Star	Kedah	KDH					5.875	100.3757	3
 MY	06250	Alor Setar	Kedah	KDH					6.0488	100.3565	3
+MY	06250	Alor Star	Kedah	KDH					5.875	100.3757	3
 MY	06300	Kuala Nerang	Kedah	KDH					6.1461	100.5833	3
 MY	06350	Pokok Sena	Kedah	KDH					6.1542	100.5613	3
-MY	06400	Pokok Sena	Kedah	KDH					6.0432	100.5221	3
 MY	06400	Pendang	Kedah	KDH					5.9825	100.4594	3
+MY	06400	Pokok Sena	Kedah	KDH					6.0432	100.5221	3
 MY	06500	Langgar	Kedah	KDH					6.0479	100.407	3
 MY	06507	Langgar	Kedah	KDH					6.1237	100.4445	3
 MY	06509	Langgar	Kedah	KDH					6.1237	100.4445	3
-MY	06550	Alor Star	Kedah	KDH					6.1194	100.3677	3
 MY	06550	Alor Setar	Kedah	KDH					6.1137	100.3527	3
+MY	06550	Alor Star	Kedah	KDH					6.1194	100.3677	3
 MY	06570	Alor Setar	Kedah	KDH					5.9419	100.4272	3
 MY	06600	Kuala Kedah	Kedah	KDH					5.9919	100.3635	3
 MY	06650	Simpang Empat	Kedah	KDH					6.013	100.4018	3
@@ -398,8 +398,8 @@ MY	15740	Kota Bharu	Kelantan	KTN					6.122	102.2523	3
 MY	15988	Kota Bharu	Kelantan	KTN					6.122	102.2523	3
 MY	15990	Kota Bharu	Kelantan	KTN					6.122	102.2523	3
 MY	16010	Kota Bharu	Kelantan	KTN					6.0064	102.218	3
-MY	16020	Bachok	Kelantan	KTN					6.0558	102.3487	3
 MY	16020	Kota Bharu	Kelantan	KTN					6.0265	102.1905	3
+MY	16020	Bachok	Kelantan	KTN					6.0558	102.3487	3
 MY	16030	Bachok	Kelantan	KTN					6.0547	102.3868	3
 MY	16040	Wakaf Bharu	Kelantan	KTN					6.0573	102.1743	3
 MY	16050	Bachok	Kelantan	KTN					6.032	102.3251	3
@@ -407,8 +407,8 @@ MY	16060	Bachok	Kelantan	KTN					6.0547	102.3868	3
 MY	16070	Bachok	Kelantan	KTN					6.0334	102.3499	3
 MY	16080	Tumpat	Kelantan	KTN					6.1411	102.1763	3
 MY	16090	Bachok	Kelantan	KTN					6.0338	102.3572	3
-MY	16100	Kota Bahru	Kelantan	KTN					6.122	102.2523	3
 MY	16100	Kota Bharu	Kelantan	KTN					5.9808	102.318	3
+MY	16100	Kota Bahru	Kelantan	KTN					6.122	102.2523	3
 MY	16109	Kota Bharu	Kelantan	KTN					6.122	102.2523	3
 MY	16150	Kota Bharu	Kelantan	KTN					6.0602	102.2341	3
 MY	16200	Tumpat	Kelantan	KTN					6.1174	102.1685	3
@@ -675,8 +675,8 @@ MY	52200	Kuala Lumpur	Kuala Lumpur	KUL					3.1553	101.6668	3
 MY	53000	Kuala Lumpur	Kuala Lumpur	KUL					3.1788	101.7045	3
 MY	53100	Kuala Lumpur	Kuala Lumpur	KUL					3.1962	101.7121	3
 MY	53200	Kuala Lumpur	Kuala Lumpur	KUL					3.1702	101.7056	3
-MY	53300	Kuala Lumpur	Kuala Lumpur	KUL					3.1698	101.706	3
 MY	53300	Setapak	Kuala Lumpur	KUL					3.1876	101.7102	3
+MY	53300	Kuala Lumpur	Kuala Lumpur	KUL					3.1698	101.706	3
 MY	53700	Kuala Lumpur	Kuala Lumpur	KUL					3.139	101.6869	3
 MY	53800	Kuala Lumpur	Kuala Lumpur	KUL					3.139	101.6869	3
 MY	53990	Kuala Lumpur	Kuala Lumpur	KUL					3.139	101.6869	3
@@ -709,10 +709,10 @@ MY	55930	Kuala Lumpur	Kuala Lumpur	KUL					3.139	101.6869	3
 MY	55932	Kuala Lumpur	Kuala Lumpur	KUL					3.139	101.6869	3
 MY	55934	Kuala Lumpur	Kuala Lumpur	KUL					3.139	101.6869	3
 MY	55990	Kuala Lumpur	Kuala Lumpur	KUL					3.139	101.6869	3
-MY	56000	Cheras	Kuala Lumpur	KUL					3.075	101.7382	3
 MY	56000	Kuala Lumpur	Kuala Lumpur	KUL					3.106	101.718	3
-MY	56100	Kuala Lumpur	Kuala Lumpur	KUL					3.1197	101.7275	3
+MY	56000	Cheras	Kuala Lumpur	KUL					3.075	101.7382	3
 MY	56100	Cheras	Kuala Lumpur	KUL					3.1105	101.7389	3
+MY	56100	Kuala Lumpur	Kuala Lumpur	KUL					3.1197	101.7275	3
 MY	57000	Kuala Lumpur	Kuala Lumpur	KUL					3.1013	101.6915	3
 MY	57100	Kuala Lumpur	Kuala Lumpur	KUL					3.1093	101.6995	3
 MY	57700	Kuala Lumpur	Kuala Lumpur	KUL					3.139	101.6869	3
@@ -765,9 +765,9 @@ MY	75260	Melaka	Melaka	MLK					2.2428	102.2376	3
 MY	75300	Melaka	Melaka	MLK					2.2074	102.251	3
 MY	75350	Melaka	Melaka	MLK					2.2218	102.2585	3
 MY	75400	Melaka	Melaka	MLK					2.211	102.2548	3
-MY	75450	Air Keroh	Melaka	MLK					2.3053	102.3346	3
 MY	75450	Melaka	Melaka	MLK					2.21	102.2637	3
 MY	75450	Ayer Keroh	Melaka	MLK					2.2872	102.2759	3
+MY	75450	Air Keroh	Melaka	MLK					2.3053	102.3346	3
 MY	75460	Melaka	Melaka	MLK					2.21	102.2906	3
 MY	75500	Melaka	Melaka	MLK					2.2057	102.2562	3
 MY	75502	Melaka	Melaka	MLK					2.2057	102.2562	3
@@ -851,8 +851,8 @@ MY	76100	Durian Tunggal	Melaka	MLK					2.3013	102.2842	3
 MY	76109	Durian Tunggal	Melaka	MLK					2.3149	102.2814	3
 MY	76200	Kem Trendak	Melaka	MLK					2.2891	102.3256	3
 MY	76300	Sungai Udang	Melaka	MLK					2.2867	102.1406	3
-MY	76400	Tanjong Kling	Melaka	MLK					2.244	102.1837	3
 MY	76400	Melaka	Melaka	MLK					2.2057	102.2562	3
+MY	76400	Tanjong Kling	Melaka	MLK					2.244	102.1837	3
 MY	76409	Tanjong Kling	Melaka	MLK					2.2376	102.1588	3
 MY	76450	Melaka	Melaka	MLK					2.2682	102.2234	3
 MY	77000	Jasin	Melaka	MLK					2.2933	102.4146	3
@@ -865,8 +865,8 @@ MY	77200	Jasin	Melaka	MLK					2.3849	102.2101	3
 MY	77200	Bemban	Melaka	MLK					2.2582	102.3555	3
 MY	77300	Merlimau	Melaka	MLK					2.198	102.3718	3
 MY	77309	Merlimau	Melaka	MLK					2.1389	102.4051	3
-MY	77400	Sungai Rambai'	Melaka	MLK					2.1368	102.5051	3
 MY	77400	Sungai Rambai	Melaka	MLK					2.1619	102.4309	3
+MY	77400	Sungai Rambai'	Melaka	MLK					2.1368	102.5051	3
 MY	77409	Sungai Rambai	Melaka	MLK					2.1368	102.5051	3
 MY	77500	Selandar	Melaka	MLK					2.384	102.3584	3
 MY	78000	Alor Gajah	Melaka	MLK					2.3618	102.2215	3
@@ -1144,15 +1144,15 @@ MY	26400	Bandar Pusat Jengka	Pahang	PHG					3.6739	102.5212	3
 MY	26400	Bandar Pusat Jengka	Pahang	PHG					3.6942	102.5394	3
 MY	26410	Bandar Pusat Jengka	Pahang	PHG					3.7416	102.5443	3
 MY	26420	Bandar Pusat Jengka	Pahang	PHG					3.699	102.5528	3
-MY	26430	Bandar Pusat Jengka	Pahang	PHG					3.7416	102.5443	3
 MY	26430	Bandar Pusat Jengka	Pahang	PHG					3.7598	102.5844	3
+MY	26430	Bandar Pusat Jengka	Pahang	PHG					3.7416	102.5443	3
 MY	26440	Bandar Pusat Jengka	Pahang	PHG					3.6808	102.6015	3
 MY	26450	Bandar Pusat Jengka	Pahang	PHG					3.7028	102.5393	3
 MY	26460	Bandar Pusat Jengka	Pahang	PHG					3.7263	102.5438	3
 MY	26485	Bandar Pusat Jengka	Pahang	PHG					3.7416	102.5443	3
 MY	26490	Bandar Pusat Jengka	Pahang	PHG					3.7416	102.5443	3
-MY	26500	Bandar Pusat Jengka	Pahang	PHG					3.7416	102.5443	3
 MY	26500	Maran	Pahang	PHG					3.5735	102.7896	3
+MY	26500	Bandar Pusat Jengka	Pahang	PHG					3.7416	102.5443	3
 MY	26600	Pekan	Pahang	PHG					3.5374	103.2801	3
 MY	26607	Pekan	Pahang	PHG					3.5007	103.3901	3
 MY	26609	Pekan	Pahang	PHG					3.5007	103.3901	3
@@ -1192,8 +1192,8 @@ MY	27607	Raub	Pahang	PHG					3.7926	101.8584	3
 MY	27609	Raub	Pahang	PHG					3.7926	101.8584	3
 MY	27610	Raub	Pahang	PHG					3.7875	102.1388	3
 MY	27620	Raub	Pahang	PHG					3.7984	102.1182	3
-MY	27630	Sungai Ruan	Pahang	PHG					3.7417	101.9874	3
 MY	27630	Raub	Pahang	PHG					3.689	102.007	3
+MY	27630	Sungai Ruan	Pahang	PHG					3.7417	101.9874	3
 MY	27650	Sungai Koyan	Pahang	PHG					4.1582	101.84	3
 MY	27660	Sega	Pahang	PHG					3.9817	101.9348	3
 MY	27670	Raub	Pahang	PHG					3.7602	101.8365	3
@@ -1206,8 +1206,8 @@ MY	28030	Temerloh	Pahang	PHG					3.6371	102.5241	3
 MY	28040	Temerloh	Pahang	PHG					3.4884	102.431	3
 MY	28050	Kuala Krau	Pahang	PHG					3.6237	102.456	3
 MY	28100	Chenor	Pahang	PHG					3.5018	102.6455	3
-MY	28200	Bandar Bera	Pahang	PHG					3.3437	102.5281	3
 MY	28200	Triang	Pahang	PHG					3.4051	102.6233	3
+MY	28200	Bandar Bera	Pahang	PHG					3.3437	102.5281	3
 MY	28300	Triang	Pahang	PHG					3.3177	102.4798	3
 MY	28310	Triang	Pahang	PHG					3.2641	102.4548	3
 MY	28320	Triang	Pahang	PHG					3.1929	102.2939	3
@@ -1502,8 +1502,8 @@ MY	13110	Penaga	Pulau Pinang	PNG					5.4852	100.3937	3
 MY	13200	Kepala Batas	Pulau Pinang	PNG					5.4457	100.4566	3
 MY	13210	Kepala Batas	Pulau Pinang	PNG					5.5048	100.4282	3
 MY	13220	Kepala Batas	Pulau Pinang	PNG					5.4636	100.4213	3
-MY	13300	Tasek Gelugur	Pulau Pinang	PNG					5.2632	100.4846	3
 MY	13300	Tasek Gelugor	Pulau Pinang	PNG					5.453	100.475	3
+MY	13300	Tasek Gelugur	Pulau Pinang	PNG					5.2632	100.4846	3
 MY	13310	Tasek Gelugor	Pulau Pinang	PNG					5.4558	100.4549	3
 MY	13400	Butterworth	Pulau Pinang	PNG					5.402	100.394	3
 MY	13409	Butterworth	Pulau Pinang	PNG					5.4283	100.387	3
@@ -1519,8 +1519,8 @@ MY	14100	Simpang Ampat	Pulau Pinang	PNG					5.2875	100.4709	3
 MY	14101	Simpang Ampat	Pulau Pinang	PNG					5.3599	100.3102	3
 MY	14110	Simpang Ampat	Pulau Pinang	PNG					5.3299	100.3927	3
 MY	14120	Simpang Ampat	Pulau Pinang	PNG					5.3037	100.4439	3
-MY	14200	Sungai Jawi	Pulau Pinang	PNG					5.2156	100.5045	3
 MY	14200	Simpang Ampat	Pulau Pinang	PNG					5.3226	100.439	3
+MY	14200	Sungai Jawi	Pulau Pinang	PNG					5.2156	100.5045	3
 MY	14300	Nibong Tebal	Pulau Pinang	PNG					5.2141	100.4518	3
 MY	14310	Nibong Tebal	Pulau Pinang	PNG					5.2136	100.448	3
 MY	14320	Nibong Tebal	Pulau Pinang	PNG					5.1894	100.4501	3
@@ -1667,8 +1667,8 @@ MY	32200	Lumut	Perak	PRK					4.317	100.7977	3
 MY	32300	Pangkor	Perak	PRK					4.2597	100.6095	3
 MY	32400	Ayer Tawar	Perak	PRK					4.3674	100.8604	3
 MY	32500	Changkat Keruing	Perak	PRK					4.2702	100.8909	3
-MY	32600	Bota	Perak	PRK					4.4724	100.8964	3
 MY	32600	Bandar Seri Iskandar	Perak	PRK					4.3587	100.9673	3
+MY	32600	Bota	Perak	PRK					4.4724	100.8964	3
 MY	32610	Bandar Seri Iskandar	Perak	PRK					4.4301	101.012	3
 MY	32700	Bruas	Perak	PRK					4.7499	100.837	3
 MY	32800	Parit	Perak	PRK					4.5504	100.9064	3
@@ -2277,8 +2277,8 @@ MY	42600	Jenjarom	Selangor	SGR					2.9723	101.5282	3
 MY	42610	Jenjarom	Selangor	SGR					2.8382	101.6827	3
 MY	42700	Banting	Selangor	SGR					2.9092	101.5279	3
 MY	42800	Tanjong Sepat	Selangor	SGR					2.7691	101.5625	3
-MY	42920	Pulau Indah	Selangor	SGR					2.9662	101.3768	3
 MY	42920	Pelabuhan Klang	Selangor	SGR					3.1373	101.7471	3
+MY	42920	Pulau Indah	Selangor	SGR					2.9662	101.3768	3
 MY	42940	Pulau Ketam	Selangor	SGR					2.9555	101.3268	3
 MY	42960	Pulau Carey	Selangor	SGR					2.8879	101.3913	3
 MY	43000	Kajang	Selangor	SGR					3.0094	101.7755	3
@@ -2304,8 +2304,8 @@ MY	44020	Kuala Kubu Baru	Selangor	SGR					3.4593	101.4807	3
 MY	44100	Kerling	Selangor	SGR					3.5566	101.5612	3
 MY	44110	Kuala Kubu Baru	Selangor	SGR					3.0224	101.7237	3
 MY	44200	Rasa	Selangor	SGR					3.3861	101.6093	3
-MY	44300	Batangkali	Selangor	SGR					3.2206	101.5735	3
 MY	44300	Batang Kali	Selangor	SGR					3.3751	101.6306	3
+MY	44300	Batangkali	Selangor	SGR					3.2206	101.5735	3
 MY	45000	Kuala Selangor	Selangor	SGR					3.2457	101.3678	3
 MY	45100	Sungai Ayer Tawar	Selangor	SGR					3.776	100.875	3
 MY	45200	Sabak Bernam	Selangor	SGR					3.6254	101.0593	3
@@ -2388,8 +2388,8 @@ MY	46974	Petaling Jaya	Selangor	SGR					3.1071	101.6083	3
 MY	46976	Petaling Jaya	Selangor	SGR					3.1071	101.6083	3
 MY	46978	Petaling Jaya	Selangor	SGR					3.0689	101.5742	3
 MY	47000	Sungai Buloh	Selangor	SGR					3.1618	101.598	3
-MY	47100	Sungai Buloh	Selangor	SGR					3.2445	101.56	3
 MY	47100	Puchong	Selangor	SGR					3.0757	101.6198	3
+MY	47100	Sungai Buloh	Selangor	SGR					3.2445	101.56	3
 MY	47110	Puchong	Selangor	SGR					3.0099	101.6318	3
 MY	47120	Puchong	Selangor	SGR					3.0122	101.6283	3
 MY	47130	Puchong	Selangor	SGR					2.9881	101.6053	3

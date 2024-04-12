@@ -124,6 +124,7 @@ IE	V92	Tralee	Munster	M					52.2704	-9.7026	4
 IE	V93	Kenmare	Munster	M					51.8833	-9.5833	4
 IE	V94	Limerick	Munster	M					52.6647	-8.6231	4
 IE	V95	Miltown Malbay	Munster	M					52.8553	-9.3983	4
+IE	X35	Dungarvan	Munster	M					52.0881	-7.6253	4
 IE	X42	Kilmacthomas	Munster	M					52.2097	-7.4258	4
 IE	X91	Waterford	Munster	M					52.2583	-7.1119	4
 IE	A75	Castleblayney	Ulster	U					54.1167	-6.7333	4

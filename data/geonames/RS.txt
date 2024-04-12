@@ -117,8 +117,8 @@ RS	12256	Voluja							44.4915	21.765	4
 RS	12257	Turija (Kučevo)							44.5672	21.6118	1
 RS	12258	Klenje							44.6011	21.5306	4
 RS	12300	Petrovac na Mlavi							44.3367	21.4466	1
-RS	12304	Kladurovo							44.4369	21.5441	4
 RS	12304	Ranovac							44.4441	21.4762	4
+RS	12304	Kladurovo							44.4369	21.5441	4
 RS	12305	Melnica							44.3921	21.5336	4
 RS	12306	Veliko Laole							44.3195	21.4312	4
 RS	12307	Burovac							44.2728	21.3578	4
@@ -140,8 +140,8 @@ RS	12372	Poljana							44.5322	21.2026	4
 RS	12373	Simićevo							44.3933	21.2107	4
 RS	12374	Žabari							44.3561	21.215	4
 RS	12375	Porodin							44.3171	21.221	4
-RS	14000	Valjevo							44.2751	19.8982	4
 RS	14000	Lipljan							44.2751	19.8982	3
+RS	14000	Valjevo							44.2751	19.8982	4
 RS	14201	Brankovina							44.3466	19.8984	4
 RS	14202	Rajković							44.2248	20.0131	4
 RS	14203	Dračić							44.2157	19.9003	4
@@ -742,8 +742,8 @@ RS	24407	Kevi							45.8503	19.8803	4
 RS	24408	Bogaraš							45.9344	19.9275	4
 RS	24410	Horgoš							46.1539	19.9677	4
 RS	24413	Palić							46.1065	19.7565	4
-RS	24415	Bački Vinogradi							46.123	19.8559	4
 RS	24415	Hajdukovo							46.123	19.8559	3
+RS	24415	Bački Vinogradi							46.123	19.8559	4
 RS	24416	Male Pijace							46.0674	19.9217	4
 RS	24417	Martonoš							46.1146	20.0589	4
 RS	24418	Šupljak							46.1128	19.8129	4
@@ -999,8 +999,8 @@ RS	34312	Belosavci							44.3315	20.6746	4
 RS	34313	Natalinci							44.2529	20.8037	4
 RS	34314	Donja Šatornja							44.1941	20.6021	4
 RS	34318	Jarmenovci							44.1849	20.5462	4
-RS	34321	Desimirovac							44.0725	20.8802	4
 RS	34321	Cerovac							44.0956	20.8489	4
+RS	34321	Desimirovac							44.0725	20.8802	4
 RS	34322	Čumić							44.1476	20.7821	4
 RS	34323	Stragari							44.1534	20.6613	4
 RS	34324	Gornja Trnava							44.1848	20.765	4

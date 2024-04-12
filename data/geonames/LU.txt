@@ -1,7 +1,7 @@
 LU	L-4906	Dippach	Capellen	CA	Dippach	03			49.5877	5.9782	4
 LU	L-4968	Schouweiler	Capellen	CA	Dippach	03			49.5789	5.9571	6
-LU	L-4970	Sprinkange	Capellen	CA	Dippach	03			49.5853	5.9728	6
 LU	L-4970	Bettange-sur-Mess	Capellen	CA	Dippach	03			49.5765	5.9949	6
+LU	L-4970	Sprinkange	Capellen	CA	Dippach	03			49.5853	5.9728	6
 LU	L-4971	Bettange-sur-Mess	Capellen	CA	Dippach	03			49.5709	5.995	6
 LU	L-4972	Dippach	Capellen	CA	Dippach	03			49.5877	5.9782	6
 LU	L-4973	Dippach	Capellen	CA	Dippach	03			49.5881	5.9896	6
@@ -14,8 +14,8 @@ LU	L-4994	Schouweiler	Capellen	CA	Dippach	03			49.5823	5.9589	6
 LU	L-4995	Schouweiler	Capellen	CA	Dippach	03			49.5793	5.9505	6
 LU	L-4996	Schouweiler	Capellen	CA	Dippach	03			49.5811	5.9546	6
 LU	L-4997	Schouweiler	Capellen	CA	Dippach	03			49.5859	5.9553	6
-LU	L-4998	Sprinkange	Capellen	CA	Dippach	03			49.5816	5.9653	6
 LU	L-4998	Schouweiler	Capellen	CA	Dippach	03			49.5814	5.9619	4
+LU	L-4998	Sprinkange	Capellen	CA	Dippach	03			49.5816	5.9653	6
 LU	L-4999	Sprinkange	Capellen	CA	Dippach	03			49.5777	5.9613	6
 LU	L-4999	Schouweiler	Capellen	CA	Dippach	03			49.5797	5.9601	6
 LU	L-8350	Garnich	Capellen	CA	Garnich	04			49.6179	5.9536	6
@@ -73,8 +73,8 @@ LU	L-8291	Meispelt	Capellen	CA	Kehlen	06			49.6903	6.0577	6
 LU	L-8292	Meispelt	Capellen	CA	Kehlen	06			49.6933	6.0605	6
 LU	L-8293	Keispelt	Capellen	CA	Kehlen	06			49.6962	6.0682	6
 LU	L-8294	Keispelt	Capellen	CA	Kehlen	06			49.6914	6.0699	6
-LU	L-8295	Kehlen	Capellen	CA	Kehlen	06			49.6784	6.0437	6
 LU	L-8295	Keispelt	Capellen	CA	Kehlen	06			49.6894	6.0628	6
+LU	L-8295	Kehlen	Capellen	CA	Kehlen	06			49.6784	6.0437	6
 LU	L-8312	Olm	Capellen	CA	Kehlen	06			49.6459	5.9948	6
 LU	L-8315	Olm	Capellen	CA	Kehlen	06			49.6461	5.996	6
 LU	L-8316	Olm	Capellen	CA	Kehlen	06			49.6453	5.9959	6
@@ -259,10 +259,10 @@ LU	L-8336	Capellen	Capellen	CA	Mamer	09			49.6443	5.9892	6
 LU	L-8337	Capellen	Capellen	CA	Mamer	09			49.6451	5.9987	6
 LU	L-8345	Capellen	Capellen	CA	Mamer	09			49.6409	5.9829	6
 LU	L-8348	Capellen	Capellen	CA	Mamer	09			49.6447	5.9825	6
-LU	L-8363	Leesbach	Capellen	CA	Septfontaines	10			49.7051	5.9821	6
-LU	L-8363	Simmerschmelz	Capellen	CA	Septfontaines	10			49.6942	5.9852	6
 LU	L-8363	Simmerfarm	Capellen	CA	Septfontaines	10			49.6962	5.9872	6
+LU	L-8363	Leesbach	Capellen	CA	Septfontaines	10			49.7051	5.9821	6
 LU	L-8363	Greisch	Capellen	CA	Septfontaines	10			49.71	5.9875	6
+LU	L-8363	Simmerschmelz	Capellen	CA	Septfontaines	10			49.6942	5.9852	6
 LU	L-8383	Septfontaines	Capellen	CA	Septfontaines	10			49.6851	5.9421	6
 LU	L-8395	Septfontaines	Capellen	CA	Septfontaines	10			49.7005	5.9642	6
 LU	L-8396	Septfontaines	Capellen	CA	Septfontaines	10			49.6999	5.9666	6
@@ -353,12 +353,12 @@ LU	L-4939	Bascharage	Capellen	CA	Käerjeng	8641865			49.5679	5.9101	6
 LU	L-4940	Hautcharage	Capellen	CA	Käerjeng	8641865			49.5715	5.9245	4
 LU	L-4940	Bascharage	Capellen	CA	Käerjeng	8641865			49.5685	5.9136	6
 LU	L-4941	Bascharage	Capellen	CA	Käerjeng	8641865			49.5712	5.9153	6
-LU	L-4942	Hautcharage	Capellen	CA	Käerjeng	8641865			49.577	5.8922	6
 LU	L-4942	Bascharage	Capellen	CA	Käerjeng	8641865			49.5692	5.9049	6
+LU	L-4942	Hautcharage	Capellen	CA	Käerjeng	8641865			49.577	5.8922	6
 LU	L-4943	Hautcharage	Capellen	CA	Käerjeng	8641865			49.5783	5.9083	6
 LU	L-4944	Bascharage	Capellen	CA	Käerjeng	8641865			49.5668	5.9054	6
-LU	L-4945	Hautcharage	Capellen	CA	Käerjeng	8641865			49.5744	5.9151	6
 LU	L-4945	Bascharage	Capellen	CA	Käerjeng	8641865			49.5734	5.9192	6
+LU	L-4945	Hautcharage	Capellen	CA	Käerjeng	8641865			49.5744	5.9151	6
 LU	L-4946	Bascharage	Capellen	CA	Käerjeng	8641865			49.5664	5.9172	6
 LU	L-4947	Hautcharage	Capellen	CA	Käerjeng	8641865			49.5757	5.9063	6
 LU	L-4947	Bascharage	Capellen	CA	Käerjeng	8641865			49.5729	5.9019	6
@@ -526,12 +526,12 @@ LU	L-9374	Gilsdorf	Diekirch	DI	Bettendorf	02			49.8633	6.17	4
 LU	L-9381	Moestroff	Diekirch	DI	Bettendorf	02			49.8688	6.2405	6
 LU	L-9382	Moestroff	Diekirch	DI	Bettendorf	02			49.8664	6.2383	6
 LU	L-9140	Bourscheid	Diekirch	DI	Bourscheid	03			49.9097	6.0645	6
-LU	L-9153	Goebelsmühle	Diekirch	DI	Bourscheid	03			49.921	6.0549	6
 LU	L-9153	Dirbach	Diekirch	DI	Bourscheid	03			49.9182	6.0352	6
+LU	L-9153	Goebelsmühle	Diekirch	DI	Bourscheid	03			49.921	6.0549	6
 LU	L-9163	Kehmen	Diekirch	DI	Bourscheid	03			49.8997	6.0367	6
 LU	L-9164	Bourscheid-Plage	Diekirch	DI	Bourscheid	03			49.909	6.0792	6
-LU	L-9164	Bourscheid-Moulin	Diekirch	DI	Bourscheid	03			49.9101	6.0861	6
 LU	L-9164	Lipperscheid	Diekirch	DI	Bourscheid	03			49.9182	6.0861	6
+LU	L-9164	Bourscheid-Moulin	Diekirch	DI	Bourscheid	03			49.9101	6.0861	6
 LU	L-9171	Michelau	Diekirch	DI	Bourscheid	03			49.8992	6.0908	6
 LU	L-9172	Michelau	Diekirch	DI	Bourscheid	03			49.895	6.0965	6
 LU	L-9182	Scheidel	Diekirch	DI	Bourscheid	03			49.893	6.0424	6
@@ -539,10 +539,10 @@ LU	L-9183	Friedbusch	Diekirch	DI	Bourscheid	03			49.9503	6.0558	6
 LU	L-9183	Schlindermanderscheid	Diekirch	DI	Bourscheid	03			49.9321	6.0609	6
 LU	L-9191	Welscheid	Diekirch	DI	Bourscheid	03			49.8868	6.0647	6
 LU	L-9340	Flebour	Diekirch	DI	Bourscheid	03			49.9052	6.1158	4
-LU	L-9378	Lipperscheid	Diekirch	DI	Bourscheid	03			49.926	6.0899	6
-LU	L-9378	Enteschbach	Diekirch	DI	Bourscheid	03			49.912	6.1141	6
-LU	L-9378	Flebour	Diekirch	DI	Bourscheid	03			49.9101	6.1077	6
 LU	L-9378	Closdelt	Diekirch	DI	Bourscheid	03			49.9017	6.1225	6
+LU	L-9378	Lipperscheid	Diekirch	DI	Bourscheid	03			49.926	6.0899	6
+LU	L-9378	Flebour	Diekirch	DI	Bourscheid	03			49.9101	6.1077	6
+LU	L-9378	Enteschbach	Diekirch	DI	Bourscheid	03			49.912	6.1141	6
 LU	L-9201	Diekirch	Diekirch	DI	Diekirch	04			49.8629	6.1571	4
 LU	L-9202	Diekirch	Diekirch	DI	Diekirch	04			49.8629	6.1571	4
 LU	L-9203	Diekirch	Diekirch	DI	Diekirch	04			49.8629	6.1571	4
@@ -631,12 +631,12 @@ LU	L-9099	Ingeldorf	Diekirch	DI	Erpeldange	06			49.8541	6.1308	4
 LU	L-9142	Burden	Diekirch	DI	Erpeldange	06			49.8822	6.0913	6
 LU	L-9145	Erpeldange-sur-Sûre	Diekirch	DI	Erpeldange	06			49.8591	6.1132	4
 LU	L-9146	Erpeldange-sur-Sûre	Diekirch	DI	Erpeldange	06			49.8632	6.1117	6
-LU	L-9147	Ingeldorf	Diekirch	DI	Erpeldange	06			49.8526	6.119	6
 LU	L-9147	Erpeldange-sur-Sûre	Diekirch	DI	Erpeldange	06			49.8599	6.1153	4
+LU	L-9147	Ingeldorf	Diekirch	DI	Erpeldange	06			49.8526	6.119	6
 LU	L-9160	Ingeldorf	Diekirch	DI	Erpeldange	06			49.8564	6.1382	6
 LU	L-9161	Ingeldorf	Diekirch	DI	Erpeldange	06			49.8513	6.1324	6
-LU	L-9172	Erpeldange-sur-Sûre	Diekirch	DI	Erpeldange	06			49.8836	6.1118	6
 LU	L-9172	Burden	Diekirch	DI	Erpeldange	06			49.8922	6.0941	6
+LU	L-9172	Erpeldange-sur-Sûre	Diekirch	DI	Erpeldange	06			49.8836	6.1118	6
 LU	L-9378	Erpeldange-sur-Sûre	Diekirch	DI	Erpeldange	06			49.8735	6.1276	
 LU	L-7758	Grentzingen	Diekirch	DI	Ettelbruck	07			49.8313	6.0916	6
 LU	L-9001	Ettelbruck	Diekirch	DI	Ettelbruck	07			49.8464	6.0991	4
@@ -758,9 +758,9 @@ LU	L-9135	Schieren	Diekirch	DI	Schieren	13			49.8268	6.0979	6
 LU	L-9136	Schieren	Diekirch	DI	Schieren	13			49.8291	6.0976	6
 LU	L-9137	Schieren	Diekirch	DI	Schieren	13			49.826	6.0997	6
 LU	L-9184	Schieren	Diekirch	DI	Schieren	13			49.8197	6.1206	6
-LU	L-6380	Savelborn	Diekirch	DI	Vallée de l'Ernz	8641526			49.8117	6.2531	6
-LU	L-6380	Medernach	Diekirch	DI	Vallée de l'Ernz	8641526			49.8183	6.2629	
 LU	L-6380	Ermsdorf	Diekirch	DI	Vallée de l'Ernz	8641526			49.8241	6.2446	4
+LU	L-6380	Medernach	Diekirch	DI	Vallée de l'Ernz	8641526			49.8183	6.2629	
+LU	L-6380	Savelborn	Diekirch	DI	Vallée de l'Ernz	8641526			49.8117	6.2531	6
 LU	L-7622	Medernach	Diekirch	DI	Vallée de l'Ernz	8641526			49.7901	6.2181	6
 LU	L-7633	Medernach	Diekirch	DI	Vallée de l'Ernz	8641526			49.8003	6.1983	6
 LU	L-7634	Medernach	Diekirch	DI	Vallée de l'Ernz	8641526			49.805	6.2382	6
@@ -808,14 +808,14 @@ LU	L-6210	Consdorf	Echternach	EC	Consdorf	04			49.7761	6.3386	6
 LU	L-6211	Consdorf	Echternach	EC	Consdorf	04			49.7776	6.336	6
 LU	L-6212	Consdorf	Echternach	EC	Consdorf	04			49.7799	6.3429	6
 LU	L-6213	Consdorf	Echternach	EC	Consdorf	04			49.7835	6.3388	6
-LU	L-6214	Kalkesbach (Consdorf)	Echternach	EC	Consdorf	04			49.8004	6.3533	6
 LU	L-6214	Consdorf	Echternach	EC	Consdorf	04			49.7849	6.3475	6
+LU	L-6214	Kalkesbach (Consdorf)	Echternach	EC	Consdorf	04			49.8004	6.3533	6
 LU	L-6215	Consdorf	Echternach	EC	Consdorf	04			49.7774	6.338	6
 LU	L-6238	Breidweiler	Echternach	EC	Consdorf	04			49.7777	6.3059	6
 LU	L-6239	Colbette	Echternach	EC	Consdorf	04			49.7686	6.3027	6
 LU	L-6239	Marscherwald	Echternach	EC	Consdorf	04			49.7633	6.2844	6
-LU	L-6250	Consdorf	Echternach	EC	Consdorf	04			49.787	6.3567	6
 LU	L-6250	Scheidgen	Echternach	EC	Consdorf	04			49.7854	6.3653	6
+LU	L-6250	Consdorf	Echternach	EC	Consdorf	04			49.787	6.3567	6
 LU	L-6251	Scheidgen	Echternach	EC	Consdorf	04			49.7784	6.3635	6
 LU	L-6252	Wolper	Echternach	EC	Consdorf	04			49.7637	6.3521	6
 LU	L-6401	Echternach	Echternach	EC	Echternach	05			49.8198	6.3978	4
@@ -912,8 +912,8 @@ LU	L-6691	Moersdorf	Echternach	EC	Mompach	06			49.7438	6.4992	6
 LU	L-6692	Moersdorf	Echternach	EC	Mompach	06			49.7425	6.5003	6
 LU	L-6695	Mompach	Echternach	EC	Mompach	06			49.7518	6.4638	6
 LU	L-6557	Dickweiler	Echternach	EC	Rosport	07			49.7844	6.4706	6
-LU	L-6558	Rosport	Echternach	EC	Rosport	07			49.7918	6.4889	6
 LU	L-6558	Girsterklaus	Echternach	EC	Rosport	07			49.785	6.4984	6
+LU	L-6558	Rosport	Echternach	EC	Rosport	07			49.7918	6.4889	6
 LU	L-6559	Girst	Echternach	EC	Rosport	07			49.7735	6.5001	6
 LU	L-6560	Hinkel	Echternach	EC	Rosport	07			49.7836	6.5139	6
 LU	L-6570	Osweiler	Echternach	EC	Rosport	07			49.7862	6.4412	6
@@ -930,8 +930,8 @@ LU	L-6587	Steinheim	Echternach	EC	Rosport	07			49.8171	6.4772	6
 LU	L-6245	Mullerthal	Echternach	EC	Waldbillig	08			49.7904	6.3071	6
 LU	L-6370	Haller	Echternach	EC	Waldbillig	08			49.8192	6.2806	6
 LU	L-6380	Savelborn (Waldbillig)	Echternach	EC	Waldbillig	08			49.8098	6.2542	
-LU	L-7634	Waldbillig	Echternach	EC	Waldbillig	08			49.8051	6.2686	6
 LU	L-7634	Haller	Echternach	EC	Waldbillig	08			49.811	6.2678	6
+LU	L-7634	Waldbillig	Echternach	EC	Waldbillig	08			49.8051	6.2686	6
 LU	L-7640	Christnach	Echternach	EC	Waldbillig	08			49.7869	6.2728	6
 LU	L-7641	Christnach	Echternach	EC	Waldbillig	08			49.7894	6.2732	6
 LU	L-7649	Freckeisen	Echternach	EC	Waldbillig	08			49.7995	6.2596	6
@@ -1010,8 +1010,8 @@ LU	L-3288	Bettembourg	Esch-sur-Alzette	ES	Bettembourg	01			49.5208	6.097	6
 LU	L-3290	Bettembourg	Esch-sur-Alzette	ES	Bettembourg	01			49.5077	6.1056	6
 LU	L-3311	Abweiler	Esch-sur-Alzette	ES	Bettembourg	01			49.5335	6.0784	6
 LU	L-3332	Fennange	Esch-sur-Alzette	ES	Bettembourg	01			49.5198	6.0789	6
-LU	L-3340	Huncherange	Esch-sur-Alzette	ES	Bettembourg	01			49.5183	6.0626	6
 LU	L-3340	Fennange	Esch-sur-Alzette	ES	Bettembourg	01			49.5302	6.0627	6
+LU	L-3340	Huncherange	Esch-sur-Alzette	ES	Bettembourg	01			49.5183	6.0626	6
 LU	L-3341	Huncherange	Esch-sur-Alzette	ES	Bettembourg	01			49.5158	6.0632	6
 LU	L-3380	Noertzange	Esch-sur-Alzette	ES	Bettembourg	01			49.5092	6.0592	6
 LU	L-3382	Noertzange	Esch-sur-Alzette	ES	Bettembourg	01			49.5076	6.0506	4
@@ -1049,8 +1049,8 @@ LU	L-4527	Oberkorn	Esch-sur-Alzette	ES	Differdange	02			49.5108	5.8962	6
 LU	L-4528	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.5211	5.9001	6
 LU	L-4529	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.5194	5.9126	6
 LU	L-4530	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.5203	5.8885	6
-LU	L-4531	Oberkorn	Esch-sur-Alzette	ES	Differdange	02			49.5158	5.8942	6
 LU	L-4531	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.5167	5.8921	6
+LU	L-4531	Oberkorn	Esch-sur-Alzette	ES	Differdange	02			49.5158	5.8942	6
 LU	L-4532	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.5214	5.897	6
 LU	L-4533	Niederkorn	Esch-sur-Alzette	ES	Differdange	02			49.5369	5.8877	6
 LU	L-4534	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.5179	5.8958	6
@@ -1111,8 +1111,8 @@ LU	L-4596	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.5184	5.9137	6
 LU	L-4597	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.5185	5.8969	6
 LU	L-4598	Niederkorn	Esch-sur-Alzette	ES	Differdange	02			49.5266	5.8909	6
 LU	L-4599	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.5225	5.8861	6
-LU	L-4601	Niederkorn	Esch-sur-Alzette	ES	Differdange	02			49.5276	5.8907	6
 LU	L-4601	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.5242	5.8893	6
+LU	L-4601	Niederkorn	Esch-sur-Alzette	ES	Differdange	02			49.5276	5.8907	6
 LU	L-4602	Niederkorn	Esch-sur-Alzette	ES	Differdange	02			49.5326	5.8913	6
 LU	L-4603	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.5175	5.8891	4
 LU	L-4604	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.5185	5.9041	6
@@ -1144,8 +1144,8 @@ LU	L-4635	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.5199	5.9084	6
 LU	L-4636	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.5219	5.8864	4
 LU	L-4638	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.5174	5.9069	6
 LU	L-4639	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.5199	5.9014	6
-LU	L-4640	Oberkorn	Esch-sur-Alzette	ES	Differdange	02			49.5164	5.8974	6
 LU	L-4640	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.5198	5.8978	6
+LU	L-4640	Oberkorn	Esch-sur-Alzette	ES	Differdange	02			49.5164	5.8974	6
 LU	L-4641	Oberkorn	Esch-sur-Alzette	ES	Differdange	02			49.5155	5.9033	6
 LU	L-4642	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.5184	5.8883	6
 LU	L-4643	Niederkorn	Esch-sur-Alzette	ES	Differdange	02			49.5363	5.8877	6
@@ -1182,8 +1182,8 @@ LU	L-4679	Oberkorn	Esch-sur-Alzette	ES	Differdange	02			49.5176	5.8964	6
 LU	L-4680	Niederkorn	Esch-sur-Alzette	ES	Differdange	02			49.5378	5.8959	6
 LU	L-4681	Niederkorn	Esch-sur-Alzette	ES	Differdange	02			49.5335	5.8918	6
 LU	L-4682	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.5255	5.8884	4
-LU	L-4683	Niederkorn	Esch-sur-Alzette	ES	Differdange	02			49.5254	5.8871	6
 LU	L-4683	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.5255	5.8879	6
+LU	L-4683	Niederkorn	Esch-sur-Alzette	ES	Differdange	02			49.5254	5.8871	6
 LU	L-4684	Differdange	Esch-sur-Alzette	ES	Differdange	02			49.519	5.8991	4
 LU	L-4685	Oberkorn	Esch-sur-Alzette	ES	Differdange	02			49.5088	5.8923	6
 LU	L-4686	Niederkorn	Esch-sur-Alzette	ES	Differdange	02			49.5268	5.8898	6
@@ -1712,8 +1712,8 @@ LU	L-3774	Tétange	Esch-sur-Alzette	ES	Kayl	06			49.4777	6.0343	6
 LU	L-3775	Tétange	Esch-sur-Alzette	ES	Kayl	06			49.4736	6.0402	6
 LU	L-3776	Tétange	Esch-sur-Alzette	ES	Kayl	06			49.4717	6.0408	6
 LU	L-3780	Tétange	Esch-sur-Alzette	ES	Kayl	06			49.474	6.0369	6
-LU	L-3781	Kayl	Esch-sur-Alzette	ES	Kayl	06			49.4803	6.0376	6
 LU	L-3781	Tétange	Esch-sur-Alzette	ES	Kayl	06			49.4798	6.0401	6
+LU	L-3781	Kayl	Esch-sur-Alzette	ES	Kayl	06			49.4803	6.0376	6
 LU	L-3782	Tétange	Esch-sur-Alzette	ES	Kayl	06			49.4784	6.0444	6
 LU	L-3784	Tétange	Esch-sur-Alzette	ES	Kayl	06			49.4717	6.0387	6
 LU	L-3786	Tétange	Esch-sur-Alzette	ES	Kayl	06			49.478	6.0369	6
@@ -1960,8 +1960,8 @@ LU	L-1896	Kockelscheuer	Esch-sur-Alzette	ES	Roeser	11			49.5569	6.096	4
 LU	L-1897	Kockelscheuer	Esch-sur-Alzette	ES	Roeser	11			49.5569	6.096	4
 LU	L-1898	Kockelscheuer	Esch-sur-Alzette	ES	Roeser	11			49.5599	6.1116	6
 LU	L-1899	Kockelscheuer	Esch-sur-Alzette	ES	Roeser	11			49.5563	6.1042	6
-LU	L-3320	Berchem	Esch-sur-Alzette	ES	Roeser	11			49.5395	6.1332	6
 LU	L-3320	Bivange	Esch-sur-Alzette	ES	Roeser	11			49.5421	6.1369	6
+LU	L-3320	Berchem	Esch-sur-Alzette	ES	Roeser	11			49.5395	6.1332	6
 LU	L-3321	Berchem	Esch-sur-Alzette	ES	Roeser	11			49.5406	6.1286	6
 LU	L-3322	Bivange	Esch-sur-Alzette	ES	Roeser	11			49.5427	6.1356	6
 LU	L-3323	Bivange	Esch-sur-Alzette	ES	Roeser	11			49.5455	6.1328	6
@@ -2088,8 +2088,8 @@ LU	L-4452	Belvaux	Esch-sur-Alzette	ES	Sanem	13			49.5095	5.9419	4
 LU	L-4453	Belvaux	Esch-sur-Alzette	ES	Sanem	13			49.5095	5.9419	4
 LU	L-4454	Belvaux	Esch-sur-Alzette	ES	Sanem	13			49.5095	5.9419	4
 LU	L-4459	Soleuvre	Esch-sur-Alzette	ES	Sanem	13			49.5199	5.9396	6
-LU	L-4460	Belvaux	Esch-sur-Alzette	ES	Sanem	13			49.515	5.929	6
 LU	L-4460	Soleuvre	Esch-sur-Alzette	ES	Sanem	13			49.517	5.9309	6
+LU	L-4460	Belvaux	Esch-sur-Alzette	ES	Sanem	13			49.515	5.929	6
 LU	L-4461	Belvaux	Esch-sur-Alzette	ES	Sanem	13			49.5083	5.9202	6
 LU	L-4462	Belvaux	Esch-sur-Alzette	ES	Sanem	13			49.509	5.9236	6
 LU	L-4463	Soleuvre	Esch-sur-Alzette	ES	Sanem	13			49.5244	5.9388	6
@@ -2110,11 +2110,11 @@ LU	L-4476	Belvaux	Esch-sur-Alzette	ES	Sanem	13			49.5094	5.9437	6
 LU	L-4477	Belvaux	Esch-sur-Alzette	ES	Sanem	13			49.5096	5.9272	6
 LU	L-4478	Belvaux	Esch-sur-Alzette	ES	Sanem	13			49.5092	5.9288	6
 LU	L-4479	Soleuvre	Esch-sur-Alzette	ES	Sanem	13			49.524	5.9429	6
-LU	L-4480	Soleuvre	Esch-sur-Alzette	ES	Sanem	13			49.5143	5.9488	6
 LU	L-4480	Belvaux	Esch-sur-Alzette	ES	Sanem	13			49.5127	5.9431	4
+LU	L-4480	Soleuvre	Esch-sur-Alzette	ES	Sanem	13			49.5143	5.9488	6
 LU	L-4481	Belvaux	Esch-sur-Alzette	ES	Sanem	13			49.5093	5.9448	6
-LU	L-4482	Belvaux	Esch-sur-Alzette	ES	Sanem	13			49.5147	5.9447	6
 LU	L-4482	Soleuvre	Esch-sur-Alzette	ES	Sanem	13			49.5166	5.9428	6
+LU	L-4482	Belvaux	Esch-sur-Alzette	ES	Sanem	13			49.5147	5.9447	6
 LU	L-4483	Soleuvre	Esch-sur-Alzette	ES	Sanem	13			49.5195	5.9416	6
 LU	L-4484	Soleuvre	Esch-sur-Alzette	ES	Sanem	13			49.5229	5.9433	6
 LU	L-4485	Soleuvre	Esch-sur-Alzette	ES	Sanem	13			49.5349	5.9402	6
@@ -2228,14 +2228,14 @@ LU	L-6951	Olingen	Grevenmacher	GR	Betzdorf	01			49.6806	6.3178	6
 LU	L-6833	Biwer	Grevenmacher	GR	Biwer	02			49.703	6.3747	6
 LU	L-6834	Biwerbach	Grevenmacher	GR	Biwer	02			49.7117	6.3657	6
 LU	L-6834	Biwer	Grevenmacher	GR	Biwer	02			49.708	6.374	6
-LU	L-6835	Boudler	Grevenmacher	GR	Biwer	02			49.7225	6.3534	6
 LU	L-6835	Boudlerbach	Grevenmacher	GR	Biwer	02			49.7178	6.3514	6
+LU	L-6835	Boudler	Grevenmacher	GR	Biwer	02			49.7225	6.3534	6
 LU	L-6836	Breinert	Grevenmacher	GR	Biwer	02			49.7122	6.3386	6
 LU	L-6837	Brouch (Wecker)	Grevenmacher	GR	Biwer	02			49.7286	6.3402	6
 LU	L-6838	Hagelsdorf	Grevenmacher	GR	Biwer	02			49.6924	6.3634	6
 LU	L-6852	Wecker-Gare	Grevenmacher	GR	Biwer	02			49.7025	6.3977	4
-LU	L-6868	Wecker	Grevenmacher	GR	Biwer	02			49.6949	6.3888	4
 LU	L-6868	Wecker-Gare	Grevenmacher	GR	Biwer	02			49.7012	6.3898	4
+LU	L-6868	Wecker	Grevenmacher	GR	Biwer	02			49.6949	6.3888	4
 LU	L-6869	Wecker	Grevenmacher	GR	Biwer	02			49.6951	6.3881	6
 LU	L-6870	Wecker	Grevenmacher	GR	Biwer	02			49.693	6.3812	6
 LU	L-6871	Wecker	Grevenmacher	GR	Biwer	02			49.6959	6.3826	6
@@ -2521,8 +2521,8 @@ LU	L-5317	Contern	Luxembourg	LU	Contern	02			49.5829	6.2192	6
 LU	L-5318	Contern	Luxembourg	LU	Contern	02			49.5804	6.2212	6
 LU	L-5320	Contern	Luxembourg	LU	Contern	02			49.5836	6.2305	6
 LU	L-5322	Contern	Luxembourg	LU	Contern	02			49.5825	6.2289	6
-LU	L-5324	Oetrange	Luxembourg	LU	Contern	02			49.5975	6.2439	4
 LU	L-5324	Contern	Luxembourg	LU	Contern	02			49.6008	6.2229	6
+LU	L-5324	Oetrange	Luxembourg	LU	Contern	02			49.5975	6.2439	4
 LU	L-5326	Contern	Luxembourg	LU	Contern	02			49.5951	6.2209	6
 LU	L-5328	Medingen	Luxembourg	LU	Contern	02			49.5755	6.2479	6
 LU	L-5330	Moutfort	Luxembourg	LU	Contern	02			49.5868	6.2602	6
@@ -2632,8 +2632,8 @@ LU	L-5860	Hesperange	Luxembourg	LU	Hesperange	03			49.5725	6.1616	6
 LU	L-5861	Fentange	Luxembourg	LU	Hesperange	03			49.5686	6.1545	6
 LU	L-5862	Hesperange	Luxembourg	LU	Hesperange	03			49.5712	6.1498	6
 LU	L-5862	Fentange	Luxembourg	LU	Hesperange	03			49.5711	6.1467	6
-LU	L-5863	Alzingen	Luxembourg	LU	Hesperange	03			49.5739	6.1635	6
 LU	L-5863	Hesperange	Luxembourg	LU	Hesperange	03			49.5733	6.1613	6
+LU	L-5863	Alzingen	Luxembourg	LU	Hesperange	03			49.5739	6.1635	6
 LU	L-5864	Fentange	Luxembourg	LU	Hesperange	03			49.5636	6.1484	6
 LU	L-5865	Alzingen	Luxembourg	LU	Hesperange	03			49.5619	6.1626	6
 LU	L-5866	Hesperange	Luxembourg	LU	Hesperange	03			49.58	6.1511	6
@@ -2649,14 +2649,14 @@ LU	L-5875	Alzingen	Luxembourg	LU	Hesperange	03			49.5693	6.1675	6
 LU	L-5876	Hesperange	Luxembourg	LU	Hesperange	03			49.5727	6.1496	6
 LU	L-5878	Hesperange	Luxembourg	LU	Hesperange	03			49.5727	6.1519	6
 LU	L-5880	Hesperange	Luxembourg	LU	Hesperange	03			49.573	6.1488	4
-LU	L-5884	Howald	Luxembourg	LU	Hesperange	03			49.582	6.1482	6
 LU	L-5884	Hesperange	Luxembourg	LU	Hesperange	03			49.5762	6.1535	4
-LU	L-5885	Howald	Luxembourg	LU	Hesperange	03			49.5852	6.1453	6
+LU	L-5884	Howald	Luxembourg	LU	Hesperange	03			49.582	6.1482	6
 LU	L-5885	Hesperange	Luxembourg	LU	Hesperange	03			49.576	6.154	6
+LU	L-5885	Howald	Luxembourg	LU	Hesperange	03			49.5852	6.1453	6
 LU	L-5886	Alzingen	Luxembourg	LU	Hesperange	03			49.569	6.1606	4
 LU	L-5886	Hesperange	Luxembourg	LU	Hesperange	03			49.5727	6.1578	6
-LU	L-5887	Alzingen	Luxembourg	LU	Hesperange	03			49.5668	6.1623	4
 LU	L-5887	Hesperange	Luxembourg	LU	Hesperange	03			49.573	6.1589	4
+LU	L-5887	Alzingen	Luxembourg	LU	Hesperange	03			49.5668	6.1623	4
 LU	L-5888	Alzingen	Luxembourg	LU	Hesperange	03			49.5611	6.1647	6
 LU	L-5889	Fentange	Luxembourg	LU	Hesperange	03			49.5665	6.1546	6
 LU	L-5890	Alzingen	Luxembourg	LU	Hesperange	03			49.5717	6.1619	6
@@ -2830,8 +2830,8 @@ LU	L-5377	Uebersyren	Luxembourg	LU	Schuttrange	06			49.6306	6.2766	6
 LU	L-5378	Uebersyren	Luxembourg	LU	Schuttrange	06			49.6317	6.2737	6
 LU	L-5380	Uebersyren	Luxembourg	LU	Schuttrange	06			49.6331	6.2803	6
 LU	L-5381	Schuttrange	Luxembourg	LU	Schuttrange	06			49.6182	6.2589	4
-LU	L-7302	Steinsel	Luxembourg	LU	Steinsel	07			49.6775	6.1181	6
 LU	L-7302	Mullendorf	Luxembourg	LU	Steinsel	07			49.6828	6.1268	6
+LU	L-7302	Steinsel	Luxembourg	LU	Steinsel	07			49.6775	6.1181	6
 LU	L-7303	Steinsel	Luxembourg	LU	Steinsel	07			49.6703	6.1166	6
 LU	L-7304	Heisdorf	Luxembourg	LU	Steinsel	07			49.6733	6.1384	6
 LU	L-7305	Mullendorf	Luxembourg	LU	Steinsel	07			49.6758	6.1284	6
@@ -2847,8 +2847,8 @@ LU	L-7313	Heisdorf	Luxembourg	LU	Steinsel	07			49.6798	6.1388	6
 LU	L-7314	Heisdorf	Luxembourg	LU	Steinsel	07			49.6739	6.1411	4
 LU	L-7315	Steinsel	Luxembourg	LU	Steinsel	07			49.6778	6.1233	6
 LU	L-7316	Steinsel	Luxembourg	LU	Steinsel	07			49.6766	6.1232	6
-LU	L-7317	Mullendorf	Luxembourg	LU	Steinsel	07			49.6785	6.1279	6
 LU	L-7317	Steinsel	Luxembourg	LU	Steinsel	07			49.6773	6.1247	6
+LU	L-7317	Mullendorf	Luxembourg	LU	Steinsel	07			49.6785	6.1279	6
 LU	L-7318	Heisdorf	Luxembourg	LU	Steinsel	07			49.6736	6.1382	6
 LU	L-7319	Steinsel	Luxembourg	LU	Steinsel	07			49.6741	6.1236	6
 LU	L-7320	Steinsel	Luxembourg	LU	Steinsel	07			49.6786	6.1208	6
@@ -2962,8 +2962,8 @@ LU	L-7216	Bereldange	Luxembourg	LU	Walferdange	09			49.6575	6.1257	6
 LU	L-7217	Bereldange	Luxembourg	LU	Walferdange	09			49.6549	6.1224	6
 LU	L-7218	Helmsange	Luxembourg	LU	Walferdange	09			49.6586	6.1387	6
 LU	L-7219	Helmsange	Luxembourg	LU	Walferdange	09			49.6589	6.1407	6
-LU	L-7220	Walferdange	Luxembourg	LU	Walferdange	09			49.659	6.1314	6
 LU	L-7220	Helmsange	Luxembourg	LU	Walferdange	09			49.6641	6.1336	6
+LU	L-7220	Walferdange	Luxembourg	LU	Walferdange	09			49.659	6.1314	6
 LU	L-7221	Bereldange	Luxembourg	LU	Walferdange	09			49.655	6.1186	6
 LU	L-7222	Walferdange	Luxembourg	LU	Walferdange	09			49.6556	6.1342	6
 LU	L-7223	Bereldange	Luxembourg	LU	Walferdange	09			49.6559	6.1258	6
@@ -3873,14 +3873,14 @@ LU	L-7415	Brouch	Mersch	ME	Boevange-sur-Attert	03			49.7375	6.0271	6
 LU	L-7416	Brouch	Mersch	ME	Boevange-sur-Attert	03			49.7372	6.0198	6
 LU	L-7417	Brouch	Mersch	ME	Boevange-sur-Attert	03			49.741	6.017	6
 LU	L-7418	Buschdorf	Mersch	ME	Boevange-sur-Attert	03			49.7501	6.0066	6
-LU	L-7425	Finsterthal	Mersch	ME	Boevange-sur-Attert	03			49.7584	6.0396	6
-LU	L-7425	Bill	Mersch	ME	Boevange-sur-Attert	03			49.7639	6.0399	6
 LU	L-7425	Openthalt	Mersch	ME	Boevange-sur-Attert	03			49.7522	6.0356	6
+LU	L-7425	Bill	Mersch	ME	Boevange-sur-Attert	03			49.7639	6.0399	6
+LU	L-7425	Finsterthal	Mersch	ME	Boevange-sur-Attert	03			49.7584	6.0396	6
 LU	L-7433	Grevenknapp	Mersch	ME	Boevange-sur-Attert	03			49.7631	6.0321	6
 LU	L-8710	Boevange-sur-Attert	Mersch	ME	Boevange-sur-Attert	03			49.7737	6.0134	6
 LU	L-8711	Boevange-sur-Attert	Mersch	ME	Boevange-sur-Attert	03			49.7715	6.0199	6
-LU	L-6155	Koedange	Mersch	ME	Fischbach	04			49.7348	6.2085	6
 LU	L-6155	Weyer	Mersch	ME	Fischbach	04			49.725	6.1994	6
+LU	L-6155	Koedange	Mersch	ME	Fischbach	04			49.7348	6.2085	6
 LU	L-6155	Stuppicht	Mersch	ME	Fischbach	04			49.7256	6.188	6
 LU	L-6175	Schiltzberg	Mersch	ME	Fischbach	04			49.7385	6.2214	6
 LU	L-7410	Angelsberg	Mersch	ME	Fischbach	04			49.7639	6.1598	6
@@ -3955,8 +3955,8 @@ LU	L-7364	Bofferdange	Mersch	ME	Lorentzweiler	08			49.6911	6.1393	6
 LU	L-7370	Lorentzweiler	Mersch	ME	Lorentzweiler	08			49.7004	6.1433	4
 LU	L-7371	Helmdange	Mersch	ME	Lorentzweiler	08			49.693	6.1444	6
 LU	L-7372	Lorentzweiler	Mersch	ME	Lorentzweiler	08			49.704	6.139	6
-LU	L-7373	Lorentzweiler	Mersch	ME	Lorentzweiler	08			49.6997	6.141	6
 LU	L-7373	Helmdange	Mersch	ME	Lorentzweiler	08			49.6951	6.1408	6
+LU	L-7373	Lorentzweiler	Mersch	ME	Lorentzweiler	08			49.6997	6.141	6
 LU	L-7374	Bofferdange	Mersch	ME	Lorentzweiler	08			49.687	6.1397	6
 LU	L-7374	Helmdange	Mersch	ME	Lorentzweiler	08			49.693	6.141	6
 LU	L-7375	Lorentzweiler	Mersch	ME	Lorentzweiler	08			49.7011	6.1431	6
@@ -3971,9 +3971,9 @@ LU	L-7383	Lorentzweiler	Mersch	ME	Lorentzweiler	08			49.7019	6.1503	6
 LU	L-7384	Lorentzweiler	Mersch	ME	Lorentzweiler	08			49.7014	6.15	4
 LU	L-7390	Blaschette	Mersch	ME	Lorentzweiler	08			49.7015	6.1666	6
 LU	L-7391	Blaschette	Mersch	ME	Lorentzweiler	08			49.704	6.1691	6
-LU	L-7392	Asselscheuer	Mersch	ME	Lorentzweiler	08			49.6906	6.173	6
-LU	L-7392	Klingelscheuer	Mersch	ME	Lorentzweiler	08			49.693	6.1683	6
 LU	L-7392	Blaschette	Mersch	ME	Lorentzweiler	08			49.6977	6.1673	6
+LU	L-7392	Klingelscheuer	Mersch	ME	Lorentzweiler	08			49.693	6.1683	6
+LU	L-7392	Asselscheuer	Mersch	ME	Lorentzweiler	08			49.6906	6.173	6
 LU	L-7395	Hunsdorf	Mersch	ME	Lorentzweiler	08			49.6974	6.1312	4
 LU	L-7396	Hunsdorf	Mersch	ME	Lorentzweiler	08			49.6975	6.1286	4
 LU	L-7397	Hunsdorf	Mersch	ME	Lorentzweiler	08			49.6969	6.1314	6
@@ -3983,8 +3983,8 @@ LU	L-7415	Reckange	Mersch	ME	Mersch	09			49.7483	6.0524	6
 LU	L-7424	Essingen	Mersch	ME	Mersch	09			49.779	6.1168	6
 LU	L-7425	Reckange	Mersch	ME	Mersch	09			49.759	6.0418	
 LU	L-7462	Moesdorf	Mersch	ME	Mersch	09			49.7686	6.1162	6
-LU	L-7463	Pettingen	Mersch	ME	Mersch	09			49.7697	6.1075	6
 LU	L-7463	Moesdorf	Mersch	ME	Mersch	09			49.7689	6.1137	6
+LU	L-7463	Pettingen	Mersch	ME	Mersch	09			49.7697	6.1075	6
 LU	L-7464	Moesdorf	Mersch	ME	Mersch	09			49.77	6.1307	6
 LU	L-7473	Schoenfels	Mersch	ME	Mersch	09			49.7181	6.0909	6
 LU	L-7501	Mersch	Mersch	ME	Mersch	09			49.7453	6.1	4
@@ -4059,8 +4059,8 @@ LU	L-7599	Mersch	Mersch	ME	Mersch	09			49.7285	6.0806	6
 LU	L-7759	Essingen	Mersch	ME	Mersch	09			49.7829	6.098	4
 LU	L-7420	Cruchten	Mersch	ME	Nommern	10			49.7992	6.1282	6
 LU	L-7421	Cruchten	Mersch	ME	Nommern	10			49.7989	6.1317	6
-LU	L-7431	Niederglabach	Mersch	ME	Nommern	10			49.7923	6.1542	6
 LU	L-7431	Oberglabach	Mersch	ME	Nommern	10			49.785	6.1497	6
+LU	L-7431	Niederglabach	Mersch	ME	Nommern	10			49.7923	6.1542	6
 LU	L-7465	Nommern	Mersch	ME	Nommern	10			49.7946	6.1748	6
 LU	L-9184	Schrondweiler	Mersch	ME	Nommern	10			49.8058	6.1551	6
 LU	L-7411	Ansembourg	Mersch	ME	Tuntange	11			49.7017	6.0414	6
@@ -4092,8 +4092,8 @@ LU	L-8560	Roodt (Ell)	Redange	RD	Ell	05			49.7955	5.8211	6
 LU	L-8537	Hostert	Redange	RD	Rambrouch	06			49.809	5.865	6
 LU	L-8546	Hostert	Redange	RD	Rambrouch	06			49.8113	5.8672	6
 LU	L-8801	Rambrouch	Redange	RD	Rambrouch	06			49.8289	5.8473	4
-LU	L-8805	Hostert	Redange	RD	Rambrouch	06			49.8212	5.855	6
 LU	L-8805	Rambrouch	Redange	RD	Rambrouch	06			49.8289	5.8473	6
+LU	L-8805	Hostert	Redange	RD	Rambrouch	06			49.8212	5.855	6
 LU	L-8806	Rambrouch	Redange	RD	Rambrouch	06			49.8308	5.8513	6
 LU	L-8808	Arsdorf	Redange	RD	Rambrouch	06			49.86	5.8451	6
 LU	L-8809	Arsdorf	Redange	RD	Rambrouch	06			49.86	5.8412	6
@@ -4126,8 +4126,8 @@ LU	L-8508	Redange/Attert	Redange	RD	Redange-sur-Attert	09			49.7668	5.8917	6
 LU	L-8509	Redange/Attert	Redange	RD	Redange-sur-Attert	09			49.7668	5.88	6
 LU	L-8510	Redange/Attert	Redange	RD	Redange-sur-Attert	09			49.7646	5.8878	6
 LU	L-8511	Redange/Attert	Redange	RD	Redange-sur-Attert	09			49.766	5.8874	6
-LU	L-8540	Ospern	Redange	RD	Redange-sur-Attert	09			49.7825	5.9035	6
 LU	L-8540	Eltz	Redange	RD	Redange-sur-Attert	09			49.7777	5.8937	6
+LU	L-8540	Ospern	Redange	RD	Redange-sur-Attert	09			49.7825	5.9035	6
 LU	L-8542	Lannen	Redange	RD	Redange-sur-Attert	09			49.79	5.8381	6
 LU	L-8544	Nagem	Redange	RD	Redange-sur-Attert	09			49.788	5.8574	6
 LU	L-8545	Niederpallen	Redange	RD	Redange-sur-Attert	09			49.7559	5.9097	6
@@ -4146,15 +4146,15 @@ LU	L-8707	Useldange	Redange	RD	Useldange	11			49.7709	5.98	6
 LU	L-8708	Useldange	Redange	RD	Useldange	11			49.7724	5.9821	6
 LU	L-8715	Everlange	Redange	RD	Useldange	11			49.7756	5.9529	6
 LU	L-8720	Rippweiler	Redange	RD	Useldange	11			49.7508	5.9551	6
-LU	L-9173	Vichten	Redange	RD	Vichten	12			49.8128	6.0041	4
 LU	L-9173	Michelbouch	Redange	RD	Vichten	12			49.8193	6.019	6
+LU	L-9173	Vichten	Redange	RD	Vichten	12			49.8128	6.0041	4
 LU	L-9188	Vichten	Redange	RD	Vichten	12			49.8015	5.9991	6
 LU	L-9189	Vichten	Redange	RD	Vichten	12			49.8035	6.0012	6
 LU	L-9190	Vichten	Redange	RD	Vichten	12			49.8022	6.0021	6
 LU	L-8610	Buschrodt	Redange	RD	Wahl	13			49.8264	5.9346	6
 LU	L-8816	Brattert	Redange	RD	Wahl	13			49.8547	5.9019	6
-LU	L-8818	Wahl	Redange	RD	Wahl	13			49.841	5.8793	6
 LU	L-8818	Grevels	Redange	RD	Wahl	13			49.8522	5.9141	6
+LU	L-8818	Wahl	Redange	RD	Wahl	13			49.841	5.8793	6
 LU	L-8819	Heispelt	Redange	RD	Wahl	13			49.8541	5.8825	6
 LU	L-8822	Kuborn	Redange	RD	Wahl	13			49.8689	5.9023	6
 LU	L-8831	Rindschleiden	Redange	RD	Wahl	13			49.8496	5.9	4
@@ -4317,8 +4317,8 @@ LU	L-5465	Waldbredimus	Remich	RM	Waldbredimus	08			49.5563	6.2864	6
 LU	L-5466	Waldbredimus	Remich	RM	Waldbredimus	08			49.5578	6.2918	6
 LU	L-9350	Bastendorf	Vianden	VD	Tandel	01			49.8906	6.1629	6
 LU	L-9351	Bastendorf	Vianden	VD	Tandel	01			49.8925	6.1643	6
-LU	L-9359	Seltz	Vianden	VD	Tandel	01			49.8809	6.1881	6
 LU	L-9359	Bastendorf	Vianden	VD	Tandel	01			49.8751	6.1868	6
+LU	L-9359	Seltz	Vianden	VD	Tandel	01			49.8809	6.1881	6
 LU	L-9360	Brandenbourg	Vianden	VD	Tandel	01			49.9104	6.1389	4
 LU	L-9361	Brandenbourg	Vianden	VD	Tandel	01			49.9122	6.1382	4
 LU	L-9378	Këppenhaff	Vianden	VD	Tandel	01			49.9034	6.1339	6
@@ -4328,9 +4328,9 @@ LU	L-9452	Bettel	Vianden	VD	Tandel	01			49.9142	6.225	6
 LU	L-9454	Fouhren	Vianden	VD	Tandel	01			49.9124	6.1967	6
 LU	L-9455	Fouhren	Vianden	VD	Tandel	01			49.9147	6.1926	6
 LU	L-9457	Landscheid	Vianden	VD	Tandel	01			49.9243	6.1279	6
-LU	L-9458	Brandenbourg	Vianden	VD	Tandel	01			49.9332	6.1571	6
-LU	L-9458	Hoscheidterhof	Vianden	VD	Tandel	01			49.9361	6.1564	6
 LU	L-9458	Landscheid	Vianden	VD	Tandel	01			49.9342	6.1463	6
+LU	L-9458	Hoscheidterhof	Vianden	VD	Tandel	01			49.9361	6.1564	6
+LU	L-9458	Brandenbourg	Vianden	VD	Tandel	01			49.9332	6.1571	6
 LU	L-9459	Longsdorf	Vianden	VD	Tandel	01			49.8984	6.2064	6
 LU	L-9465	Walsdorf	Vianden	VD	Tandel	01			49.9252	6.1721	6
 LU	L-9375	Gralingen	Vianden	VD	Putscheid	02			49.9362	6.1011	6
@@ -4364,8 +4364,8 @@ LU	L-9424	Vianden	Vianden	VD	Vianden	03			49.9331	6.2078	6
 LU	L-9425	Vianden	Vianden	VD	Vianden	03			49.9355	6.2073	6
 LU	L-9426	Vianden	Vianden	VD	Vianden	03			49.9304	6.2127	6
 LU	L-9440	Vianden	Vianden	VD	Vianden	03			49.9408	6.2149	6
-LU	L-9633	Baschleiden	Wiltz	WI	Boulaide	01			49.8979	5.818	6
 LU	L-9633	Boulaide	Wiltz	WI	Boulaide	01			49.8954	5.813	4
+LU	L-9633	Baschleiden	Wiltz	WI	Boulaide	01			49.8979	5.818	6
 LU	L-9639	Boulaide	Wiltz	WI	Boulaide	01			49.8892	5.8159	6
 LU	L-9640	Boulaide	Wiltz	WI	Boulaide	01			49.8863	5.8114	6
 LU	L-9687	Surré	Wiltz	WI	Boulaide	01			49.9023	5.7785	6
@@ -4380,8 +4380,8 @@ LU	L-9181	Tadler	Wiltz	WI	Esch-sur-Sûre	02			49.9106	5.9935	6
 LU	L-9181	Ringel	Wiltz	WI	Esch-sur-Sûre	02			49.916	6.0111	6
 LU	L-9650	Esch-sur-Sûre	Wiltz	WI	Esch-sur-Sûre	02			49.9108	5.9347	6
 LU	L-9659	Heiderscheidergrund	Wiltz	WI	Esch-sur-Sûre	02			49.9033	5.9605	6
-LU	L-9660	Bonnal	Wiltz	WI	Esch-sur-Sûre	02			49.9025	5.8862	6
 LU	L-9660	Insenborn	Wiltz	WI	Esch-sur-Sûre	02			49.9003	5.8816	6
+LU	L-9660	Bonnal	Wiltz	WI	Esch-sur-Sûre	02			49.9025	5.8862	6
 LU	L-9666	Lultzhausen	Wiltz	WI	Esch-sur-Sûre	02			49.9092	5.8905	6
 LU	L-9671	Neunhausen	Wiltz	WI	Esch-sur-Sûre	02			49.8763	5.8842	6
 LU	L-9153	Dirbach (Goesdorf)	Wiltz	WI	Goesdorf	04			49.9206	6.0348	4
@@ -4413,8 +4413,8 @@ LU	L-9514	Wiltz	Wiltz	WI	Wiltz	11			49.9628	5.9318	6
 LU	L-9515	Wiltz	Wiltz	WI	Wiltz	11			49.964	5.9301	6
 LU	L-9516	Wiltz	Wiltz	WI	Wiltz	11			49.9664	5.9346	4
 LU	L-9517	Weidingen	Wiltz	WI	Wiltz	11			49.9719	5.9381	6
-LU	L-9518	Erpeldange	Wiltz	WI	Wiltz	11			49.9772	5.9432	6
 LU	L-9518	Weidingen	Wiltz	WI	Wiltz	11			49.9754	5.9411	6
+LU	L-9518	Erpeldange	Wiltz	WI	Wiltz	11			49.9772	5.9432	6
 LU	L-9519	Wiltz	Wiltz	WI	Wiltz	11			49.9627	5.9366	4
 LU	L-9520	Wiltz	Wiltz	WI	Wiltz	11			49.9725	5.9278	6
 LU	L-9521	Wiltz	Wiltz	WI	Wiltz	11			49.9637	5.9346	6
@@ -4468,8 +4468,8 @@ LU	L-9696	Wiltz	Wiltz	WI	Wiltz	11			49.9639	5.9044	6
 LU	L-9759	Knaphoscheid	Wiltz	WI	Wiltz	11			50.0161	5.9655	6
 LU	L-9636	Berlé	Wiltz	WI	Winseler	13			49.9522	5.8567	6
 LU	L-9638	Pommerloch	Wiltz	WI	Winseler	13			49.9603	5.8597	6
-LU	L-9647	Sonlez	Wiltz	WI	Winseler	13			49.9643	5.8238	6
 LU	L-9647	Doncols	Wiltz	WI	Winseler	13			49.9717	5.8397	6
+LU	L-9647	Sonlez	Wiltz	WI	Winseler	13			49.9643	5.8238	6
 LU	L-9654	Gruemelscheid	Wiltz	WI	Winseler	13			49.9847	5.8723	6
 LU	L-9654	Schleif	Wiltz	WI	Winseler	13			49.9893	5.8569	6
 LU	L-9676	Noertrange	Wiltz	WI	Winseler	13			49.9798	5.9077	6

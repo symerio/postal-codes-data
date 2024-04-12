@@ -1,4 +1,5 @@
+JE	JE4	Jersey				L99999999		L99999999	49.2167	-2.1167	
 JE	JE1	St Helier			Jersey Channel Islands				49.2	-2.1333	
 JE	JE2	St Helier			Jersey Channel Islands				49.2	-2.1333	
-JE	JE3	St Lawrence			Jersey Channel Islands				49.2	-2.1333	
 JE	JE3	St Brelades			Jersey Channel Islands				49.2	-2.1333	
+JE	JE3	St Lawrence			Jersey Channel Islands				49.2	-2.1333	

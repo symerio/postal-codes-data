@@ -1,0 +1,1225 @@
+EC	200101	Española Hood-Puerto Baquerizo Moreno	Galápagos	01	Cantón San Cristóbal	2001			-1.1811	-90.1968	1
+EC	200104	El Progreso	Galápagos	01	Cantón San Cristóbal	2001			-0.8258	-89.4288	1
+EC	200103	Puerto Villamil	Galápagos	01	Cantón Isabela	2002			-0.9554	-90.9665	4
+EC	200107	Isla Fernandina Narborough	Galápagos	01	Cantón Isabela	2002			-0.5377	-91.2237	1
+EC	200102	Puerto Ayora	Galápagos	01	Cantón Santa Cruz	2003			-0.7402	-90.3138	4
+EC	200105	Bellavista	Galápagos	01	Cantón Santa Cruz	2003			-0.6955	-90.3255	4
+EC	200106	Isla Pinzon	Galápagos	01	Cantón Santa Cruz	2003			-0.4848	-90.4482	1
+EC	010101	Cuenca_El Vecino	Azuay	02	Cantón Cuenca	0101			-2.8965	-79.0029	1
+EC	010102	Cuenca_El Vecino	Azuay	02	Cantón Cuenca	0101			-2.8867	-78.9943	1
+EC	010103	Cuenca_Totorocoha	Azuay	02	Cantón Cuenca	0101			-2.8905	-78.9818	1
+EC	010104	Cuenca_Totorocoha	Azuay	02	Cantón Cuenca	0101			-2.9016	-78.9903	1
+EC	010105	Cuenca_Cañaribamba	Azuay	02	Cantón Cuenca	0101			-2.881	-79.0117	1
+EC	010106	Cuenca_San Blas	Azuay	02	Cantón Cuenca	0101			-2.8523	-79.0158	1
+EC	010107	Cuenca_El Sagrario	Azuay	02	Cantón Cuenca	0101			-2.8629	-78.984	1
+EC	010108	Cuenca_Gil Ramirez Davalos	Azuay	02	Cantón Cuenca	0101			-2.8483	-78.9433	1
+EC	010109	Cuenca_Bellavista	Azuay	02	Cantón Cuenca	0101			-2.8665	-78.9334	1
+EC	010110	Cuenca_Bellavista	Azuay	02	Cantón Cuenca	0101			-2.8639	-78.8902	1
+EC	010111	Sinincay	Azuay	02	Cantón Cuenca	0101			-2.8515	-79.0142	4
+EC	010112	Cuenca_Hermano Miguel	Azuay	02	Cantón Cuenca	0101			-2.801	-79.1703	1
+EC	010113	Cuenca_Machangara	Azuay	02	Cantón Cuenca	0101			-2.7691	-79.0567	1
+EC	010114	Cuenca_Machangara	Azuay	02	Cantón Cuenca	0101			-2.7341	-79.0253	1
+EC	010115	Paccha-Nulti	Azuay	02	Cantón Cuenca	0101			-2.7932	-78.9698	1
+EC	010116	San Joaquin	Azuay	02	Cantón Cuenca	0101			-2.8958	-79.0513	4
+EC	010117	Sayausi	Azuay	02	Cantón Cuenca	0101			-2.8714	-79.0723	4
+EC	010118	Checa (Jidcay)-Chiquintad	Azuay	02	Cantón Cuenca	0101			-2.8729	-79.0459	1
+EC	010119	Octavio Cordero Palacios (Sta. Rosa)-Sidcay	Azuay	02	Cantón Cuenca	0101			-2.8729	-79.0459	1
+EC	010120	Ricaurte-Llacao	Azuay	02	Cantón Cuenca	0101			-2.8729	-79.0459	1
+EC	010201	Cuenca_Yanuncay	Azuay	02	Cantón Cuenca	0101			-2.9115	-79.0238	1
+EC	010202	Cuenca_Sucre	Azuay	02	Cantón Cuenca	0101			-2.8999	-79.0222	1
+EC	010203	Cuenca_Sucre	Azuay	02	Cantón Cuenca	0101			-2.906	-79.014	1
+EC	010204	Cuenca_Huayna Capac	Azuay	02	Cantón Cuenca	0101			-2.9156	-78.9987	1
+EC	010205	Cuenca_Yanuncay	Azuay	02	Cantón Cuenca	0101			-2.9185	-79.0275	1
+EC	010206	Cuenca_Yanuncay	Azuay	02	Cantón Cuenca	0101			-2.9193	-79.0456	1
+EC	010207	Cuenca_El Batan	Azuay	02	Cantón Cuenca	0101			-2.8929	-79.0435	1
+EC	010208	Cuenca_San Sebastian	Azuay	02	Cantón Cuenca	0101			-2.8921	-79.0161	1
+EC	010209	Cuenca_San Sebastian	Azuay	02	Cantón Cuenca	0101			-2.8959	-78.9747	1
+EC	010210	Cuenca_Monay	Azuay	02	Cantón Cuenca	0101			-2.9057	-78.9732	1
+EC	010211	Valle	Azuay	02	Cantón Cuenca	0101			-2.9363	-78.966	4
+EC	010212	Valle	Azuay	02	Cantón Cuenca	0101			-2.9363	-78.966	4
+EC	010213	Turi	Azuay	02	Cantón Cuenca	0101			-2.9259	-79.0112	4
+EC	010214	Baños	Azuay	02	Cantón Cuenca	0101			-2.9216	-79.0646	4
+EC	010215	Santa Ana	Azuay	02	Cantón Cuenca	0101			-2.9398	-78.9212	4
+EC	010216	Quingeo	Azuay	02	Cantón Cuenca	0101			-3.0309	-78.9319	4
+EC	010217	Tarqui	Azuay	02	Cantón Cuenca	0101			-3.0142	-79.0344	4
+EC	010218	Valle	Azuay	02	Cantón Cuenca	0101			-2.9363	-78.966	4
+EC	010219	Chaucha	Azuay	02	Cantón Cuenca	0101			-2.9091	-79.413	4
+EC	010220	Molleturo	Azuay	02	Cantón Cuenca	0101			-2.767	-79.397	4
+EC	010303	Giron-San Gerardo-Asuncion	Azuay	02	Cantón Girón	0102			-3.1795	-79.1593	1
+EC	010401	Gualaceo	Azuay	02	Cantón Gualaceo	0103			-2.8926	-78.7781	4
+EC	010402	Gualaceo	Azuay	02	Cantón Gualaceo	0103			-2.8926	-78.7781	4
+EC	010403	Daniel Cordova Toral (El Oriente)-Remigio Crespo Toral (Gulag)-Luis Cordero Vega-Mariano Moreno	Azuay	02	Cantón Gualaceo	0103			-2.912	-78.7079	1
+EC	010405	San Juan-Simon Bolivar (Cab. En Gañanzol)	Azuay	02	Cantón Gualaceo	0103			-2.965	-78.815	1
+EC	010406	Zhidmad	Azuay	02	Cantón Gualaceo	0103			-2.9291	-78.8987	4
+EC	010407	Jadan	Azuay	02	Cantón Gualaceo	0103			-2.8667	-78.85	4
+EC	010502	El Progreso (Cab.En Zhiota)-Las Nieves (Chaya)	Azuay	02	Cantón Nabón	0104			-3.3439	-79.2046	1
+EC	010503	Nabon-Cochapata	Azuay	02	Cantón Nabón	0104			-3.2844	-79.0425	1
+EC	010602	Guarainag-Tomebamba-Dug Dug-Bulan (Jose Victor Izquierdo)	Azuay	02	Cantón Paute	0105			-2.7086	-78.7068	1
+EC	010606	San Cristobal (Carlos Ordoñez Lazo)-Chican (Guillermo Ortega)-El Cabo-Paute	Azuay	02	Cantón Paute	0105			-2.8106	-78.7867	1
+EC	010304	San Rafael De Sharug	Azuay	02	Pucara	0106			-3.1616	-79.4834	1
+EC	010305	Pucara	Azuay	02	Pucara	0106			-3.2157	-79.4688	4
+EC	010306	Pucara	Azuay	02	Pucara	0106			-3.2157	-79.4688	4
+EC	010302	San Fernando-Chumblin	Azuay	02	Cantón San Fernando	0107			-3.1275	-79.2424	4
+EC	010301	Abdon Calderon (La Union)-Santa Isabel (Chaguarurco)-Zhaglli (Shaglli )	Azuay	02	Cantón Santa Isabel	0108			-3.2023	-79.3635	1
+EC	010801	Jima (Gima)	Azuay	02	Cantón Sigsig	0109			-3.1886	-78.9584	4
+EC	010802	Ludo-San Jose De Raranga	Azuay	02	Cantón Sigsig	0109			-3.1121	-78.9056	1
+EC	010803	San Bartolome-Guel-Sigsig-Cuchil (Cutchil)	Azuay	02	Cantón Sigsig	0109			-3.093	-78.7918	1
+EC	010501	Susudel-San Felipe De Oña	Azuay	02	Oña	0110			-3.4892	-79.1306	1
+EC	010404	San Martin De Puzhio-Luis Galarza Orellana (Cab. En Delegsol)-Principal-Chordeleg-La Union	Azuay	02	Chordeleg	0111			-2.9867	-78.734	1
+EC	010605	El Pan-San Vicente	Azuay	02	El Pan	0112			-2.8577	-78.6547	1
+EC	010603	Amaluza-Palamas	Azuay	02	Sevilla De Oro	0113			-2.6477	-78.5471	1
+EC	010604	Sevilla De Oro	Azuay	02	Sevilla De Oro	0113			-2.8028	-78.654	4
+EC	010601	Guachapala	Azuay	02	Guachapala	0114			-2.7725	-78.7125	4
+EC	010701	Camilo Ponce Enriquez	Azuay	02	Camilo Ponce Enríquez	0115			-3.062	-79.7458	4
+EC	010702	El Carmen De Pijili	Azuay	02	Camilo Ponce Enríquez	0115			-2.9246	-79.5582	1
+EC	010703	Camilo Ponce Enriquez	Azuay	02	Camilo Ponce Enríquez	0115			-3.062	-79.7458	4
+EC	020101	Guaranda	Bolívar	03	Cantón Guaranda	0201			-1.5926	-79.001	4
+EC	020102	Guaranda	Bolívar	03	Cantón Guaranda	0201			-1.5926	-79.001	4
+EC	020103	Guaranda	Bolívar	03	Cantón Guaranda	0201			-1.5926	-79.001	4
+EC	020104	Guaranda	Bolívar	03	Cantón Guaranda	0201			-1.5926	-79.001	4
+EC	020105	Santafe (Santa Fe)-Julio E. Moreno (Catanahuan Grande)-San Simon (Yacoto)-Sanlorenzo	Bolívar	03	Cantón Guaranda	0201			-1.5115	-79.1109	1
+EC	020106	Guaranda	Bolívar	03	Cantón Guaranda	0201			-1.5926	-79.001	4
+EC	020107	Guaranda	Bolívar	03	Cantón Guaranda	0201			-1.5926	-79.001	4
+EC	020108	Salinas	Bolívar	03	Cantón Guaranda	0201			-1.4054	-79.0186	4
+EC	020109	Simiatug	Bolívar	03	Cantón Guaranda	0201			-1.2424	-78.9572	4
+EC	020110	San Luis De Pambil	Bolívar	03	Cantón Guaranda	0201			-1.2103	-79.1255	1
+EC	020111	Facundo Vela	Bolívar	03	Cantón Guaranda	0201			-1.2042	-79.0643	4
+EC	020201	Chillanes	Bolívar	03	Cantón Chillanes	0202			-1.9437	-79.0663	4
+EC	020202	San Jose Del Tambo (Tambopamba)	Bolívar	03	Cantón Chillanes	0202			-1.9559	-79.236	4
+EC	020302	San Sebastian-San Jose De Chimbo	Bolívar	03	Cantón Chimbo	0203			-1.6729	-79.0326	1
+EC	020306	Telimbela	Bolívar	03	Cantón Chimbo	0203			-1.6658	-79.1709	4
+EC	020307	Magdalena (Chapacoto)-Asuncion (Asancoto)	Bolívar	03	Cantón Chimbo	0203			-1.6801	-79.1946	1
+EC	020401	Echeandia	Bolívar	03	Canton Echeandia	0204			-1.4311	-79.2805	4
+EC	020301	San Miguel	Bolívar	03	Cantón San Miguel	0205			-1.7088	-79.0431	4
+EC	020303	Santiago-San Vicente	Bolívar	03	Cantón San Miguel	0205			-1.7271	-78.944	1
+EC	020304	San Pablo (San Pablo De Atenas)	Bolívar	03	Cantón San Miguel	0205			-1.8183	-79.0674	4
+EC	020305	Balsapamba-Bilovan-Regulo De Mora	Bolívar	03	Cantón San Miguel	0205			-1.815	-79.0704	1
+EC	020403	Caluma	Bolívar	03	Canton Caluma	0206			-1.6082	-79.219	1
+EC	020402	Las Naves	Bolívar	03	Canton Las Naves	0207			-1.2857	-79.3146	4
+EC	030101	Azogues	Cañar	04	Cantón Azogues	0301			-2.7397	-78.8486	4
+EC	030102	Azogues	Cañar	04	Cantón Azogues	0301			-2.7397	-78.8486	4
+EC	030103	Luis Cordero	Cañar	04	Cantón Azogues	0301			-2.7408	-78.8205	4
+EC	030104	San Miguel	Cañar	04	Cantón Azogues	0301			-2.7983	-78.8465	4
+EC	030105	Cojitambo-Javier Loyola (Chuquipata)	Cañar	04	Cantón Azogues	0301			-2.7881	-78.8876	1
+EC	030107	Guapan	Cañar	04	Cantón Azogues	0301			-2.7167	-78.8167	4
+EC	030108	Azogues	Cañar	04	Cantón Azogues	0301			-2.7397	-78.8486	4
+EC	030112	Pindilig-Rivera-Taday	Cañar	04	Cantón Azogues	0301			-2.5686	-78.6942	1
+EC	030106	Turupamba-San Francisco De Sageo-Biblian	Cañar	04	Cantón Biblián	0302			-2.6726	-78.9068	1
+EC	030110	Nazon (Cab. En Pampa De Dominguez)	Cañar	04	Cantón Biblián	0302			-2.6856	-79.013	1
+EC	030111	Jerusalen	Cañar	04	Cantón Biblián	0302			-2.6537	-78.9708	1
+EC	030201	Cañar	Cañar	04	Cantón Cañar	0303			-2.5606	-78.9394	4
+EC	030203	Honorato Vasquez (Tambo Viejo)-Ingapirca	Cañar	04	Cantón Cañar	0303			-2.539	-78.833	1
+EC	030204	Gualleturo-San Antonio-Chorocopte	Cañar	04	Cantón Cañar	0303			-2.5945	-78.9657	1
+EC	030205	Gualleturo-San Antonio-Chorocopte	Cañar	04	Cantón Cañar	0303			-2.59	-79.1658	1
+EC	030207	Zhud-Juncal	Cañar	04	Cantón Cañar	0303			-2.442	-78.9355	1
+EC	030208	General Morales (Socarte)-Ventura-Chontamarca-Ducur	Cañar	04	Cantón Cañar	0303			-2.3842	-79.1292	1
+EC	030301	La Troncal	Cañar	04	La Troncal	0304			-2.4236	-79.3398	4
+EC	030302	La Troncal	Cañar	04	La Troncal	0304			-2.4236	-79.3398	4
+EC	030303	La Troncal	Cañar	04	La Troncal	0304			-2.4236	-79.3398	4
+EC	030304	Manuel J. Calle-Pancho Negro	Cañar	04	La Troncal	0304			-2.4544	-79.4163	1
+EC	030202	El Tambo	Cañar	04	Canton El Tambo	0305			-2.5107	-78.9278	4
+EC	030109	Deleg-Solano	Cañar	04	Déleg	0306			-2.7628	-78.9394	1
+EC	030206	Suscal	Cañar	04	Suscal	0307			-2.4372	-79.0517	4
+EC	040101	Tulcan	Carchi	05	Cantón Tulcán	0401			0.8119	-77.7173	4
+EC	040102	Tulcan	Carchi	05	Cantón Tulcán	0401			0.8119	-77.7173	4
+EC	040103	Tulcan	Carchi	05	Cantón Tulcán	0401			0.8119	-77.7173	4
+EC	040104	Tulcan	Carchi	05	Cantón Tulcán	0401			0.8119	-77.7173	4
+EC	040105	Urbina (Taya)	Carchi	05	Cantón Tulcán	0401			0.7544	-77.7765	1
+EC	040106	Tulcan	Carchi	05	Cantón Tulcán	0401			0.8119	-77.7173	4
+EC	040107	Tulcan	Carchi	05	Cantón Tulcán	0401			0.8119	-77.7173	4
+EC	040108	Tulcan	Carchi	05	Cantón Tulcán	0401			0.8119	-77.7173	4
+EC	040109	Julio Andrade (Orejuela)-El Carmelo (El Pun)	Carchi	05	Cantón Tulcán	0401			0.6492	-77.7728	1
+EC	040111	Pioter-Santa Martha De Cuba	Carchi	05	Cantón Tulcán	0401			0.8017	-77.8546	1
+EC	040112	Tufiño	Carchi	05	Cantón Tulcán	0401			0.8017	-77.8546	4
+EC	040113	Maldonado-Tobar Donoso (La Bocana De Camunbi)-El Chical	Carchi	05	Cantón Tulcán	0401			0.8017	-77.8546	1
+EC	040201	Los Andes-Bolivar	Carchi	05	Canton Bolivar	0402			0.4929	-77.8922	1
+EC	040203	San Rafael-Monte Olivo	Carchi	05	Canton Bolivar	0402			0.4189	-77.8932	1
+EC	040204	San Vicente De Pusir-Garcia Moreno	Carchi	05	Canton Bolivar	0402			0.4827	-77.9574	1
+EC	040301	San Isidro-La Libertad (Alizo)-El Angel	Carchi	05	Cantón Espejo	0403			0.6685	-77.9699	1
+EC	040304	El Goaltal	Carchi	05	Cantón Espejo	0403			0.8046	-78.1586	4
+EC	040302	Juan Montalvo (San Ignacio De Quil)-Mira (Chontahuasi)	Carchi	05	Cantón Mira	0404			0.5582	-78.0681	1
+EC	040303	Concepcion-Jijon Y Caamaño (Cab. En Rio Blanco)	Carchi	05	Cantón Mira	0404			0.6573	-78.1114	1
+EC	040202	La Paz	Carchi	05	Cantón Montúfar	0405			0.5095	-77.8661	4
+EC	040205	San Gabriel	Carchi	05	Cantón Montúfar	0405			0.5932	-77.8308	4
+EC	040206	San Gabriel	Carchi	05	Cantón Montúfar	0405			0.5932	-77.8308	4
+EC	040207	Cristobal Colon-Fernandez Salvador-Piartal-Chitan De Navarrete	Carchi	05	Cantón Montúfar	0405			0.6271	-77.8569	1
+EC	040110	Huaca-Mariscal Sucre	Carchi	05	San Pedro De Huaca	0406			0.98	-78.3064	1
+EC	060101	Riobamba	Chimborazo	06	Cantón Riobamba	0601			-1.671	-78.6471	4
+EC	060102	Riobamba	Chimborazo	06	Cantón Riobamba	0601			-1.671	-78.6471	4
+EC	060103	Riobamba	Chimborazo	06	Cantón Riobamba	0601			-1.671	-78.6471	4
+EC	060104	Riobamba	Chimborazo	06	Cantón Riobamba	0601			-1.671	-78.6471	4
+EC	060105	Riobamba	Chimborazo	06	Cantón Riobamba	0601			-1.671	-78.6471	4
+EC	060106	Riobamba	Chimborazo	06	Cantón Riobamba	0601			-1.671	-78.6471	4
+EC	060107	Riobamba	Chimborazo	06	Cantón Riobamba	0601			-1.671	-78.6471	4
+EC	060108	Riobamba	Chimborazo	06	Cantón Riobamba	0601			-1.671	-78.6471	4
+EC	060109	Riobamba	Chimborazo	06	Cantón Riobamba	0601			-1.671	-78.6471	4
+EC	060110	Riobamba	Chimborazo	06	Cantón Riobamba	0601			-1.671	-78.6471	4
+EC	060111	Riobamba	Chimborazo	06	Cantón Riobamba	0601			-1.671	-78.6471	4
+EC	060112	Riobamba	Chimborazo	06	Cantón Riobamba	0601			-1.671	-78.6471	4
+EC	060113	Riobamba	Chimborazo	06	Cantón Riobamba	0601			-1.671	-78.6471	4
+EC	060114	Riobamba	Chimborazo	06	Cantón Riobamba	0601			-1.671	-78.6471	4
+EC	060115	Lican	Chimborazo	06	Cantón Riobamba	0601			-1.6507	-78.7089	4
+EC	060116	Cubijies-Quimiag	Chimborazo	06	Cantón Riobamba	0601			-1.7509	-78.539	1
+EC	060117	San Luis-Cacha (Cab. En Machangara)	Chimborazo	06	Cantón Riobamba	0601			-1.7123	-78.6741	1
+EC	060118	San Juan-Calpi	Chimborazo	06	Cantón Riobamba	0601			-1.5774	-78.8144	1
+EC	060120	Licto-Pungala	Chimborazo	06	Cantón Riobamba	0601			-1.8255	-78.6551	1
+EC	060121	Punin-Flores	Chimborazo	06	Cantón Riobamba	0601			-1.7616	-78.6728	1
+EC	060202	Alausi	Chimborazo	06	Cantón Alausí	0602			-2.2033	-78.8471	4
+EC	060203	Guasuntos-Pumallacta-Sevilla	Chimborazo	06	Cantón Alausí	0602			-2.257	-78.799	1
+EC	060204	Achupallas	Chimborazo	06	Cantón Alausí	0602			-2.2828	-78.7693	4
+EC	060206	Multitud-Sibambe-Huigra-Pistishi (Nariz Del Diablo)	Chimborazo	06	Cantón Alausí	0602			-2.2102	-78.9638	1
+EC	060207	Tixan	Chimborazo	06	Cantón Alausí	0602			-2.1518	-78.8026	4
+EC	060405	Columbe	Chimborazo	06	Cantón Colta	0603			-1.8871	-78.7236	4
+EC	060406	Villa La Union (Cajabamba)	Chimborazo	06	Cantón Colta	0603			-1.7621	-78.7966	1
+EC	060407	Villa La Union (Cajabamba)	Chimborazo	06	Cantón Colta	0603			-1.7739	-78.7288	1
+EC	060408	Santiago De Quito (Cab. En San	Chimborazo	06	Cantón Colta	0603			-2.0791	-78.7538	1
+EC	060410	Juan De Velasco (Pangor)-Cañi	Chimborazo	06	Cantón Colta	0603			-1.6897	-78.7922	1
+EC	060119	Chambo	Chimborazo	06	Chambo	0604			-1.7305	-78.596	4
+EC	060201	Gonzol-Chunchi	Chimborazo	06	Cantón Chunchi	0605			-2.2626	-78.8479	4
+EC	060205	Capzol-Compud-Llagos	Chimborazo	06	Cantón Chunchi	0605			-2.3519	-78.9515	1
+EC	060401	Guamote	Chimborazo	06	Cantón Guamote	0606			-1.9331	-78.7096	4
+EC	060402	Cebadas	Chimborazo	06	Cantón Guamote	0606			-1.9113	-78.6433	4
+EC	060403	Guamote	Chimborazo	06	Cantón Guamote	0606			-1.9331	-78.7096	4
+EC	060404	Guamote	Chimborazo	06	Cantón Guamote	0606			-1.9331	-78.7096	4
+EC	060409	Palmira	Chimborazo	06	Cantón Guamote	0606			-2.0814	-78.7303	4
+EC	060501	Guano-La Providencia-Guanando-Sangerardo De Pacaicaguan	Chimborazo	06	Cantón Guano	0607			-1.5937	-78.6036	1
+EC	060502	Ilapo-San Jose De Chazo-Valparaiso-Santa Fe De Galan	Chimborazo	06	Cantón Guano	0607			-1.531	-78.5794	1
+EC	060504	San Andres-San Isidro De Patulu	Chimborazo	06	Cantón Guano	0607			-1.5258	-78.7256	1
+EC	060302	Pallatanga	Chimborazo	06	Pallatanga	0608			-1.9992	-78.966	4
+EC	060503	Puela-El Altar-San Antonio De Bayushig-La Candelaria-Bilbao (Cab. En Quilluyacu) Panipe-Matus	Chimborazo	06	Penipe	0609			-1.5664	-78.45	1
+EC	060301	Cumanda	Chimborazo	06	Cumanda	0610			-2.2043	-79.1337	4
+EC	050101	Latacunga	Cotopaxi	07	Cantón Latacunga	0501			-0.9352	-78.6155	4
+EC	050102	Latacunga	Cotopaxi	07	Cantón Latacunga	0501			-0.9352	-78.6155	4
+EC	050103	Latacunga	Cotopaxi	07	Cantón Latacunga	0501			-0.9352	-78.6155	4
+EC	050104	Latacunga	Cotopaxi	07	Cantón Latacunga	0501			-0.9352	-78.6155	4
+EC	050105	Latacunga	Cotopaxi	07	Cantón Latacunga	0501			-0.9352	-78.6155	4
+EC	050106	Latacunga	Cotopaxi	07	Cantón Latacunga	0501			-0.9352	-78.6155	4
+EC	050107	Latacunga	Cotopaxi	07	Cantón Latacunga	0501			-0.9352	-78.6155	4
+EC	050108	Latacunga	Cotopaxi	07	Cantón Latacunga	0501			-0.9352	-78.6155	4
+EC	050109	Latacunga	Cotopaxi	07	Cantón Latacunga	0501			-0.9352	-78.6155	4
+EC	050110	Poalo-11 De Noviembre (Ilinchisi)	Cotopaxi	07	Cantón Latacunga	0501			-0.8478	-78.5056	1
+EC	050111	Guaitacama (Guaytacama)	Cotopaxi	07	Cantón Latacunga	0501			-0.8887	-78.7066	1
+EC	050112	Joseguango Bajo-Alaques (Alaquez)	Cotopaxi	07	Cantón Latacunga	0501			-0.7641	-78.6461	1
+EC	050113	Latacunga	Cotopaxi	07	Cantón Latacunga	0501			-0.9352	-78.6155	4
+EC	050114	Belisario Quevedo (Guanailin)	Cotopaxi	07	Cantón Latacunga	0501			-0.7149	-78.7575	1
+EC	050115	Toacaso	Cotopaxi	07	Cantón Latacunga	0501			-0.7538	-78.6851	4
+EC	050116	Tanicuchi	Cotopaxi	07	Cantón Latacunga	0501			-0.7796	-78.6376	4
+EC	050117	Mulalo	Cotopaxi	07	Cantón Latacunga	0501			-0.7833	-78.5833	4
+EC	050118	San Juan De Pastocalle	Cotopaxi	07	Cantón Latacunga	0501			-0.7229	-78.634	4
+EC	050201	La Mana	Cotopaxi	07	La Maná	0502			-0.9409	-79.2251	4
+EC	050202	La Mana	Cotopaxi	07	La Maná	0502			-0.9409	-79.2251	4
+EC	050203	Pucayacu-Guasaganda (Cab. En Guasaganda Centro)	Cotopaxi	07	La Maná	0502			-0.7887	-79.103	1
+EC	050301	El Corazon	Cotopaxi	07	Cantón Pangua	0503			-1.1365	-79.0809	4
+EC	050302	Pinllopata	Cotopaxi	07	Cantón Pangua	0503			-1.1435	-79.027	4
+EC	050303	Ramon Campaña	Cotopaxi	07	Cantón Pangua	0503			-1.1125	-79.0892	4
+EC	050304	Moraspungo	Cotopaxi	07	Cantón Pangua	0503			-1.1735	-79.2235	4
+EC	050401	Pujili	Cotopaxi	07	Cantón Pujilí	0504			-0.9576	-78.6964	4
+EC	050402	La Victoria	Cotopaxi	07	Cantón Pujilí	0504			-0.9178	-78.6965	4
+EC	050404	Pujili	Cotopaxi	07	Cantón Pujilí	0504			-0.9576	-78.6964	4
+EC	050405	Pujili	Cotopaxi	07	Cantón Pujilí	0504			-0.9576	-78.6964	4
+EC	050406	Guangaje	Cotopaxi	07	Cantón Pujilí	0504			-0.861	-78.8458	4
+EC	050408	Zumbahua	Cotopaxi	07	Cantón Pujilí	0504			-0.7828	-78.7219	1
+EC	050409	Angamarca	Cotopaxi	07	Cantón Pujilí	0504			-1.1186	-78.932	4
+EC	050410	Pilalo	Cotopaxi	07	Cantón Pujilí	0504			-0.9462	-78.9935	4
+EC	050411	Tingo	Cotopaxi	07	Cantón Pujilí	0504			-0.9179	-79.0572	4
+EC	050601	Mulliquindil (Santa Ana)	Cotopaxi	07	Cantón Salcedo	0505			-1.0425	-78.5958	1
+EC	050602	San Miguel	Cotopaxi	07	Cantón Salcedo	0505			-1.0455	-78.5906	4
+EC	050603	Mulalillo-Pansaleo-Antonio Jose Holguin (Santa Lucia)	Cotopaxi	07	Cantón Salcedo	0505			-1.0206	-78.4651	1
+EC	050604	Cusubamba	Cotopaxi	07	Cantón Salcedo	0505			-1.0667	-78.7	4
+EC	050403	Chantilin-Saquisili	Cotopaxi	07	Saquisilí	0506			-0.8528	-78.6442	4
+EC	050407	Cochapamba-Canchagua	Cotopaxi	07	Saquisilí	0506			-0.8409	-78.7752	1
+EC	050501	Sigchos	Cotopaxi	07	Cantón Sigchos	0507			-0.7022	-78.8865	4
+EC	050502	Isinlivi	Cotopaxi	07	Cantón Sigchos	0507			-0.7555	-78.8681	4
+EC	050503	Chugchillan	Cotopaxi	07	Cantón Sigchos	0507			-0.7827	-78.8551	1
+EC	050504	Palo Quemado-Las Pampas	Cotopaxi	07	Cantón Sigchos	0507			-0.8302	-78.9847	1
+EC	070201	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070202	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070203	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070204	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070205	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070206	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070207	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070208	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070209	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070210	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070211	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070212	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070213	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070214	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070215	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070216	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070217	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070218	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070219	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070220	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070221	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070222	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070223	Machala	El Oro	08	Cantón Machala	0701			-3.2586	-79.9605	4
+EC	070224	El Retiro	El Oro	08	Cantón Machala	0701			-3.3791	-79.9568	1
+EC	070505	Carcabon-Chacras	El Oro	08	Cantón Arenillas	0702			-3.57	-80.1637	1
+EC	070506	Arenillas	El Oro	08	Cantón Arenillas	0702			-3.554	-80.0668	4
+EC	070507	Arenillas	El Oro	08	Cantón Arenillas	0702			-3.554	-80.0668	4
+EC	070508	Palmales	El Oro	08	Cantón Arenillas	0702			-3.6667	-80.1014	4
+EC	070305	Cordoncillo-Paccha-Ayapamba-San Jose-Milagro	El Oro	08	Atahualpa	0703			-3.5719	-79.6929	1
+EC	070308	San Juan De Cerro Azul	El Oro	08	Atahualpa	0703			-3.7657	-79.4949	1
+EC	070404	Balsas-Bellamaria	El Oro	08	Balsas	0704			-3.7688	-79.8375	1
+EC	070113	Chilla	El Oro	08	Chilla	0705			-3.442	-79.6277	1
+EC	070111	El Guabo	El Oro	08	Cantón Guabo	0706			-3.2359	-79.75	4
+EC	070114	La Iberia	El Oro	08	Cantón Guabo	0706			-3.2437	-79.8761	1
+EC	070115	El Guabo	El Oro	08	Cantón Guabo	0706			-3.2064	-79.8718	4
+EC	070116	Tendales (Cab. En Puerto Tendales)-Barbones (Sucre)	El Oro	08	Cantón Guabo	0706			-3.1428	-79.8196	1
+EC	070117	Rio Bonito	El Oro	08	Cantón Guabo	0706			-3.0774	-79.773	4
+EC	070501	Huaquillas	El Oro	08	Cantón Huaquillas	0707			-3.4752	-80.2308	4
+EC	070502	Huaquillas	El Oro	08	Cantón Huaquillas	0707			-3.4752	-80.2308	4
+EC	070503	Huaquillas	El Oro	08	Cantón Huaquillas	0707			-3.4752	-80.2308	4
+EC	070504	Huaquillas	El Oro	08	Cantón Huaquillas	0707			-3.4752	-80.2308	4
+EC	070406	El Ingenio-Marcabeli	El Oro	08	Marcabelí	0708			-3.735	-79.9304	4
+EC	070101	Pasaje	El Oro	08	Cantón Pasaje	0709			-3.3256	-79.807	4
+EC	070102	Pasaje	El Oro	08	Cantón Pasaje	0709			-3.3256	-79.807	4
+EC	070103	Pasaje	El Oro	08	Cantón Pasaje	0709			-3.3256	-79.807	4
+EC	070104	Pasaje	El Oro	08	Cantón Pasaje	0709			-3.3256	-79.807	4
+EC	070105	Pasaje	El Oro	08	Cantón Pasaje	0709			-3.3256	-79.807	4
+EC	070106	Cañaquemada-La Peaña-Buenavista	El Oro	08	Cantón Pasaje	0709			-3.2825	-79.8102	1
+EC	070107	Progreso	El Oro	08	Cantón Pasaje	0709			-3.2916	-79.7604	4
+EC	070108	Casacay	El Oro	08	Cantón Pasaje	0709			-3.3222	-79.7233	4
+EC	070109	Pasaje	El Oro	08	Cantón Pasaje	0709			-3.3256	-79.807	4
+EC	070110	Cañaquemada-La Peaña-Buenavista	El Oro	08	Cantón Pasaje	0709			-3.3534	-79.8386	1
+EC	070112	Uzhcurrumi	El Oro	08	Cantón Pasaje	0709			-3.352	-79.5977	1
+EC	070401	San Roque (Ambrosio Maldonado)-Piñas	El Oro	08	Cantón Piñas	0710			-3.7263	-79.6723	4
+EC	070402	Capiro (Cab. En La Capilla De Capiro)	El Oro	08	Cantón Piñas	0710			-3.7907	-79.7572	1
+EC	070403	Moromoro (Cab. En El Vado)	El Oro	08	Cantón Piñas	0710			-3.6688	-79.7642	1
+EC	070405	La Bocana-Saracay-Piedras	El Oro	08	Cantón Piñas	0710			-3.6702	-79.8687	1
+EC	070304	Portovelo	El Oro	08	Cantón Portovelo	0711			-3.7214	-79.6219	4
+EC	070307	Morales-Curtincapa	El Oro	08	Cantón Portovelo	0711			-3.7088	-79.4726	1
+EC	070309	Salati	El Oro	08	Cantón Portovelo	0711			-3.7534	-79.5344	4
+EC	070601	Santa Rosa	El Oro	08	Cantón Santa Rosa	0712			-3.4488	-79.9595	4
+EC	070602	Santa Rosa	El Oro	08	Cantón Santa Rosa	0712			-3.4488	-79.9595	4
+EC	070603	Santa Rosa	El Oro	08	Cantón Santa Rosa	0712			-3.4488	-79.9595	4
+EC	070604	Torata-La Avanzada-Bellavista-San Antonio	El Oro	08	Cantón Santa Rosa	0712			-3.5564	-79.9269	1
+EC	070605	Jambeli	El Oro	08	Cantón Santa Rosa	0712			-3.2411	-80.0483	4
+EC	070606	Victoria	El Oro	08	Cantón Santa Rosa	0712			-3.3694	-79.8576	4
+EC	070607	Bellamaria	El Oro	08	Cantón Santa Rosa	0712			-3.5176	-79.8569	1
+EC	070301	Zaruma	El Oro	08	Cantón Zaruma	0713			-3.6913	-79.6117	4
+EC	070302	Arcapamba-Malvas-Muluncay Grande-Huertas	El Oro	08	Cantón Zaruma	0713			-3.611	-79.6118	1
+EC	070303	Guizhaguiña-Salvias-Sinsao	El Oro	08	Cantón Zaruma	0713			-3.6305	-79.5038	1
+EC	070306	Abañin-Guanazan	El Oro	08	Cantón Zaruma	0713			-3.4195	-79.5061	1
+EC	070509	El Paraiso-San Isidro	El Oro	08	Las Lajas	0714			-3.7838	-80.0142	1
+EC	070510	La Libertad-La Victoria	El Oro	08	Las Lajas	0714			-3.8148	-80.0985	1
+EC	080101	Esmeraldas	Esmeraldas	09	Cantón Esmeraldas	0801			0.9592	-79.654	4
+EC	080102	Esmeraldas	Esmeraldas	09	Cantón Esmeraldas	0801			0.9592	-79.654	4
+EC	080103	Esmeraldas	Esmeraldas	09	Cantón Esmeraldas	0801			0.9592	-79.654	4
+EC	080104	Esmeraldas	Esmeraldas	09	Cantón Esmeraldas	0801			0.9592	-79.654	4
+EC	080105	Esmeraldas	Esmeraldas	09	Cantón Esmeraldas	0801			0.9592	-79.654	4
+EC	080106	Esmeraldas	Esmeraldas	09	Cantón Esmeraldas	0801			0.9592	-79.654	4
+EC	080107	Esmeraldas	Esmeraldas	09	Cantón Esmeraldas	0801			0.9592	-79.654	4
+EC	080108	Esmeraldas	Esmeraldas	09	Cantón Esmeraldas	0801			0.9592	-79.654	4
+EC	080109	Esmeraldas	Esmeraldas	09	Cantón Esmeraldas	0801			0.9592	-79.654	4
+EC	080110	Esmeraldas	Esmeraldas	09	Cantón Esmeraldas	0801			0.9592	-79.654	4
+EC	080111	Esmeraldas	Esmeraldas	09	Cantón Esmeraldas	0801			0.9592	-79.654	4
+EC	080112	Esmeraldas	Esmeraldas	09	Cantón Esmeraldas	0801			0.9592	-79.654	4
+EC	080113	Esmeraldas	Esmeraldas	09	Cantón Esmeraldas	0801			0.9592	-79.654	4
+EC	080114	Tachina-Camarones (Cab. En San Vicente)	Esmeraldas	09	Cantón Esmeraldas	0801			0.9517	-79.5383	1
+EC	080115	Vuelta Larga	Esmeraldas	09	Cantón Esmeraldas	0801			0.896	-79.7002	4
+EC	080116	Esmeraldas	Esmeraldas	09	Cantón Esmeraldas	0801			0.9592	-79.654	4
+EC	080117	Esmeraldas	Esmeraldas	09	Cantón Esmeraldas	0801			0.9592	-79.654	4
+EC	080118	Esmeraldas	Esmeraldas	09	Cantón Esmeraldas	0801			0.9592	-79.654	4
+EC	080119	Esmeraldas	Esmeraldas	09	Cantón Esmeraldas	0801			0.9592	-79.654	4
+EC	080120	Vuelta Larga	Esmeraldas	09	Cantón Esmeraldas	0801			0.896	-79.7002	4
+EC	080121	Chinca-Majua-San Mateo	Esmeraldas	09	Cantón Esmeraldas	0801			0.772	-79.566	1
+EC	080122	Vuelta Larga	Esmeraldas	09	Cantón Esmeraldas	0801			0.896	-79.7002	4
+EC	080123	Tabiazo-Crnel. Carlos C. Torres (Cab. En Huele)	Esmeraldas	09	Cantón Esmeraldas	0801			0.7011	-79.7242	1
+EC	080201	La Tola-Pampanal De Bolivar-Valdez (Limones)	Esmeraldas	09	Cantón Eloy Alfaro	0802			1.1701	-79.035	1
+EC	080202	Luis V. Torres (Cab. En Playa De Oro)-Selva Alegre-Colon Eloy Del Maria-Maldonado-Timbire	Esmeraldas	09	Cantón Eloy Alfaro	0802			0.6674	-78.7483	1
+EC	080203	San Jose De Cayapas-Telembi-Borbon-Atahualpa (Cab. En Camarones)	Esmeraldas	09	Cantón Eloy Alfaro	0802			0.6929	-78.9235	1
+EC	080204	Santo Domingo De Onzole-San Francisco De Onzole-Anchayacu	Esmeraldas	09	Cantón Eloy Alfaro	0802			0.7654	-79.141	1
+EC	080301	San Gregorio-Muisne	Esmeraldas	09	Cantón Muisne	0803			0.5368	-79.8946	1
+EC	080302	Galera-San Francisco-Quingue (Olmedo Perdomo Franco)	Esmeraldas	09	Cantón Muisne	0803			0.7146	-80.0182	1
+EC	080307	Salima-San Jose De Chamanga	Esmeraldas	09	Cantón Muisne	0803			0.3444	-79.9001	1
+EC	080308	Bolivar-Daule	Esmeraldas	09	Cantón Muisne	0803			0.4167	-79.9827	1
+EC	080401	Rosa Zarate (Quininde)	Esmeraldas	09	Cantón Quinindé	0804			0.3252	-79.4952	1
+EC	080402	Rosa Zarate (Quininde)	Esmeraldas	09	Cantón Quinindé	0804			0.3208	-79.4489	1
+EC	080403	Rosa Zarate (Quininde)	Esmeraldas	09	Cantón Quinindé	0804			0.2916	-79.3758	1
+EC	080404	Malimpia	Esmeraldas	09	Cantón Quinindé	0804			0.4148	-79.4294	4
+EC	080405	Rosa Zarate (Quininde)	Esmeraldas	09	Cantón Quinindé	0804			0.3715	-79.5797	1
+EC	080406	Rosa Zarate (Quininde)	Esmeraldas	09	Cantón Quinindé	0804			0.4398	-79.1972	1
+EC	080407	Cube	Esmeraldas	09	Cantón Quinindé	0804			0.5736	-79.6442	4
+EC	080408	Viche-Chura (Chancama) (Cab. En El Yerbero)	Esmeraldas	09	Cantón Quinindé	0804			0.4882	-79.6726	1
+EC	080409	La Union	Esmeraldas	09	Cantón Quinindé	0804			0.1381	-79.4015	4
+EC	080410	Rosa Zarate (Quininde)	Esmeraldas	09	Cantón Quinindé	0804			0.0425	-79.4388	1
+EC	080411	Rosa Zarate (Quininde)	Esmeraldas	09	Cantón Quinindé	0804			0.0373	-79.5503	1
+EC	080501	Mataje (Cab En Santander)-San Lorenzo-Ancon (Pichangal) (Cab. En Palma Real)	Esmeraldas	09	Cantón San Lorenzo	0805			1.2728	-78.7229	1
+EC	080502	Carondelet-Calderon-Tululbi  (Cab En Ricaurte)-Santa Rita	Esmeraldas	09	Cantón San Lorenzo	0805			1.1223	-78.6601	1
+EC	080503	Concepcion-San Javier De Cachavi-Urbina-Alto Tambo (Cab En Guadual)-5 De Junio (Cab En Uimbi)	Esmeraldas	09	Cantón San Lorenzo	0805			0.8383	-78.6457	1
+EC	080504	Tambillo	Esmeraldas	09	Cantón San Lorenzo	0805			1.2554	-78.8857	4
+EC	080303	Sua (Cab En La Bocana)-Tonchigue	Esmeraldas	09	Atacames	0806			0.7694	-79.9253	1
+EC	080304	La Union	Esmeraldas	09	Atacames	0806			0.8104	-79.8658	4
+EC	080305	Atacames	Esmeraldas	09	Atacames	0806			0.8678	-79.8547	4
+EC	080306	Tonsupa	Esmeraldas	09	Atacames	0806			0.8801	-79.7727	1
+EC	080601	Chontaduro-Chumunde-Rioverde	Esmeraldas	09	Rio Verde	0807			0.7778	-79.3945	1
+EC	080602	Montalvo (Cab En Horqueta)-Lagarto-Rocafuerte	Esmeraldas	09	Rio Verde	0807			0.9362	-79.281	1
+EC	090101	Guayaquil-Union De Bananeros	Guayas	10	Cantón Guayaquil	0901			-2.267	-79.8807	1
+EC	090102	Guayaquil-Floresta	Guayas	10	Cantón Guayaquil	0901			-2.258	-79.8901	1
+EC	090103	Guayaquil-7 Lagos	Guayas	10	Cantón Guayaquil	0901			-2.2569	-79.8759	1
+EC	090104	Guayaquil-Centenario	Guayas	10	Cantón Guayaquil	0901			-2.6869	-80.0251	1
+EC	090105	Guayaquil-Guasmo	Guayas	10	Cantón Guayaquil	0901			-2.2429	-79.893	4
+EC	090106	Guayaquil-Guasmo	Guayas	10	Cantón Guayaquil	0901			-2.2429	-79.893	4
+EC	090107	Puna	Guayas	10	Cantón Guayaquil	0901			-2.2453	-79.8877	4
+EC	090201	Guayaquil- Trinitaria 1	Guayas	10	Cantón Guayaquil	0901			-2.2342	-79.9231	1
+EC	090202	Guayaquil-Malvinas 2	Guayas	10	Cantón Guayaquil	0901			-2.2265	-79.9054	1
+EC	090203	Guayaquil-Malvinas 1	Guayas	10	Cantón Guayaquil	0901			-2.2344	-79.9051	1
+EC	090204	Guayaquil- Esteros	Guayas	10	Cantón Guayaquil	0901			-2.2476	-79.9031	1
+EC	090205	Guayaquil- Esteros	Guayas	10	Cantón Guayaquil	0901			-2.265	-79.9051	1
+EC	090206	Guayaquil- Trinitaria 2	Guayas	10	Cantón Guayaquil	0901			-2.2556	-79.9219	1
+EC	090301	Guayaquil-Venezuela	Guayas	10	Cantón Guayaquil	0901			-2.2082	-79.9039	1
+EC	090302	Guayaquil-Garay	Guayas	10	Cantón Guayaquil	0901			-2.1965	-79.9038	1
+EC	090303	Guayaquil- Chile	Guayas	10	Cantón Guayaquil	0901			-2.1974	-79.8955	1
+EC	090304	Guayaquil-Antepara	Guayas	10	Cantón Guayaquil	0901			-2.2169	-79.9015	1
+EC	090305	Guayaquil- Victoria	Guayas	10	Cantón Guayaquil	0901			-2.2153	-79.9119	1
+EC	090306	Guayaquil-Cristo Del Consuelo	Guayas	10	Cantón Guayaquil	0901			-2.1846	-79.8819	1
+EC	090307	Guayaquil-9 De Octubre	Guayas	10	Cantón Guayaquil	0901			-2.1951	-79.8852	1
+EC	090401	Guayaquil-Portete	Guayas	10	Cantón Guayaquil	0901			-2.1985	-79.9307	1
+EC	090402	Guayaquil-Salinas	Guayas	10	Cantón Guayaquil	0901			-2.1959	-79.9164	4
+EC	090403	Guayaquil-Chala	Guayas	10	Cantón Guayaquil	0901			-2.2043	-79.9197	1
+EC	090404	Guayaquil- El Cisne	Guayas	10	Cantón Guayaquil	0901			-2.2191	-79.9248	1
+EC	090405	Guayaquil-Suburbio	Guayas	10	Cantón Guayaquil	0901			-2.2254	-79.938	1
+EC	090406	Guayaquil-Batallon Del Suburbio	Guayas	10	Cantón Guayaquil	0901			-2.2126	-79.9401	1
+EC	090501	Guayaquil-Alborada	Guayas	10	Cantón Guayaquil	0901			-2.137	-79.9087	4
+EC	090502	Guayaquil-Alborada	Guayas	10	Cantón Guayaquil	0901			-2.137	-79.9087	4
+EC	090503	Guayaquil-Sauces	Guayas	10	Cantón Guayaquil	0901			-2.1312	-79.8931	1
+EC	090504	Guayaquil-Atarazana	Guayas	10	Cantón Guayaquil	0901			-2.1288	-79.8859	1
+EC	090505	Guayaquil- Kennedy	Guayas	10	Cantón Guayaquil	0901			-2.1776	-79.8997	4
+EC	090506	Guayaquil-Urdesa	Guayas	10	Cantón Guayaquil	0901			-2.1713	-79.9057	4
+EC	090507	Guayaquil-Alborada	Guayas	10	Cantón Guayaquil	0901			-2.137	-79.9087	4
+EC	090508	Guayaquil-Guayacanes	Guayas	10	Cantón Guayaquil	0901			-2.1407	-79.9077	1
+EC	090509	Guayaquil-Sauces	Guayas	10	Cantón Guayaquil	0901			-2.1085	-79.8947	1
+EC	090510	Tenguel	Guayas	10	Cantón Guayaquil	0901			-2.1793	-79.8956	1
+EC	090601	Guayaquil-Martha Roldos	Guayas	10	Cantón Guayaquil	0901			-2.1516	-79.9231	1
+EC	090602	Guayaquil-Martha Roldos	Guayas	10	Cantón Guayaquil	0901			-2.1383	-79.9221	1
+EC	090603	Guayaquil-Martha Roldos	Guayas	10	Cantón Guayaquil	0901			-2.1917	-79.9387	1
+EC	090604	Guayaquil-Mapasingue	Guayas	10	Cantón Guayaquil	0901			-2.15	-79.9	4
+EC	090605	Guayaquil-Florida	Guayas	10	Cantón Guayaquil	0901			-2.128	-79.9403	4
+EC	090606	Guayaquil-Juan Montalvo	Guayas	10	Cantón Guayaquil	0901			-2.1185	-79.921	1
+EC	090607	Guayaquil-Samanes	Guayas	10	Cantón Guayaquil	0901			-2.1216	-79.9098	1
+EC	090608	Guayaquil-Bellavista	Guayas	10	Cantón Guayaquil	0901			-2.375	-80.1333	1
+EC	090701	Guayaquil-Bastion Popular 1	Guayas	10	Cantón Guayaquil	0901			-2.083	-79.9275	1
+EC	090702	Guayaquil-Pascuales	Guayas	10	Cantón Guayaquil	0901			-2.0713	-79.933	1
+EC	090703	Guayaquil-Mucho Lote	Guayas	10	Cantón Guayaquil	0901			-2.0723	-79.9052	1
+EC	090704	Guayaquil-Bastion Popular N2	Guayas	10	Cantón Guayaquil	0901			-2.0933	-79.9173	1
+EC	090705	Guayaquil-Monte Bello	Guayas	10	Cantón Guayaquil	0901			-2.0989	-79.9287	1
+EC	090706	Guayaquil-Orquideas	Guayas	10	Cantón Guayaquil	0901			-2.1026	-79.9416	1
+EC	090707	Guayaquil-San Francisco	Guayas	10	Cantón Guayaquil	0901			-2.0435	-79.9588	4
+EC	090708	Guayaquil-Puente Lucia	Guayas	10	Cantón Guayaquil	0901			-1.995	-79.9856	1
+EC	090801	Guayaquil-Nuevo Guayaquil	Guayas	10	Cantón Guayaquil	0901			-2.1079	-79.9746	1
+EC	090802	Guayaquil-Paraiso De La Flor	Guayas	10	Cantón Guayaquil	0901			-2.1003	-79.9628	1
+EC	090803	Guayaquil-Fortin	Guayas	10	Cantón Guayaquil	0901			-2.1125	-79.9571	1
+EC	090804	Guayaquil-Nueva Prosperina	Guayas	10	Cantón Guayaquil	0901			-2.1264	-79.9624	1
+EC	090805	Guayaquil-Nueva Prosperina	Guayas	10	Cantón Guayaquil	0901			-2.1288	-79.9929	1
+EC	090806	Guayaquil-Monte Sinai	Guayas	10	Cantón Guayaquil	0901			-2.1143	-79.9841	1
+EC	090807	Guayaquil-Monte Sinai	Guayas	10	Cantón Guayaquil	0901			-2.0963	-79.997	1
+EC	090808	Guayaquil-Flor De Bastion	Guayas	10	Cantón Guayaquil	0901			-2.091	-79.9611	1
+EC	090809	Guayaquil-Monte Sinai	Guayas	10	Cantón Guayaquil	0901			-2.118	-79.9956	1
+EC	090810	Guayaquil-Monte Sinai	Guayas	10	Cantón Guayaquil	0901			-2.0725	-79.9727	1
+EC	090811	Guayaquil-Flor De Bastion	Guayas	10	Cantón Guayaquil	0901			-2.1225	-80.012	1
+EC	090812	Guayaquil-Monte Sinai	Guayas	10	Cantón Guayaquil	0901			-2.3101	-79.9728	1
+EC	090901	Guayaquil-Puerto Hondo	Guayas	10	Cantón Guayaquil	0901			-2.1951	-80.0237	1
+EC	090902	Guayaquil-Los Ceibos	Guayas	10	Cantón Guayaquil	0901			-2.1582	-79.9696	1
+EC	090903	Guayaquil-Chongon	Guayas	10	Cantón Guayaquil	0901			-2.236	-80.0784	4
+EC	091001	Posorja	Guayas	10	Cantón Guayaquil	0901			-2.7101	-80.2456	4
+EC	091002	Morro	Guayas	10	Cantón Guayaquil	0901			-2.6341	-80.326	4
+EC	091003	Progreso-Guayaquil - Area De Expansión	Guayas	10	Cantón Guayaquil	0901			-2.3194	-80.1651	1
+EC	091103	Alfredo Baquerizo Moreno (Jujan)	Guayas	10	Alfredo Baquerizo Moreno (Juján)	0902			-1.95	-79.528	1
+EC	091104	Alfredo Baquerizo Moreno (Jujan)	Guayas	10	Alfredo Baquerizo Moreno (Juján)	0902			-1.9383	-79.6073	1
+EC	091207	Balao	Guayas	10	Balao	0903			-2.8982	-79.6677	4
+EC	091208	Balao	Guayas	10	Balao	0903			-2.8882	-79.775	4
+EC	091301	Balzar	Guayas	10	Cantón Balzar	0904			-1.365	-79.9049	4
+EC	091302	Balzar	Guayas	10	Cantón Balzar	0904			-1.365	-79.9049	4
+EC	091303	Balzar	Guayas	10	Cantón Balzar	0904			-1.365	-79.9049	4
+EC	091304	Balzar	Guayas	10	Cantón Balzar	0904			-1.365	-79.9049	4
+EC	091307	Balzar	Guayas	10	Cantón Balzar	0904			-1.365	-79.9049	4
+EC	091305	Colimes	Guayas	10	Canton Colimes	0905			-1.5455	-80.0116	4
+EC	091306	Colimes	Guayas	10	Canton Colimes	0905			-1.5455	-80.0116	4
+EC	091310	San Jacinto	Guayas	10	Canton Colimes	0905			-1.4637	-79.9453	1
+EC	091901	Daule	Guayas	10	Cantón Daule	0906			-1.8611	-79.9777	4
+EC	091902	Daule	Guayas	10	Cantón Daule	0906			-1.8611	-79.9777	4
+EC	091903	Limonal-Laurel	Guayas	10	Cantón Daule	0906			-1.8093	-79.9705	1
+EC	091904	Daule	Guayas	10	Cantón Daule	0906			-1.8611	-79.9777	4
+EC	091909	Juan Bautista Aguirre (Los Tintos)	Guayas	10	Cantón Daule	0906			-1.7456	-79.9528	1
+EC	091910	Los Lojas (Enrique Baquerizo Moreno)	Guayas	10	Cantón Daule	0906			-2.0437	-79.8968	1
+EC	091911	Daule	Guayas	10	Cantón Daule	0906			-1.8611	-79.9777	4
+EC	092401	Eloy Alfaro (Duran)	Guayas	10	Durán	0907			-2.1645	-79.8265	1
+EC	092402	Eloy Alfaro (Duran)	Guayas	10	Durán	0907			-2.1505	-79.8292	1
+EC	092403	Eloy Alfaro (Duran)	Guayas	10	Durán	0907			-2.1268	-79.8233	1
+EC	092404	Eloy Alfaro (Duran)	Guayas	10	Durán	0907			-2.1586	-79.7984	1
+EC	092405	Eloy Alfaro (Duran)	Guayas	10	Durán	0907			-2.1736	-79.8116	1
+EC	092406	Eloy Alfaro (Duran)	Guayas	10	Durán	0907			-2.2096	-79.7645	1
+EC	092407	Eloy Alfaro (Duran)	Guayas	10	Durán	0907			-2.2682	-79.7716	1
+EC	092408	Eloy Alfaro (Duran)	Guayas	10	Durán	0907			-2.2175	-79.8524	1
+EC	092409	Eloy Alfaro (Duran)	Guayas	10	Durán	0907			-2.1743	-79.8435	1
+EC	092410	Eloy Alfaro (Duran)	Guayas	10	Durán	0907			-2.1607	-79.8399	1
+EC	091501	Velasco Ibarra (Cab. El Empalme)	Guayas	10	Cantón El Empalme	0908			-1.0667	-79.6885	1
+EC	091502	Velasco Ibarra (Cab. El Empalme)	Guayas	10	Cantón El Empalme	0908			-1.0082	-79.6652	1
+EC	091503	Velasco Ibarra (Cab. El Empalme)	Guayas	10	Cantón El Empalme	0908			-1.0787	-79.6376	1
+EC	091504	El Rosario	Guayas	10	Cantón El Empalme	0908			-1.0524	-79.7782	4
+EC	091505	Guayas (Pueblo Nuevo)	Guayas	10	Cantón El Empalme	0908			-0.9438	-79.674	1
+EC	091506	Guayas (Pueblo Nuevo)	Guayas	10	Cantón El Empalme	0908			-0.9456	-79.5651	1
+EC	091601	El Triunfo	Guayas	10	El Triunfo	0909			-2.3205	-79.5156	1
+EC	091602	El Triunfo	Guayas	10	El Triunfo	0909			-2.3038	-79.455	1
+EC	091603	El Triunfo	Guayas	10	El Triunfo	0909			-2.2788	-79.2661	1
+EC	091701	Milagro	Guayas	10	Cantón Milagro	0910			-2.134	-79.5941	4
+EC	091702	Milagro	Guayas	10	Cantón Milagro	0910			-2.134	-79.5941	4
+EC	091703	Milagro	Guayas	10	Cantón Milagro	0910			-2.134	-79.5941	4
+EC	091704	Milagro	Guayas	10	Cantón Milagro	0910			-2.134	-79.5941	4
+EC	091705	Milagro	Guayas	10	Cantón Milagro	0910			-2.134	-79.5941	4
+EC	091706	Milagro	Guayas	10	Cantón Milagro	0910			-2.134	-79.5941	4
+EC	091707	Milagro	Guayas	10	Cantón Milagro	0910			-2.134	-79.5941	4
+EC	091708	Milagro	Guayas	10	Cantón Milagro	0910			-2.134	-79.5941	4
+EC	091709	Milagro	Guayas	10	Cantón Milagro	0910			-2.134	-79.5941	4
+EC	091710	Milagro	Guayas	10	Cantón Milagro	0910			-2.134	-79.5941	4
+EC	091711	Milagro	Guayas	10	Cantón Milagro	0910			-2.134	-79.5941	4
+EC	091712	Milagro	Guayas	10	Cantón Milagro	0910			-2.134	-79.5941	4
+EC	091713	Chobo	Guayas	10	Cantón Milagro	0910			-2.1396	-79.6334	4
+EC	091714	Milagro	Guayas	10	Cantón Milagro	0910			-2.134	-79.5941	4
+EC	091715	Mariscal Sucre (Huaques)	Guayas	10	Cantón Milagro	0910			-2.0823	-79.5079	1
+EC	091716	Roberto Astudillo (Cab En Cruce De Venci	Guayas	10	Cantón Milagro	0910			-2.1694	-79.5101	1
+EC	091201	Naranjal	Guayas	10	Cantón Naranjal	0911			-2.6736	-79.6183	4
+EC	091202	Santa Rosa De Flandes-Jesus Maria	Guayas	10	Cantón Naranjal	0911			-2.6078	-79.6142	1
+EC	091203	Naranjal	Guayas	10	Cantón Naranjal	0911			-2.6736	-79.6183	4
+EC	091204	Naranjal	Guayas	10	Cantón Naranjal	0911			-2.6736	-79.6183	4
+EC	091205	Taura	Guayas	10	Cantón Naranjal	0911			-2.352	-79.6702	4
+EC	091206	San Carlos	Guayas	10	Cantón Naranjal	0911			-2.5214	-79.4743	4
+EC	091801	Naranjito	Guayas	10	Cantón Naranjito	0912			-2.1667	-79.4654	4
+EC	091802	Naranjito	Guayas	10	Cantón Naranjito	0912			-2.1667	-79.4654	4
+EC	091803	Naranjito	Guayas	10	Cantón Naranjito	0912			-2.1667	-79.4654	4
+EC	091308	Palestina	Guayas	10	Palestina	0913			-1.6286	-79.9797	4
+EC	091309	Palestina	Guayas	10	Palestina	0913			-1.6286	-79.9797	4
+EC	091401	Pedro Carbo	Guayas	10	Pedro Carbo	0914			-1.8156	-80.2331	4
+EC	091402	Pedro Carbo	Guayas	10	Pedro Carbo	0914			-1.8156	-80.2331	4
+EC	091403	Valle De La Virgen	Guayas	10	Pedro Carbo	0914			-1.7833	-80.1833	4
+EC	091406	Sabanilla	Guayas	10	Pedro Carbo	0914			-1.8333	-80.2	4
+EC	092301	Samborondon	Guayas	10	Cantón Samborondón	0916			-1.9628	-79.724	4
+EC	092302	Samborondon	Guayas	10	Cantón Samborondón	0916			-1.9628	-79.724	4
+EC	092303	Tarifa	Guayas	10	Cantón Samborondón	0916			-2.0167	-79.7667	4
+EC	092304	Samborondon	Guayas	10	Cantón Samborondón	0916			-1.9628	-79.724	4
+EC	091906	Santa Lucia	Guayas	10	Santa Lucía	0918			-1.716	-79.9869	4
+EC	091907	Santa Lucia	Guayas	10	Santa Lucía	0918			-1.716	-79.9869	4
+EC	091908	Santa Lucia	Guayas	10	Santa Lucía	0918			-1.716	-79.9869	4
+EC	092001	El Salitre (Las Ramas)	Guayas	10	Cantón Salitre	0919			-1.8099	-79.8454	1
+EC	092002	Junquillal	Guayas	10	Cantón Salitre	0919			-1.7148	-79.8648	4
+EC	092003	Gral. Vernaza (Dos Esteros)	Guayas	10	Cantón Salitre	0919			-1.852	-79.8037	1
+EC	092004	El Salitre (Las Ramas)	Guayas	10	Cantón Salitre	0919			-1.7287	-79.8594	1
+EC	092005	La Victoria (Ñauza)	Guayas	10	Cantón Salitre	0919			-1.8869	-79.7259	1
+EC	092101	San Jacinto De Yaguachi	Guayas	10	Cantón Yaguachi	0920			-2.0994	-79.7487	1
+EC	092102	San Jacinto De Yaguachi	Guayas	10	Cantón Yaguachi	0920			-2.0364	-79.6641	1
+EC	092103	Yaguachi Viejo (Cone)	Guayas	10	Cantón Yaguachi	0920			-2.1885	-79.6709	1
+EC	092104	Gral. Pedro J. Montero (Boliche)	Guayas	10	Cantón Yaguachi	0920			-2.2629	-79.5915	1
+EC	092105	Virgen De Fatima	Guayas	10	Cantón Yaguachi	0920			-2.2651	-79.6711	1
+EC	092201	General Villamil (Playas)	Guayas	10	Playas	0921			-2.5479	-80.4159	1
+EC	092202	General Villamil (Playas)	Guayas	10	Playas	0921			-2.6382	-80.3673	1
+EC	092203	General Villamil (Playas)	Guayas	10	Playas	0921			-2.5427	-80.4843	1
+EC	091101	Simon Bolivar	Guayas	10	Simón Bolívar	0922			-2.0019	-79.4857	4
+EC	091102	Crnel. Lorenzo De Garaicoa (Pedregal)	Guayas	10	Simón Bolívar	0922			-2.065	-79.3718	1
+EC	091804	Crnel. Marcelino Maridueña (San Carlos)	Guayas	10	Coronel Marcelino Maridueña	0923			-2.239	-79.3813	1
+EC	091405	Lomas De Sargentillo	Guayas	10	Lomas De Sargentillo	0924			-1.8833	-80.0833	4
+EC	091905	Narcisa De Jesus	Guayas	10	Nobol	0925			-1.9167	-80.0167	4
+EC	091604	Gral. Antonio Elizalde (Bucay)	Guayas	10	General Antonio Elizalde	0927			-2.3509	-79.3754	1
+EC	091404	Isidro Ayora	Guayas	10	Isidro Ayora	0928			-1.8808	-80.1449	4
+EC	100101	San Miguel De Ibarra	Imbabura	11	Ibarra	1001			0.3365	-78.1401	1
+EC	100102	San Miguel De Ibarra	Imbabura	11	Ibarra	1001			0.3488	-78.1415	1
+EC	100103	San Miguel De Ibarra	Imbabura	11	Ibarra	1001			0.3723	-78.1377	1
+EC	100104	San Miguel De Ibarra	Imbabura	11	Ibarra	1001			0.3632	-78.1238	1
+EC	100105	San Miguel De Ibarra	Imbabura	11	Ibarra	1001			0.3537	-78.1172	1
+EC	100106	San Miguel De Ibarra	Imbabura	11	Ibarra	1001			0.3455	-78.1219	1
+EC	100107	San Miguel De Ibarra	Imbabura	11	Ibarra	1001			0.3396	-78.1218	1
+EC	100108	San Miguel De Ibarra	Imbabura	11	Ibarra	1001			0.298	-78.1448	1
+EC	100109	San Miguel De Ibarra	Imbabura	11	Ibarra	1001			0.3216	-78.1712	1
+EC	100110	San Miguel De Ibarra	Imbabura	11	Ibarra	1001			0.4218	-78.0967	1
+EC	100111	San Miguel De Ibarra	Imbabura	11	Ibarra	1001			0.3614	-78.0582	1
+EC	100112	San Miguel De Ibarra	Imbabura	11	Ibarra	1001			0.3394	-78.0996	1
+EC	100113	San Antonio	Imbabura	11	Ibarra	1001			0.3337	-78.1695	4
+EC	100116	Salinas	Imbabura	11	Ibarra	1001			0.55	-78.1333	4
+EC	100117	Ambuqui	Imbabura	11	Ibarra	1001			0.4303	-78.0099	4
+EC	100119	Angochagua-La Esperanza	Imbabura	11	Ibarra	1001			0.4937	-78.1387	1
+EC	100121	Carolina	Imbabura	11	Ibarra	1001			0.7833	-78.3	4
+EC	100122	Lita	Imbabura	11	Ibarra	1001			0.7762	-78.3785	1
+EC	100209	San Roque	Imbabura	11	Cantón Antonio Ante	1002			0.3041	-78.2338	4
+EC	100210	Atuntaqui	Imbabura	11	Cantón Antonio Ante	1002			0.3325	-78.2137	4
+EC	100211	Atuntaqui	Imbabura	11	Cantón Antonio Ante	1002			0.3325	-78.2137	4
+EC	100212	Imbaya (San Luis De Cobuendo)-San Jose De Chaltura-San Fco. De Natabuela	Imbabura	11	Cantón Antonio Ante	1002			0.1884	-78.3574	1
+EC	100301	Cotacachi	Imbabura	11	Cantón Cotacachi	1003			0.3011	-78.2643	4
+EC	100302	Imantag	Imbabura	11	Cantón Cotacachi	1003			0.3599	-78.2451	4
+EC	100303	Quiroga	Imbabura	11	Cantón Cotacachi	1003			0.2847	-78.2839	4
+EC	100304	6 De Julio De Cuellaje (Cab En Cuellaje)-Plaza Gutierrez (Calvario)-Apuela	Imbabura	11	Cantón Cotacachi	1003			0.316	-78.302	1
+EC	100305	Vacas Galindo (Cab. En San Miguel Alto)-Peñaherrera	Imbabura	11	Cantón Cotacachi	1003			0.3475	-78.5759	1
+EC	100306	Garcia Moreno (Llurimagua)	Imbabura	11	Cantón Cotacachi	1003			0.2973	-78.7879	1
+EC	100201	Otavalo	Imbabura	11	Cantón Otavalo	1004			0.2346	-78.2625	4
+EC	100202	Otavalo	Imbabura	11	Cantón Otavalo	1004			0.2346	-78.2625	4
+EC	100203	Otavalo	Imbabura	11	Cantón Otavalo	1004			0.2346	-78.2625	4
+EC	100204	San Pablo	Imbabura	11	Cantón Otavalo	1004			0.2526	-78.2295	1
+EC	100205	Gonzalez Suarez-San Rafael	Imbabura	11	Cantón Otavalo	1004			0.1836	-78.2186	4
+EC	100206	Eugenio Espejo (Calpaqui)	Imbabura	11	Cantón Otavalo	1004			0.1864	-78.2539	1
+EC	100207	San Juan De Iluman-Doctor Miguel Egas Cabezas (Peguche)	Imbabura	11	Cantón Otavalo	1004			0.1898	-78.2888	1
+EC	100208	San Juan De Iluman-Doctor Miguel Egas Cabezas (Peguche)	Imbabura	11	Cantón Otavalo	1004			0.2484	-78.3506	1
+EC	100213	Otavalo	Imbabura	11	Cantón Otavalo	1004			0.2346	-78.2625	4
+EC	100214	San Jose De Quichinche	Imbabura	11	Cantón Otavalo	1004			0.2391	-78.289	4
+EC	100215	Otavalo	Imbabura	11	Cantón Otavalo	1004			0.2346	-78.2625	4
+EC	100216	Pataqui	Imbabura	11	Cantón Otavalo	1004			0.1769	-78.3647	4
+EC	100217	Selva Alegre (Cab. En San Miguel De P.)	Imbabura	11	Cantón Otavalo	1004			0.3689	-78.1766	1
+EC	100118	Chuga-Pimampiro-Mariano Acosta-San  Fco. De Sigsipamba	Imbabura	11	Cantón Pimampiro	1005			0.5069	-78.2464	1
+EC	100114	Urcuqui-San Blas-Tumbabiro	Imbabura	11	San Miguel de Urcuqui Canton	1006			0.2311	-78.092	1
+EC	100115	Pablo Arenas-Cahuasqui	Imbabura	11	San Miguel de Urcuqui Canton	1006			0.4299	-78.2189	1
+EC	100120	La Merced De Buenos Aires	Imbabura	11	San Miguel de Urcuqui Canton	1006			0.6211	-78.3147	4
+EC	110101	Loja	Loja	12	Cantón Loja	1101			-3.9931	-79.2042	4
+EC	110102	Loja	Loja	12	Cantón Loja	1101			-3.9931	-79.2042	4
+EC	110103	Loja	Loja	12	Cantón Loja	1101			-3.9931	-79.2042	4
+EC	110104	Loja	Loja	12	Cantón Loja	1101			-3.9931	-79.2042	4
+EC	110105	Loja	Loja	12	Cantón Loja	1101			-3.9931	-79.2042	4
+EC	110106	Loja	Loja	12	Cantón Loja	1101			-3.9931	-79.2042	4
+EC	110107	Loja	Loja	12	Cantón Loja	1101			-3.9931	-79.2042	4
+EC	110108	Loja	Loja	12	Cantón Loja	1101			-3.9931	-79.2042	4
+EC	110109	Loja	Loja	12	Cantón Loja	1101			-3.9931	-79.2042	4
+EC	110110	Loja	Loja	12	Cantón Loja	1101			-3.9931	-79.2042	4
+EC	110111	Loja	Loja	12	Cantón Loja	1101			-3.9931	-79.2042	4
+EC	110112	Loja	Loja	12	Cantón Loja	1101			-3.9931	-79.2042	4
+EC	110113	Loja	Loja	12	Cantón Loja	1101			-3.9931	-79.2042	4
+EC	110114	Loja	Loja	12	Cantón Loja	1101			-3.9931	-79.2042	4
+EC	110115	Loja	Loja	12	Cantón Loja	1101			-3.9931	-79.2042	4
+EC	110116	Malacatos (Valladolid)	Loja	12	Cantón Loja	1101			-3.8663	-79.1758	1
+EC	110117	Chantaco-Taquil (Miguel Riofrio)-Chiquiribamaba	Loja	12	Cantón Loja	1101			-4.1885	-79.2364	1
+EC	110118	San Lucas-Santiago	Loja	12	Cantón Loja	1101			-3.7969	-79.4138	1
+EC	110119	Jimbilla	Loja	12	Cantón Loja	1101			-3.8603	-79.1721	4
+EC	110120	Vilcabamba (Victoria)-San Pedro De Vilcabamba	Loja	12	Cantón Loja	1101			-4.2667	-79.25	4
+EC	110121	Gualel-El Cisne	Loja	12	Cantón Loja	1101			-4.3886	-79.2731	1
+EC	110122	Quinara-Yangana (Arsenio Castillo)	Loja	12	Cantón Loja	1101			-4.2667	-79.25	1
+EC	110601	Cariamanga	Loja	12	Cantón Calvas	1102			-4.328	-79.5555	4
+EC	110602	El Lucero	Loja	12	Cantón Calvas	1102			-4.4012	-79.4685	4
+EC	110603	Sanguillin	Loja	12	Cantón Calvas	1102			-4.1936	-79.5286	1
+EC	110604	Utuana-Colaisaca	Loja	12	Cantón Calvas	1102			-4.127	-79.4159	1
+EC	110605	Cariamanga	Loja	12	Cantón Calvas	1102			-4.328	-79.5555	4
+EC	110201	Catamayo (La Toma)	Loja	12	Cantón Catamayo	1103			-4.006	-79.3372	1
+EC	110202	Catamayo (La Toma)	Loja	12	Cantón Catamayo	1103			-3.9345	-79.3602	1
+EC	110203	El Tambo	Loja	12	Cantón Catamayo	1103			-4.0725	-79.3082	4
+EC	110204	San Pedro De La Bendita	Loja	12	Cantón Catamayo	1103			-3.9416	-79.4357	4
+EC	110205	Zambi-Guayquichuma	Loja	12	Cantón Catamayo	1103			-3.9278	-79.4447	1
+EC	110401	Celica	Loja	12	Cantón Celica	1104			-4.1027	-79.9566	4
+EC	110402	Pozul (San Juan De Pozul)-Sabanilla-Tnte. Maximiliano Rodriguez Loaiza-Cruzpamba (Cab En Carlos Bustamante)	Loja	12	Cantón Celica	1104			-4.1834	-80.0971	1
+EC	110208	Chaguarpamba-El Rosario	Loja	12	Chaguarpamba	1105			-3.7861	-79.6106	4
+EC	110209	Amarillos-Santa Rufina-Buenavista	Loja	12	Chaguarpamba	1105			-3.8822	-79.732	1
+EC	110501	Santa Teresita-Amaluza	Loja	12	Cantón Espindola	1106			-4.5716	-79.3859	1
+EC	110502	Jimbura-Bellavista	Loja	12	Cantón Espindola	1106			-4.596	-79.4518	1
+EC	110503	El Airo-27 De Abril (Cab En La Naranja)-El Ingenio	Loja	12	Cantón Espindola	1106			-4.4526	-79.3973	1
+EC	110606	Sacapalca-Changaimina (La Libertad)	Loja	12	Cantón Gonzanamá	1107			-4.3714	-79.5462	1
+EC	110607	Gonzanama	Loja	12	Cantón Gonzanamá	1107			-4.2308	-79.4354	4
+EC	110609	Nambacola-Purunuma (Eguiguren)	Loja	12	Cantón Gonzanamá	1107			-4.4682	-79.5321	1
+EC	110701	Macara	Loja	12	Cantón Macará	1108			-4.3818	-79.9437	4
+EC	110702	Larama	Loja	12	Cantón Macará	1108			-4.2658	-79.906	4
+EC	110705	La Victoria-Sabiango (La Capilla)	Loja	12	Cantón Macará	1108			-4.4165	-79.8084	1
+EC	110301	Catacocha	Loja	12	Cantón Paltas	1109			-4.0497	-79.6494	4
+EC	110302	Cangonama-Yamana-Sanantonio	Loja	12	Cantón Paltas	1109			-3.9749	-79.692	1
+EC	110303	Lauro Guerrero-Cosanga	Loja	12	Cantón Paltas	1109			-3.9683	-79.7765	1
+EC	110304	Guachanama	Loja	12	Cantón Paltas	1109			-4.0465	-79.8814	4
+EC	110305	Orianga	Loja	12	Cantón Paltas	1109			-3.8987	-79.8693	4
+EC	110405	El Limo (Mariana De Jesus)	Loja	12	Cantón Puyango	1110			-3.9967	-80.1914	1
+EC	110406	Alamor	Loja	12	Cantón Puyango	1110			-4.0185	-80.0214	4
+EC	110407	Ciano-El Arenal-Vicentino-Mercadillo	Loja	12	Cantón Puyango	1110			-3.9557	-79.9611	1
+EC	110801	Saraguro	Loja	12	Cantón Saraguro	1111			-3.6255	-79.239	4
+EC	110802	San Antonio De Qumbe (Cumbe)-El Tablon-Urdaneta (Paquishapa)	Loja	12	Cantón Saraguro	1111			-3.6159	-79.3164	1
+EC	110803	San Pablo De Tenta-El Paraiso De Celen	Loja	12	Cantón Saraguro	1111			-3.5687	-79.1885	1
+EC	110804	Selva Alegre-Lluzhapa	Loja	12	Cantón Saraguro	1111			-3.517	-79.3342	1
+EC	110805	Sumaypamba	Loja	12	Cantón Saraguro	1111			-3.4098	-79.3404	1
+EC	110806	San Sebastian De Yuluc-Manu	Loja	12	Cantón Saraguro	1111			-3.4705	-79.4234	1
+EC	110703	Sozoranga-Nueva Fatima	Loja	12	Cantón Sozoranga	1112			-4.2476	-79.7939	1
+EC	110704	Tacamoros	Loja	12	Cantón Sozoranga	1112			-4.4225	-79.7447	4
+EC	110901	Zapotillo	Loja	12	Zapotillo	1113			-4.3875	-80.2441	4
+EC	110902	Limones	Loja	12	Zapotillo	1113			-4.3637	-80.3768	1
+EC	110903	Garzareal	Loja	12	Zapotillo	1113			-4.2728	-80.2735	1
+EC	110904	Paletillas	Loja	12	Zapotillo	1113			-4.3303	-80.3178	4
+EC	110905	Bolaspamba	Loja	12	Zapotillo	1113			-4.185	-80.3693	4
+EC	110906	Cazaderos (Cab En Mangaurco)	Loja	12	Zapotillo	1113			-4.0756	-80.3982	1
+EC	110403	Pindal	Loja	12	Pindal	1114			-4.1143	-80.1068	4
+EC	110404	Chaquinal-12 De Diciembre (Cab En Achiotes)	Loja	12	Pindal	1114			-4.0599	-80.0877	1
+EC	110608	San Antonio De Las Aradas (Cab)-Quilanga-Fundochamba	Loja	12	Quilanga	1115			-4.3936	-79.5014	1
+EC	110206	La Tingue	Loja	12	Olmedo	1116			-3.9085	-79.5755	4
+EC	110207	Olmedo	Loja	12	Olmedo	1116			-3.9349	-79.6463	4
+EC	120101	Babahoyo	Los Ríos	13	Cantón Babahoyo	1201			-1.8022	-79.5344	4
+EC	120102	Babahoyo	Los Ríos	13	Cantón Babahoyo	1201			-1.8022	-79.5344	4
+EC	120103	Babahoyo	Los Ríos	13	Cantón Babahoyo	1201			-1.8022	-79.5344	4
+EC	120104	Babahoyo	Los Ríos	13	Cantón Babahoyo	1201			-1.8022	-79.5344	4
+EC	120105	Babahoyo	Los Ríos	13	Cantón Babahoyo	1201			-1.8022	-79.5344	4
+EC	120106	Babahoyo	Los Ríos	13	Cantón Babahoyo	1201			-1.8022	-79.5344	4
+EC	120107	Babahoyo	Los Ríos	13	Cantón Babahoyo	1201			-1.8022	-79.5344	4
+EC	120108	Pimocha	Los Ríos	13	Cantón Babahoyo	1201			-1.8333	-79.6064	4
+EC	120109	Babahoyo	Los Ríos	13	Cantón Babahoyo	1201			-1.8022	-79.5344	4
+EC	120110	Pimocha	Los Ríos	13	Cantón Babahoyo	1201			-1.8333	-79.6064	4
+EC	120111	Pimocha	Los Ríos	13	Cantón Babahoyo	1201			-1.8333	-79.6064	4
+EC	120112	Caracol	Los Ríos	13	Cantón Babahoyo	1201			-1.6716	-79.4638	4
+EC	120113	La Union	Los Ríos	13	Cantón Babahoyo	1201			-1.7833	-79.4667	4
+EC	120116	Febres Cordero (Las Juntas) (Cab.	Los Ríos	13	Cantón Babahoyo	1201			-1.7622	-79.6949	1
+EC	120117	Baba	Los Ríos	13	Cantón Baba	1202			-1.7841	-79.6783	4
+EC	120118	Baba	Los Ríos	13	Cantón Baba	1202			-1.7841	-79.6783	4
+EC	120119	Isla De Bejucal	Los Ríos	13	Cantón Baba	1202			-1.6772	-79.6448	4
+EC	120120	Guare	Los Ríos	13	Cantón Baba	1202			-1.6721	-79.7057	4
+EC	120114	Montalvo	Los Ríos	13	Montalvo	1203			-1.7901	-79.2876	4
+EC	120115	Montalvo	Los Ríos	13	Montalvo	1203			-1.7901	-79.2876	4
+EC	120201	Puebloviejo	Los Ríos	13	Cantón Puebloviejo	1204			-1.5507	-79.534	4
+EC	120204	San Juan	Los Ríos	13	Cantón Puebloviejo	1204			-1.6244	-79.5617	4
+EC	120205	Puerto Pechiche	Los Ríos	13	Cantón Puebloviejo	1204			-1.4333	-79.5667	4
+EC	120301	Quevedo	Los Ríos	13	Cantón Quevedo	1205			-1.0286	-79.4635	4
+EC	120302	Quevedo	Los Ríos	13	Cantón Quevedo	1205			-1.0286	-79.4635	4
+EC	120303	Quevedo	Los Ríos	13	Cantón Quevedo	1205			-1.0286	-79.4635	4
+EC	120304	Quevedo	Los Ríos	13	Cantón Quevedo	1205			-1.0286	-79.4635	4
+EC	120305	Quevedo	Los Ríos	13	Cantón Quevedo	1205			-1.0286	-79.4635	4
+EC	120306	Quevedo	Los Ríos	13	Cantón Quevedo	1205			-1.0286	-79.4635	4
+EC	120307	Quevedo	Los Ríos	13	Cantón Quevedo	1205			-1.0286	-79.4635	4
+EC	120308	Quevedo	Los Ríos	13	Cantón Quevedo	1205			-1.0286	-79.4635	4
+EC	120309	Quevedo	Los Ríos	13	Cantón Quevedo	1205			-1.0286	-79.4635	4
+EC	120310	La Esperanza	Los Ríos	13	Cantón Quevedo	1205			-1.0642	-79.4613	4
+EC	120311	San Carlos	Los Ríos	13	Cantón Quevedo	1205			-1.1155	-79.4351	4
+EC	120202	Catarama	Los Ríos	13	Cantón Urdaneta	1206			-1.575	-79.46	4
+EC	120203	Ricaurte	Los Ríos	13	Cantón Urdaneta	1206			-1.5784	-79.4373	4
+EC	120206	Ricaurte	Los Ríos	13	Cantón Urdaneta	1206			-1.5784	-79.4373	4
+EC	120401	Ventanas	Los Ríos	13	Cantón Ventanas	1207			-1.4416	-79.4594	4
+EC	120402	Zapotal	Los Ríos	13	Cantón Ventanas	1207			-1.3551	-79.4018	4
+EC	120403	Zapotal	Los Ríos	13	Cantón Ventanas	1207			-1.3551	-79.4018	4
+EC	120404	Ventanas	Los Ríos	13	Cantón Ventanas	1207			-1.4416	-79.4594	4
+EC	120405	Ventanas	Los Ríos	13	Cantón Ventanas	1207			-1.4416	-79.4594	4
+EC	120406	Zapotal	Los Ríos	13	Cantón Ventanas	1207			-1.3551	-79.4018	4
+EC	120501	Vinces	Los Ríos	13	Cantón Vinces	1208			-1.5561	-79.7519	4
+EC	120502	Vinces	Los Ríos	13	Cantón Vinces	1208			-1.5561	-79.7519	4
+EC	120503	Vinces	Los Ríos	13	Cantón Vinces	1208			-1.5561	-79.7519	4
+EC	120504	Vinces	Los Ríos	13	Cantón Vinces	1208			-1.5561	-79.7519	4
+EC	120505	Vinces	Los Ríos	13	Cantón Vinces	1208			-1.5561	-79.7519	4
+EC	120506	Antonio Sotomayor (Cab. Playas De Vince	Los Ríos	13	Cantón Vinces	1208			-1.5194	-79.7424	1
+EC	120507	Vinces	Los Ríos	13	Cantón Vinces	1208			-1.5561	-79.7519	4
+EC	120509	Vinces	Los Ríos	13	Cantón Vinces	1208			-1.5561	-79.7519	4
+EC	120510	Antonio Sotomayor (Cab. Playas De Vince	Los Ríos	13	Cantón Vinces	1208			-1.6957	-79.7805	1
+EC	120508	Palenque	Los Ríos	13	Palenque	1209			-1.438	-79.7565	4
+EC	120511	Palenque	Los Ríos	13	Palenque	1209			-1.438	-79.7565	4
+EC	120601	San Jacinto De Buena Fe	Los Ríos	13	Cantón Buena Fe	1210			-0.8932	-79.4891	4
+EC	120603	San Jacinto De Buena Fe	Los Ríos	13	Cantón Buena Fe	1210			-0.8932	-79.4891	4
+EC	120604	San Jacinto De Buena Fe	Los Ríos	13	Cantón Buena Fe	1210			-0.8932	-79.4891	4
+EC	120608	San Jacinto De Buena Fe	Los Ríos	13	Cantón Buena Fe	1210			-0.8932	-79.4891	4
+EC	120609	Patricia Pilar	Los Ríos	13	Cantón Buena Fe	1210			-0.5731	-79.3717	4
+EC	120602	Valencia	Los Ríos	13	Cantón Valencia	1211			-0.9523	-79.3559	4
+EC	120605	Valencia	Los Ríos	13	Cantón Valencia	1211			-0.9523	-79.3559	4
+EC	120606	Valencia	Los Ríos	13	Cantón Valencia	1211			-0.9523	-79.3559	4
+EC	120607	Valencia	Los Ríos	13	Cantón Valencia	1211			-0.9523	-79.3559	4
+EC	120610	Valencia	Los Ríos	13	Cantón Valencia	1211			-0.9523	-79.3559	4
+EC	120312	Mocache	Los Ríos	13	Mocache	1212			-1.1827	-79.4991	4
+EC	120313	Mocache	Los Ríos	13	Mocache	1212			-1.1827	-79.4991	4
+EC	120314	Mocache	Los Ríos	13	Mocache	1212			-1.1827	-79.4991	4
+EC	120407	Quinsaloma	Los Ríos	13	Quinsaloma	1213			-1.2218	-79.3349	4
+EC	130101	Portoviejo	Manabí	14	Cantón Portoviejo	1301			-1.0546	-80.4544	4
+EC	130102	Portoviejo	Manabí	14	Cantón Portoviejo	1301			-1.0546	-80.4544	4
+EC	130103	Portoviejo	Manabí	14	Cantón Portoviejo	1301			-1.0546	-80.4544	4
+EC	130104	Portoviejo	Manabí	14	Cantón Portoviejo	1301			-1.0546	-80.4544	4
+EC	130105	Portoviejo	Manabí	14	Cantón Portoviejo	1301			-1.0546	-80.4544	4
+EC	130106	Portoviejo	Manabí	14	Cantón Portoviejo	1301			-1.0546	-80.4544	4
+EC	130107	Portoviejo	Manabí	14	Cantón Portoviejo	1301			-1.0546	-80.4544	4
+EC	130108	Portoviejo	Manabí	14	Cantón Portoviejo	1301			-1.0546	-80.4544	4
+EC	130109	Portoviejo	Manabí	14	Cantón Portoviejo	1301			-1.0546	-80.4544	4
+EC	130110	Portoviejo	Manabí	14	Cantón Portoviejo	1301			-1.0546	-80.4544	4
+EC	130111	Portoviejo	Manabí	14	Cantón Portoviejo	1301			-1.0546	-80.4544	4
+EC	130112	Portoviejo	Manabí	14	Cantón Portoviejo	1301			-1.0546	-80.4544	4
+EC	130113	Portoviejo	Manabí	14	Cantón Portoviejo	1301			-1.0546	-80.4544	4
+EC	130114	Portoviejo	Manabí	14	Cantón Portoviejo	1301			-1.0546	-80.4544	4
+EC	130115	Portoviejo	Manabí	14	Cantón Portoviejo	1301			-1.0546	-80.4544	4
+EC	130116	Riochico (Rio Chico)-Pueblo Nuevo	Manabí	14	Cantón Portoviejo	1301			-0.984	-80.362	1
+EC	130117	Abdon Calderon (San Francisco)	Manabí	14	Cantón Portoviejo	1301			-1.0471	-80.3241	1
+EC	130118	Portoviejo	Manabí	14	Cantón Portoviejo	1301			-1.0546	-80.4544	4
+EC	130119	Crucita	Manabí	14	Cantón Portoviejo	1301			-0.8706	-80.5375	4
+EC	130120	Chirijos-Alhajuela (Bajo Grande)	Manabí	14	Cantón Portoviejo	1301			-1.0249	-80.2067	1
+EC	130121	San Placido	Manabí	14	Cantón Portoviejo	1301			-1.0616	-80.245	4
+EC	130601	Calceta	Manabí	14	Cantón Bolívar	1302			-0.8458	-80.1639	4
+EC	130602	Calceta	Manabí	14	Cantón Bolívar	1302			-0.8458	-80.1639	4
+EC	130603	Quiroga	Manabí	14	Cantón Bolívar	1302			-0.8844	-80.0971	4
+EC	130606	Membrillo	Manabí	14	Cantón Bolívar	1302			-0.8702	-79.9454	4
+EC	130607	Calceta	Manabí	14	Cantón Bolívar	1302			-0.8458	-80.1639	4
+EC	130701	Chone	Manabí	14	Cantón Chone	1303			-0.6982	-80.0936	4
+EC	130702	Chone	Manabí	14	Cantón Chone	1303			-0.6982	-80.0936	4
+EC	130703	Chone	Manabí	14	Cantón Chone	1303			-0.6982	-80.0936	4
+EC	130704	Chone	Manabí	14	Cantón Chone	1303			-0.6982	-80.0936	4
+EC	130705	San Antonio	Manabí	14	Cantón Chone	1303			-0.7042	-80.1662	4
+EC	130706	Chone	Manabí	14	Cantón Chone	1303			-0.6982	-80.0936	4
+EC	130707	Boyaca	Manabí	14	Cantón Chone	1303			-0.5701	-80.1773	4
+EC	130708	Ricaurte	Manabí	14	Cantón Chone	1303			-0.5828	-80.0414	4
+EC	130709	Chone	Manabí	14	Cantón Chone	1303			-0.6982	-80.0936	4
+EC	130710	Canuto	Manabí	14	Cantón Chone	1303			-0.7996	-80.1282	4
+EC	130711	Eloy Alfaro	Manabí	14	Cantón Chone	1303			-0.401	-80.0806	4
+EC	130714	Canuto	Manabí	14	Cantón Chone	1303			-0.7996	-80.1282	4
+EC	130715	Convento	Manabí	14	Cantón Chone	1303			-0.2774	-80.0361	4
+EC	130719	Chibunga	Manabí	14	Cantón Chone	1303			-0.2454	-79.7199	1
+EC	130501	El Carmen	Manabí	14	Cantón El Carmen	1304			-0.2711	-79.4629	4
+EC	130502	El Carmen	Manabí	14	Cantón El Carmen	1304			-0.2711	-79.4629	4
+EC	130503	El Carmen	Manabí	14	Cantón El Carmen	1304			-0.2711	-79.4629	4
+EC	130504	El Carmen	Manabí	14	Cantón El Carmen	1304			-0.2711	-79.4629	4
+EC	130505	El Carmen	Manabí	14	Cantón El Carmen	1304			-0.2711	-79.4629	4
+EC	130506	Wilfrido Loor Moreira (Maicito)	Manabí	14	Cantón El Carmen	1304			-0.3306	-79.6473	1
+EC	130507	San Pedro De Suma	Manabí	14	Cantón El Carmen	1304			-0.2158	-79.5396	4
+EC	130508	El Carmen	Manabí	14	Cantón El Carmen	1304			-0.2711	-79.4629	4
+EC	130712	Zapallo	Manabí	14	Flavio Alfaro	1305			-0.45	-80	4
+EC	130713	Flavio Alfaro	Manabí	14	Flavio Alfaro	1305			-0.4056	-79.9054	4
+EC	130716	Flavio Alfaro	Manabí	14	Flavio Alfaro	1305			-0.4056	-79.9054	4
+EC	130717	San Fco. De Novillo (Cab En Novillo)	Manabí	14	Flavio Alfaro	1305			-0.0544	-79.7464	1
+EC	130718	Flavio Alfaro	Manabí	14	Flavio Alfaro	1305			-0.4056	-79.9054	4
+EC	130301	Jipijapa	Manabí	14	Cantón Jipijapa	1306			-1.3487	-80.5787	4
+EC	130302	Jipijapa	Manabí	14	Cantón Jipijapa	1306			-1.3487	-80.5787	4
+EC	130303	Jipijapa	Manabí	14	Cantón Jipijapa	1306			-1.3487	-80.5787	4
+EC	130304	Jipijapa	Manabí	14	Cantón Jipijapa	1306			-1.3487	-80.5787	4
+EC	130305	Jipijapa	Manabí	14	Cantón Jipijapa	1306			-1.3487	-80.5787	4
+EC	130306	Jipijapa	Manabí	14	Cantón Jipijapa	1306			-1.3487	-80.5787	4
+EC	130307	Puerto De Cayo	Manabí	14	Cantón Jipijapa	1306			-1.262	-80.553	1
+EC	130308	Membrillal	Manabí	14	Cantón Jipijapa	1306			-1.2391	-80.6648	4
+EC	130309	Jipijapa	Manabí	14	Cantón Jipijapa	1306			-1.3487	-80.5787	4
+EC	130310	La Union-America	Manabí	14	Cantón Jipijapa	1306			-1.4117	-80.4642	4
+EC	130311	El Anegado (Cab En Eloy Alfaro)-Julcuy	Manabí	14	Cantón Jipijapa	1306			-1.469	-80.7382	1
+EC	130313	Pedro Pablo Gomez	Manabí	14	Cantón Jipijapa	1306			-1.6262	-80.5599	4
+EC	130604	Junin	Manabí	14	Cantón Junín	1307			-0.9278	-80.2058	4
+EC	130605	Junin	Manabí	14	Cantón Junín	1307			-0.9278	-80.2058	4
+EC	130201	Manta	Manabí	14	Cantón Manta	1308			-0.9621	-80.7127	4
+EC	130202	Manta	Manabí	14	Cantón Manta	1308			-0.9621	-80.7127	4
+EC	130203	Manta	Manabí	14	Cantón Manta	1308			-0.9621	-80.7127	4
+EC	130204	Manta	Manabí	14	Cantón Manta	1308			-0.9621	-80.7127	4
+EC	130205	Manta	Manabí	14	Cantón Manta	1308			-0.9621	-80.7127	4
+EC	130206	Manta	Manabí	14	Cantón Manta	1308			-0.9621	-80.7127	4
+EC	130207	Manta	Manabí	14	Cantón Manta	1308			-0.9621	-80.7127	4
+EC	130208	Manta	Manabí	14	Cantón Manta	1308			-0.9621	-80.7127	4
+EC	130209	Manta	Manabí	14	Cantón Manta	1308			-0.9621	-80.7127	4
+EC	130210	Manta	Manabí	14	Cantón Manta	1308			-0.9621	-80.7127	4
+EC	130211	Manta	Manabí	14	Cantón Manta	1308			-0.9621	-80.7127	4
+EC	130212	Manta	Manabí	14	Cantón Manta	1308			-0.9621	-80.7127	4
+EC	130215	Manta	Manabí	14	Cantón Manta	1308			-0.9621	-80.7127	4
+EC	130216	Manta	Manabí	14	Cantón Manta	1308			-0.9621	-80.7127	4
+EC	130219	Manta	Manabí	14	Cantón Manta	1308			-0.9621	-80.7127	4
+EC	130220	Manta	Manabí	14	Cantón Manta	1308			-0.9621	-80.7127	4
+EC	130224	Manta	Manabí	14	Cantón Manta	1308			-0.9621	-80.7127	4
+EC	130225	Manta	Manabí	14	Cantón Manta	1308			-0.9621	-80.7127	4
+EC	130227	San Lorenzo-Santa Marianita (Boca De Pacoche)	Manabí	14	Cantón Manta	1308			-0.9758	-80.8074	1
+EC	130213	Montecristi	Manabí	14	Cantón Montecristi	1309			-1.0458	-80.6589	4
+EC	130214	Montecristi	Manabí	14	Cantón Montecristi	1309			-1.0458	-80.6589	4
+EC	130217	Montecristi	Manabí	14	Cantón Montecristi	1309			-1.0458	-80.6589	4
+EC	130218	Montecristi	Manabí	14	Cantón Montecristi	1309			-1.0458	-80.6589	4
+EC	130222	Montecristi	Manabí	14	Cantón Montecristi	1309			-1.0458	-80.6589	4
+EC	130223	Montecristi	Manabí	14	Cantón Montecristi	1309			-1.0458	-80.6589	4
+EC	130226	La Pila	Manabí	14	Cantón Montecristi	1309			-1.1081	-80.5836	4
+EC	130901	Pajan	Manabí	14	Cantón Paján	1310			-1.5524	-80.4296	4
+EC	130902	Campozano (La Palma De Pajan)	Manabí	14	Cantón Paján	1310			-1.5789	-80.344	1
+EC	130903	Campozano (La Palma De Pajan)	Manabí	14	Cantón Paján	1310			-1.6428	-80.3888	1
+EC	130904	Cascol	Manabí	14	Cantón Paján	1310			-1.6667	-80.4667	4
+EC	130905	Lascano	Manabí	14	Cantón Paján	1310			-1.5309	-80.2298	4
+EC	130906	Guale	Manabí	14	Cantón Paján	1310			-1.6314	-80.239	4
+EC	130801	San Sebastian	Manabí	14	Pichincha	1311			-1.0792	-79.9747	4
+EC	130802	Pichincha	Manabí	14	Pichincha	1311			-1.0469	-79.8214	4
+EC	130803	Pichincha	Manabí	14	Pichincha	1311			-1.0469	-79.8214	4
+EC	130804	Pichincha	Manabí	14	Pichincha	1311			-1.0469	-79.8214	4
+EC	130805	Barraganete	Manabí	14	Pichincha	1311			-0.7744	-79.7043	4
+EC	130806	Barraganete	Manabí	14	Pichincha	1311			-0.7744	-79.7043	4
+EC	131201	Rocafuerte	Manabí	14	Cantón Rocafuerte	1312			-0.9236	-80.4495	4
+EC	131202	Rocafuerte	Manabí	14	Cantón Rocafuerte	1312			-0.9236	-80.4495	4
+EC	130401	Santa Ana De Vuelta Larga	Manabí	14	Cantón Santa Ana	1313			-1.1894	-80.434	1
+EC	130402	Santa Ana De Vuelta Larga	Manabí	14	Cantón Santa Ana	1313			-1.2104	-80.3365	1
+EC	130403	Ayacucho	Manabí	14	Cantón Santa Ana	1313			-1.1575	-80.2867	4
+EC	130404	Santa Ana De Vuelta Larga	Manabí	14	Cantón Santa Ana	1313			-1.3033	-80.4235	1
+EC	130405	Santa Ana De Vuelta Larga	Manabí	14	Cantón Santa Ana	1313			-1.1491	-80.2725	1
+EC	130406	Honorato Vasquez (Cab En Vasquez)	Manabí	14	Cantón Santa Ana	1313			-1.2525	-80.3082	1
+EC	130407	La Union	Manabí	14	Cantón Santa Ana	1313			-1.2095	-80.1522	4
+EC	130411	San Pablo (Cab En Pueblo Nuevo)	Manabí	14	Cantón Santa Ana	1313			-1.2144	-80.0599	1
+EC	131101	Bahia De Caraquez	Manabí	14	Cantón Sucre	1314			-0.5979	-80.4237	4
+EC	131103	Bahia De Caraquez	Manabí	14	Cantón Sucre	1314			-0.5979	-80.4237	4
+EC	131105	San Isidro	Manabí	14	Cantón Sucre	1314			-0.3789	-80.1849	4
+EC	131106	Charapoto	Manabí	14	Cantón Sucre	1314			-0.8378	-80.4867	4
+EC	131203	Tosagua	Manabí	14	Tosagua	1315			-0.7868	-80.2347	4
+EC	131204	Tosagua	Manabí	14	Tosagua	1315			-0.7868	-80.2347	4
+EC	131205	Angel Pedro Giler (La Estancilla)-Bachillero	Manabí	14	Tosagua	1315			-0.8	-80.2222	1
+EC	130409	Bellavista	Manabí	14	Cantón Veinticuatro de Mayo	1316			-1.3486	-80.2823	4
+EC	130410	Sucre	Manabí	14	Cantón Veinticuatro de Mayo	1316			-1.2797	-80.4189	4
+EC	130413	Arq. Sixto Duran Ballen	Manabí	14	Cantón Veinticuatro de Mayo	1316			-1.4767	-80.3126	1
+EC	130414	Noboa	Manabí	14	Cantón Veinticuatro de Mayo	1316			-1.4103	-80.3932	4
+EC	131001	Pedernales	Manabí	14	Canton Pedernales	1317			0.0717	-80.0525	4
+EC	131002	Pedernales	Manabí	14	Canton Pedernales	1317			0.0717	-80.0525	4
+EC	131003	Cojimies	Manabí	14	Canton Pedernales	1317			0.3678	-80.0354	4
+EC	131004	Cojimies	Manabí	14	Canton Pedernales	1317			0.3678	-80.0354	4
+EC	131005	Pedernales	Manabí	14	Canton Pedernales	1317			0.0717	-80.0525	4
+EC	131006	Atahualpa	Manabí	14	Canton Pedernales	1317			-0.0274	-79.9684	4
+EC	131007	10 De Agosto	Manabí	14	Canton Pedernales	1317			-0.1342	-80.0504	1
+EC	130408	Olmedo	Manabí	14	Olmedo	1318			-1.3957	-80.2087	4
+EC	130412	Olmedo	Manabí	14	Olmedo	1318			-1.3957	-80.2087	4
+EC	130312	Puerto Lopez-Machalilla-Salango	Manabí	14	Puerto López	1319			-1.3259	-80.6984	1
+EC	130314	Puerto Lopez-Machalilla-Salango	Manabí	14	Puerto López	1319			-1.6862	-80.5733	1
+EC	131008	Jama	Manabí	14	Jama	1320			-0.2019	-80.2626	4
+EC	131009	Jama	Manabí	14	Jama	1320			-0.2019	-80.2626	4
+EC	130221	Jaramijo	Manabí	14	Jaramijó	1321			-0.9489	-80.6381	4
+EC	131102	San Vicente	Manabí	14	San Vicente	1322			-0.5899	-80.4081	4
+EC	131104	Canoa	Manabí	14	San Vicente	1322			-0.462	-80.4544	4
+EC	140101	Macas	Morona Santiago	15	Cantón Morona	1401			-2.3087	-78.1113	4
+EC	140102	San Isidro-General Proaño	Morona Santiago	15	Cantón Morona	1401			-2.2063	-78.1457	1
+EC	140103	Sevilla Don Bosco	Morona Santiago	15	Cantón Morona	1401			-2.2881	-78.0832	4
+EC	140104	Rio Blanco	Morona Santiago	15	Cantón Morona	1401			-2.3793	-78.3792	4
+EC	140105	Alshi(Cab En 9 De Octubre)-Zuña (Zuñac)	Morona Santiago	15	Cantón Morona	1401			-2.2031	-78.3611	1
+EC	140106	Sinai	Morona Santiago	15	Cantón Morona	1401			-2.1431	-78.202	4
+EC	140107	Cuchaentza	Morona Santiago	15	Cantón Morona	1401			-2.1624	-77.8487	1
+EC	140401	Gualaquiza	Morona Santiago	15	Cantón Gualaquiza	1402			-3.4036	-78.5817	4
+EC	140404	Bomboiza	Morona Santiago	15	Cantón Gualaquiza	1402			-3.4333	-78.5167	4
+EC	140405	Amazonas (Rosario De Cuyes)-Nueva Tarqui- El Ideal	Morona Santiago	15	Cantón Gualaquiza	1402			-3.4219	-78.7525	1
+EC	140406	Bermejos-Chiguinda-El Rosario	Morona Santiago	15	Cantón Gualaquiza	1402			-3.2236	-78.7087	1
+EC	140407	San Miguel De Cuyes	Morona Santiago	15	Cantón Gualaquiza	1402			-3.3333	-78.8	4
+EC	140603	Yunganza (Cab En El Rosario)-Sta Susana De Chiviaza (Cab En Chiviaza)	Morona Santiago	15	Cantón Limón Indanza	1403			-2.8959	-78.3835	1
+EC	140605	San Antonio (Cab En San Antonio Centro)-Gral. Leonidas Plaza Gutierrez	Morona Santiago	15	Cantón Limón Indanza	1403			-3.0884	-78.3225	1
+EC	140606	San Miguel De Conchay-Indanza	Morona Santiago	15	Cantón Limón Indanza	1403			-3.0931	-78.4533	1
+EC	140201	Palora (Metzera)-Cumanda (Cab En Colonia Agricola Sevilla-16 De Agosto	Morona Santiago	15	Cantón Palora	1404			-1.6211	-78.1432	1
+EC	140204	Arapicos-Sangay (Cab En Nayamanaca)	Morona Santiago	15	Cantón Palora	1404			-1.8585	-78.2758	1
+EC	140601	Santiago De Mendez-Copal-Chupianza-San Luis De El Acho (Cab En El Acho)	Morona Santiago	15	Santiago de Méndez	1405			-2.7198	-78.4419	1
+EC	140602	Tayuza-San Francisco De Chinimbimi-Patuca	Morona Santiago	15	Santiago de Méndez	1405			-2.7713	-78.2188	1
+EC	140301	Sucua-Asuncion-Santa Marianita De Jesus	Morona Santiago	15	Cantón Sucúa	1406			-2.4689	-78.2305	1
+EC	140302	Huambi	Morona Santiago	15	Cantón Sucúa	1406			-2.5368	-78.163	4
+EC	140202	Huamboya-Chiguaza-	Morona Santiago	15	Huamboya	1407			-1.8006	-78.0363	1
+EC	140402	San Juan Bosco-Pande Azucar-San Jacinto De Wakambeis	Morona Santiago	15	San Juan Bosco	1408			-3.1426	-78.5409	1
+EC	140403	Santiago De Pananza-San Carlos De Limon	Morona Santiago	15	San Juan Bosco	1408			-3.2979	-78.3152	1
+EC	140501	Taisha	Morona Santiago	15	Taisha	1409			-2.3396	-77.4603	4
+EC	140502	Macuma	Morona Santiago	15	Taisha	1409			-2.1678	-77.6578	4
+EC	140503	Huasaga (Cab En Wampuik)-Tuutinentza-Pumpuentsa	Morona Santiago	15	Taisha	1409			-2.607	-77.256	1
+EC	140303	Logroño-Shimpis	Morona Santiago	15	Logroño	1410			-2.6538	-78.135	1
+EC	140304	Yaupi	Morona Santiago	15	Logroño	1410			-2.8544	-77.936	4
+EC	140203	Pablo Sexto	Morona Santiago	15	Pablo Sexto	1411			-1.8	-78.25	4
+EC	140604	San Jose De Morona-Santiago	Morona Santiago	15	Tiwintza	1412			-2.9702	-77.9119	1
+EC	160101	Puyo	Pastaza	17	Cantón Pastaza	1601			-1.4837	-78.0026	4
+EC	160102	Puyo	Pastaza	17	Cantón Pastaza	1601			-1.4837	-78.0026	4
+EC	160103	Canelos-Veracruz (Cab. En Indillama)-Pomona-Simon Bolivar (Cab En Mushullama	Pastaza	17	Cantón Pastaza	1601			-1.767	-77.7233	1
+EC	160104	Tarqui	Pastaza	17	Cantón Pastaza	1601			-1.5242	-78.002	4
+EC	160106	Fatima-Teniente Hugo Ortiz	Pastaza	17	Cantón Pastaza	1601			-1.3861	-77.957	1
+EC	160108	El Triunfo-Diez De Agosto	Pastaza	17	Cantón Pastaza	1601			-1.4338	-77.7995	1
+EC	160109	Sarayacu	Pastaza	17	Cantón Pastaza	1601			-1.8041	-77.4333	1
+EC	160110	Montalvo (Andoas)	Pastaza	17	Cantón Pastaza	1601			-1.9338	-76.9152	1
+EC	160111	Rio Tigre	Pastaza	17	Cantón Pastaza	1601			-1.9024	-76.2505	1
+EC	160112	Rio Corrientes	Pastaza	17	Cantón Pastaza	1601			-2.3667	-76.4167	4
+EC	160105	Shell-Madre Tierra-Mera	Pastaza	17	Cantón Mera	1602			-1.4167	-78.0478	1
+EC	160107	San Jose-Santa Clara	Pastaza	17	Santa Clara	1603			-1.2733	-77.8625	1
+EC	160201	Arajuno	Pastaza	17	Arajuno	1604			-1.2328	-77.6874	4
+EC	160202	Curaray	Pastaza	17	Arajuno	1604			-1.3538	-76.6927	1
+EC	170101	Pacto	Pichincha	18	Cantón Quito	1701			0.1453	-78.7656	4
+EC	170102	Gualea	Pichincha	18	Cantón Quito	1701			0.1168	-78.7476	4
+EC	170103	Nanegal	Pichincha	18	Cantón Quito	1701			0.1403	-78.6757	4
+EC	170104	Nanegalito	Pichincha	18	Cantón Quito	1701			0.0626	-78.6839	4
+EC	170201	Calderon (Carapungo)	Pichincha	18	Cantón Quito	1701			-0.0775	-78.4301	1
+EC	170202	Calderon (Carapungo)	Pichincha	18	Cantón Quito	1701			-0.0673	-78.4165	1
+EC	170203	Calderon (Carapungo)	Pichincha	18	Cantón Quito	1701			-0.0969	-78.4275	1
+EC	170204	Calderon (Carapungo)	Pichincha	18	Cantón Quito	1701			-0.0781	-78.4457	1
+EC	170205	Calderon (Carapungo)	Pichincha	18	Cantón Quito	1701			-0.053	-78.4066	1
+EC	170206	Calderon (Carapungo)	Pichincha	18	Cantón Quito	1701			-0.0541	-78.3437	1
+EC	170207	Calderon (Carapungo)	Pichincha	18	Cantón Quito	1701			-0.1036	-78.3946	1
+EC	170208	Calderon (Carapungo)	Pichincha	18	Cantón Quito	1701			-0.1178	-78.4292	1
+EC	170209	Llano Chico	Pichincha	18	Cantón Quito	1701			-0.1247	-78.4445	4
+EC	170210	Guayllabamba	Pichincha	18	Cantón Quito	1701			-0.0579	-78.3411	4
+EC	170301	Ponceano	Pichincha	18	Cantón Quito	1701			-0.1207	-78.489	4
+EC	170302	Carcelen	Pichincha	18	Cantón Quito	1701			-0.0869	-78.4707	4
+EC	170303	Comite Del Pueblo	Pichincha	18	Cantón Quito	1701			-0.1195	-78.4612	4
+EC	170304	Comite Del Pueblo	Pichincha	18	Cantón Quito	1701			-0.1195	-78.4612	4
+EC	170305	Ponceano	Pichincha	18	Cantón Quito	1701			-0.1207	-78.489	4
+EC	170306	Cotocollao	Pichincha	18	Cantón Quito	1701			-0.1229	-78.5037	4
+EC	170307	El Condado	Pichincha	18	Cantón Quito	1701			-0.1032	-78.5007	4
+EC	170308	El Condado	Pichincha	18	Cantón Quito	1701			-0.1032	-78.5007	4
+EC	170309	El Condado	Pichincha	18	Cantón Quito	1701			-0.1032	-78.5007	4
+EC	170310	Pomasqui	Pichincha	18	Cantón Quito	1701			-0.0542	-78.4538	4
+EC	170311	Nono	Pichincha	18	Cantón Quito	1701			-0.0674	-78.5765	4
+EC	170312	Calacali	Pichincha	18	Cantón Quito	1701			0.0004	-78.516	4
+EC	170313	Pomasqui	Pichincha	18	Cantón Quito	1701			-0.0542	-78.4538	4
+EC	170314	San Antonio	Pichincha	18	Cantón Quito	1701			-0.0066	-78.4469	4
+EC	170315	San Antonio	Pichincha	18	Cantón Quito	1701			-0.0066	-78.4469	4
+EC	170316	Puellaro	Pichincha	18	Cantón Quito	1701			0.0683	-78.3979	4
+EC	170317	San Jose De Minas	Pichincha	18	Cantón Quito	1701			-0.0172	-78.4703	1
+EC	170318	San Jose De Minas	Pichincha	18	Cantón Quito	1701			-0.0172	-78.4703	1
+EC	170319	Atahualpa (Habaspamba)-Chavezpamba-Perucho	Pichincha	18	Cantón Quito	1701			-0.0172	-78.4703	1
+EC	170401	Centro Historico	Pichincha	18	Cantón Quito	1701			-0.2227	-78.5129	4
+EC	170402	San Juan	Pichincha	18	Cantón Quito	1701			-0.2909	-78.6418	4
+EC	170403	Itchimbia	Pichincha	18	Cantón Quito	1701			-0.2221	-78.4992	4
+EC	170404	Puengasi	Pichincha	18	Cantón Quito	1701			-0.2513	-78.498	4
+EC	170405	Centro Historico	Pichincha	18	Cantón Quito	1701			-0.2227	-78.5129	4
+EC	170406	La Libertad	Pichincha	18	Cantón Quito	1701			-0.2221	-78.5265	4
+EC	170407	San Juan	Pichincha	18	Cantón Quito	1701			-0.2909	-78.6418	4
+EC	170408	Itchimbia	Pichincha	18	Cantón Quito	1701			-0.2221	-78.4992	4
+EC	170409	Puengasi	Pichincha	18	Cantón Quito	1701			-0.2513	-78.498	4
+EC	170410	Puengasi	Pichincha	18	Cantón Quito	1701			-0.2513	-78.498	4
+EC	170411	San Juan	Pichincha	18	Cantón Quito	1701			-0.2909	-78.6418	4
+EC	170412	Puengasi	Pichincha	18	Cantón Quito	1701			-0.2513	-78.498	4
+EC	170501	Jipijapa	Pichincha	18	Cantón Quito	1701			-0.1658	-78.4807	4
+EC	170502	Kennedy	Pichincha	18	Cantón Quito	1701			-0.1408	-78.4793	4
+EC	170503	Jipijapa	Pichincha	18	Cantón Quito	1701			-0.1658	-78.4807	4
+EC	170504	Iñaquito	Pichincha	18	Cantón Quito	1701			-0.1718	-78.4817	4
+EC	170505	Iñaquito	Pichincha	18	Cantón Quito	1701			-0.1718	-78.4817	4
+EC	170506	Rumipamba	Pichincha	18	Cantón Quito	1701			-0.179	-78.505	4
+EC	170507	Concepcion	Pichincha	18	Cantón Quito	1701			-0.1	-78.5	4
+EC	170508	Kennedy	Pichincha	18	Cantón Quito	1701			-0.1408	-78.4793	4
+EC	170509	San Isidro Del Inca	Pichincha	18	Cantón Quito	1701			-0.1804	-78.499	1
+EC	170510	Zambiza	Pichincha	18	Cantón Quito	1701			-0.1489	-78.4403	4
+EC	170511	Nayon	Pichincha	18	Cantón Quito	1701			-0.1576	-78.4389	4
+EC	170512	Mariscal Sucre	Pichincha	18	Cantón Quito	1701			-0.2052	-78.4955	4
+EC	170513	Belisario Quevedo	Pichincha	18	Cantón Quito	1701			-0.1899	-78.5073	4
+EC	170514	Cochapamba	Pichincha	18	Cantón Quito	1701			-0.1483	-78.505	4
+EC	170515	Cochapamba	Pichincha	18	Cantón Quito	1701			-0.1483	-78.505	4
+EC	170516	Belisario Quevedo	Pichincha	18	Cantón Quito	1701			-0.1899	-78.5073	4
+EC	170517	Cochapamba	Pichincha	18	Cantón Quito	1701			-0.1483	-78.505	4
+EC	170601	San Bartolo	Pichincha	18	Cantón Quito	1701			-0.2586	-78.53	4
+EC	170602	La Magdalena	Pichincha	18	Cantón Quito	1701			-0.2417	-78.5291	4
+EC	170603	Chimbacalle	Pichincha	18	Cantón Quito	1701			-0.247	-78.5149	4
+EC	170604	La Ferroviaria	Pichincha	18	Cantón Quito	1701			-0.2632	-78.5156	4
+EC	170605	La Argelia	Pichincha	18	Cantón Quito	1701			-0.2758	-78.5261	4
+EC	170606	Solanda	Pichincha	18	Cantón Quito	1701			-0.2696	-78.5404	4
+EC	170607	San Bartolo	Pichincha	18	Cantón Quito	1701			-0.2586	-78.53	4
+EC	170608	Chilibulo	Pichincha	18	Cantón Quito	1701			-0.2423	-78.5396	4
+EC	170609	Chilibulo	Pichincha	18	Cantón Quito	1701			-0.2423	-78.5396	4
+EC	170610	Solanda	Pichincha	18	Cantón Quito	1701			-0.2696	-78.5404	4
+EC	170611	La Mena	Pichincha	18	Cantón Quito	1701			-0.2602	-78.552	4
+EC	170612	La Mena	Pichincha	18	Cantón Quito	1701			-0.2602	-78.552	4
+EC	170613	Chilibulo	Pichincha	18	Cantón Quito	1701			-0.2423	-78.5396	4
+EC	170614	Lloa	Pichincha	18	Cantón Quito	1701			-0.2499	-78.5838	4
+EC	170701	Guamani	Pichincha	18	Cantón Quito	1701			-0.3327	-78.5549	4
+EC	170702	Quitumbe	Pichincha	18	Cantón Quito	1701			-0.3022	-78.5472	4
+EC	170703	Quitumbe	Pichincha	18	Cantón Quito	1701			-0.3022	-78.5472	4
+EC	170704	Turubamba	Pichincha	18	Cantón Quito	1701			-0.3316	-78.5381	4
+EC	170705	Turubamba	Pichincha	18	Cantón Quito	1701			-0.3316	-78.5381	4
+EC	170706	Guamani	Pichincha	18	Cantón Quito	1701			-0.3327	-78.5549	4
+EC	170707	Guamani	Pichincha	18	Cantón Quito	1701			-0.3327	-78.5549	4
+EC	170708	La Ecuatoriana	Pichincha	18	Cantón Quito	1701			-0.3079	-78.5606	4
+EC	170709	Turubamba	Pichincha	18	Cantón Quito	1701			-0.3316	-78.5381	4
+EC	170710	Turubamba	Pichincha	18	Cantón Quito	1701			-0.3316	-78.5381	4
+EC	170711	Guamani	Pichincha	18	Cantón Quito	1701			-0.3327	-78.5549	4
+EC	170712	La Ecuatoriana	Pichincha	18	Cantón Quito	1701			-0.3079	-78.5606	4
+EC	170713	La Ecuatoriana	Pichincha	18	Cantón Quito	1701			-0.3079	-78.5606	4
+EC	170714	Chillogallo	Pichincha	18	Cantón Quito	1701			-0.2754	-78.5558	4
+EC	170715	Quitumbe	Pichincha	18	Cantón Quito	1701			-0.3022	-78.5472	4
+EC	170801	Conocoto	Pichincha	18	Cantón Quito	1701			-0.3045	-78.4745	1
+EC	170802	Conocoto	Pichincha	18	Cantón Quito	1701			-0.2858	-78.4802	1
+EC	170803	Conocoto	Pichincha	18	Cantón Quito	1701			-0.2689	-78.4695	1
+EC	170804	Alangasi	Pichincha	18	Cantón Quito	1701			-0.2937	-78.4465	1
+EC	170805	Conocoto	Pichincha	18	Cantón Quito	1701			-0.3061	-78.4933	1
+EC	170806	Conocoto	Pichincha	18	Cantón Quito	1701			-0.2685	-78.4961	1
+EC	170807	Guangopolo	Pichincha	18	Cantón Quito	1701			-0.259	-78.4519	4
+EC	170808	Alangasi	Pichincha	18	Cantón Quito	1701			-0.297	-78.424	1
+EC	170809	Amaguaña	Pichincha	18	Cantón Quito	1701			-0.3757	-78.5061	4
+EC	170810	La Merced	Pichincha	18	Cantón Quito	1701			-0.2924	-78.4004	4
+EC	170811	Pintag	Pichincha	18	Cantón Quito	1701			-0.3417	-78.3504	1
+EC	170812	Amaguaña	Pichincha	18	Cantón Quito	1701			-0.3757	-78.5061	4
+EC	170813	Pintag	Pichincha	18	Cantón Quito	1701			-0.4687	-78.3338	1
+EC	170814	Amaguaña	Pichincha	18	Cantón Quito	1701			-0.3757	-78.5061	4
+EC	170901	Cumbaya	Pichincha	18	Cantón Quito	1701			-0.2007	-78.4313	4
+EC	170902	Tumbaco	Pichincha	18	Cantón Quito	1701			-0.214	-78.4049	4
+EC	170903	Tumbaco	Pichincha	18	Cantón Quito	1701			-0.214	-78.4049	4
+EC	170904	Cumbaya	Pichincha	18	Cantón Quito	1701			-0.2007	-78.4313	4
+EC	170905	Puembo	Pichincha	18	Cantón Quito	1701			-0.1667	-78.3694	1
+EC	170906	Pifo	Pichincha	18	Cantón Quito	1701			-0.2283	-78.3432	4
+EC	170907	Tababela	Pichincha	18	Cantón Quito	1701			-0.1863	-78.3441	4
+EC	170908	Yaruqui	Pichincha	18	Cantón Quito	1701			-0.1919	-78.2995	1
+EC	170909	Pifo	Pichincha	18	Cantón Quito	1701			-0.2283	-78.3432	4
+EC	170910	Checa (Chilpa)	Pichincha	18	Cantón Quito	1701			-0.1632	-78.2628	1
+EC	170911	El Quinche	Pichincha	18	Cantón Quito	1701			-0.1174	-78.2666	1
+EC	171001	Cayambe	Pichincha	18	Cantón Cayambe	1702			0.0408	-78.1452	4
+EC	171002	Cayambe	Pichincha	18	Cantón Cayambe	1702			0.0408	-78.1452	4
+EC	171003	Cayambe	Pichincha	18	Cantón Cayambe	1702			0.0408	-78.1452	4
+EC	171004	Cayambe	Pichincha	18	Cantón Cayambe	1702			0.0408	-78.1452	4
+EC	171005	Cangahua	Pichincha	18	Cantón Cayambe	1702			0.1143	-78.1478	1
+EC	171007	Cayambe	Pichincha	18	Cantón Cayambe	1702			0.0408	-78.1452	4
+EC	171008	Olmedo (Pecillo)	Pichincha	18	Cantón Cayambe	1702			-0.0907	-78.1464	1
+EC	171009	Cayambe	Pichincha	18	Cantón Cayambe	1702			0.0408	-78.1452	4
+EC	171010	Oton-Santa Rosa De Cuzubamba-Ascazubi	Pichincha	18	Cantón Cayambe	1702			0.0432	-78.3134	1
+EC	171108	Machachi	Pichincha	18	Cantón Mejía	1703			-0.5101	-78.5671	4
+EC	171109	Tambillo-Uyumbicho	Pichincha	18	Cantón Mejía	1703			-0.4073	-78.5171	1
+EC	171110	Tambillo-Uyumbicho	Pichincha	18	Cantón Mejía	1703			-0.5775	-78.4466	1
+EC	171111	Cutuglahua	Pichincha	18	Cantón Mejía	1703			-0.569	-78.5563	1
+EC	171112	Machachi	Pichincha	18	Cantón Mejía	1703			-0.5101	-78.5671	4
+EC	171113	El Chaupi-Aloasi	Pichincha	18	Cantón Mejía	1703			-0.4533	-78.6483	1
+EC	171114	Aloag	Pichincha	18	Cantón Mejía	1703			-0.4679	-78.5845	4
+EC	171115	Cutuglahua	Pichincha	18	Cantón Mejía	1703			-0.489	-78.5758	1
+EC	171116	Manuel Cornejo Astorga (Tandapi)	Pichincha	18	Cantón Mejía	1703			-0.489	-78.5758	1
+EC	171006	Tabacundo-Tupigachi	Pichincha	18	Cantón Pedro Moncayo	1704			0.0489	-78.0691	1
+EC	171011	Malchingui-Tocachi-La Esperanza	Pichincha	18	Cantón Pedro Moncayo	1704			0.0718	-77.9832	1
+EC	171101	Sangolqui	Pichincha	18	Cantón Rumiñahui	1705			-0.3341	-78.4522	4
+EC	171102	Sangolqui	Pichincha	18	Cantón Rumiñahui	1705			-0.3341	-78.4522	4
+EC	171103	Sangolqui	Pichincha	18	Cantón Rumiñahui	1705			-0.3341	-78.4522	4
+EC	171104	Sangolqui	Pichincha	18	Cantón Rumiñahui	1705			-0.3341	-78.4522	4
+EC	171105	Sangolqui	Pichincha	18	Cantón Rumiñahui	1705			-0.3341	-78.4522	4
+EC	171106	Sangolqui	Pichincha	18	Cantón Rumiñahui	1705			-0.3341	-78.4522	4
+EC	171107	Rumipamba-Cotogchoa	Pichincha	18	Cantón Rumiñahui	1705			-0.3707	-78.5765	1
+EC	171202	San Miguel De Los Bancos-Mindo	Pichincha	18	San Miguel De Los Bancos	1707			-0.0384	-78.893	1
+EC	171201	Pedro Vicente Maldonado	Pichincha	18	Canton Pedro Vicente Maldonado	1708			0.0868	-79.0515	4
+EC	171203	Puerto Quito	Pichincha	18	Puerto Quito	1709			0.1278	-79.2126	4
+EC	171204	Puerto Quito	Pichincha	18	Puerto Quito	1709			0.1278	-79.2126	4
+EC	180101	Ambato	Tungurahua	19	Cantón Ambato	1801			-1.2491	-78.6167	4
+EC	180102	Ambato	Tungurahua	19	Cantón Ambato	1801			-1.2491	-78.6167	4
+EC	180103	Ambato	Tungurahua	19	Cantón Ambato	1801			-1.2491	-78.6167	4
+EC	180104	Ambato	Tungurahua	19	Cantón Ambato	1801			-1.2491	-78.6167	4
+EC	180105	Ambato	Tungurahua	19	Cantón Ambato	1801			-1.2491	-78.6167	4
+EC	180106	Ambato	Tungurahua	19	Cantón Ambato	1801			-1.2491	-78.6167	4
+EC	180107	Ambatillo-San Bartolome De Pinllog	Tungurahua	19	Cantón Ambato	1801			-1.1926	-78.7166	1
+EC	180108	Constatino Fernandez (Cab En Cullit)-Augusto N. Martinez (Mundugleo)-Atahualpa (Chisalata)	Tungurahua	19	Cantón Ambato	1801			-1.2163	-78.6557	1
+EC	180109	Izamba	Tungurahua	19	Cantón Ambato	1801			-1.2277	-78.5854	4
+EC	180110	Pasa-San Fernando (Pasa San Fernando)	Tungurahua	19	Cantón Ambato	1801			-1.2662	-78.7458	4
+EC	180111	Quisapincha (Quizapincha)	Tungurahua	19	Cantón Ambato	1801			-1.1503	-78.5886	1
+EC	180112	Cunchibamba-Unamuncho	Tungurahua	19	Cantón Ambato	1801			-1.15	-78.5833	4
+EC	180201	Ambato	Tungurahua	19	Cantón Ambato	1801			-1.2491	-78.6167	4
+EC	180202	Ambato	Tungurahua	19	Cantón Ambato	1801			-1.2491	-78.6167	4
+EC	180203	Ambato	Tungurahua	19	Cantón Ambato	1801			-1.2491	-78.6167	4
+EC	180204	Ambato	Tungurahua	19	Cantón Ambato	1801			-1.2491	-78.6167	4
+EC	180205	Ambato	Tungurahua	19	Cantón Ambato	1801			-1.2491	-78.6167	4
+EC	180206	Ambato	Tungurahua	19	Cantón Ambato	1801			-1.2491	-78.6167	4
+EC	180207	Ambato	Tungurahua	19	Cantón Ambato	1801			-1.2491	-78.6167	4
+EC	180208	Ambato	Tungurahua	19	Cantón Ambato	1801			-1.2491	-78.6167	4
+EC	180209	Picaigua-Totoras	Tungurahua	19	Cantón Ambato	1801			-1.2702	-78.5942	1
+EC	180210	Montalvo-Huachi Grande	Tungurahua	19	Cantón Ambato	1801			-1.2798	-78.6185	1
+EC	180211	Santa Rosa	Tungurahua	19	Cantón Ambato	1801			-1.2829	-78.6641	4
+EC	180212	Pilaguin (Pilahuin)-Juan Benigno Vela	Tungurahua	19	Cantón Ambato	1801			-1.3025	-78.676	1
+EC	180301	Lligua-Baños De Agua Santa-Ulba	Tungurahua	19	Cantón Baños	1802			-1.4037	-78.4024	1
+EC	180302	Rio Verde-Rio Negro	Tungurahua	19	Cantón Baños	1802			-1.3218	-78.2451	1
+EC	180601	Cevallos	Tungurahua	19	Cevallos	1803			-1.3551	-78.6167	4
+EC	180604	Pinguili-Mocha	Tungurahua	19	Mocha	1804			-1.3833	-78.6167	4
+EC	180406	El Triunfo-Patate-Los Andes (Cab En Poatug)-Sucre (Cab En Sucre- Patate  Urco)	Tungurahua	19	Cantón Patate	1805			-1.3054	-78.568	1
+EC	180602	Quero	Tungurahua	19	Cantón Quero	1806			-1.3812	-78.6081	4
+EC	180603	Yanayacu - Mochapata (Cab En Yanayacu)-Rumipamba	Tungurahua	19	Cantón Quero	1806			-1.4176	-78.6934	1
+EC	180401	Pelileo	Tungurahua	19	Cantón Pelileo	1807			-1.3299	-78.5434	4
+EC	180402	Pelileo	Tungurahua	19	Cantón Pelileo	1807			-1.3299	-78.5434	4
+EC	180403	Pelileo	Tungurahua	19	Cantón Pelileo	1807			-1.3299	-78.5434	4
+EC	180404	Salasaca-Benitez (Pachanlica)-El Rosario (Rumichaca)	Tungurahua	19	Cantón Pelileo	1807			-1.2713	-78.4253	1
+EC	180405	Chiquicha (Cab En Chiquicha Grande)-Garcia Moreno (Chumaqui)	Tungurahua	19	Cantón Pelileo	1807			-1.4184	-78.519	1
+EC	180407	Cotalo-Guambalo (Huambalo)-Bolivar	Tungurahua	19	Cantón Pelileo	1807			-1.3299	-78.5434	1
+EC	180501	Pillaro	Tungurahua	19	Cantón Píllaro	1808			-1.1741	-78.5468	4
+EC	180502	San Jose De Poalo-Presidente Urbina (Chagrapamba-San Andres	Tungurahua	19	Cantón Píllaro	1808			-1.0814	-78.4436	1
+EC	180503	Marcos Espinel (Chacata)-San Miguelito-Baquerizo Moreno-Emilio Maria Teran (Rumipamba)	Tungurahua	19	Cantón Píllaro	1808			-1.173	-78.4476	1
+EC	180605	Tisaleo-Quinchicoto	Tungurahua	19	Tisaleo	1809			-1.3851	-78.6581	4
+EC	190101	Zamora	Zamora Chinchipe	20	Cantón Zamora	1901			-4.0669	-78.9549	4
+EC	190102	Sabanilla	Zamora Chinchipe	20	Cantón Zamora	1901			-3.9649	-79.0558	4
+EC	190103	Guadalupe	Zamora Chinchipe	20	Cantón Zamora	1901			-3.8469	-78.8892	4
+EC	190104	Cumbaratza-Timbara-San Carlos De Las Minas	Zamora Chinchipe	20	Cantón Zamora	1901			-4.042	-78.8591	1
+EC	190105	Zamora	Zamora Chinchipe	20	Cantón Zamora	1901			-4.0669	-78.9549	4
+EC	190106	Imbana (La Victoria De Imbana)	Zamora Chinchipe	20	Cantón Zamora	1901			-3.8167	-79.1167	4
+EC	190301	El Chorro-La Chonta-Pucupamba	Zamora Chinchipe	20	Cantón Chinchipe	1902			-4.8512	-79.1825	1
+EC	190302	Zumba	Zamora Chinchipe	20	Cantón Chinchipe	1902			-4.8633	-79.1311	4
+EC	190304	Chito	Zamora Chinchipe	20	Cantón Chinchipe	1902			-4.9416	-79.0781	4
+EC	190305	San Andres	Zamora Chinchipe	20	Cantón Chinchipe	1902			-4.8015	-79.326	4
+EC	190201	Guayzimi	Zamora Chinchipe	20	Nangaritza	1903			-4.0429	-78.68	4
+EC	190203	Zurmi	Zamora Chinchipe	20	Nangaritza	1903			-4.2509	-78.7457	1
+EC	190206	Nuevo Paraiso	Zamora Chinchipe	20	Nangaritza	1903			-4.4884	-78.7981	1
+EC	190107	La Paz	Zamora Chinchipe	20	Cantón Yacuambi	1904			-3.7016	-78.8968	4
+EC	190108	28 De Mayo (San Jose De Yacuambi)	Zamora Chinchipe	20	Cantón Yacuambi	1904			-3.6406	-78.9798	1
+EC	190109	Tutupali	Zamora Chinchipe	20	Cantón Yacuambi	1904			-3.5297	-78.9507	4
+EC	190403	Los Encuentros	Zamora Chinchipe	20	Cantón Yantzaza	1905			-3.786	-78.5571	1
+EC	190404	Yantzaza (Yanzatza)-Chicaña	Zamora Chinchipe	20	Cantón Yantzaza	1905			-3.7101	-78.7684	4
+EC	190401	Pachicutza-El Pangui-El Guisme	Zamora Chinchipe	20	El Pangui	1906			-3.6325	-78.5935	1
+EC	190402	Tundayme	Zamora Chinchipe	20	El Pangui	1906			-3.5764	-78.4903	4
+EC	190204	Zumbi	Zamora Chinchipe	20	Centinela Del Cóndor	1907			-3.894	-78.7804	4
+EC	190303	San Fco. Del Vergel-La Canela	Zamora Chinchipe	20	Palanda	1908			-4.8716	-79.0081	1
+EC	190306	Palanda-Valladolid	Zamora Chinchipe	20	Palanda	1908			-4.559	-79.1877	1
+EC	190307	El Porvenir Del Carmen	Zamora Chinchipe	20	Palanda	1908			-4.4844	-79.0149	1
+EC	190202	Nuevo Quito	Zamora Chinchipe	20	Paquisha	1909			-4.0375	-78.6366	4
+EC	190205	Paquisha-Bellavista	Zamora Chinchipe	20	Paquisha	1909			-3.9134	-78.5873	1
+EC	210201	Nueva Loja	Sucumbíos	22	Cantón Lago Agrio	2101			0.086	-76.8953	4
+EC	210202	Nueva Loja	Sucumbíos	22	Cantón Lago Agrio	2101			0.086	-76.8953	4
+EC	210203	Nueva Loja	Sucumbíos	22	Cantón Lago Agrio	2101			0.086	-76.8953	4
+EC	210204	Nueva Loja	Sucumbíos	22	Cantón Lago Agrio	2101			0.086	-76.8953	4
+EC	210205	Santa Cecilia-Jambeli	Sucumbíos	22	Cantón Lago Agrio	2101			0.1795	-77.0631	1
+EC	210206	General Farfan	Sucumbíos	22	Cantón Lago Agrio	2101			0.18	-76.7437	1
+EC	210207	Dureno-Pacayacu	Sucumbíos	22	Cantón Lago Agrio	2101			0.0885	-76.538	1
+EC	210208	El Eno	Sucumbíos	22	Cantón Lago Agrio	2101			-0.0678	-76.8776	4
+EC	210101	Puerto Libre-Gonzalo Pizarro-Lumbaqui-El Reventador	Sucumbíos	22	Gonzalo Pizarro	2102			0.082	-77.5876	1
+EC	210301	Puerto Bolivar (Puerto Montufar)-Puerto El Carmen Del Putumayo	Sucumbíos	22	Cantón Putumayo	2103			0.011	-75.8839	1
+EC	210302	Puerto Rodriguez	Sucumbíos	22	Cantón Putumayo	2103			-0.1112	-75.405	4
+EC	210305	Santa Elena-Palma Roja	Sucumbíos	22	Cantón Putumayo	2103			-0.1195	-76.1795	1
+EC	210401	Shushufindi	Sucumbíos	22	Shushufindi	2104			-0.1852	-76.6452	4
+EC	210402	Shushufindi	Sucumbíos	22	Shushufindi	2104			-0.1852	-76.6452	4
+EC	210403	San Roque (Cab En San Vicente)-Limoncocha	Sucumbíos	22	Shushufindi	2104			-0.1667	-76.7915	1
+EC	210404	San Pedro De Los Cofanes-Siete De Julio	Sucumbíos	22	Shushufindi	2104			-0.4163	-76.0575	1
+EC	210405	Pañacocha	Sucumbíos	22	Shushufindi	2104			-0.1852	-76.6452	1
+EC	210102	Santa Barbara-La Bonita-La Sofia-Rosa Florida-El Playon De San Francisco	Sucumbíos	22	Cantón Sucumbíos	2105			0.4023	-77.6243	1
+EC	210103	Santa Rosa De Sucumbios-Sevilla-El Dorado De Cascales	Sucumbíos	22	Cascales	2106			0.1453	-77.2328	1
+EC	210303	Cuyabeno	Sucumbíos	22	Cuyabeno	2107			-0.2591	-75.894	4
+EC	210304	Tarapoa-Aguas Negras	Sucumbíos	22	Cuyabeno	2107			-0.1906	-76.2559	1
+EC	150101	Tena	Napo	23	Cantón Tena	1501			-0.9938	-77.8129	4
+EC	150102	Tena	Napo	23	Cantón Tena	1501			-0.9938	-77.8129	4
+EC	150104	Puerto Napo-Puerto Misahualli	Napo	23	Cantón Tena	1501			-1.0135	-77.6906	1
+EC	150106	Talag-Pano	Napo	23	Cantón Tena	1501			-0.989	-78.1668	1
+EC	150108	Ahuano	Napo	23	Cantón Tena	1501			-1.0595	-77.5462	4
+EC	150109	Chontapunta	Napo	23	Cantón Tena	1501			-0.9146	-77.3612	4
+EC	150103	Archidona-San Pablo De Ushpayacu	Napo	23	Cantón Archidona	1503			-0.7198	-77.8203	1
+EC	150107	Cotundo	Napo	23	Cantón Archidona	1503			-0.8418	-77.7938	4
+EC	150201	El Chaco	Napo	23	Cantón Chaco	1504			-0.3382	-77.8102	4
+EC	150202	Gonzalo Diaz De Pineda(El Bombon)-Santa Rosa	Napo	23	Cantón Chaco	1504			-0.2525	-77.549	1
+EC	150203	Linares-Sardinas	Napo	23	Cantón Chaco	1504			-0.3943	-77.7481	1
+EC	150206	Oyacachi	Napo	23	Cantón Chaco	1504			-0.2148	-78.0715	4
+EC	150204	Cosanga-San Francisco De Borja (Virgilio Davila)-Baeza-Sumaco	Napo	23	Cantón Quijos	1507			-0.518	-77.8846	1
+EC	150205	Cuyuja-Papallacta	Napo	23	Cantón Quijos	1507			-0.3949	-78.1113	1
+EC	150105	Carlos Julio Arosemena Tola	Napo	23	Carlos Julio Arosemena Tola	1509			-1.1661	-77.8553	4
+EC	220201	Puerto Francisco De Orellana (Coca)	Orellana	24	Francisco de Orellana Canton	2201			-0.4664	-76.9872	4
+EC	220202	Nuevo Paraiso-San Jose De Guayusa	Orellana	24	Francisco de Orellana Canton	2201			-0.4437	-76.962	1
+EC	220203	Puerto Francisco De Orellana (Coca)	Orellana	24	Francisco de Orellana Canton	2201			-0.4664	-76.9872	4
+EC	220204	San Luis De Armenia	Orellana	24	Francisco de Orellana Canton	2201			-0.538	-77.0808	4
+EC	220205	Dayuma-Taracoa (Cab. En Nueva Esperanza: Yuca)-El Dorado	Orellana	24	Francisco de Orellana Canton	2201			-0.4123	-77.158	1
+EC	220206	Garcia Moreno-La Belleza	Orellana	24	Francisco de Orellana Canton	2201			-0.2454	-77.1512	1
+EC	220209	El Eden-Alejandro Labaka	Orellana	24	Francisco de Orellana Canton	2201			-0.6605	-77.2977	1
+EC	220210	Ines Arango	Orellana	24	Francisco de Orellana Canton	2201			-0.5156	-77.3187	1
+EC	220301	Nuevo Rocafuerte-Tiputini-Yasuni	Orellana	24	Cantón Aguarico	2202			-0.9012	-75.5449	1
+EC	220302	Santa Maria De Huiririma-Cap. Augusto Rivadeneyra	Orellana	24	Cantón Aguarico	2202			-0.5961	-75.7475	1
+EC	220303	Cononaco	Orellana	24	Cantón Aguarico	2202			-1.0533	-76.0717	1
+EC	220101	La Joya De Los Sachas	Orellana	24	La Joya De Los Sachas	2203			-0.2989	-76.8558	4
+EC	220102	Rumipamba-Enokanqui (Cab. En El Paraiso)-Lago San Pedro-Tres De Noviembre	Orellana	24	La Joya De Los Sachas	2203			-0.3999	-76.7388	1
+EC	220103	Unión Milagreña-Pompeya	Orellana	24	La Joya De Los Sachas	2203			-0.2796	-76.9807	1
+EC	220104	San Carlos-San Sebastian Del Coca	Orellana	24	La Joya De Los Sachas	2203			-0.183	-76.9143	1
+EC	220207	Loreto-Avila (Cab En Huiruno)-Puerto Murialdo	Orellana	24	Loreto Canton	2204			-0.5886	-76.3578	1
+EC	220208	San Jose De Payamino	Orellana	24	Loreto Canton	2204			-0.9767	-76.824	4
+EC	220211	San Jose De Dahuano-San Vicente De Huaticocha	Orellana	24	Loreto Canton	2204			-0.7828	-77.4421	1
+EC	240101	Santa Elena	Santa Elena	25	Cantón Santa Elena	2401			-2.2262	-80.8587	4
+EC	240102	Santa Elena	Santa Elena	25	Cantón Santa Elena	2401			-2.2262	-80.8587	4
+EC	240103	Santa Elena	Santa Elena	25	Cantón Santa Elena	2401			-2.2262	-80.8587	4
+EC	240104	Santa Elena	Santa Elena	25	Cantón Santa Elena	2401			-2.2262	-80.8587	4
+EC	240105	Chanduy	Santa Elena	25	Cantón Santa Elena	2401			-2.4018	-80.6796	4
+EC	240106	San Jose De Ancon-Atahualpa	Santa Elena	25	Cantón Santa Elena	2401			-2.0038	-80.4962	1
+EC	240107	Colonche	Santa Elena	25	Cantón Santa Elena	2401			-2.0215	-80.6692	4
+EC	240108	Simon Bolivar (Julio Moreno)	Santa Elena	25	Cantón Santa Elena	2401			-2.1847	-80.3592	4
+EC	240109	Colonche	Santa Elena	25	Cantón Santa Elena	2401			-2.0215	-80.6692	4
+EC	240110	Colonche	Santa Elena	25	Cantón Santa Elena	2401			-2.0215	-80.6692	4
+EC	240111	Manglaralto	Santa Elena	25	Cantón Santa Elena	2401			-1.8494	-80.745	4
+EC	240112	Manglaralto	Santa Elena	25	Cantón Santa Elena	2401			-1.8494	-80.745	4
+EC	240201	La Libertad	Santa Elena	25	La Libertad	2402			-2.233	-80.9104	4
+EC	240202	La Libertad	Santa Elena	25	La Libertad	2402			-2.233	-80.9104	4
+EC	240203	La Libertad	Santa Elena	25	La Libertad	2402			-2.233	-80.9104	4
+EC	240204	La Libertad	Santa Elena	25	La Libertad	2402			-2.233	-80.9104	4
+EC	240205	Salinas	Santa Elena	25	Cantón Salinas	2403			-2.2145	-80.9515	4
+EC	240206	Salinas	Santa Elena	25	Cantón Salinas	2403			-2.2145	-80.9515	4
+EC	240207	Jose Luis Tamayo (Muey)	Santa Elena	25	Cantón Salinas	2403			-2.2304	-80.9286	4
+EC	240208	Anconcito	Santa Elena	25	Cantón Salinas	2403			-2.3257	-80.8899	4
+EC	230101	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230102	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230103	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230104	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230105	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230106	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230107	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230108	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230109	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230110	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230111	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230112	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230113	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230114	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230115	Alluriquin	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.3205	-78.9948	4
+EC	230116	Alluriquin	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.3205	-78.9948	4
+EC	230117	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230118	Santa Maria Del Toachi	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.6371	-79.2274	4
+EC	230119	El Esfuerzo	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.5836	-79.2325	1
+EC	230120	Luz De America	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.4012	-79.2988	4
+EC	230201	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230202	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230203	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230204	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230205	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230206	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230207	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230208	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230209	Valle Hermoso	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.0829	-79.2769	4
+EC	230210	Puerto Limon	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.2363	-79.3587	1
+EC	230211	Santo Domingo De Los Colorados	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.253	-79.1754	4
+EC	230212	San Jacinto Del Bua	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.1105	-79.2916	1
+EC	230213	San Jacinto Del Bua	Santo Domingo de los Tsáchilas	26	Cantón Santo Domingo de los Colorados	2301			-0.0473	-79.2228	1
+EC	080701	La Concordia	Santo Domingo de los Tsáchilas	26	La Concordia	2302			-0.0122	-79.3741	4
+EC	080702	La Concordia	Santo Domingo de los Tsáchilas	26	La Concordia	2302			-0.0764	-79.4037	4
+EC	080703	La Concordia	Santo Domingo de los Tsáchilas	26	La Concordia	2302			-0.0588	-79.5262	4
+EC	900001	El Piedrero							-2.3748	-79.2673	1
+EC	900002	Manga Del Cura							-0.7851	-79.6408	1
+EC	900003	Manga Del Cura							-0.5947	-79.553	1
+EC	900004	Las Golondrinas							0.3205	-79.2133	4

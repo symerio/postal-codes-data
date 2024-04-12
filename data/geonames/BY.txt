@@ -321,8 +321,8 @@ BY	211485	Малые Дольцы	Vitebsk		Ouchatchi				54.9867	28.386	4
 BY	211486	Косари	Vitebsk		Ouchatchi				55.0241	28.3124	4
 BY	211487	Кубличи	Vitebsk		Ouchatchi				55.1604	28.3417	4
 BY	211488	Селище	Vitebsk		Ouchatchi				55.1989	28.4307	4
-BY	211489	Двор-Плино	Vitebsk		Ouchatchi				55.2094	28.5198	4
 BY	211489	Двор - Плино	Vitebsk		Ouchatchi				55.2094	28.5198	4
+BY	211489	Двор-Плино	Vitebsk		Ouchatchi				55.2094	28.5198	4
 BY	211490	Лутово	Vitebsk		Ouchatchi				55.21	28.6404	4
 BY	211491	Сорочино	Vitebsk		Ouchatchi				55.2036	28.7529	4
 BY	211492	Старое Село	Vitebsk		Ouchatchi				55.1792	28.5003	4
@@ -403,8 +403,8 @@ BY	211653	Экимань	Vitebsk		Polotsk				55.4865	28.723	4
 BY	211654	Фариново	Vitebsk		Polotsk				55.4283	28.5847	4
 BY	211655	Заскорки	Vitebsk		Polotsk				55.3789	28.647	4
 BY	211656	Вороничи	Vitebsk		Polotsk				55.3267	28.6443	4
-BY	211657	Гомель	Vitebsk		Polotsk				55.2987	28.7739	4
 BY	211657	Гомель	Gomel		Gomel				55.2987	28.7739	4
+BY	211657	Гомель	Vitebsk		Polotsk				55.2987	28.7739	4
 BY	211658	Туровля	Vitebsk		Polotsk				55.3655	28.9402	4
 BY	211660	Новая Полота	Vitebsk		Polotsk				55.6045	29.0367	4
 BY	211661	Юровичи	Vitebsk		Polotsk				55.6045	29.0367	1
@@ -2899,8 +2899,8 @@ BY	247525	Сведское	Gomel		Retchitsa				52.543	30.0228	4
 BY	247526	Заречье	Gomel		Retchitsa				52.5399	28.5838	4
 BY	247530	Солтаново	Gomel		Retchitsa				52.3524	30.2367	4
 BY	247533	Лиски	Gomel		Retchitsa				52.3112	30.1011	4
-BY	247534	Бабичи - Пункт Почтовой Связи	Gomel		Retchitsa				52.2895	30.002	3
 BY	247534	Бабичи	Gomel		Retchitsa				52.2895	30.002	4
+BY	247534	Бабичи - Пункт Почтовой Связи	Gomel		Retchitsa				52.2895	30.002	3
 BY	247535	Красная Дуброва	Gomel		Retchitsa				52.2762	30.0826	4
 BY	247537	Васильков	Gomel		Retchitsa				52.3073	30.1056	1
 BY	247540	Пересвятое	Gomel		Retchitsa				52.232	30.1094	1
